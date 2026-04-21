@@ -1,0 +1,329 @@
+<!doctype html>
+<html lang="da">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Danish Football Clubs — Demo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --surface:     #ffffff;
+      --surface-hi:  #f9fafb;
+      --border:      #ebebeb;
+      --text:        #0f0f0f;
+      --text-muted:  #6b7280;
+      --text-faint:  #9ca3af;
+      --radius-sm:   6px;
+      --radius:      10px;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background: #f4f4f5;
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      padding: 48px 16px;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      width: 100%;
+      max-width: 380px;
+      display: flex;
+      flex-direction: column;
+      gap: 28px;
+    }
+
+    h1 {
+      font-size: 15px;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+    }
+
+    .section-label {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--text-faint);
+      margin-bottom: 10px;
+    }
+
+    /* ── Picker ── */
+    .picker-wrap { position: relative; }
+
+    .fbd-picker-input {
+      width: 100%;
+      padding: 8px 12px;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 13px;
+      color: var(--text);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      outline: none;
+      transition: border-color 150ms ease;
+    }
+    .fbd-picker-input::placeholder { color: var(--text-faint); }
+    .fbd-picker-input:focus {
+      outline: 2px solid var(--text);
+      outline-offset: 2px;
+    }
+
+    .fbd-picker-suggestions {
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      overflow: hidden;
+      margin-top: 6px;
+    }
+    .fbd-picker-list {
+      list-style: none;
+      padding: 4px;
+    }
+    .fbd-picker-item {
+      padding: 6px 8px;
+      border-radius: 5px;
+      font-size: 13px;
+      color: var(--text);
+      cursor: pointer;
+      transition: background 100ms ease;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .fbd-picker-item:hover,
+    .fbd-picker-item--active { background: var(--surface-hi); }
+    .fbd-picker-empty {
+      padding: 12px;
+      font-size: 13px;
+      color: var(--text-faint);
+      text-align: center;
+    }
+
+    /* ── Club badge ── */
+    .club-badge {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 9px;
+      font-weight: 700;
+      color: #fff;
+      flex-shrink: 0;
+    }
+    .club-badge img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      border-radius: 50%;
+    }
+
+    /* ── Result card ── */
+    .result {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 12px;
+      background: var(--surface-hi);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+    }
+    .result-badge {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 13px;
+      font-weight: 700;
+      color: #fff;
+      flex-shrink: 0;
+    }
+    .result-badge img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      border-radius: 50%;
+    }
+    .result-info { flex: 1; min-width: 0; }
+    .result-name { font-size: 14px; font-weight: 600; }
+    .result-meta { font-size: 12px; color: var(--text-muted); margin-top: 1px; }
+    .result-region {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--text-faint);
+    }
+
+    .hidden { display: none !important; }
+
+    /* ── DBU section ── */
+    .dbu-row {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+    .dbu-input {
+      flex: 1;
+      padding: 8px 12px;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 13px;
+      color: var(--text);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      outline: none;
+    }
+    .dbu-input:focus {
+      outline: 2px solid var(--text);
+      outline-offset: 2px;
+    }
+    .dbu-result {
+      margin-top: 10px;
+      display: flex;
+      gap: 8px;
+    }
+    .dbu-pill {
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 600;
+      background: var(--surface-hi);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+    }
+    .dbu-pill span { color: var(--text); }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Danish Football Clubs</h1>
+
+    <!-- Club lookup -->
+    <div>
+      <p class="section-label">Klub søgning</p>
+      <div class="picker-wrap">
+        <input id="club-input" class="fbd-picker-input" type="text" placeholder="Skriv klubnavn…" autocomplete="off">
+        <div id="suggestions" class="fbd-picker-suggestions hidden">
+          <ul id="suggestion-list" class="fbd-picker-list"></ul>
+        </div>
+      </div>
+      <div id="club-result" class="result hidden">
+        <div id="result-badge" class="result-badge"></div>
+        <div class="result-info">
+          <div id="result-name" class="result-name"></div>
+          <div id="result-meta" class="result-meta"></div>
+        </div>
+        <div id="result-region" class="result-region"></div>
+      </div>
+    </div>
+
+    <!-- DBU lookup -->
+    <div>
+      <p class="section-label">DBU aldersgruppe</p>
+      <div class="dbu-row">
+        <input id="birth-input" class="dbu-input" type="number" placeholder="Årgang (f.eks. 2014)" min="1990" max="2025">
+      </div>
+      <div id="dbu-result" class="dbu-result hidden">
+        <div class="dbu-pill">Niveau: <span id="dbu-ulevel"></span></div>
+        <div class="dbu-pill">Format: <span id="dbu-format"></span></div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module">
+    import { clubs, getClub, clubBadgeUrl, getULevel, getMatchFormat } from './index.js';
+
+    // ── Club picker ──────────────────────────────────────────────
+
+    const input     = document.getElementById('club-input');
+    const suggBox   = document.getElementById('suggestions');
+    const suggList  = document.getElementById('suggestion-list');
+    const resultEl  = document.getElementById('club-result');
+    const badgeEl   = document.getElementById('result-badge');
+    const nameEl    = document.getElementById('result-name');
+    const metaEl    = document.getElementById('result-meta');
+    const regionEl  = document.getElementById('result-region');
+
+    function badge(club) {
+      const src = club.logo ?? clubBadgeUrl(club.name);
+      return `<img src="${src}" alt="${club.name}">`;
+    }
+
+    function showClub(club) {
+      badgeEl.style.background = club.color;
+      badgeEl.innerHTML = badge(club);
+      nameEl.textContent = club.name;
+      metaEl.textContent = `${club.city} · ${club.postal}`;
+      regionEl.textContent = club.region || '';
+      resultEl.classList.remove('hidden');
+    }
+
+    function renderSuggestions(query) {
+      const q = query.trim().toLowerCase();
+      if (!q) { suggBox.classList.add('hidden'); return; }
+
+      const matches = clubs.filter(c => c.name.toLowerCase().includes(q));
+      suggList.innerHTML = '';
+
+      if (matches.length === 0) {
+        suggList.innerHTML = '<li class="fbd-picker-empty">Ingen klubber fundet</li>';
+      } else {
+        matches.forEach(club => {
+          const li = document.createElement('li');
+          li.className = 'fbd-picker-item';
+          const b = document.createElement('div');
+          b.className = 'club-badge';
+          b.style.background = club.color;
+          b.innerHTML = badge(club);
+          li.appendChild(b);
+          li.appendChild(document.createTextNode(club.name));
+          li.addEventListener('mousedown', e => {
+            e.preventDefault();
+            input.value = club.name;
+            suggBox.classList.add('hidden');
+            showClub(club);
+          });
+          suggList.appendChild(li);
+        });
+      }
+      suggBox.classList.remove('hidden');
+    }
+
+    input.addEventListener('input', () => renderSuggestions(input.value));
+    input.addEventListener('blur', () => setTimeout(() => suggBox.classList.add('hidden'), 150));
+    input.addEventListener('focus', () => { if (input.value) renderSuggestions(input.value); });
+
+    // ── DBU lookup ───────────────────────────────────────────────
+
+    const birthInput = document.getElementById('birth-input');
+    const dbuResult  = document.getElementById('dbu-result');
+    const dbuUlevel  = document.getElementById('dbu-ulevel');
+    const dbuFormat  = document.getElementById('dbu-format');
+
+    birthInput.addEventListener('input', () => {
+      const year = parseInt(birthInput.value, 10);
+      if (year >= 1990 && year <= new Date().getFullYear()) {
+        dbuUlevel.textContent = getULevel(year);
+        dbuFormat.textContent = getMatchFormat(year);
+        dbuResult.classList.remove('hidden');
+      } else {
+        dbuResult.classList.add('hidden');
+      }
+    });
+  </script>
+</body>
+</html>

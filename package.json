@@ -1,0 +1,23 @@
+{
+  "name": "danish-football-clubs",
+  "version": "1.0.0",
+  "description": "Club data and DBU utilities for Danish youth football",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./global": "./global.js"
+  },
+  "files": ["index.js", "global.js", "assets"],
+  "keywords": ["danish", "football", "dbu", "clubs"],
+  "license": "MIT",
+  "scripts": {
+    "scrape": "node scripts/scrapeClubs.js",
+    "build":  "node scripts/buildIndex.js",
+    "figma":  "node scripts/buildFigmaPlugin.js",
+    "logos":  "node scripts/mergeLogos.js && node scripts/buildIndex.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.44.0"
+  }
+}

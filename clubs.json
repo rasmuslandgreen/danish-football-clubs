@@ -1,0 +1,6266 @@
+[
+  {
+    "name": "AB",
+    "postal": "2860",
+    "city": "Søborg",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3711,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "AB Tårnby",
+    "postal": "2770",
+    "city": "Kastrup",
+    "union": "DBU København",
+    "dbuId": 1537,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Abild IF",
+    "postal": "6270",
+    "city": "Tønder",
+    "union": "DBU Jylland",
+    "dbuId": 1728,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "AC Horsens",
+    "postal": "8700",
+    "city": "Horsens",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3715,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "AC Iben",
+    "postal": "2200",
+    "city": "København N",
+    "union": "DBU København",
+    "dbuId": 3128,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Adventure Efterskole",
+    "postal": "6310",
+    "city": "Broager",
+    "union": "DBU Jylland",
+    "dbuId": 2739,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Agedrup-Bullerup Boldklub",
+    "postal": "5320",
+    "city": "Agedrup",
+    "union": "DBU Fyn",
+    "dbuId": 2101,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "AGF",
+    "postal": "8000",
+    "city": "Aarhus C",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3699,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Ahi International School",
+    "postal": "2720",
+    "city": "Vanløse",
+    "union": "DBU København",
+    "dbuId": 3449,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "AIK 65 Strøby Fodbold",
+    "postal": "4671",
+    "city": "Strøby",
+    "union": "DBU Sjælland",
+    "dbuId": 1251,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Allested U & IF",
+    "postal": "5672",
+    "city": "Broby",
+    "union": "DBU Fyn",
+    "dbuId": 1356,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Allesø GF",
+    "postal": "5270",
+    "city": "Odense N",
+    "union": "DBU Fyn",
+    "dbuId": 1357,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Allinge-Sandvig G.F.",
+    "postal": "3770",
+    "city": "Allinge",
+    "union": "DBU Bornholm",
+    "dbuId": 1671,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "Amager Fodbold Forening",
+    "postal": "2770",
+    "city": "Kastrup",
+    "union": "DBU København",
+    "dbuId": 1538,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Amager International School",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 3772,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Ammitsbøl/Egtved",
+    "postal": "6040",
+    "city": "Egtved",
+    "union": "DBU Jylland",
+    "dbuId": 3276,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Arctos",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 3237,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Aros FC",
+    "postal": "8260",
+    "city": "Viby J",
+    "union": "DBU Jylland",
+    "dbuId": 3389,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Arrild Idrætsforening",
+    "postal": "6520",
+    "city": "Toftlund",
+    "union": "DBU Jylland",
+    "dbuId": 3423,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Artium, Brande",
+    "postal": "7330",
+    "city": "Brande",
+    "union": "DBU Jylland",
+    "dbuId": 2868,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Assens FC",
+    "postal": "5610",
+    "city": "Assens",
+    "union": "DBU Fyn",
+    "dbuId": 1358,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Aunslev IF",
+    "postal": "5800",
+    "city": "Nyborg",
+    "union": "DBU Fyn",
+    "dbuId": 1359,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Avarta",
+    "postal": "2610",
+    "city": "Rødovre",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3720,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "B 1908",
+    "postal": "2300",
+    "city": "København S",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3721,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "B 1909",
+    "postal": "5240",
+    "city": "Odense Nø",
+    "union": "DBU Fyn",
+    "dbuId": 1364,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "B 1938",
+    "postal": "4872",
+    "city": "Idestrup",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1637,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "B 1990",
+    "postal": "4880",
+    "city": "Nysted",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1649,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "B 65 OB",
+    "postal": "8983",
+    "city": "Gjerlev J",
+    "union": "DBU Jylland",
+    "dbuId": 3394,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "B 67",
+    "postal": "5220",
+    "city": "Odense Sø",
+    "union": "DBU Fyn",
+    "dbuId": 1366,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "B 93",
+    "postal": "2100",
+    "city": "København Ø",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3722,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "B Chang",
+    "postal": "5000",
+    "city": "Odense C",
+    "union": "DBU Fyn",
+    "dbuId": 1367,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "B. 73, Slagelse",
+    "postal": "4200",
+    "city": "Slagelse",
+    "union": "DBU Sjælland",
+    "dbuId": 1227,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "B. 77, Rødovre",
+    "postal": "2610",
+    "city": "Rødovre",
+    "union": "DBU Sjælland",
+    "dbuId": 1202,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "B. 82, Virum",
+    "postal": "2830",
+    "city": "Virum",
+    "union": "DBU Sjælland",
+    "dbuId": 1312,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "B. Frem",
+    "postal": "4990",
+    "city": "Sakskøbing",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1654,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "B1913",
+    "postal": "5230",
+    "city": "Odense M",
+    "union": "DBU Fyn",
+    "dbuId": 1365,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Balle Musik- og Idrætsefterskole",
+    "postal": "7182",
+    "city": "Bredsten",
+    "union": "DBU Jylland",
+    "dbuId": 1923,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Ballerup Boldklub",
+    "postal": "2750",
+    "city": "Ballerup",
+    "union": "DBU Sjælland",
+    "dbuId": 3921,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Ballerup-Skovlunde Fodbold",
+    "postal": "2750",
+    "city": "Ballerup",
+    "union": "DBU Sjælland",
+    "dbuId": 2131,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Beboerprojekt Bispebjerg",
+    "postal": "2400",
+    "city": "København NV",
+    "union": "DBU København",
+    "dbuId": 3758,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "BGI Akademiet",
+    "postal": "8783",
+    "city": "Hornsyld",
+    "union": "DBU Jylland",
+    "dbuId": 1924,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Billum IF",
+    "postal": "6852",
+    "city": "Billum",
+    "union": "DBU Jylland",
+    "dbuId": 3688,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Birkende BK",
+    "postal": "5550",
+    "city": "Langeskov",
+    "union": "DBU Fyn",
+    "dbuId": 1361,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Birket Boldklub",
+    "postal": "4943",
+    "city": "Torrig L",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1624,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Bispebjerg Boldklub",
+    "postal": "2400",
+    "city": "København NV",
+    "union": "DBU København",
+    "dbuId": 1542,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Bjergsnæs Efterskole",
+    "postal": "8800",
+    "city": "Viborg",
+    "union": "DBU Jylland",
+    "dbuId": 3764,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Bjørns International School",
+    "postal": "2100",
+    "city": "København Ø",
+    "union": "DBU København",
+    "dbuId": 2215,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "BK 10",
+    "postal": "2450",
+    "city": "København SV",
+    "union": "DBU København",
+    "dbuId": 2149,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "BK 96, Solrød",
+    "postal": "2680",
+    "city": "Solrød Strand",
+    "union": "DBU Sjælland",
+    "dbuId": 1237,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "BK Frem",
+    "postal": "2450",
+    "city": "København SV",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3742,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "BK Posten",
+    "postal": "5000",
+    "city": "Odense C",
+    "union": "DBU Fyn",
+    "dbuId": 1470,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "BK Stjernen af 1968",
+    "postal": "5700",
+    "city": "Svendborg",
+    "union": "DBU Fyn",
+    "dbuId": 1493,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "BK Vest, Rødovre",
+    "postal": "2610",
+    "city": "Rødovre",
+    "union": "DBU Sjælland",
+    "dbuId": 1304,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "BK Vestfyn",
+    "postal": "5610",
+    "city": "Assens",
+    "union": "DBU Fyn",
+    "dbuId": 1369,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "BK-06 Esbjerg",
+    "postal": "6705",
+    "city": "Esbjerg Ø",
+    "union": "DBU Jylland",
+    "dbuId": 1866,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "BK2020",
+    "postal": "5200",
+    "city": "Odense V",
+    "union": "DBU Fyn",
+    "dbuId": 1486,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Blidstrup Efterskole",
+    "postal": "7990",
+    "city": "Øster Assels",
+    "union": "DBU Jylland",
+    "dbuId": 3005,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Blåhøj IF",
+    "postal": "7330",
+    "city": "Brande",
+    "union": "DBU Jylland",
+    "dbuId": 1714,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Blåkilde Efterskole",
+    "postal": "6880",
+    "city": "Tarm",
+    "union": "DBU Jylland",
+    "dbuId": 2167,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Bogense G & IF",
+    "postal": "5400",
+    "city": "Bogense",
+    "union": "DBU Fyn",
+    "dbuId": 1362,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Bogø IF",
+    "postal": "4793",
+    "city": "Bogø By",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1625,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Bolbro GIF",
+    "postal": "5000",
+    "city": "Odense C",
+    "union": "DBU Fyn",
+    "dbuId": 1363,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben 1903",
+    "postal": "2900",
+    "city": "Hellerup",
+    "union": "DBU København",
+    "dbuId": 1533,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben 1908",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 1534,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben 1960",
+    "postal": "2400",
+    "city": "København NV",
+    "union": "DBU København",
+    "dbuId": 1536,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben af 1893",
+    "postal": "2100",
+    "city": "København Ø",
+    "union": "DBU København",
+    "dbuId": 1532,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Amalie",
+    "postal": "2300",
+    "city": "København",
+    "union": "DBU København",
+    "dbuId": 1540,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Døvania",
+    "postal": "2200",
+    "city": "København N",
+    "union": "DBU København",
+    "dbuId": 1603,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Enghaven",
+    "postal": "5250",
+    "city": "Odense Sv",
+    "union": "DBU Fyn",
+    "dbuId": 3161,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Fix",
+    "postal": "2700",
+    "city": "Brønshøj",
+    "union": "DBU København",
+    "dbuId": 1599,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Frem",
+    "postal": "2450",
+    "city": "København SV",
+    "union": "DBU København",
+    "dbuId": 1552,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Fremad Amager",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 1553,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Fremad Valby",
+    "postal": "2450",
+    "city": "København SV",
+    "union": "DBU København",
+    "dbuId": 1554,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Heimdal",
+    "postal": "2100",
+    "city": "København Ø",
+    "union": "DBU København",
+    "dbuId": 1559,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Hekla",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 1560,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Marienlyst",
+    "postal": "5000",
+    "city": "Odense C",
+    "union": "DBU Fyn",
+    "dbuId": 1444,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Olympia 1921",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 1572,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Pioneren",
+    "postal": "2500",
+    "city": "Valby",
+    "union": "DBU København",
+    "dbuId": 1573,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Rødovre",
+    "postal": "2610",
+    "city": "Rødovre",
+    "union": "DBU København",
+    "dbuId": 1578,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Skjold",
+    "postal": "2100",
+    "city": "København Ø",
+    "union": "DBU København",
+    "dbuId": 1581,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Stefan",
+    "postal": "2400",
+    "city": "København NV",
+    "union": "DBU København",
+    "dbuId": 1582,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Sundby KFUM",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 1584,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Union",
+    "postal": "2400",
+    "city": "København NV",
+    "union": "DBU København",
+    "dbuId": 1586,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Vestia",
+    "postal": "2450",
+    "city": "København SV",
+    "union": "DBU København",
+    "dbuId": 1590,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Viktoria",
+    "postal": "2100",
+    "city": "København Ø",
+    "union": "DBU København",
+    "dbuId": 1592,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben VLI",
+    "postal": "2000",
+    "city": "Frederiksberg",
+    "union": "DBU København",
+    "dbuId": 1593,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boldklubben Volvox",
+    "postal": "2200",
+    "city": "København N",
+    "union": "DBU København",
+    "dbuId": 1594,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Boreas",
+    "postal": "8380",
+    "city": "Trige",
+    "union": "DBU Jylland",
+    "dbuId": 3131,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Bork Havn Efterskole",
+    "postal": "6893",
+    "city": "Hemmet",
+    "union": "DBU Jylland",
+    "dbuId": 3444,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Brabrand IF",
+    "postal": "8220",
+    "city": "Brabrand",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3744,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Bramming Firmaidræt",
+    "postal": "6740",
+    "city": "Bramming",
+    "union": "DBU Jylland",
+    "dbuId": 3338,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Bramming Gymnastik- og Idrætsefterskole",
+    "postal": "6740",
+    "city": "Bramming",
+    "union": "DBU Jylland",
+    "dbuId": 2063,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Branderslev IF",
+    "postal": "4900",
+    "city": "Nakskov",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1626,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Brejning Efterskole",
+    "postal": "7080",
+    "city": "Børkop",
+    "union": "DBU Jylland",
+    "dbuId": 2813,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Brejninggaard Efterskole",
+    "postal": "6971",
+    "city": "Spjald",
+    "union": "DBU Jylland",
+    "dbuId": 2068,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Brenderup IF",
+    "postal": "5464",
+    "city": "Brenderup Fyn",
+    "union": "DBU Fyn",
+    "dbuId": 1370,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Broby Sportsefterskole",
+    "postal": "5672",
+    "city": "Broby",
+    "union": "DBU Fyn",
+    "dbuId": 2652,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Brylle BK",
+    "postal": "5690",
+    "city": "Tommerup",
+    "union": "DBU Fyn",
+    "dbuId": 1372,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Brøderup Efterskole",
+    "postal": "4733",
+    "city": "Tappernøje",
+    "union": "DBU Sjælland",
+    "dbuId": 3468,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Brøndby",
+    "postal": "2605",
+    "city": "Brøndby",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3700,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Brønshøj",
+    "postal": "2700",
+    "city": "Brønshøj",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3712,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Brønshøj Boldklub",
+    "postal": "2700",
+    "city": "Brønshøj",
+    "union": "DBU København",
+    "dbuId": 1543,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Brøruphus Efterskole",
+    "postal": "8660",
+    "city": "Skanderborg",
+    "union": "DBU Jylland",
+    "dbuId": 1943,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Bråskovgård Efterskole",
+    "postal": "8783",
+    "city": "Hornsyld",
+    "union": "DBU Jylland",
+    "dbuId": 3112,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "BUF Horsens",
+    "postal": "8700",
+    "city": "Horsens",
+    "union": "DBU Jylland",
+    "dbuId": 2154,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Børneuniversitetet",
+    "postal": "1665",
+    "city": "København V",
+    "union": "DBU København",
+    "dbuId": 2230,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Bøvling Idrætsefterskole",
+    "postal": "7650",
+    "city": "Bøvlingbjerg",
+    "union": "DBU Jylland",
+    "dbuId": 1939,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Båring GF",
+    "postal": "5466",
+    "city": "Asperup",
+    "union": "DBU Fyn",
+    "dbuId": 1376,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Campus Vejle",
+    "postal": "7100",
+    "city": "Vejle",
+    "union": "DBU Jylland",
+    "dbuId": 3880,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "CBS Sport",
+    "postal": "2000",
+    "city": "Frederiksberg",
+    "union": "DBU København",
+    "dbuId": 1602,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Center for Høretab",
+    "postal": "7000",
+    "city": "Fredericia",
+    "union": "DBU Jylland",
+    "dbuId": 2827,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Charlotteager Fodbold Klub",
+    "postal": "2640",
+    "city": "Hedehusene",
+    "union": "DBU Sjælland",
+    "dbuId": 3694,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Christiania Sports Club",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 1545,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Christianshavns Idræts Klub",
+    "postal": "1407",
+    "city": "København K",
+    "union": "DBU København",
+    "dbuId": 1544,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Copenhagen Celtic",
+    "postal": "2450",
+    "city": "København SV",
+    "union": "DBU København",
+    "dbuId": 3125,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Copenhagen City School",
+    "postal": "1610",
+    "city": "København V",
+    "union": "DBU København",
+    "dbuId": 3876,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "DAI - Fodbold",
+    "postal": "2100",
+    "city": "København Ø",
+    "union": "DBU København",
+    "dbuId": 2099,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Dalby IF",
+    "postal": "5380",
+    "city": "Dalby",
+    "union": "DBU Fyn",
+    "dbuId": 1377,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Dalum IF",
+    "postal": "5250",
+    "city": "Odense Sv",
+    "union": "DBU Fyn",
+    "dbuId": 1378,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Dana Cup Sports Center",
+    "postal": "9800",
+    "city": "Hjørring",
+    "union": "DBU Jylland",
+    "dbuId": 3837,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Dansk Træner Union",
+    "postal": "2650",
+    "city": "Hvidovre",
+    "union": "DBU København",
+    "dbuId": 3146,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Dejbjerglund Efterskole",
+    "postal": "6900",
+    "city": "Skjern",
+    "union": "DBU Jylland",
+    "dbuId": 1940,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Den Danske Husflidsefterskole",
+    "postal": "6900",
+    "city": "Skjern",
+    "union": "DBU Jylland",
+    "dbuId": 2114,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Den Danske Husflidsefterskole (Dhe)",
+    "postal": "6900",
+    "city": "Skjern",
+    "union": "DBU Jylland",
+    "dbuId": 2885,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Deportivo Cobayas",
+    "postal": "2500",
+    "city": "Valby",
+    "union": "DBU København",
+    "dbuId": 3362,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Design- & Idrætsefterskolen Skamling",
+    "postal": "6093",
+    "city": "Sjølund",
+    "union": "DBU Jylland",
+    "dbuId": 1949,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Det Kgl. Vajsenhus",
+    "postal": "1364",
+    "city": "København K",
+    "union": "DBU København",
+    "dbuId": 2206,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Deutsche Nachschule Tingleff",
+    "postal": "6360",
+    "city": "Tinglev",
+    "union": "DBU Jylland",
+    "dbuId": 2771,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "DGF Flensborg",
+    "postal": "4939",
+    "city": "Flensborg",
+    "union": "DBU Jylland",
+    "dbuId": 1903,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "DGI Midtjylland",
+    "postal": "8600",
+    "city": "Silkeborg",
+    "union": "DBU Jylland",
+    "dbuId": 3336,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "DGI Nordvest",
+    "postal": "9000",
+    "city": "Aalborg",
+    "union": "DBU Jylland",
+    "dbuId": 3355,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "DGI Sydvest",
+    "postal": "6753",
+    "city": "Agerbæk",
+    "union": "DBU Jylland",
+    "dbuId": 3341,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Djursland Fodbolddommerklub",
+    "postal": "8250",
+    "city": "Egå",
+    "union": "DBU Jylland",
+    "dbuId": 3288,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Djurslands Efterskole",
+    "postal": "8585",
+    "city": "Glesborg",
+    "union": "DBU Jylland",
+    "dbuId": 1999,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Dover GF",
+    "postal": "8660",
+    "city": "Skanderborg",
+    "union": "DBU Jylland",
+    "dbuId": 1888,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Dragør Boldklub",
+    "postal": "2791",
+    "city": "Dragør",
+    "union": "DBU København",
+    "dbuId": 1548,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Drigstrup BK",
+    "postal": "5300",
+    "city": "Kerteminde",
+    "union": "DBU Fyn",
+    "dbuId": 1381,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Dronningborg Oldboys",
+    "postal": "8920",
+    "city": "Randers NV",
+    "union": "DBU Jylland",
+    "dbuId": 3238,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Døllefjelde Musse IF",
+    "postal": "4880",
+    "city": "Nysted",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1627,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Ebberup IF",
+    "postal": "5631",
+    "city": "Ebberup",
+    "union": "DBU Fyn",
+    "dbuId": 1383,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Efterskolen Solgården",
+    "postal": "6880",
+    "city": "Tarm",
+    "union": "DBU Jylland",
+    "dbuId": 2869,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Efterskolen Ådalen",
+    "postal": "8362",
+    "city": "Hørning",
+    "union": "DBU Jylland",
+    "dbuId": 3759,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Egebjerg Fodbold",
+    "postal": "5762",
+    "city": "Vester Skerninge",
+    "union": "DBU Fyn",
+    "dbuId": 1384,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Egmont Rollators FC",
+    "postal": "8000",
+    "city": "Aarhus C",
+    "union": "DBU Jylland",
+    "dbuId": 1747,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Ejby IK",
+    "postal": "5592",
+    "city": "Ejby",
+    "union": "DBU Fyn",
+    "dbuId": 1386,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Elbæk Efterskole",
+    "postal": "8700",
+    "city": "Horsens",
+    "union": "DBU Jylland",
+    "dbuId": 1947,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Elite Bornholm",
+    "postal": "3700",
+    "city": "Rønne",
+    "union": "DBU Bornholm",
+    "dbuId": 2126,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "Errindlev G & I",
+    "postal": "4895",
+    "city": "Errindlev",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1628,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Esbjerg",
+    "postal": "6700",
+    "city": "Esbjerg",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3701,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Esbjerg Firmaidræt",
+    "postal": "6705",
+    "city": "Esbjerg Ø",
+    "union": "DBU Jylland",
+    "dbuId": 3337,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Eskilstrup BK",
+    "postal": "4863",
+    "city": "Eskilstrup",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1629,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "EUC Nordvest",
+    "postal": "7700",
+    "city": "Thisted",
+    "union": "DBU Jylland",
+    "dbuId": 3340,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "F.C. Gladsaxe",
+    "postal": "2880",
+    "city": "Bagsværd",
+    "union": "DBU Sjælland",
+    "dbuId": 1316,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "F.C. Lange Bolde",
+    "postal": "5200",
+    "city": "Odense V",
+    "union": "DBU Fyn",
+    "dbuId": 3367,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "F.C. Vesterbro",
+    "postal": "9400",
+    "city": "Nørresundby",
+    "union": "DBU Jylland",
+    "dbuId": 3937,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "FA 2000",
+    "postal": "2000",
+    "city": "Frederiksberg",
+    "union": "DBU København",
+    "dbuId": 1546,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Faldsled/Svanninge SG & IF",
+    "postal": "5642",
+    "city": "Millinge",
+    "union": "DBU Fyn",
+    "dbuId": 1392,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Farsø Efterskole",
+    "postal": "9640",
+    "city": "Farsø",
+    "union": "DBU Jylland",
+    "dbuId": 3443,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "FC Avrasya",
+    "postal": "5000",
+    "city": "Odense C",
+    "union": "DBU Fyn",
+    "dbuId": 1511,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "FC Bedem",
+    "postal": "7100",
+    "city": "Vejle",
+    "union": "DBU Jylland",
+    "dbuId": 1854,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "FC BiH Odense",
+    "postal": "5220",
+    "city": "Odense Sø",
+    "union": "DBU Fyn",
+    "dbuId": 1893,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "FC Broby",
+    "postal": "5672",
+    "city": "Broby",
+    "union": "DBU Fyn",
+    "dbuId": 1451,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "FC Bøgeskov",
+    "postal": "8260",
+    "city": "Viby J",
+    "union": "DBU Jylland",
+    "dbuId": 3951,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "FC Campus",
+    "postal": "5230",
+    "city": "Odense M",
+    "union": "DBU Fyn",
+    "dbuId": 1388,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "FC Culpa",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 1607,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "FC Damsø",
+    "postal": "2720",
+    "city": "Vanløse",
+    "union": "DBU København",
+    "dbuId": 1547,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "FC Fredericia",
+    "postal": "7000",
+    "city": "Fredericia",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3713,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "FC Faaborg",
+    "postal": "5600",
+    "city": "Faaborg",
+    "union": "DBU Fyn",
+    "dbuId": 1399,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "FC Galaksi",
+    "postal": "2990",
+    "city": "Nivå",
+    "union": "DBU Sjælland",
+    "dbuId": 3826,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "FC Glesborg",
+    "postal": "8585",
+    "city": "Glesborg",
+    "union": "DBU Jylland",
+    "dbuId": 3868,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "FC Helsingør",
+    "postal": "3000",
+    "city": "Helsingør",
+    "union": "DBU Sjælland",
+    "dbuId": 1781,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "FC Helsingør",
+    "postal": "3000",
+    "city": "Helsingør",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3745,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "FC Hjallese",
+    "postal": "5000",
+    "city": "Odense C",
+    "union": "DBU Fyn",
+    "dbuId": 1389,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "FC Holte",
+    "postal": "2840",
+    "city": "Holte",
+    "union": "DBU Sjælland",
+    "dbuId": 1764,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "FC Hornstrup",
+    "postal": "7100",
+    "city": "Vejle",
+    "union": "DBU Jylland",
+    "dbuId": 3861,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "FC Ishøj",
+    "postal": "2635",
+    "city": "Ishøj",
+    "union": "DBU Sjælland",
+    "dbuId": 1878,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "FC Knöedel",
+    "postal": "2450",
+    "city": "København SV",
+    "union": "DBU København",
+    "dbuId": 3173,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "FC Kurant",
+    "postal": "5700",
+    "city": "Svendborg",
+    "union": "DBU Fyn",
+    "dbuId": 1436,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "FC København",
+    "postal": "2100",
+    "city": "København Ø",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3710,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "FC Lejre",
+    "postal": "4320",
+    "city": "Lejre",
+    "union": "DBU Sjælland",
+    "dbuId": 3422,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "FC Midtjylland",
+    "postal": "7400",
+    "city": "Herning",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3705,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "FC Nakskov",
+    "postal": "4900",
+    "city": "Nakskov",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 3851,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "FC Nanoq",
+    "postal": "1152",
+    "city": "København K",
+    "union": "DBU København",
+    "dbuId": 1759,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "FC Nordsjælland",
+    "postal": "3520",
+    "city": "Farum",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3702,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "FC Nyhavn",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 1611,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "FC Odense",
+    "postal": "5250",
+    "city": "Odense Sv",
+    "union": "DBU Fyn",
+    "dbuId": 1390,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "FC Olympiakos København",
+    "postal": "2450",
+    "city": "København SV",
+    "union": "DBU København",
+    "dbuId": 3169,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "FC Roskilde",
+    "postal": "4000",
+    "city": "Roskilde",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3731,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "FC Ryparken",
+    "postal": "2100",
+    "city": "København Ø",
+    "union": "DBU København",
+    "dbuId": 1535,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "FC SevenOaks",
+    "postal": "7100",
+    "city": "Vejle",
+    "union": "DBU Jylland",
+    "dbuId": 2143,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "FC Soccersisters",
+    "postal": "2200",
+    "city": "København N",
+    "union": "DBU København",
+    "dbuId": 3928,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "FC Stalden",
+    "postal": "6705",
+    "city": "Esbjerg Ø",
+    "union": "DBU Jylland",
+    "dbuId": 1713,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "FC Storebælt",
+    "postal": "4220",
+    "city": "Korsør",
+    "union": "DBU Sjælland",
+    "dbuId": 2031,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "FC Sydfyn",
+    "postal": "5700",
+    "city": "Svendborg",
+    "union": "DBU Fyn",
+    "dbuId": 1393,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "FC Sydvest 05 Tønder",
+    "postal": "6270",
+    "city": "Tønder",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3750,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "FC Udfordringen",
+    "postal": "1173",
+    "city": "København K",
+    "union": "DBU København",
+    "dbuId": 1755,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "FC Udvikling",
+    "postal": "4000",
+    "city": "Roskilde",
+    "union": "DBU Sjælland",
+    "dbuId": 3364,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "FC Ypsilon",
+    "postal": "2630",
+    "city": "Taastrup",
+    "union": "DBU Sjælland",
+    "dbuId": 1318,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "FC Åben Modus",
+    "postal": "8200",
+    "city": "Aarhus N",
+    "union": "DBU Jylland",
+    "dbuId": 2043,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "FF Klettar",
+    "postal": "8200",
+    "city": "Aarhus N",
+    "union": "DBU Jylland",
+    "dbuId": 3381,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Fiktiv",
+    "postal": "4000",
+    "city": "Roskilde",
+    "union": "DBU Sjælland",
+    "dbuId": 1779,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "FIUK, Odense",
+    "postal": "5240",
+    "city": "Odense Nø",
+    "union": "DBU Fyn",
+    "dbuId": 3155,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Fjelsted/Harndrup IF",
+    "postal": "5463",
+    "city": "Harndrup",
+    "union": "DBU Fyn",
+    "dbuId": 1394,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Fjordager IF",
+    "postal": "5240",
+    "city": "Odense Nø",
+    "union": "DBU Fyn",
+    "dbuId": 1395,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "FK Odsherred",
+    "postal": "4560",
+    "city": "Vig",
+    "union": "DBU Sjælland",
+    "dbuId": 2082,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "FK Sydsjælland 05",
+    "postal": "4700",
+    "city": "Næstved",
+    "union": "DBU Sjælland",
+    "dbuId": 1750,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "FK Utopia",
+    "postal": "5000",
+    "city": "Odense C",
+    "union": "DBU Fyn",
+    "dbuId": 1516,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Flamengo Garrinchas",
+    "postal": "8210",
+    "city": "Aarhus V",
+    "union": "DBU Jylland",
+    "dbuId": 3325,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Flemløse BK",
+    "postal": "5620",
+    "city": "Glamsbjerg",
+    "union": "DBU Fyn",
+    "dbuId": 1396,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Flemming Efterskole",
+    "postal": "8762",
+    "city": "Flemming",
+    "union": "DBU Jylland",
+    "dbuId": 1699,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "FodboldHoldet Herning",
+    "postal": "7400",
+    "city": "Herning",
+    "union": "DBU Jylland",
+    "dbuId": 3839,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Fodboldklubben Prespa",
+    "postal": "2720",
+    "city": "Vanløse",
+    "union": "DBU København",
+    "dbuId": 1576,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Fodboldklubben Sorø Freja",
+    "postal": "4180",
+    "city": "Sorø",
+    "union": "DBU Sjælland",
+    "dbuId": 1240,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Football Festival Denmark",
+    "postal": "8310",
+    "city": "Tranbjerg J",
+    "union": "DBU Jylland",
+    "dbuId": 2168,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Fortuna 74",
+    "postal": "8200",
+    "city": "Aarhus N",
+    "union": "DBU Jylland",
+    "dbuId": 3132,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Fortuna Hjørring",
+    "postal": "9800",
+    "city": "Hjørring",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3738,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Fortuna Svendborg",
+    "postal": "5700",
+    "city": "Svendborg",
+    "union": "DBU Fyn",
+    "dbuId": 3162,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Fr.holm Sydhavnen",
+    "postal": "2450",
+    "city": "København SV",
+    "union": "DBU København",
+    "dbuId": 1609,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Fraugde G & IF",
+    "postal": "5220",
+    "city": "Odense Sø",
+    "union": "DBU Fyn",
+    "dbuId": 1397,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Frederiksberg Boldklub",
+    "postal": "2000",
+    "city": "Frederiksberg",
+    "union": "DBU København",
+    "dbuId": 1549,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Frederiksborg Amts",
+    "postal": "2980",
+    "city": "Kokkedal",
+    "union": "DBU Sjælland",
+    "dbuId": 2078,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Frederiksværk Fodbold Klub",
+    "postal": "3300",
+    "city": "Frederiksværk",
+    "union": "DBU Sjælland",
+    "dbuId": 1749,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Freja’s Old Boys",
+    "postal": "8920",
+    "city": "Randers NV",
+    "union": "DBU Jylland",
+    "dbuId": 3252,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Fremad Amager Elite",
+    "postal": "2300",
+    "city": "København S",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3743,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Fremad Forsing",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 3831,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Frydensberg Efterskole",
+    "postal": "9550",
+    "city": "Mariager",
+    "union": "DBU Jylland",
+    "dbuId": 2916,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Frøstruphave Efterskole",
+    "postal": "6830",
+    "city": "Nørre Nebel",
+    "union": "DBU Jylland",
+    "dbuId": 3445,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Fuglsang IF",
+    "postal": "6705",
+    "city": "Esbjerg Ø",
+    "union": "DBU Jylland",
+    "dbuId": 3684,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Futsal Club Fjordbold",
+    "postal": "3630",
+    "city": "Jægerspris",
+    "union": "DBU Sjælland",
+    "dbuId": 3419,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Galtrup Efterskole",
+    "postal": "7950",
+    "city": "Erslev",
+    "union": "DBU Jylland",
+    "dbuId": 2083,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Gelsted G & IF",
+    "postal": "5591",
+    "city": "Gelsted",
+    "union": "DBU Fyn",
+    "dbuId": 1400,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Gentofte Fodboldklub",
+    "postal": "2820",
+    "city": "Gentofte",
+    "union": "DBU København",
+    "dbuId": 1555,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Gentofte-Vangede Idrætsforening",
+    "postal": "2820",
+    "city": "Gentofte",
+    "union": "DBU København",
+    "dbuId": 1556,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Giovani Hajduk",
+    "postal": "2400",
+    "city": "København NV",
+    "union": "DBU København",
+    "dbuId": 2035,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Gislev IF",
+    "postal": "5854",
+    "city": "Gislev",
+    "union": "DBU Fyn",
+    "dbuId": 1401,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Glamsbjerg IF",
+    "postal": "5620",
+    "city": "Glamsbjerg",
+    "union": "DBU Fyn",
+    "dbuId": 1402,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Glejbjerg Firmaidræt",
+    "postal": "6752",
+    "city": "Glejbjerg",
+    "union": "DBU Jylland",
+    "dbuId": 3352,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Glostrup FK - IF 32",
+    "postal": "2600",
+    "city": "Glostrup",
+    "union": "DBU Sjælland",
+    "dbuId": 1712,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Glumsø",
+    "postal": "4171",
+    "city": "Glumsø",
+    "union": "DBU Sjælland",
+    "dbuId": 2119,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Gram Efterskole",
+    "postal": "6510",
+    "city": "Gram",
+    "union": "DBU Jylland",
+    "dbuId": 2086,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Grasshopperne",
+    "postal": "8870",
+    "city": "Langå",
+    "union": "DBU Jylland",
+    "dbuId": 3245,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Grejsdalens Efterskole",
+    "postal": "7100",
+    "city": "Vejle",
+    "union": "DBU Jylland",
+    "dbuId": 2866,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Gudenaadalens Efterskole",
+    "postal": "8860",
+    "city": "Ulstrup",
+    "union": "DBU Jylland",
+    "dbuId": 2017,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Guldborg IF",
+    "postal": "4862",
+    "city": "Guldborg",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1631,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Gylling Efterskole",
+    "postal": "8300",
+    "city": "Odder",
+    "union": "DBU Jylland",
+    "dbuId": 2065,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Gødvad Efterskole",
+    "postal": "8600",
+    "city": "Silkeborg",
+    "union": "DBU Jylland",
+    "dbuId": 3768,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Gørlev Idrætsefterskole",
+    "postal": "4281",
+    "city": "Gørlev",
+    "union": "DBU Sjælland",
+    "dbuId": 1351,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Hald Ege Efterskole",
+    "postal": "8800",
+    "city": "Viborg",
+    "union": "DBU Jylland",
+    "dbuId": 1934,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Halstedhus Efterskole",
+    "postal": "4900",
+    "city": "Nakskov",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 2600,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Halstedhus IF",
+    "postal": "4900",
+    "city": "Nakskov",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 3953,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Hammerum Fri- og Efterskole",
+    "postal": "7400",
+    "city": "Herning",
+    "union": "DBU Jylland",
+    "dbuId": 1930,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Han Herred Efterskoles Fodboldforening",
+    "postal": "9690",
+    "city": "Fjerritslev",
+    "union": "DBU Jylland",
+    "dbuId": 3272,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Handelsstandens Boldklub",
+    "postal": "2100",
+    "city": "København Ø",
+    "union": "DBU København",
+    "dbuId": 1558,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Hardsyssel Efterskole",
+    "postal": "7560",
+    "city": "Hjerm",
+    "union": "DBU Jylland",
+    "dbuId": 2115,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Hasle IF",
+    "postal": "3790",
+    "city": "Hasle",
+    "union": "DBU Bornholm",
+    "dbuId": 1673,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "Haslev Idrætsefterskole",
+    "postal": "4690",
+    "city": "Haslev",
+    "union": "DBU Sjælland",
+    "dbuId": 3946,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "HB Køge",
+    "postal": "4600",
+    "city": "Køge",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3714,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Hedemølle Efterskole",
+    "postal": "8850",
+    "city": "Bjerringbro",
+    "union": "DBU Jylland",
+    "dbuId": 3942,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Hellas",
+    "postal": "2500",
+    "city": "Valby",
+    "union": "DBU København",
+    "dbuId": 1561,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Hellebjerg Idrætsefterskole",
+    "postal": "7130",
+    "city": "Juelsminde",
+    "union": "DBU Jylland",
+    "dbuId": 1935,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Hellerup Idræts Klub",
+    "postal": "2900",
+    "city": "Hellerup",
+    "union": "DBU København",
+    "dbuId": 1562,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Herborg Ungdomsforening",
+    "postal": "6920",
+    "city": "Videbæk",
+    "union": "DBU Jylland",
+    "dbuId": 2004,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Herlufmagle",
+    "postal": "4160",
+    "city": "Herlufmagle",
+    "union": "DBU Sjælland",
+    "dbuId": 2121,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Herning Fodbolddommerklub",
+    "postal": "7480",
+    "city": "Vildbjerg",
+    "union": "DBU Jylland",
+    "dbuId": 3345,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Herrested-Ørbæk Boldklub",
+    "postal": "5853",
+    "city": "Ørbæk",
+    "union": "DBU Fyn",
+    "dbuId": 1407,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Hesselager Fodbold",
+    "postal": "5874",
+    "city": "Hesselager",
+    "union": "DBU Fyn",
+    "dbuId": 1410,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Hestlund Efterskole",
+    "postal": "7441",
+    "city": "Bording",
+    "union": "DBU Jylland",
+    "dbuId": 2882,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "HIK",
+    "postal": "2900",
+    "city": "Hellerup",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3723,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Himmerlandscentrets Idrætsefterskole (Haverslev)",
+    "postal": "9610",
+    "city": "Nørager",
+    "union": "DBU Jylland",
+    "dbuId": 1937,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Historie Fremad",
+    "postal": "8000",
+    "city": "Aarhus C",
+    "union": "DBU Jylland",
+    "dbuId": 3124,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Hjembæk Efterskole",
+    "postal": "4450",
+    "city": "Jyderup",
+    "union": "DBU Sjælland",
+    "dbuId": 3881,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Hjemly Idrætsefterskole",
+    "postal": "5750",
+    "city": "Ringe",
+    "union": "DBU Fyn",
+    "dbuId": 3944,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Hobro IK",
+    "postal": "9500",
+    "city": "Hobro",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3704,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Holbæk",
+    "postal": "4300",
+    "city": "Holbæk",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3724,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Holeby IF",
+    "postal": "4960",
+    "city": "Holeby",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1633,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Holluf Pile-Tornbjerg IF",
+    "postal": "5220",
+    "city": "Odense Sø",
+    "union": "DBU Fyn",
+    "dbuId": 1411,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Holm FK",
+    "postal": "6430",
+    "city": "Nordborg",
+    "union": "DBU Jylland",
+    "dbuId": 1743,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Holme-Olstrup Fodbold",
+    "postal": "4684",
+    "city": "Holmegaard",
+    "union": "DBU Sjælland",
+    "dbuId": 1870,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Holstebro/Vestjysk Fodbolddommerklub",
+    "postal": "7620",
+    "city": "Lemvig",
+    "union": "DBU Jylland",
+    "dbuId": 3344,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Holte-Hus Efterskole",
+    "postal": "2840",
+    "city": "Holte",
+    "union": "DBU Sjælland",
+    "dbuId": 2360,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Horbelev IF",
+    "postal": "4871",
+    "city": "Horbelev",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1634,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Horne f. Sp.",
+    "postal": "5600",
+    "city": "Faaborg",
+    "union": "DBU Fyn",
+    "dbuId": 1412,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Horsens Fodbolddommerklub",
+    "postal": "8700",
+    "city": "Horsens",
+    "union": "DBU Jylland",
+    "dbuId": 3346,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Horsens Motionsklub",
+    "postal": "8700",
+    "city": "Horsens",
+    "union": "DBU Jylland",
+    "dbuId": 3675,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Horslunde BK",
+    "postal": "4913",
+    "city": "Horslunde",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1635,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Hospitalets FK",
+    "postal": "5500",
+    "city": "Middelfart",
+    "union": "DBU Fyn",
+    "dbuId": 1413,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Hou Maritime Idrætsefterskole",
+    "postal": "8300",
+    "city": "Odder",
+    "union": "DBU Jylland",
+    "dbuId": 1928,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Humble BK",
+    "postal": "5932",
+    "city": "Humble",
+    "union": "DBU Fyn",
+    "dbuId": 1414,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Husum Boldklub",
+    "postal": "2700",
+    "city": "Brønshøj",
+    "union": "DBU København",
+    "dbuId": 1563,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Hvidovre Idrætsforening",
+    "postal": "2650",
+    "city": "Hvidovre",
+    "union": "DBU København",
+    "dbuId": 1564,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Hvidovre IF",
+    "postal": "2650",
+    "city": "Hvidovre",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3716,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Højby S & G",
+    "postal": "5260",
+    "city": "Odense S",
+    "union": "DBU Fyn",
+    "dbuId": 1416,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Høje-Taastrup Linie 10",
+    "postal": "2630",
+    "city": "Taastrup",
+    "union": "DBU Sjælland",
+    "dbuId": 2334,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Højer Efterskole",
+    "postal": "6280",
+    "city": "Højer",
+    "union": "DBU Jylland",
+    "dbuId": 1936,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Høng  Efterskole",
+    "postal": "4270",
+    "city": "Høng",
+    "union": "DBU Sjælland",
+    "dbuId": 2544,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Hørby Efterskoles IF",
+    "postal": "9300",
+    "city": "Sæby",
+    "union": "DBU Jylland",
+    "dbuId": 2014,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Høsterkøb Fodboldklub 2000",
+    "postal": "2970",
+    "city": "Hørsholm",
+    "union": "DBU Sjælland",
+    "dbuId": 2062,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Haarby Efterskole",
+    "postal": "5683",
+    "city": "Haarby",
+    "union": "DBU Fyn",
+    "dbuId": 3933,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Haarby IF",
+    "postal": "5683",
+    "city": "Haarby",
+    "union": "DBU Fyn",
+    "dbuId": 1418,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Hårslev BK",
+    "postal": "5471",
+    "city": "Søndersø",
+    "union": "DBU Fyn",
+    "dbuId": 1419,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Hårslev Efterskole",
+    "postal": "4262",
+    "city": "Sandved",
+    "union": "DBU Sjælland",
+    "dbuId": 3798,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Idræt og Venskab Foreningen, Århus",
+    "postal": "8220",
+    "city": "Brabrand",
+    "union": "DBU Jylland",
+    "dbuId": 1782,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Idrætsefterskolen Klintsøgaard",
+    "postal": "4500",
+    "city": "Nykøbing Sj",
+    "union": "DBU Sjælland",
+    "dbuId": 3948,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Idrætsefterskolen Lægården",
+    "postal": "7500",
+    "city": "Holstebro",
+    "union": "DBU Jylland",
+    "dbuId": 1932,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "IF Føroyar",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 1606,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "IF Svend Gønge",
+    "postal": "4750",
+    "city": "Lundby",
+    "union": "DBU Sjælland",
+    "dbuId": 1256,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Ingstrup Efterskoles IF",
+    "postal": "9480",
+    "city": "Løkken",
+    "union": "DBU Jylland",
+    "dbuId": 3242,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Institut Sankt Joseph",
+    "postal": "2100",
+    "city": "København Ø",
+    "union": "DBU København",
+    "dbuId": 2207,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Iqbal International School",
+    "postal": "2400",
+    "city": "København NV",
+    "union": "DBU København",
+    "dbuId": 2222,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "IS Skævinge",
+    "postal": "3320",
+    "city": "Skævinge",
+    "union": "DBU Sjælland",
+    "dbuId": 1226,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Isbryderen",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 2234,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "ISI Idrætsefterskole",
+    "postal": "7430",
+    "city": "Ikast",
+    "union": "DBU Jylland",
+    "dbuId": 3649,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Isterød Efterskole",
+    "postal": "2970",
+    "city": "Hørsholm",
+    "union": "DBU Sjælland",
+    "dbuId": 2451,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Janderup IF",
+    "postal": "6851",
+    "city": "Janderup Vestj",
+    "union": "DBU Jylland",
+    "dbuId": 3687,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Jetsmark Idrætscenter",
+    "postal": "9490",
+    "city": "Pandrup",
+    "union": "DBU Jylland",
+    "dbuId": 3657,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "JIK-Esbjerg",
+    "postal": "6700",
+    "city": "Esbjerg",
+    "union": "DBU Jylland",
+    "dbuId": 3685,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Jinnah International School",
+    "postal": "2720",
+    "city": "Vanløse",
+    "union": "DBU København",
+    "dbuId": 3799,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Jægersborg Boldklub",
+    "postal": "2820",
+    "city": "Gentofte",
+    "union": "DBU København",
+    "dbuId": 1565,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Jødisk Idrætsforening Hakoah",
+    "postal": "1172",
+    "city": "København K",
+    "union": "DBU København",
+    "dbuId": 1557,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Karup/Kølvrå 07",
+    "postal": "7470",
+    "city": "Karup J",
+    "union": "DBU Jylland",
+    "dbuId": 1955,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Kastrup Boldklub",
+    "postal": "2770",
+    "city": "Kastrup",
+    "union": "DBU København",
+    "dbuId": 1566,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Katrinebjergs Atletikforening",
+    "postal": "8200",
+    "city": "Aarhus N",
+    "union": "DBU Jylland",
+    "dbuId": 3843,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Kauslunde IF",
+    "postal": "5500",
+    "city": "Middelfart",
+    "union": "DBU Fyn",
+    "dbuId": 1422,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Kerte GF",
+    "postal": "5560",
+    "city": "Aarup",
+    "union": "DBU Fyn",
+    "dbuId": 1423,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Kerteminde BK",
+    "postal": "5300",
+    "city": "Kerteminde",
+    "union": "DBU Fyn",
+    "dbuId": 1424,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Kerteminde Efterskole",
+    "postal": "5300",
+    "city": "Kerteminde",
+    "union": "DBU Fyn",
+    "dbuId": 2663,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "KFUM.s BK Odense",
+    "postal": "5200",
+    "city": "Odense V",
+    "union": "DBU Fyn",
+    "dbuId": 1425,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "KFUMs Boldklub",
+    "postal": "2400",
+    "city": "København NV",
+    "union": "DBU København",
+    "dbuId": 1569,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Kildemosens BK",
+    "postal": "5000",
+    "city": "Odense C",
+    "union": "DBU Fyn",
+    "dbuId": 1426,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Kildevæld Efterskole",
+    "postal": "6000",
+    "city": "Kolding",
+    "union": "DBU Jylland",
+    "dbuId": 3870,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Kirkeby IF",
+    "postal": "5771",
+    "city": "Stenstrup",
+    "union": "DBU Fyn",
+    "dbuId": 1427,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Kirkeholdet Vrå",
+    "postal": "9800",
+    "city": "Hjørring",
+    "union": "DBU Jylland",
+    "dbuId": 3663,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Kjøbenhavns Boldklub",
+    "postal": "2000",
+    "city": "Frederiksberg",
+    "union": "DBU København",
+    "dbuId": 1567,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Klank Efterskole (fodbold)",
+    "postal": "8464",
+    "city": "Galten",
+    "union": "DBU Jylland",
+    "dbuId": 2087,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Klemensker IF",
+    "postal": "3782",
+    "city": "Klemensker",
+    "union": "DBU Bornholm",
+    "dbuId": 1674,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "Klinte Grindløse IF",
+    "postal": "5400",
+    "city": "Bogense",
+    "union": "DBU Fyn",
+    "dbuId": 1428,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Klosterhallen",
+    "postal": "6240",
+    "city": "Løgumkloster",
+    "union": "DBU Jylland",
+    "dbuId": 3371,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Klub 14",
+    "postal": "2500",
+    "city": "Valby",
+    "union": "DBU København",
+    "dbuId": 3833,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Klubrådgiverklubben",
+    "postal": "2605",
+    "city": "Brøndby",
+    "union": "DBU Sjælland",
+    "dbuId": 1851,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Kløvermarkens Forenede Boldklubber",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 1568,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Knudsker IF",
+    "postal": "3700",
+    "city": "Rønne",
+    "union": "DBU Bornholm",
+    "dbuId": 1675,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "Kokkedal BK",
+    "postal": "2980",
+    "city": "Kokkedal",
+    "union": "DBU Sjælland",
+    "dbuId": 1837,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Koldingegnens Idrætsefterskole",
+    "postal": "6000",
+    "city": "Kolding",
+    "union": "DBU Jylland",
+    "dbuId": 1938,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Kongenshus Efterskole",
+    "postal": "7470",
+    "city": "Karup J",
+    "union": "DBU Jylland",
+    "dbuId": 2084,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Korinth IF",
+    "postal": "5600",
+    "city": "Faaborg",
+    "union": "DBU Fyn",
+    "dbuId": 1429,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "KP Zebras",
+    "postal": "2450",
+    "city": "København SV",
+    "union": "DBU København",
+    "dbuId": 3667,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "KR 70",
+    "postal": "5300",
+    "city": "Kerteminde",
+    "union": "DBU Fyn",
+    "dbuId": 1431,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Kragelund Efterskole",
+    "postal": "8723",
+    "city": "Løsning",
+    "union": "DBU Jylland",
+    "dbuId": 1989,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Krarup Espe Fodbold",
+    "postal": "5750",
+    "city": "Ringe",
+    "union": "DBU Fyn",
+    "dbuId": 1432,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Krusbjerg IF",
+    "postal": "6870",
+    "city": "Ølgod",
+    "union": "DBU Jylland",
+    "dbuId": 3686,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "KSI - KU Studenteridræt",
+    "postal": "2200",
+    "city": "København N",
+    "union": "DBU København",
+    "dbuId": 3650,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "KU BK",
+    "postal": "5210",
+    "city": "Odense Nv",
+    "union": "DBU Fyn",
+    "dbuId": 1430,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Kvindedivisionsforeningen",
+    "postal": "7100",
+    "city": "Vejle",
+    "union": "DBU Jylland",
+    "dbuId": 2124,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Kværndrup BK",
+    "postal": "5772",
+    "city": "Kværndrup",
+    "union": "DBU Fyn",
+    "dbuId": 1437,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Kærby IF",
+    "postal": "8983",
+    "city": "Gjerlev J",
+    "union": "DBU Jylland",
+    "dbuId": 3376,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Kærbysport",
+    "postal": "9000",
+    "city": "Aalborg",
+    "union": "DBU Jylland",
+    "dbuId": 3117,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "København Futsal",
+    "postal": "2000",
+    "city": "Frederiksberg",
+    "union": "DBU København",
+    "dbuId": 2088,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Københavns Amts",
+    "postal": "2750",
+    "city": "Ballerup",
+    "union": "DBU Sjælland",
+    "dbuId": 2079,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Køge FC",
+    "postal": "4600",
+    "city": "Køge",
+    "union": "DBU Sjælland",
+    "dbuId": 1961,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Langebæk Alliancen",
+    "postal": "4773",
+    "city": "Stensved",
+    "union": "DBU Sjælland",
+    "dbuId": 3230,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Langeskov IF",
+    "postal": "5550",
+    "city": "Langeskov",
+    "union": "DBU Fyn",
+    "dbuId": 1438,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Langtved SG  &  IF",
+    "postal": "5540",
+    "city": "Ullerslev",
+    "union": "DBU Fyn",
+    "dbuId": 1439,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Levring Efterskole",
+    "postal": "8620",
+    "city": "Kjellerup",
+    "union": "DBU Jylland",
+    "dbuId": 1948,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Listrup U&IF",
+    "postal": "4800",
+    "city": "Nykøbing F",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1640,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Lomborg Gymnastik- og Idrætsefterskole",
+    "postal": "7620",
+    "city": "Lemvig",
+    "union": "DBU Jylland",
+    "dbuId": 1933,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Longelse Sp.",
+    "postal": "5900",
+    "city": "Rudkøbing",
+    "union": "DBU Fyn",
+    "dbuId": 1441,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Los Amigos",
+    "postal": "2765",
+    "city": "Smørum",
+    "union": "DBU Sjælland",
+    "dbuId": 3261,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Lumby IF 88",
+    "postal": "5270",
+    "city": "Odense N",
+    "union": "DBU Fyn",
+    "dbuId": 1442,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Lundby Efterskole",
+    "postal": "4750",
+    "city": "Lundby",
+    "union": "DBU Sjælland",
+    "dbuId": 2637,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Lunderskov Efterskole",
+    "postal": "6640",
+    "city": "Lunderskov",
+    "union": "DBU Jylland",
+    "dbuId": 1993,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Lyngby",
+    "postal": "2800",
+    "city": "Kgs",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3717,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Lyngs Idrætsefterskole",
+    "postal": "7790",
+    "city": "Thyholm",
+    "union": "DBU Jylland",
+    "dbuId": 1931,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Læringshuset",
+    "postal": "2640",
+    "city": "Hedehusene",
+    "union": "DBU Sjælland",
+    "dbuId": 2330,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Løgumkloster Efterskole",
+    "postal": "6240",
+    "city": "Løgumkloster",
+    "union": "DBU Jylland",
+    "dbuId": 1990,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Mariager Efterskole",
+    "postal": "9550",
+    "city": "Mariager",
+    "union": "DBU Jylland",
+    "dbuId": 2915,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Maribo BK",
+    "postal": "4930",
+    "city": "Maribo",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1641,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Marslev G & IF",
+    "postal": "5290",
+    "city": "Marslev",
+    "union": "DBU Fyn",
+    "dbuId": 1445,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Marstal IF",
+    "postal": "5960",
+    "city": "Marstal",
+    "union": "DBU Fyn",
+    "dbuId": 1446,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Mejlby Efterskole",
+    "postal": "9610",
+    "city": "Nørager",
+    "union": "DBU Jylland",
+    "dbuId": 3655,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Mellerup Efterskole",
+    "postal": "8930",
+    "city": "Randers NØ",
+    "union": "DBU Jylland",
+    "dbuId": 2164,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "MG & BK",
+    "postal": "5500",
+    "city": "Middelfart",
+    "union": "DBU Fyn",
+    "dbuId": 1447,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Midtjysk Efterskole",
+    "postal": "7361",
+    "city": "Ejstrupholm",
+    "union": "DBU Jylland",
+    "dbuId": 3110,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Midtjysk Fodbolddommerklub",
+    "postal": "7840",
+    "city": "Højslev",
+    "union": "DBU Jylland",
+    "dbuId": 3343,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Mina Hindholm Efterskole",
+    "postal": "4250",
+    "city": "Fuglebjerg",
+    "union": "DBU Sjælland",
+    "dbuId": 2545,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Moltrup IF",
+    "postal": "6100",
+    "city": "Haderslev",
+    "union": "DBU Jylland",
+    "dbuId": 1895,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Morud IF",
+    "postal": "5462",
+    "city": "Morud",
+    "union": "DBU Fyn",
+    "dbuId": 1448,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Munkebo BK",
+    "postal": "5330",
+    "city": "Munkebo",
+    "union": "DBU Fyn",
+    "dbuId": 1449,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Munkevængets Fritids- og IF",
+    "postal": "6000",
+    "city": "Kolding",
+    "union": "DBU Jylland",
+    "dbuId": 1852,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Mørkhøj Sportsklub",
+    "postal": "2860",
+    "city": "Søborg",
+    "union": "DBU Sjælland",
+    "dbuId": 1276,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "New City",
+    "postal": "2650",
+    "city": "Hvidovre",
+    "union": "DBU Sjælland",
+    "dbuId": 3819,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Nexø B.",
+    "postal": "3730",
+    "city": "Nexø",
+    "union": "DBU Bornholm",
+    "dbuId": 1676,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "NFS - Nørremarkens forenede Sportsklubber",
+    "postal": "7100",
+    "city": "Vejle",
+    "union": "DBU Jylland",
+    "dbuId": 3416,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Nislevgård Efterskole",
+    "postal": "5450",
+    "city": "Otterup",
+    "union": "DBU Fyn",
+    "dbuId": 2713,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Nordborg Slots Efterskole",
+    "postal": "6430",
+    "city": "Nordborg",
+    "union": "DBU Jylland",
+    "dbuId": 2752,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Nordbyens Boldklub",
+    "postal": "8930",
+    "city": "Randers NØ",
+    "union": "DBU Jylland",
+    "dbuId": 3385,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Nordfalster FB",
+    "postal": "4840",
+    "city": "Nørre Alslev",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1644,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Nordsjællands Efterskole",
+    "postal": "3200",
+    "city": "Helsinge",
+    "union": "DBU Sjælland",
+    "dbuId": 2422,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Nordvestjysk Fodbolddommerklub",
+    "postal": "7950",
+    "city": "Erslev",
+    "union": "DBU Jylland",
+    "dbuId": 3342,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Nr. Lyndelse / Søby F.C.",
+    "postal": "5792",
+    "city": "Årslev",
+    "union": "DBU Fyn",
+    "dbuId": 1452,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Nr. Nissum Efterskole",
+    "postal": "7620",
+    "city": "Lemvig",
+    "union": "DBU Jylland",
+    "dbuId": 2066,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Nr. Søby BK",
+    "postal": "5792",
+    "city": "Årslev",
+    "union": "DBU Fyn",
+    "dbuId": 1453,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Nr. Aaby IK",
+    "postal": "5580",
+    "city": "Nørre Aaby",
+    "union": "DBU Fyn",
+    "dbuId": 1454,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Ny Kappel Boldklub 07",
+    "postal": "4900",
+    "city": "Nakskov",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1951,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Nyborg G & IF",
+    "postal": "5800",
+    "city": "Nyborg",
+    "union": "DBU Fyn",
+    "dbuId": 1456,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Nyker IF",
+    "postal": "3700",
+    "city": "Rønne",
+    "union": "DBU Bornholm",
+    "dbuId": 1677,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "Nykøbing FC",
+    "postal": "4800",
+    "city": "Nykøbing F",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 3404,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Nykøbing FC",
+    "postal": "4800",
+    "city": "Nykøbing F",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3746,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Nysted Efterskole",
+    "postal": "4880",
+    "city": "Nysted",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 2614,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Næsby",
+    "postal": "5270",
+    "city": "Odense N",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3726,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Næsby BK",
+    "postal": "5270",
+    "city": "Odense N",
+    "union": "DBU Fyn",
+    "dbuId": 1457,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Næstved BK",
+    "postal": "4700",
+    "city": "Næstved",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3727,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Nøddealliancen",
+    "postal": "2500",
+    "city": "Valby",
+    "union": "DBU København",
+    "dbuId": 3734,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Nørbæk Efterskole",
+    "postal": "8990",
+    "city": "Fårup",
+    "union": "DBU Jylland",
+    "dbuId": 2930,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Nørre Alslev BK",
+    "postal": "4840",
+    "city": "Nørre Alslev",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1650,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Nørre Åby Efterskole",
+    "postal": "5580",
+    "city": "Nørre Aaby",
+    "union": "DBU Fyn",
+    "dbuId": 3887,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Nørrebro Boldklub",
+    "postal": "2100",
+    "city": "København Ø",
+    "union": "DBU København",
+    "dbuId": 2089,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Nørrebro United",
+    "postal": "2200",
+    "city": "København N",
+    "union": "DBU København",
+    "dbuId": 1987,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Nøvlingskov Efterskole",
+    "postal": "7480",
+    "city": "Vildbjerg",
+    "union": "DBU Jylland",
+    "dbuId": 2064,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "OB",
+    "postal": "5200",
+    "city": "Odense V",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3706,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "OB Q",
+    "postal": "5000",
+    "city": "Odense C",
+    "union": "DBU Fyn",
+    "dbuId": 3938,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "OB Turnering Næstved",
+    "postal": "4700",
+    "city": "Næstved",
+    "union": "DBU Sjælland",
+    "dbuId": 2157,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Odense Boldklub",
+    "postal": "5000",
+    "city": "Odense C",
+    "union": "DBU Fyn",
+    "dbuId": 1458,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Odsherreds Efterskole",
+    "postal": "4540",
+    "city": "Fårevejle",
+    "union": "DBU Sjælland",
+    "dbuId": 2523,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Old Boys 1945",
+    "postal": "8920",
+    "city": "Randers NV",
+    "union": "DBU Jylland",
+    "dbuId": 2106,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Old Boys Cup 77",
+    "postal": "4780",
+    "city": "Stege",
+    "union": "DBU Sjælland",
+    "dbuId": 2158,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Olympic Amager KIF - Afventer",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 3144,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Ommel BK",
+    "postal": "5960",
+    "city": "Marstal",
+    "union": "DBU Fyn",
+    "dbuId": 1464,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Ordblindeinstituttet",
+    "postal": "2750",
+    "city": "Ballerup",
+    "union": "DBU Sjælland",
+    "dbuId": 2295,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Ore Sogns GF",
+    "postal": "5400",
+    "city": "Bogense",
+    "union": "DBU Fyn",
+    "dbuId": 1465,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Osted Fri- og Efterskole",
+    "postal": "4320",
+    "city": "Lejre",
+    "union": "DBU Sjælland",
+    "dbuId": 3223,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Otterup Bold- og Idrætsklub",
+    "postal": "5450",
+    "city": "Otterup",
+    "union": "DBU Fyn",
+    "dbuId": 1467,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Oure Fodbold Akademi",
+    "postal": "5883",
+    "city": "Oure",
+    "union": "DBU Fyn",
+    "dbuId": 1468,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Ove Lyhne",
+    "postal": "7400",
+    "city": "Herning",
+    "union": "DBU Jylland",
+    "dbuId": 1848,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Overvindinge",
+    "postal": "4760",
+    "city": "Vordingborg",
+    "union": "DBU Sjælland",
+    "dbuId": 3690,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Pan Fodbold",
+    "postal": "1620",
+    "city": "København V",
+    "union": "DBU København",
+    "dbuId": 1760,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Pedersker IF",
+    "postal": "3720",
+    "city": "Aakirkeby",
+    "union": "DBU Bornholm",
+    "dbuId": 1679,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "Pederstrup Efterskole",
+    "postal": "4943",
+    "city": "Torrig L",
+    "union": "DBU Sjælland",
+    "dbuId": 2599,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Phønix Efterskole",
+    "postal": "7130",
+    "city": "Juelsminde",
+    "union": "DBU Jylland",
+    "dbuId": 3586,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Politiets Idrætsforening",
+    "postal": "2450",
+    "city": "København SV",
+    "union": "DBU København",
+    "dbuId": 1574,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Poulsker IF",
+    "postal": "3730",
+    "city": "Nexø",
+    "union": "DBU Bornholm",
+    "dbuId": 1680,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "Radsted IF",
+    "postal": "4990",
+    "city": "Sakskøbing",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1651,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Randers ElitesportsCollege",
+    "postal": "8900",
+    "city": "Randers C",
+    "union": "DBU Jylland",
+    "dbuId": 3228,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Randers FC",
+    "postal": "8920",
+    "city": "Randers NV",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3707,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Randers Fodbolddommerklub",
+    "postal": "8920",
+    "city": "Randers NV",
+    "union": "DBU Jylland",
+    "dbuId": 3347,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Ranum Efterskole",
+    "postal": "9681",
+    "city": "Ranum",
+    "union": "DBU Jylland",
+    "dbuId": 2059,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Rebild Efterskole",
+    "postal": "9520",
+    "city": "Skørping",
+    "union": "DBU Jylland",
+    "dbuId": 1991,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Rejsby Europæiske Efterskole",
+    "postal": "6780",
+    "city": "Skærbæk",
+    "union": "DBU Jylland",
+    "dbuId": 1776,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Rikken Fodbold Club",
+    "postal": "2500",
+    "city": "Valby",
+    "union": "DBU København",
+    "dbuId": 1577,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Ringe BK",
+    "postal": "5750",
+    "city": "Ringe",
+    "union": "DBU Fyn",
+    "dbuId": 1472,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Ringe Efterskole",
+    "postal": "5750",
+    "city": "Ringe",
+    "union": "DBU Fyn",
+    "dbuId": 3943,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Rinkenæs Efterskole",
+    "postal": "6300",
+    "city": "Gråsten",
+    "union": "DBU Jylland",
+    "dbuId": 2003,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Rise S & IF",
+    "postal": "5970",
+    "city": "Ærøskøbing",
+    "union": "DBU Fyn",
+    "dbuId": 1475,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Rolfsted IF",
+    "postal": "5863",
+    "city": "Ferritslev Fyn",
+    "union": "DBU Fyn",
+    "dbuId": 1477,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Roskilde Pigefodbold",
+    "postal": "4000",
+    "city": "Roskilde",
+    "union": "DBU Sjælland",
+    "dbuId": 3696,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Rudbjerg FB",
+    "postal": "4983",
+    "city": "Dannemare",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1652,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Rudkøbing BK",
+    "postal": "5900",
+    "city": "Rudkøbing",
+    "union": "DBU Fyn",
+    "dbuId": 1478,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Ruds Vedby IF",
+    "postal": "4291",
+    "city": "Ruds Vedby",
+    "union": "DBU Sjælland",
+    "dbuId": 1200,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Ryslinge BK",
+    "postal": "5856",
+    "city": "Ryslinge",
+    "union": "DBU Fyn",
+    "dbuId": 1479,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Rødby BK",
+    "postal": "4970",
+    "city": "Rødby",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1653,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Røde Fane IF",
+    "postal": "8381",
+    "city": "Tilst",
+    "union": "DBU Jylland",
+    "dbuId": 3137,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Røde Stjerne",
+    "postal": "5000",
+    "city": "Odense C",
+    "union": "DBU Fyn",
+    "dbuId": 1480,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Røde Stjerne BK",
+    "postal": "4000",
+    "city": "Roskilde",
+    "union": "DBU Sjælland",
+    "dbuId": 1201,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Rødvig G&I",
+    "postal": "4673",
+    "city": "Rødvig Stevns",
+    "union": "DBU Sjælland",
+    "dbuId": 1203,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Rønde Efterskole",
+    "postal": "8410",
+    "city": "Rønde",
+    "union": "DBU Jylland",
+    "dbuId": 1944,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Rønne f.B.",
+    "postal": "3700",
+    "city": "Rønne",
+    "union": "DBU Bornholm",
+    "dbuId": 1956,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "Rønne IK",
+    "postal": "3700",
+    "city": "Rønne",
+    "union": "DBU Bornholm",
+    "dbuId": 1682,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "Rønnebæk IF",
+    "postal": "4700",
+    "city": "Næstved",
+    "union": "DBU Sjælland",
+    "dbuId": 1204,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Rønnede IF",
+    "postal": "4683",
+    "city": "Rønnede",
+    "union": "DBU Sjælland",
+    "dbuId": 1205,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Rønneholtparkens BK",
+    "postal": "3450",
+    "city": "Allerød",
+    "union": "DBU Sjælland",
+    "dbuId": 1206,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Rørby-Værslev IF",
+    "postal": "4400",
+    "city": "Kalundborg",
+    "union": "DBU Sjælland",
+    "dbuId": 1207,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Rørvig IF",
+    "postal": "4581",
+    "city": "Rørvig",
+    "union": "DBU Sjælland",
+    "dbuId": 1208,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Rågelund Efterskole",
+    "postal": "5240",
+    "city": "Odense Nø",
+    "union": "DBU Fyn",
+    "dbuId": 2709,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "S.K.F.I.F.",
+    "postal": "5260",
+    "city": "Odense S",
+    "union": "DBU Fyn",
+    "dbuId": 1488,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Sall IF",
+    "postal": "8450",
+    "city": "Hammel",
+    "union": "DBU Jylland",
+    "dbuId": 3141,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Salling Efterskole",
+    "postal": "7870",
+    "city": "Roslev",
+    "union": "DBU Jylland",
+    "dbuId": 3654,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Samsø Efterskole",
+    "postal": "8305",
+    "city": "Samsø",
+    "union": "DBU Jylland",
+    "dbuId": 2946,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Sandby  GF",
+    "postal": "4900",
+    "city": "Nakskov",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1655,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Sanderum BK",
+    "postal": "5250",
+    "city": "Odense Sv",
+    "union": "DBU Fyn",
+    "dbuId": 1481,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Sandved-Tornemark IF",
+    "postal": "4262",
+    "city": "Sandved",
+    "union": "DBU Sjælland",
+    "dbuId": 1209,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "SBV 09",
+    "postal": "2650",
+    "city": "Hvidovre",
+    "union": "DBU Sjælland",
+    "dbuId": 3844,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "SC Amager",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 1892,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Sct. Jørgens IF",
+    "postal": "4700",
+    "city": "Næstved",
+    "union": "DBU Sjælland",
+    "dbuId": 1211,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Sdr. Bork Efterskole",
+    "postal": "6893",
+    "city": "Hemmet",
+    "union": "DBU Jylland",
+    "dbuId": 2870,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Sdr. Felding Efterskole",
+    "postal": "7280",
+    "city": "Sønder Felding",
+    "union": "DBU Jylland",
+    "dbuId": 2067,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Sdr. Nærå Fri- og Efterskole",
+    "postal": "5792",
+    "city": "Årslev",
+    "union": "DBU Fyn",
+    "dbuId": 2734,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Sejerø IF",
+    "postal": "4592",
+    "city": "Sejerø",
+    "union": "DBU Sjælland",
+    "dbuId": 1212,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Sengeløse GI",
+    "postal": "2630",
+    "city": "Taastrup",
+    "union": "DBU Sjælland",
+    "dbuId": 1213,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "SfB",
+    "postal": "5700",
+    "city": "Svendborg",
+    "union": "DBU Fyn",
+    "dbuId": 1497,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Sierslev FC",
+    "postal": "4652",
+    "city": "Hårlev",
+    "union": "DBU Sjælland",
+    "dbuId": 1215,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "SIF Holbæk IF",
+    "postal": "4300",
+    "city": "Holbæk",
+    "union": "DBU Sjælland",
+    "dbuId": 1216,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Sigerslevøster IF",
+    "postal": "3600",
+    "city": "Frederikssund",
+    "union": "DBU Sjælland",
+    "dbuId": 1217,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Silkeborg",
+    "postal": "8600",
+    "city": "Silkeborg",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3708,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Silkeborg Efterskole",
+    "postal": "8600",
+    "city": "Silkeborg",
+    "union": "DBU Jylland",
+    "dbuId": 3765,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Silkeborg Fodbolddommerklub",
+    "postal": "8620",
+    "city": "Kjellerup",
+    "union": "DBU Jylland",
+    "dbuId": 3348,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Silkeborg IF Q",
+    "postal": "8600",
+    "city": "Silkeborg",
+    "union": "DBU Jylland",
+    "dbuId": 3400,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "SINE Sportsefterskole",
+    "postal": "6240",
+    "city": "Løgumkloster",
+    "union": "DBU Jylland",
+    "dbuId": 1992,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "SISU MBK Fodbold",
+    "postal": "8000",
+    "city": "Aarhus C",
+    "union": "DBU Jylland",
+    "dbuId": 3859,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Sjællands",
+    "postal": "4100",
+    "city": "Ringsted",
+    "union": "DBU Sjælland",
+    "dbuId": 2077,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Skalbjerg BK",
+    "postal": "5492",
+    "city": "Vissenbjerg",
+    "union": "DBU Fyn",
+    "dbuId": 1482,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Skallebølle Sportsklub",
+    "postal": "5492",
+    "city": "Vissenbjerg",
+    "union": "DBU Fyn",
+    "dbuId": 1483,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Skals Efterskole",
+    "postal": "8832",
+    "city": "Skals",
+    "union": "DBU Jylland",
+    "dbuId": 3763,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Skamby BK",
+    "postal": "5485",
+    "city": "Skamby",
+    "union": "DBU Fyn",
+    "dbuId": 1484,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Skanderup Efterskole",
+    "postal": "6640",
+    "city": "Lunderskov",
+    "union": "DBU Jylland",
+    "dbuId": 2020,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Skeby GF",
+    "postal": "5450",
+    "city": "Otterup",
+    "union": "DBU Fyn",
+    "dbuId": 1485,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Skensved IF",
+    "postal": "4623",
+    "city": "Lille Skensved",
+    "union": "DBU Sjælland",
+    "dbuId": 1219,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Skibby IK",
+    "postal": "4050",
+    "city": "Skibby",
+    "union": "DBU Sjælland",
+    "dbuId": 1220,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Skibelund Gymnastik- og Idrætsefterskole",
+    "postal": "6600",
+    "city": "Vejen",
+    "union": "DBU Jylland",
+    "dbuId": 3845,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Skive IK",
+    "postal": "7800",
+    "city": "Skive",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3732,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Skjern Kulturcenter",
+    "postal": "6900",
+    "city": "Skjern",
+    "union": "DBU Jylland",
+    "dbuId": 3368,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Skjød IF",
+    "postal": "8450",
+    "city": "Hammel",
+    "union": "DBU Jylland",
+    "dbuId": 3241,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Skovbakken IK OB",
+    "postal": "8240",
+    "city": "Risskov",
+    "union": "DBU Jylland",
+    "dbuId": 3246,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Skovbo Efterskole",
+    "postal": "4100",
+    "city": "Ringsted",
+    "union": "DBU Sjælland",
+    "dbuId": 3606,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Skovby GF",
+    "postal": "5400",
+    "city": "Bogense",
+    "union": "DBU Fyn",
+    "dbuId": 1487,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Skovlund Efterskole",
+    "postal": "6823",
+    "city": "Ansager",
+    "union": "DBU Jylland",
+    "dbuId": 2165,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Skovlunde IF Oldboys/Girls",
+    "postal": "2740",
+    "city": "Skovlunde",
+    "union": "DBU Sjælland",
+    "dbuId": 1868,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Skovshoved Idrætsforening",
+    "postal": "2930",
+    "city": "Klampenborg",
+    "union": "DBU København",
+    "dbuId": 1579,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Skyum Idrætsefterskole",
+    "postal": "7752",
+    "city": "Snedsted",
+    "union": "DBU Jylland",
+    "dbuId": 2085,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Skælskør Boldklub og Idrætsforening",
+    "postal": "4230",
+    "city": "Skælskør",
+    "union": "DBU Sjælland",
+    "dbuId": 1225,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Skærbæk Fritidscenter",
+    "postal": "6780",
+    "city": "Skærbæk",
+    "union": "DBU Jylland",
+    "dbuId": 3370,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Skårup IF",
+    "postal": "5881",
+    "city": "Skårup Fyn",
+    "union": "DBU Fyn",
+    "dbuId": 1489,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Slagelse B&I",
+    "postal": "4200",
+    "city": "Slagelse",
+    "union": "DBU Sjælland",
+    "dbuId": 1229,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Slaglille-Bjernede GI",
+    "postal": "4180",
+    "city": "Sorø",
+    "union": "DBU Sjælland",
+    "dbuId": 1232,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Slagslunde-Ganløse IF",
+    "postal": "3660",
+    "city": "Stenløse",
+    "union": "DBU Sjælland",
+    "dbuId": 1233,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Slangerup & Omegn IF",
+    "postal": "3550",
+    "city": "Slangerup",
+    "union": "DBU Sjælland",
+    "dbuId": 1234,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Snekkersten IF",
+    "postal": "3070",
+    "city": "Snekkersten",
+    "union": "DBU Sjælland",
+    "dbuId": 1235,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Solrød FC",
+    "postal": "2680",
+    "city": "Solrød Strand",
+    "union": "DBU Sjælland",
+    "dbuId": 1238,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Sommersted Efterskole",
+    "postal": "6560",
+    "city": "Sommersted",
+    "union": "DBU Jylland",
+    "dbuId": 2021,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Sorø Gymnastikefterskole",
+    "postal": "4180",
+    "city": "Sorø",
+    "union": "DBU Sjælland",
+    "dbuId": 2579,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Spir Efterskole",
+    "postal": "7130",
+    "city": "Juelsminde",
+    "union": "DBU Jylland",
+    "dbuId": 3884,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Spjald Fritidscenter",
+    "postal": "6971",
+    "city": "Spjald",
+    "union": "DBU Jylland",
+    "dbuId": 1965,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Sportsefterskolen Sjælsølund",
+    "postal": "2970",
+    "city": "Hørsholm",
+    "union": "DBU Sjælland",
+    "dbuId": 3954,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Sportsefterskolen Aabybro",
+    "postal": "9440",
+    "city": "Aabybro",
+    "union": "DBU Jylland",
+    "dbuId": 1996,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "ST Oldboys, Trige",
+    "postal": "8380",
+    "city": "Trige",
+    "union": "DBU Jylland",
+    "dbuId": 3156,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Stenlille IF",
+    "postal": "4295",
+    "city": "Stenlille",
+    "union": "DBU Sjælland",
+    "dbuId": 1242,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Stenløse BK",
+    "postal": "3660",
+    "city": "Stenløse",
+    "union": "DBU Sjælland",
+    "dbuId": 1243,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Stenstrup IF",
+    "postal": "5771",
+    "city": "Stenstrup",
+    "union": "DBU Fyn",
+    "dbuId": 1491,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Stidsholt IF (Efterskole)",
+    "postal": "9300",
+    "city": "Sæby",
+    "union": "DBU Jylland",
+    "dbuId": 1694,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Stillinge IF",
+    "postal": "4200",
+    "city": "Slagelse",
+    "union": "DBU Sjælland",
+    "dbuId": 1246,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Stokkemarke",
+    "postal": "4952",
+    "city": "Stokkemarke",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1656,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Store Heddinge BK",
+    "postal": "4660",
+    "city": "Store Heddinge",
+    "union": "DBU Sjælland",
+    "dbuId": 1247,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Store Lyngby IF",
+    "postal": "3320",
+    "city": "Skævinge",
+    "union": "DBU Sjælland",
+    "dbuId": 1248,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Store Merløse IF",
+    "postal": "4370",
+    "city": "Store Merløse",
+    "union": "DBU Sjælland",
+    "dbuId": 1249,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Strib Idrætsefterskole",
+    "postal": "5500",
+    "city": "Middelfart",
+    "union": "DBU Fyn",
+    "dbuId": 3949,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Strib IF",
+    "postal": "5500",
+    "city": "Middelfart",
+    "union": "DBU Fyn",
+    "dbuId": 1494,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Stubbekøbing BK",
+    "postal": "4850",
+    "city": "Stubbekøbing",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1658,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Studenter Settlementets Boldklub",
+    "postal": "1665",
+    "city": "København V",
+    "union": "DBU København",
+    "dbuId": 1598,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "STUK Overbygning",
+    "postal": "6520",
+    "city": "Toftlund",
+    "union": "DBU Jylland",
+    "dbuId": 2756,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "SUB Ullerslev",
+    "postal": "5540",
+    "city": "Ullerslev",
+    "union": "DBU Fyn",
+    "dbuId": 1496,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Sundby Boldklub",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 1583,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Sundeved Efterskoles IF",
+    "postal": "6200",
+    "city": "Aabenraa",
+    "union": "DBU Jylland",
+    "dbuId": 1950,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Suså IF",
+    "postal": "4160",
+    "city": "Herlufmagle",
+    "union": "DBU Sjælland",
+    "dbuId": 1252,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Svaneke Idræts Klub",
+    "postal": "3740",
+    "city": "Svaneke",
+    "union": "DBU Bornholm",
+    "dbuId": 1683,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "Svendborg Efterskole",
+    "postal": "5700",
+    "city": "Svendborg",
+    "union": "DBU Fyn",
+    "dbuId": 3589,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Svinninge IF",
+    "postal": "4520",
+    "city": "Svinninge",
+    "union": "DBU Sjælland",
+    "dbuId": 1257,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Svogerslev BK",
+    "postal": "4000",
+    "city": "Roskilde",
+    "union": "DBU Sjælland",
+    "dbuId": 1258,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Syd- & Østsjællands",
+    "postal": "4720",
+    "city": "Præstø",
+    "union": "DBU Sjælland",
+    "dbuId": 2080,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Sydvestjyllands Efterskole Fodbold",
+    "postal": "6740",
+    "city": "Bramming",
+    "union": "DBU Jylland",
+    "dbuId": 3273,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Sydvestjysk Fodbolddommerklub",
+    "postal": "7200",
+    "city": "Grindsted",
+    "union": "DBU Jylland",
+    "dbuId": 3351,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Sydøstjysk Fodbolddommerklub",
+    "postal": "6040",
+    "city": "Egtved",
+    "union": "DBU Jylland",
+    "dbuId": 3350,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Systofte BK",
+    "postal": "4800",
+    "city": "Nykøbing F",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1660,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Sædder IF",
+    "postal": "4682",
+    "city": "Tureby",
+    "union": "DBU Sjælland",
+    "dbuId": 1261,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Sædding Efterskole",
+    "postal": "6900",
+    "city": "Skjern",
+    "union": "DBU Jylland",
+    "dbuId": 3514,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Særslev BK",
+    "postal": "5471",
+    "city": "Søndersø",
+    "union": "DBU Fyn",
+    "dbuId": 1498,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Søhus IF",
+    "postal": "5270",
+    "city": "Odense N",
+    "union": "DBU Fyn",
+    "dbuId": 2070,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Søllested IF",
+    "postal": "4920",
+    "city": "Søllested",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1662,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Søllinge Sport og Fritid",
+    "postal": "5750",
+    "city": "Ringe",
+    "union": "DBU Fyn",
+    "dbuId": 1501,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Sønderbro Fight",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 1580,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Sønderjydsk Fodbolddommerklub",
+    "postal": "6200",
+    "city": "Aabenraa",
+    "union": "DBU Jylland",
+    "dbuId": 3356,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "SønderjyskE",
+    "postal": "6100",
+    "city": "Haderslev",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3703,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Søndersø BK",
+    "postal": "5471",
+    "city": "Søndersø",
+    "union": "DBU Fyn",
+    "dbuId": 1502,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "SØS - Sydøstsjællands Idrætsefterskole",
+    "postal": "4690",
+    "city": "Haslev",
+    "union": "DBU Sjælland",
+    "dbuId": 3941,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Såby Fodbold",
+    "postal": "4060",
+    "city": "Kirke Såby",
+    "union": "DBU Sjælland",
+    "dbuId": 1266,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Tarup/Paarup IF",
+    "postal": "5210",
+    "city": "Odense Nv",
+    "union": "DBU Fyn",
+    "dbuId": 1503,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Team 2. Sal",
+    "postal": "2450",
+    "city": "København SV",
+    "union": "DBU København",
+    "dbuId": 3957,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Team InterRos",
+    "postal": "4000",
+    "city": "Roskilde",
+    "union": "DBU Sjælland",
+    "dbuId": 3830,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Team Viborg",
+    "postal": "8800",
+    "city": "Viborg",
+    "union": "DBU Jylland",
+    "dbuId": 3850,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Tejn IF",
+    "postal": "3770",
+    "city": "Allinge",
+    "union": "DBU Bornholm",
+    "dbuId": 1684,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "Terslev G&IF",
+    "postal": "4690",
+    "city": "Haslev",
+    "union": "DBU Sjælland",
+    "dbuId": 1267,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Thisted FC",
+    "postal": "7700",
+    "city": "Thisted",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3747,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Thorsø OB",
+    "postal": "8881",
+    "city": "Thorsø",
+    "union": "DBU Jylland",
+    "dbuId": 3136,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Thurø BK af 1920",
+    "postal": "5700",
+    "city": "Svendborg",
+    "union": "DBU Fyn",
+    "dbuId": 1505,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Thyland idrætsefterskole",
+    "postal": "7700",
+    "city": "Thisted",
+    "union": "DBU Jylland",
+    "dbuId": 2019,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Tikøb IF",
+    "postal": "3080",
+    "city": "Tikøb",
+    "union": "DBU Sjælland",
+    "dbuId": 1270,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Tingsted BK",
+    "postal": "4800",
+    "city": "Nykøbing F",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1663,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Tirstrup Idrætsefterskole",
+    "postal": "8400",
+    "city": "Ebeltoft",
+    "union": "DBU Jylland",
+    "dbuId": 1945,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Tisvildeleje GF",
+    "postal": "3220",
+    "city": "Tisvildeleje",
+    "union": "DBU Sjælland",
+    "dbuId": 1271,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Tjele Efterskole",
+    "postal": "8830",
+    "city": "Tjele",
+    "union": "DBU Jylland",
+    "dbuId": 3013,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Toksværd Olstrup Fodbold",
+    "postal": "4684",
+    "city": "Holmegaard",
+    "union": "DBU Sjælland",
+    "dbuId": 1958,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Tommerup BK",
+    "postal": "5690",
+    "city": "Tommerup",
+    "union": "DBU Fyn",
+    "dbuId": 1507,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Torpedo AT",
+    "postal": "8000",
+    "city": "Aarhus C",
+    "union": "DBU Jylland",
+    "dbuId": 1858,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Torslunde-Ishøj IF",
+    "postal": "2635",
+    "city": "Ishøj",
+    "union": "DBU Sjælland",
+    "dbuId": 1274,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Tranekær/Tullebølle IF",
+    "postal": "5900",
+    "city": "Rudkøbing",
+    "union": "DBU Fyn",
+    "dbuId": 1508,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "TST Kunstgræsanlæg",
+    "postal": "8381",
+    "city": "Tilst",
+    "union": "DBU Jylland",
+    "dbuId": 3265,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Tune IF",
+    "postal": "4030",
+    "city": "Tune",
+    "union": "DBU Sjælland",
+    "dbuId": 1280,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Tuse IF",
+    "postal": "4300",
+    "city": "Holbæk",
+    "union": "DBU Sjælland",
+    "dbuId": 1282,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Tuse Næs BK",
+    "postal": "4300",
+    "city": "Holbæk",
+    "union": "DBU Sjælland",
+    "dbuId": 1283,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Tved BK",
+    "postal": "5700",
+    "city": "Svendborg",
+    "union": "DBU Fyn",
+    "dbuId": 1510,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Tølløse BK",
+    "postal": "4340",
+    "city": "Tølløse",
+    "union": "DBU Sjælland",
+    "dbuId": 1284,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Tølløse Privat- og Efterskole",
+    "postal": "4340",
+    "city": "Tølløse",
+    "union": "DBU Sjælland",
+    "dbuId": 2590,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Tømmerup Fri- og Efterskole",
+    "postal": "4400",
+    "city": "Kalundborg",
+    "union": "DBU Sjælland",
+    "dbuId": 2549,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Tømmerup GU",
+    "postal": "4400",
+    "city": "Kalundborg",
+    "union": "DBU Sjælland",
+    "dbuId": 1285,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Taarbæk IF",
+    "postal": "2930",
+    "city": "Klampenborg",
+    "union": "DBU Sjælland",
+    "dbuId": 1286,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Tårnby FF",
+    "postal": "2770",
+    "city": "Kastrup",
+    "union": "DBU København",
+    "dbuId": 1766,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Tårup IF",
+    "postal": "5871",
+    "city": "Frørup",
+    "union": "DBU Fyn",
+    "dbuId": 1512,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Tåsinge f. B.",
+    "postal": "5700",
+    "city": "Svendborg",
+    "union": "DBU Fyn",
+    "dbuId": 1513,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Taastrup FC",
+    "postal": "2630",
+    "city": "Taastrup",
+    "union": "DBU Sjælland",
+    "dbuId": 1783,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Ubberud IF",
+    "postal": "5491",
+    "city": "Blommenslyst",
+    "union": "DBU Fyn",
+    "dbuId": 1514,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Ubby Fri- og Efterskole",
+    "postal": "4490",
+    "city": "Jerslev Sjælland",
+    "union": "DBU Sjælland",
+    "dbuId": 3892,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Uganda Danish Cranes FC",
+    "postal": "2450",
+    "city": "København SV",
+    "union": "DBU København",
+    "dbuId": 3751,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Ugelbølle IF",
+    "postal": "8410",
+    "city": "Rønde",
+    "union": "DBU Jylland",
+    "dbuId": 3133,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Uggerby Idrætsforening",
+    "postal": "9800",
+    "city": "Hjørring",
+    "union": "DBU Jylland",
+    "dbuId": 3678,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Undløse BK",
+    "postal": "4340",
+    "city": "Tølløse",
+    "union": "DBU Sjælland",
+    "dbuId": 1290,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Unge Hjems Efterskole",
+    "postal": "8270",
+    "city": "Højbjerg",
+    "union": "DBU Jylland",
+    "dbuId": 3225,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Ungeuniverset-Vojens",
+    "postal": "6500",
+    "city": "Vojens",
+    "union": "DBU Jylland",
+    "dbuId": 3307,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Unionshold",
+    "postal": "4800",
+    "city": "Nykøbing F",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1670,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "University College Lillebælt Football Club",
+    "postal": "5260",
+    "city": "Odense S",
+    "union": "DBU Fyn",
+    "dbuId": 3840,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "US10 Tårnby",
+    "postal": "2770",
+    "city": "Kastrup",
+    "union": "DBU København",
+    "dbuId": 2373,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Uvelse IF",
+    "postal": "3550",
+    "city": "Slangerup",
+    "union": "DBU Sjælland",
+    "dbuId": 1291,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Valby Boldklub",
+    "postal": "2450",
+    "city": "København SV",
+    "union": "DBU København",
+    "dbuId": 1587,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Vallensbæk IF",
+    "postal": "2625",
+    "city": "Vallensbæk",
+    "union": "DBU Sjælland",
+    "dbuId": 1292,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Vallensved",
+    "postal": "4700",
+    "city": "Næstved",
+    "union": "DBU Sjælland",
+    "dbuId": 2120,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Vandel Efterskole",
+    "postal": "7184",
+    "city": "Vandel",
+    "union": "DBU Jylland",
+    "dbuId": 1894,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Vanløse Idræts Forening",
+    "postal": "2720",
+    "city": "Vanløse",
+    "union": "DBU København",
+    "dbuId": 1588,
+    "region": "Hovedstaden",
+    "logo": "assets/logos/1588.png"
+  },
+  {
+    "name": "Vapnagård FK 72",
+    "postal": "3070",
+    "city": "Snekkersten",
+    "union": "DBU Sjælland",
+    "dbuId": 1295,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Vedersø Efterskole",
+    "postal": "6990",
+    "city": "Ulfborg",
+    "union": "DBU Jylland",
+    "dbuId": 3651,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Veflinge G &  IF",
+    "postal": "5474",
+    "city": "Veflinge",
+    "union": "DBU Fyn",
+    "dbuId": 1518,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Vejby IF",
+    "postal": "3210",
+    "city": "Vejby",
+    "union": "DBU Sjælland",
+    "dbuId": 1298,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Vejen 10.",
+    "postal": "6600",
+    "city": "Vejen",
+    "union": "DBU Jylland",
+    "dbuId": 3781,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Vejle Boldklub",
+    "postal": "7100",
+    "city": "Vejle",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3718,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Vejle Fodbolddommerklub",
+    "postal": "7120",
+    "city": "Vejle Øst",
+    "union": "DBU Jylland",
+    "dbuId": 2094,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Vejle Idrætsefterskole",
+    "postal": "7100",
+    "city": "Vejle",
+    "union": "DBU Jylland",
+    "dbuId": 1941,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Veksø IF",
+    "postal": "3670",
+    "city": "Veksø Sjælland",
+    "union": "DBU Sjælland",
+    "dbuId": 1301,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Vemmelev BK",
+    "postal": "4241",
+    "city": "Vemmelev",
+    "union": "DBU Sjælland",
+    "dbuId": 1303,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Vendsyssel FF",
+    "postal": "9800",
+    "city": "Hjørring",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3733,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Vendsyssel Fodbolddommerklub",
+    "postal": "9700",
+    "city": "Brønderslev",
+    "union": "DBU Jylland",
+    "dbuId": 3349,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Verninge IF",
+    "postal": "5690",
+    "city": "Tommerup",
+    "union": "DBU Fyn",
+    "dbuId": 1519,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Vestbirk Musik- & Sportsefterskole",
+    "postal": "8752",
+    "city": "Østbirk",
+    "union": "DBU Jylland",
+    "dbuId": 1994,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Vesterborg Efterskole",
+    "postal": "4953",
+    "city": "Vesterborg",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 3811,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Vesterbro Alliancen",
+    "postal": "1365",
+    "city": "København K",
+    "union": "DBU København",
+    "dbuId": 1604,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Vesterlund Efterskole",
+    "postal": "7323",
+    "city": "Give",
+    "union": "DBU Jylland",
+    "dbuId": 3107,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Vestsjællands Amts",
+    "postal": "4100",
+    "city": "Ringsted",
+    "union": "DBU Sjælland",
+    "dbuId": 2081,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Vestsjællands idrætsefterskole",
+    "postal": "4281",
+    "city": "Gørlev",
+    "union": "DBU Sjælland",
+    "dbuId": 3947,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Veteranturneringen Sydsjælland-Møn",
+    "postal": "4771",
+    "city": "Kalvehave",
+    "union": "DBU Sjælland",
+    "dbuId": 2159,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Vetterslev-Høm GF",
+    "postal": "4100",
+    "city": "Ringsted",
+    "union": "DBU Sjælland",
+    "dbuId": 1306,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Viborg",
+    "postal": "8800",
+    "city": "Viborg",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3719,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Viborg FF Oldboys 2003",
+    "postal": "8800",
+    "city": "Viborg",
+    "union": "DBU Jylland",
+    "dbuId": 1702,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Vigerslev Boldklub",
+    "postal": "2450",
+    "city": "København SV",
+    "union": "DBU København",
+    "dbuId": 1591,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Viking Fodbold",
+    "postal": "3700",
+    "city": "Rønne",
+    "union": "DBU Bornholm",
+    "dbuId": 1685,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "Vildbjerg Sports- & Kulturcenter",
+    "postal": "7480",
+    "city": "Vildbjerg",
+    "union": "DBU Jylland",
+    "dbuId": 1976,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Vindinge BK",
+    "postal": "5800",
+    "city": "Nyborg",
+    "union": "DBU Fyn",
+    "dbuId": 1523,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Vindinge IF",
+    "postal": "4000",
+    "city": "Roskilde",
+    "union": "DBU Sjælland",
+    "dbuId": 1310,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Vipperød BK",
+    "postal": "4390",
+    "city": "Vipperød",
+    "union": "DBU Sjælland",
+    "dbuId": 1311,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Virum-Sorgenfri BK",
+    "postal": "2830",
+    "city": "Virum",
+    "union": "DBU Sjælland",
+    "dbuId": 1313,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Vissenbjerg G & IF",
+    "postal": "5492",
+    "city": "Vissenbjerg",
+    "union": "DBU Fyn",
+    "dbuId": 1524,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Vittrup Efterskole - Lukket ??",
+    "postal": "9480",
+    "city": "Løkken",
+    "union": "DBU Jylland",
+    "dbuId": 2060,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Vivild Gymnastik- og Idrætsefterskole",
+    "postal": "8961",
+    "city": "Allingåbro",
+    "union": "DBU Jylland",
+    "dbuId": 1946,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Vojens Gymnastik- & Idrætsefterskole",
+    "postal": "6500",
+    "city": "Vojens",
+    "union": "DBU Jylland",
+    "dbuId": 2013,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Vor Frue IF",
+    "postal": "4000",
+    "city": "Roskilde",
+    "union": "DBU Sjælland",
+    "dbuId": 1315,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Vordingborg IF",
+    "postal": "4760",
+    "city": "Vordingborg",
+    "union": "DBU Sjælland",
+    "dbuId": 1314,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Vrigsted Efterskole",
+    "postal": "7140",
+    "city": "Stouby",
+    "union": "DBU Jylland",
+    "dbuId": 3108,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Vrå Undervisningscenter",
+    "postal": "9760",
+    "city": "Vrå",
+    "union": "DBU Jylland",
+    "dbuId": 3057,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Væggerløse BK",
+    "postal": "4873",
+    "city": "Væggerløse",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1667,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Værløse BK",
+    "postal": "3500",
+    "city": "Værløse",
+    "union": "DBU Sjælland",
+    "dbuId": 1317,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Walther F.C.",
+    "postal": "8660",
+    "city": "Skanderborg",
+    "union": "DBU Jylland",
+    "dbuId": 3846,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "ØKF",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 1596,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Ølgod Efterskole",
+    "postal": "6870",
+    "city": "Ølgod",
+    "union": "DBU Jylland",
+    "dbuId": 2166,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Ølsted IF",
+    "postal": "3310",
+    "city": "Ølsted",
+    "union": "DBU Sjælland",
+    "dbuId": 1321,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Ølstykke FC",
+    "postal": "3650",
+    "city": "Ølstykke",
+    "union": "DBU Sjælland",
+    "dbuId": 1322,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Ørestad IF",
+    "postal": "2300",
+    "city": "København S",
+    "union": "DBU København",
+    "dbuId": 3357,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Ørslev GIF (V)",
+    "postal": "4760",
+    "city": "Vordingborg",
+    "union": "DBU Sjælland",
+    "dbuId": 1324,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Ørslev-Bjerge IF",
+    "postal": "4243",
+    "city": "Rude",
+    "union": "DBU Sjælland",
+    "dbuId": 1326,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Ørslev-Solbjerg IF",
+    "postal": "4200",
+    "city": "Slagelse",
+    "union": "DBU Sjælland",
+    "dbuId": 1327,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Øster Ulslev BK",
+    "postal": "4894",
+    "city": "Øster Ulslev",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1668,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Østerbro Idræts Forening",
+    "postal": "2100",
+    "city": "København Ø",
+    "union": "DBU København",
+    "dbuId": 1595,
+    "region": "Hovedstaden",
+    "logo": "assets/logos/1595.png"
+  },
+  {
+    "name": "Østerlars B.",
+    "postal": "3760",
+    "city": "Gudhjem",
+    "union": "DBU Bornholm",
+    "dbuId": 1686,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "Østermarie IF",
+    "postal": "3751",
+    "city": "Østermarie",
+    "union": "DBU Bornholm",
+    "dbuId": 1687,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "Østmøn SGI",
+    "postal": "4780",
+    "city": "Stege",
+    "union": "DBU Sjælland",
+    "dbuId": 1328,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Østofte GIF (PASSIV)",
+    "postal": "4951",
+    "city": "Nørreballe",
+    "union": "DBU Lolland-Falster",
+    "dbuId": 1669,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "AaB",
+    "postal": "9220",
+    "city": "Aalborg Øst",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3698,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Ågård Efterskole",
+    "postal": "6040",
+    "city": "Egtved",
+    "union": "DBU Jylland",
+    "dbuId": 2018,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Aakanden GF",
+    "postal": "2920",
+    "city": "Charlottenlund",
+    "union": "DBU København",
+    "dbuId": 3358,
+    "region": "Hovedstaden",
+    "logo": null
+  },
+  {
+    "name": "Åkirkeby IF",
+    "postal": "3720",
+    "city": "Aakirkeby",
+    "union": "DBU Bornholm",
+    "dbuId": 1688,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "Aalborg Firmaidræt",
+    "postal": "9400",
+    "city": "Nørresundby",
+    "union": "DBU Jylland",
+    "dbuId": 3353,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Aalborg Fodbolddommerklub",
+    "postal": "9530",
+    "city": "Støvring",
+    "union": "DBU Jylland",
+    "dbuId": 3139,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Aalborg Fremad",
+    "postal": "9220",
+    "city": "Aalborg Øst",
+    "union": "DBU Jylland",
+    "dbuId": 3939,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Aalborg Futsal Klub",
+    "postal": "9000",
+    "city": "Aalborg",
+    "union": "DBU Jylland",
+    "dbuId": 3417,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Ålholm IF",
+    "postal": "3400",
+    "city": "Hillerød",
+    "union": "DBU Sjælland",
+    "dbuId": 1329,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Ålum IF",
+    "postal": "8900",
+    "city": "Randers C",
+    "union": "DBU Jylland",
+    "dbuId": 3134,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Årby GI",
+    "postal": "4400",
+    "city": "Kalundborg",
+    "union": "DBU Sjælland",
+    "dbuId": 1330,
+    "region": "Sjælland",
+    "logo": null
+  },
+  {
+    "name": "Aarhus Black Vipers",
+    "postal": "8260",
+    "city": "Viby J",
+    "union": "DBU Jylland",
+    "dbuId": 3818,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Aarhus Fodbolddommerklub",
+    "postal": "8660",
+    "city": "Skanderborg",
+    "union": "DBU Jylland",
+    "dbuId": 2093,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Aarhus Fremad",
+    "postal": "8200",
+    "city": "Aarhus N",
+    "union": "Dansk Boldspil-Union",
+    "dbuId": 3729,
+    "region": "Jylland",
+    "logo": null
+  },
+  {
+    "name": "Aarsballe B.",
+    "postal": "3700",
+    "city": "Rønne",
+    "union": "DBU Bornholm",
+    "dbuId": 1689,
+    "region": "Bornholm",
+    "logo": null
+  },
+  {
+    "name": "Aarslev BK",
+    "postal": "5792",
+    "city": "Årslev",
+    "union": "DBU Fyn",
+    "dbuId": 1528,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Aarup BK",
+    "postal": "5560",
+    "city": "Aarup",
+    "union": "DBU Fyn",
+    "dbuId": 1354,
+    "region": "Fyn",
+    "logo": null
+  },
+  {
+    "name": "Aasum IF",
+    "postal": "5240",
+    "city": "Odense Nø",
+    "union": "DBU Fyn",
+    "dbuId": 1529,
+    "region": "Fyn",
+    "logo": null
+  }
+]

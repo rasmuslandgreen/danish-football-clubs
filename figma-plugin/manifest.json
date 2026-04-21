@@ -1,0 +1,7 @@
+{
+  "name": "Club Badge Generator",
+  "id": "danish-football-clubs-badge-generator",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"]
+}
