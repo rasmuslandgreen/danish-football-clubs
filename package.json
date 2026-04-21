@@ -17,7 +17,5 @@
     "figma":  "node scripts/buildFigmaPlugin.js",
     "logos":  "node scripts/mergeLogos.js && node scripts/buildIndex.js"
   },
-  "devDependencies": {
-    "playwright": "^1.44.0"
-  }
+  "devDependencies": {}
 }
