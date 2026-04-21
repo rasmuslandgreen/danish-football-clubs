@@ -133,6 +133,19 @@ npm run figma    # Generate figma-plugin/code.js for the badge artboard generato
 
 See `SCRAPING.md` for the full update workflow.
 
+### Playwright (scraping only)
+
+Playwright is **not** listed as a dependency — it's only needed locally when re-scraping, and its `postinstall` hook downloads ~300MB of browser binaries which would break `npm install` in consuming projects.
+
+Install it manually before scraping, then remove it when done:
+
+```bash
+npm install playwright
+npx playwright install chromium
+npm run scrape
+npm uninstall playwright
+```
+
 ---
 
 ## Logo workflow
