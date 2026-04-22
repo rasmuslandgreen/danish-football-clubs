@@ -52,13 +52,15 @@ Each club object:
 
 ```json
 {
-  "name":   "Brøndby IF",
-  "city":   "Brøndby",
-  "postal": "2605",
-  "region": "Hovedstaden",
-  "dbuId":  3700,
-  "color":  null,
-  "logo":   null
+  "name":           "Brøndby IF",
+  "city":           "Brøndby",
+  "postal":         "2605",
+  "region":         "Hovedstaden",
+  "dbuId":          3700,
+  "primaryColor":   null,
+  "secondaryColor": null,
+  "kitStyle":       null,
+  "logo":           null
 }
 ```
 
@@ -69,8 +71,31 @@ Each club object:
 | `postal` | Danish 4-digit postal code |
 | `region` | One of: `Hovedstaden`, `Sjælland`, `Fyn`, `Jylland`, `Bornholm` |
 | `dbuId` | Numeric DBU club ID (used as logo filename) |
-| `color` | Brand colour — `null` until manually set |
+| `primaryColor` | Primary brand colour as hex — `null` until manually set |
+| `secondaryColor` | Secondary brand colour as hex — `null` until manually set |
+| `kitStyle` | Kit pattern — `null` until set. One of: `regular`, `vertical-stripes`, `horizontal-stripes`, `half-split` |
 | `logo` | Path to logo file — `null` until added to `assets/logos/` |
+
+### Kit styles
+
+| Value | Description |
+|---|---|
+| `regular` | Solid primary colour, sleeves in secondary |
+| `vertical-stripes` | Vertical stripes alternating primary and secondary |
+| `horizontal-stripes` | Horizontal stripes alternating primary and secondary |
+| `half-split` | Left half primary, right half secondary |
+
+### Logo architecture
+
+Logos are **not** bundled in this library. They live in a separate private store and are served by `dbuId`. Consuming apps provide a base URL and resolve logo URLs at runtime:
+
+```js
+function getLogoUrl(dbuId, baseUrl) {
+  return dbuId ? `${baseUrl}/${dbuId}.png` : null;
+}
+```
+
+This keeps the library open-source and dependency-free while letting each app control its own logo hosting.
 
 ---
 

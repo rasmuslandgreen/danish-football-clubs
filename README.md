@@ -2,6 +2,8 @@
 
 A static dataset and utility library of 696 Danish football clubs, scraped from [dbu.dk](https://www.dbu.dk). Provides consistent club naming, SVG badge fallbacks, and DBU age-group utilities for football apps.
 
+Built for and used in [Opstillingen.dk](https://opstillingen.dk) — a lineup builder for Danish youth football coaches.
+
 ## Installation
 
 ```bash
@@ -70,19 +72,25 @@ getMatchFormat(2014); // '8v8'
 
 ```json
 {
-  "name":   "Brøndby IF",
-  "city":   "Brøndby",
-  "postal": "2605",
-  "region": "Hovedstaden",
-  "dbuId":  3700,
-  "color":  null,
-  "logo":   null
+  "name":           "Brøndby IF",
+  "city":           "Brøndby",
+  "postal":         "2605",
+  "region":         "Hovedstaden",
+  "dbuId":          3700,
+  "primaryColor":   null,
+  "secondaryColor": null,
+  "kitStyle":       null,
+  "logo":           null
 }
 ```
 
-`region` is one of: `Hovedstaden`, `Sjælland`, `Fyn`, `Jylland`, `Bornholm`
-
-`color` and `logo` are `null` for most clubs — see [Logo workflow](#logo-workflow) below.
+| Field | Description |
+|---|---|
+| `region` | One of: `Hovedstaden`, `Sjælland`, `Fyn`, `Jylland`, `Bornholm` |
+| `primaryColor` | Primary brand colour as hex — `null` until set |
+| `secondaryColor` | Secondary brand colour as hex — `null` until set |
+| `kitStyle` | `regular`, `vertical-stripes`, `horizontal-stripes`, or `half-split` — `null` until set |
+| `logo` | Not bundled — logos are served separately by `dbuId` from your own storage |
 
 ## Stored shape (when a user selects a club)
 

@@ -5,7 +5,9 @@ export const clubs = [
     "postal": "8500",
     "region": "Jylland",
     "dbuId": 3653,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -14,7 +16,9 @@ export const clubs = [
     "postal": "6200",
     "region": "Jylland",
     "dbuId": 3777,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -23,7 +27,9 @@ export const clubs = [
     "postal": "7000",
     "region": "Jylland",
     "dbuId": 2826,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -32,7 +38,9 @@ export const clubs = [
     "postal": "2860",
     "region": "Ukendt",
     "dbuId": 3711,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -41,7 +49,9 @@ export const clubs = [
     "postal": "2770",
     "region": "Hovedstaden",
     "dbuId": 1537,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -50,7 +60,9 @@ export const clubs = [
     "postal": "6270",
     "region": "Jylland",
     "dbuId": 1728,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -59,7 +71,9 @@ export const clubs = [
     "postal": "8700",
     "region": "Ukendt",
     "dbuId": 3715,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -68,7 +82,9 @@ export const clubs = [
     "postal": "2200",
     "region": "Hovedstaden",
     "dbuId": 3128,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -77,7 +93,9 @@ export const clubs = [
     "postal": "8586",
     "region": "Jylland",
     "dbuId": 651,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -86,7 +104,9 @@ export const clubs = [
     "postal": "6310",
     "region": "Jylland",
     "dbuId": 2739,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -95,7 +115,9 @@ export const clubs = [
     "postal": "5320",
     "region": "Fyn",
     "dbuId": 2101,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -104,7 +126,9 @@ export const clubs = [
     "postal": "6753",
     "region": "Jylland",
     "dbuId": 747,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -113,7 +137,9 @@ export const clubs = [
     "postal": "6534",
     "region": "Jylland",
     "dbuId": 748,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -122,7 +148,9 @@ export const clubs = [
     "postal": "9330",
     "region": "Jylland",
     "dbuId": 10,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -131,7 +159,9 @@ export const clubs = [
     "postal": "8000",
     "region": "Ukendt",
     "dbuId": 3699,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -140,7 +170,9 @@ export const clubs = [
     "postal": "8260",
     "region": "Jylland",
     "dbuId": 421,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -149,7 +181,9 @@ export const clubs = [
     "postal": "9670",
     "region": "Jylland",
     "dbuId": 11,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -158,7 +192,9 @@ export const clubs = [
     "postal": "2720",
     "region": "Hovedstaden",
     "dbuId": 3449,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -167,7 +203,9 @@ export const clubs = [
     "postal": "8310",
     "region": "Jylland",
     "dbuId": 422,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -176,7 +214,9 @@ export const clubs = [
     "postal": "4671",
     "region": "Sjælland",
     "dbuId": 1251,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -185,7 +225,9 @@ export const clubs = [
     "postal": "7480",
     "region": "Jylland",
     "dbuId": 358,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -194,7 +236,9 @@ export const clubs = [
     "postal": "2620",
     "region": "Sjælland",
     "dbuId": 948,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -203,7 +247,9 @@ export const clubs = [
     "postal": "2620",
     "region": "Sjælland",
     "dbuId": 949,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -212,7 +258,9 @@ export const clubs = [
     "postal": "7470",
     "region": "Jylland",
     "dbuId": 227,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -221,7 +269,9 @@ export const clubs = [
     "postal": "8940",
     "region": "Jylland",
     "dbuId": 585,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -230,7 +280,9 @@ export const clubs = [
     "postal": "4720",
     "region": "Sjælland",
     "dbuId": 950,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -239,7 +291,9 @@ export const clubs = [
     "postal": "3450",
     "region": "Sjælland",
     "dbuId": 1141,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -248,7 +302,9 @@ export const clubs = [
     "postal": "5672",
     "region": "Fyn",
     "dbuId": 1356,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -257,7 +313,9 @@ export const clubs = [
     "postal": "5270",
     "region": "Fyn",
     "dbuId": 1357,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -266,7 +324,9 @@ export const clubs = [
     "postal": "8870",
     "region": "Jylland",
     "dbuId": 435,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -275,7 +335,9 @@ export const clubs = [
     "postal": "3770",
     "region": "Bornholm",
     "dbuId": 1671,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -284,7 +346,9 @@ export const clubs = [
     "postal": "8961",
     "region": "Jylland",
     "dbuId": 436,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -293,7 +357,9 @@ export const clubs = [
     "postal": "6051",
     "region": "Jylland",
     "dbuId": 437,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -302,7 +368,9 @@ export const clubs = [
     "postal": "9560",
     "region": "Jylland",
     "dbuId": 13,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -311,7 +379,9 @@ export const clubs = [
     "postal": "6800",
     "region": "Jylland",
     "dbuId": 750,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -320,7 +390,9 @@ export const clubs = [
     "postal": "4180",
     "region": "Sjælland",
     "dbuId": 951,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -329,7 +401,9 @@ export const clubs = [
     "postal": "3400",
     "region": "Sjælland",
     "dbuId": 952,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -338,7 +412,9 @@ export const clubs = [
     "postal": "2770",
     "region": "Hovedstaden",
     "dbuId": 1538,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -347,7 +423,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 3772,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -356,7 +434,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 624,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -365,7 +445,9 @@ export const clubs = [
     "postal": "6040",
     "region": "Jylland",
     "dbuId": 3276,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -374,7 +456,9 @@ export const clubs = [
     "postal": "6705",
     "region": "Jylland",
     "dbuId": 751,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -383,7 +467,9 @@ export const clubs = [
     "postal": "6600",
     "region": "Jylland",
     "dbuId": 752,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -392,7 +478,9 @@ export const clubs = [
     "postal": "3200",
     "region": "Sjælland",
     "dbuId": 955,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -401,7 +489,9 @@ export const clubs = [
     "postal": "8643",
     "region": "Jylland",
     "dbuId": 197,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -410,7 +500,9 @@ export const clubs = [
     "postal": "6823",
     "region": "Jylland",
     "dbuId": 753,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -419,7 +511,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 3237,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -428,7 +522,9 @@ export const clubs = [
     "postal": "9510",
     "region": "Jylland",
     "dbuId": 14,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -437,7 +533,9 @@ export const clubs = [
     "postal": "9460",
     "region": "Jylland",
     "dbuId": 15,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -446,7 +544,9 @@ export const clubs = [
     "postal": "7400",
     "region": "Jylland",
     "dbuId": 199,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -455,7 +555,9 @@ export const clubs = [
     "postal": "8260",
     "region": "Jylland",
     "dbuId": 3389,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -464,7 +566,9 @@ export const clubs = [
     "postal": "6520",
     "region": "Jylland",
     "dbuId": 3423,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -473,7 +577,9 @@ export const clubs = [
     "postal": "7330",
     "region": "Jylland",
     "dbuId": 2868,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -482,7 +588,9 @@ export const clubs = [
     "postal": "7130",
     "region": "Jylland",
     "dbuId": 439,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -491,7 +599,9 @@ export const clubs = [
     "postal": "8000",
     "region": "Jylland",
     "dbuId": 423,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -500,7 +610,9 @@ export const clubs = [
     "postal": "6600",
     "region": "Jylland",
     "dbuId": 754,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -509,7 +621,9 @@ export const clubs = [
     "postal": "4550",
     "region": "Sjælland",
     "dbuId": 956,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -518,7 +632,9 @@ export const clubs = [
     "postal": "5610",
     "region": "Fyn",
     "dbuId": 1358,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -527,7 +643,9 @@ export const clubs = [
     "postal": "9550",
     "region": "Jylland",
     "dbuId": 589,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -536,7 +654,9 @@ export const clubs = [
     "postal": "9800",
     "region": "Jylland",
     "dbuId": 19,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -545,7 +665,9 @@ export const clubs = [
     "postal": "9340",
     "region": "Jylland",
     "dbuId": 16,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -554,7 +676,9 @@ export const clubs = [
     "postal": "7490",
     "region": "Jylland",
     "dbuId": 200,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -563,7 +687,9 @@ export const clubs = [
     "postal": "8963",
     "region": "Jylland",
     "dbuId": 443,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -572,7 +698,9 @@ export const clubs = [
     "postal": "5800",
     "region": "Fyn",
     "dbuId": 1359,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -581,7 +709,9 @@ export const clubs = [
     "postal": "2610",
     "region": "Ukendt",
     "dbuId": 3720,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -590,7 +720,9 @@ export const clubs = [
     "postal": "2650",
     "region": "Sjælland",
     "dbuId": 959,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -599,7 +731,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Ukendt",
     "dbuId": 3721,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -608,7 +742,9 @@ export const clubs = [
     "postal": "5240",
     "region": "Fyn",
     "dbuId": 1364,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -617,7 +753,9 @@ export const clubs = [
     "postal": "4872",
     "region": "Sjælland",
     "dbuId": 1637,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -626,7 +764,9 @@ export const clubs = [
     "postal": "1950",
     "region": "Jylland",
     "dbuId": 762,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -635,7 +775,9 @@ export const clubs = [
     "postal": "4880",
     "region": "Sjælland",
     "dbuId": 1649,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -644,7 +786,9 @@ export const clubs = [
     "postal": "8983",
     "region": "Jylland",
     "dbuId": 522,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -653,7 +797,9 @@ export const clubs = [
     "postal": "8983",
     "region": "Jylland",
     "dbuId": 3394,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -662,7 +808,9 @@ export const clubs = [
     "postal": "5220",
     "region": "Fyn",
     "dbuId": 1366,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -671,7 +819,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 631,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -680,7 +830,9 @@ export const clubs = [
     "postal": "7800",
     "region": "Jylland",
     "dbuId": 416,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -689,7 +841,9 @@ export const clubs = [
     "postal": "2100",
     "region": "Ukendt",
     "dbuId": 3722,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -698,7 +852,9 @@ export const clubs = [
     "postal": "5000",
     "region": "Fyn",
     "dbuId": 1367,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -707,7 +863,9 @@ export const clubs = [
     "postal": "2730",
     "region": "Sjælland",
     "dbuId": 1069,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -716,7 +874,9 @@ export const clubs = [
     "postal": "4200",
     "region": "Sjælland",
     "dbuId": 1227,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -725,7 +885,9 @@ export const clubs = [
     "postal": "2610",
     "region": "Sjælland",
     "dbuId": 1202,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -734,7 +896,9 @@ export const clubs = [
     "postal": "2830",
     "region": "Sjælland",
     "dbuId": 1312,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -743,7 +907,9 @@ export const clubs = [
     "postal": "4990",
     "region": "Sjælland",
     "dbuId": 1654,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -752,7 +918,9 @@ export const clubs = [
     "postal": "5230",
     "region": "Fyn",
     "dbuId": 1365,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -761,7 +929,9 @@ export const clubs = [
     "postal": "9210",
     "region": "Jylland",
     "dbuId": 3,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -770,7 +940,9 @@ export const clubs = [
     "postal": "2880",
     "region": "Sjælland",
     "dbuId": 961,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -779,7 +951,9 @@ export const clubs = [
     "postal": "9800",
     "region": "Jylland",
     "dbuId": 20,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -788,7 +962,9 @@ export const clubs = [
     "postal": "7182",
     "region": "Jylland",
     "dbuId": 1923,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -797,7 +973,9 @@ export const clubs = [
     "postal": "2750",
     "region": "Sjælland",
     "dbuId": 3921,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -806,7 +984,9 @@ export const clubs = [
     "postal": "2750",
     "region": "Sjælland",
     "dbuId": 2131,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -815,7 +995,9 @@ export const clubs = [
     "postal": "6261",
     "region": "Jylland",
     "dbuId": 756,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -824,7 +1006,9 @@ export const clubs = [
     "postal": "9900",
     "region": "Jylland",
     "dbuId": 21,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -833,7 +1017,9 @@ export const clubs = [
     "postal": "7150",
     "region": "Jylland",
     "dbuId": 446,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -842,7 +1028,9 @@ export const clubs = [
     "postal": "2400",
     "region": "Hovedstaden",
     "dbuId": 3758,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -851,7 +1039,9 @@ export const clubs = [
     "postal": "8330",
     "region": "Jylland",
     "dbuId": 939,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -860,7 +1050,9 @@ export const clubs = [
     "postal": "7755",
     "region": "Jylland",
     "dbuId": 202,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -869,7 +1061,9 @@ export const clubs = [
     "postal": "6240",
     "region": "Jylland",
     "dbuId": 757,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -878,7 +1072,9 @@ export const clubs = [
     "postal": "4100",
     "region": "Sjælland",
     "dbuId": 963,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -887,7 +1083,9 @@ export const clubs = [
     "postal": "6541",
     "region": "Jylland",
     "dbuId": 758,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -896,7 +1094,9 @@ export const clubs = [
     "postal": "2750",
     "region": "Sjælland",
     "dbuId": 1144,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -905,7 +1105,9 @@ export const clubs = [
     "postal": "8783",
     "region": "Jylland",
     "dbuId": 1924,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -914,7 +1116,9 @@ export const clubs = [
     "postal": "9440",
     "region": "Jylland",
     "dbuId": 22,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -923,7 +1127,9 @@ export const clubs = [
     "postal": "6852",
     "region": "Jylland",
     "dbuId": 3688,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -932,7 +1138,9 @@ export const clubs = [
     "postal": "7190",
     "region": "Jylland",
     "dbuId": 761,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -941,7 +1149,9 @@ export const clubs = [
     "postal": "9881",
     "region": "Jylland",
     "dbuId": 23,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -950,7 +1160,9 @@ export const clubs = [
     "postal": "9440",
     "region": "Jylland",
     "dbuId": 24,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -959,7 +1171,9 @@ export const clubs = [
     "postal": "5550",
     "region": "Fyn",
     "dbuId": 1361,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -968,7 +1182,9 @@ export const clubs = [
     "postal": "4943",
     "region": "Sjælland",
     "dbuId": 1624,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -977,7 +1193,9 @@ export const clubs = [
     "postal": "2400",
     "region": "Hovedstaden",
     "dbuId": 1542,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -986,7 +1204,9 @@ export const clubs = [
     "postal": "9800",
     "region": "Jylland",
     "dbuId": 26,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -995,7 +1215,9 @@ export const clubs = [
     "postal": "8800",
     "region": "Jylland",
     "dbuId": 3764,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1004,7 +1226,9 @@ export const clubs = [
     "postal": "8920",
     "region": "Jylland",
     "dbuId": 451,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1013,7 +1237,9 @@ export const clubs = [
     "postal": "8850",
     "region": "Jylland",
     "dbuId": 203,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1022,7 +1248,9 @@ export const clubs = [
     "postal": "6091",
     "region": "Jylland",
     "dbuId": 657,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1031,7 +1259,9 @@ export const clubs = [
     "postal": "2100",
     "region": "Hovedstaden",
     "dbuId": 2215,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1040,7 +1270,9 @@ export const clubs = [
     "postal": "2450",
     "region": "Hovedstaden",
     "dbuId": 2149,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1049,7 +1281,9 @@ export const clubs = [
     "postal": "2680",
     "region": "Sjælland",
     "dbuId": 1237,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1058,7 +1292,9 @@ export const clubs = [
     "postal": "2610",
     "region": "Sjælland",
     "dbuId": 958,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1067,7 +1303,9 @@ export const clubs = [
     "postal": "2450",
     "region": "Ukendt",
     "dbuId": 3742,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1076,7 +1314,9 @@ export const clubs = [
     "postal": "2650",
     "region": "Sjælland",
     "dbuId": 1024,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1085,7 +1325,9 @@ export const clubs = [
     "postal": "5000",
     "region": "Fyn",
     "dbuId": 1470,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1094,7 +1336,9 @@ export const clubs = [
     "postal": "5700",
     "region": "Fyn",
     "dbuId": 1493,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1103,7 +1347,9 @@ export const clubs = [
     "postal": "2610",
     "region": "Sjælland",
     "dbuId": 1304,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1112,7 +1358,9 @@ export const clubs = [
     "postal": "5610",
     "region": "Fyn",
     "dbuId": 1369,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1121,7 +1369,9 @@ export const clubs = [
     "postal": "6705",
     "region": "Jylland",
     "dbuId": 1866,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1130,7 +1380,9 @@ export const clubs = [
     "postal": "5200",
     "region": "Fyn",
     "dbuId": 1486,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1139,7 +1391,9 @@ export const clubs = [
     "postal": "9520",
     "region": "Jylland",
     "dbuId": 27,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1148,7 +1402,9 @@ export const clubs = [
     "postal": "7990",
     "region": "Jylland",
     "dbuId": 3005,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1157,7 +1413,9 @@ export const clubs = [
     "postal": "3230",
     "region": "Sjælland",
     "dbuId": 968,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1166,7 +1424,9 @@ export const clubs = [
     "postal": "3450",
     "region": "Sjælland",
     "dbuId": 969,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1175,7 +1435,9 @@ export const clubs = [
     "postal": "7330",
     "region": "Jylland",
     "dbuId": 1714,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1184,7 +1446,9 @@ export const clubs = [
     "postal": "6880",
     "region": "Jylland",
     "dbuId": 2167,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1193,7 +1457,9 @@ export const clubs = [
     "postal": "4242",
     "region": "Sjælland",
     "dbuId": 970,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1202,7 +1468,9 @@ export const clubs = [
     "postal": "5400",
     "region": "Fyn",
     "dbuId": 1362,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1211,7 +1479,9 @@ export const clubs = [
     "postal": "4793",
     "region": "Sjælland",
     "dbuId": 1625,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1220,7 +1490,9 @@ export const clubs = [
     "postal": "5000",
     "region": "Fyn",
     "dbuId": 1363,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1229,7 +1501,9 @@ export const clubs = [
     "postal": "2900",
     "region": "Hovedstaden",
     "dbuId": 1533,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1238,7 +1512,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 1534,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1247,7 +1523,9 @@ export const clubs = [
     "postal": "2400",
     "region": "Hovedstaden",
     "dbuId": 1536,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1256,7 +1534,9 @@ export const clubs = [
     "postal": "2100",
     "region": "Hovedstaden",
     "dbuId": 1532,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1265,7 +1545,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 1540,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1274,7 +1556,9 @@ export const clubs = [
     "postal": "8210",
     "region": "Jylland",
     "dbuId": 739,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1283,7 +1567,9 @@ export const clubs = [
     "postal": "2200",
     "region": "Hovedstaden",
     "dbuId": 1603,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1292,7 +1578,9 @@ export const clubs = [
     "postal": "5250",
     "region": "Fyn",
     "dbuId": 3161,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1301,7 +1589,9 @@ export const clubs = [
     "postal": "2700",
     "region": "Hovedstaden",
     "dbuId": 1599,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1310,7 +1600,9 @@ export const clubs = [
     "postal": "2450",
     "region": "Hovedstaden",
     "dbuId": 1552,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1319,7 +1611,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 1553,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1328,7 +1622,9 @@ export const clubs = [
     "postal": "2450",
     "region": "Hovedstaden",
     "dbuId": 1554,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1337,7 +1633,9 @@ export const clubs = [
     "postal": "2100",
     "region": "Hovedstaden",
     "dbuId": 1559,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1346,7 +1644,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 1560,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1355,7 +1655,9 @@ export const clubs = [
     "postal": "6960",
     "region": "Jylland",
     "dbuId": 278,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1364,7 +1666,9 @@ export const clubs = [
     "postal": "5000",
     "region": "Fyn",
     "dbuId": 1444,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1373,7 +1677,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 1572,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1382,7 +1688,9 @@ export const clubs = [
     "postal": "2500",
     "region": "Hovedstaden",
     "dbuId": 1573,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1391,7 +1699,9 @@ export const clubs = [
     "postal": "2610",
     "region": "Hovedstaden",
     "dbuId": 1578,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1400,7 +1710,9 @@ export const clubs = [
     "postal": "2100",
     "region": "Hovedstaden",
     "dbuId": 1581,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1409,7 +1721,9 @@ export const clubs = [
     "postal": "2400",
     "region": "Hovedstaden",
     "dbuId": 1582,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1418,7 +1732,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 1584,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1427,7 +1743,9 @@ export const clubs = [
     "postal": "2400",
     "region": "Hovedstaden",
     "dbuId": 1586,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1436,7 +1754,9 @@ export const clubs = [
     "postal": "2450",
     "region": "Hovedstaden",
     "dbuId": 1590,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1445,7 +1765,9 @@ export const clubs = [
     "postal": "6840",
     "region": "Jylland",
     "dbuId": 863,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1454,7 +1776,9 @@ export const clubs = [
     "postal": "2100",
     "region": "Hovedstaden",
     "dbuId": 1592,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1463,7 +1787,9 @@ export const clubs = [
     "postal": "2000",
     "region": "Hovedstaden",
     "dbuId": 1593,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1472,7 +1798,9 @@ export const clubs = [
     "postal": "2200",
     "region": "Hovedstaden",
     "dbuId": 1594,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1481,7 +1809,9 @@ export const clubs = [
     "postal": "7500",
     "region": "Jylland",
     "dbuId": 205,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1490,7 +1820,9 @@ export const clubs = [
     "postal": "7441",
     "region": "Jylland",
     "dbuId": 206,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1499,7 +1831,9 @@ export const clubs = [
     "postal": "8380",
     "region": "Jylland",
     "dbuId": 3131,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1508,7 +1842,9 @@ export const clubs = [
     "postal": "6893",
     "region": "Jylland",
     "dbuId": 207,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1517,7 +1853,9 @@ export const clubs = [
     "postal": "6893",
     "region": "Jylland",
     "dbuId": 3444,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1526,7 +1864,9 @@ export const clubs = [
     "postal": "6900",
     "region": "Jylland",
     "dbuId": 208,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1535,7 +1875,9 @@ export const clubs = [
     "postal": "3070",
     "region": "Sjælland",
     "dbuId": 971,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1544,7 +1886,9 @@ export const clubs = [
     "postal": "8832",
     "region": "Jylland",
     "dbuId": 209,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1553,7 +1897,9 @@ export const clubs = [
     "postal": "4140",
     "region": "Sjælland",
     "dbuId": 972,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1562,7 +1908,9 @@ export const clubs = [
     "postal": "6340",
     "region": "Jylland",
     "dbuId": 763,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1571,7 +1919,9 @@ export const clubs = [
     "postal": "8220",
     "region": "Jylland",
     "dbuId": 455,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1580,7 +1930,9 @@ export const clubs = [
     "postal": "8220",
     "region": "Ukendt",
     "dbuId": 3744,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1589,7 +1941,9 @@ export const clubs = [
     "postal": "6000",
     "region": "Jylland",
     "dbuId": 456,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1598,7 +1952,9 @@ export const clubs = [
     "postal": "6740",
     "region": "Jylland",
     "dbuId": 764,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1607,7 +1963,9 @@ export const clubs = [
     "postal": "6740",
     "region": "Jylland",
     "dbuId": 3338,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1616,7 +1974,9 @@ export const clubs = [
     "postal": "6740",
     "region": "Jylland",
     "dbuId": 2063,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1625,7 +1985,9 @@ export const clubs = [
     "postal": "4070",
     "region": "Sjælland",
     "dbuId": 974,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1634,7 +1996,9 @@ export const clubs = [
     "postal": "7330",
     "region": "Jylland",
     "dbuId": 210,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1643,7 +2007,9 @@ export const clubs = [
     "postal": "4900",
     "region": "Sjælland",
     "dbuId": 1626,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1652,7 +2018,9 @@ export const clubs = [
     "postal": "7120",
     "region": "Jylland",
     "dbuId": 457,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1661,7 +2029,9 @@ export const clubs = [
     "postal": "2800",
     "region": "Sjælland",
     "dbuId": 975,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1670,7 +2040,9 @@ export const clubs = [
     "postal": "6261",
     "region": "Jylland",
     "dbuId": 766,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1679,7 +2051,9 @@ export const clubs = [
     "postal": "7080",
     "region": "Jylland",
     "dbuId": 2813,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1688,7 +2062,9 @@ export const clubs = [
     "postal": "6971",
     "region": "Jylland",
     "dbuId": 2068,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1697,7 +2073,9 @@ export const clubs = [
     "postal": "5464",
     "region": "Fyn",
     "dbuId": 1370,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1706,7 +2084,9 @@ export const clubs = [
     "postal": "6310",
     "region": "Jylland",
     "dbuId": 768,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1715,7 +2095,9 @@ export const clubs = [
     "postal": "5672",
     "region": "Fyn",
     "dbuId": 2652,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1724,7 +2106,9 @@ export const clubs = [
     "postal": "9460",
     "region": "Jylland",
     "dbuId": 30,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1733,7 +2117,9 @@ export const clubs = [
     "postal": "8800",
     "region": "Jylland",
     "dbuId": 212,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1742,7 +2128,9 @@ export const clubs = [
     "postal": "5690",
     "region": "Fyn",
     "dbuId": 1372,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1751,7 +2139,9 @@ export const clubs = [
     "postal": "8654",
     "region": "Jylland",
     "dbuId": 460,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1760,7 +2150,9 @@ export const clubs = [
     "postal": "8740",
     "region": "Jylland",
     "dbuId": 461,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1769,7 +2161,9 @@ export const clubs = [
     "postal": "4733",
     "region": "Sjælland",
     "dbuId": 3468,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1778,7 +2172,9 @@ export const clubs = [
     "postal": "3400",
     "region": "Sjælland",
     "dbuId": 979,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1787,7 +2183,9 @@ export const clubs = [
     "postal": "2605",
     "region": "Ukendt",
     "dbuId": 3700,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1796,7 +2194,9 @@ export const clubs = [
     "postal": "2660",
     "region": "Sjælland",
     "dbuId": 982,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1805,7 +2205,9 @@ export const clubs = [
     "postal": "2605",
     "region": "Sjælland",
     "dbuId": 981,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1814,7 +2216,9 @@ export const clubs = [
     "postal": "9700",
     "region": "Jylland",
     "dbuId": 31,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1823,7 +2227,9 @@ export const clubs = [
     "postal": "2700",
     "region": "Ukendt",
     "dbuId": 3712,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1832,7 +2238,9 @@ export const clubs = [
     "postal": "2700",
     "region": "Hovedstaden",
     "dbuId": 1543,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1841,7 +2249,9 @@ export const clubs = [
     "postal": "6650",
     "region": "Jylland",
     "dbuId": 770,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1850,7 +2260,9 @@ export const clubs = [
     "postal": "8660",
     "region": "Jylland",
     "dbuId": 1943,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1859,7 +2271,9 @@ export const clubs = [
     "postal": "8783",
     "region": "Jylland",
     "dbuId": 3112,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1868,7 +2282,9 @@ export const clubs = [
     "postal": "8700",
     "region": "Jylland",
     "dbuId": 2154,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1877,7 +2293,9 @@ export const clubs = [
     "postal": "6372",
     "region": "Jylland",
     "dbuId": 771,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1886,7 +2304,9 @@ export const clubs = [
     "postal": "6622",
     "region": "Jylland",
     "dbuId": 772,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1895,7 +2315,9 @@ export const clubs = [
     "postal": "9574",
     "region": "Jylland",
     "dbuId": 34,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1904,7 +2326,9 @@ export const clubs = [
     "postal": "1665",
     "region": "Hovedstaden",
     "dbuId": 2230,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1913,7 +2337,9 @@ export const clubs = [
     "postal": "7650",
     "region": "Jylland",
     "dbuId": 1939,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1922,7 +2348,9 @@ export const clubs = [
     "postal": "7650",
     "region": "Jylland",
     "dbuId": 405,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1931,7 +2359,9 @@ export const clubs = [
     "postal": "5466",
     "region": "Fyn",
     "dbuId": 1376,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1940,7 +2370,9 @@ export const clubs = [
     "postal": "4720",
     "region": "Sjælland",
     "dbuId": 987,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1949,7 +2381,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 3880,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1958,7 +2392,9 @@ export const clubs = [
     "postal": "2000",
     "region": "Hovedstaden",
     "dbuId": 1602,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1967,7 +2403,9 @@ export const clubs = [
     "postal": "7000",
     "region": "Jylland",
     "dbuId": 2827,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1976,7 +2414,9 @@ export const clubs = [
     "postal": "6870",
     "region": "Jylland",
     "dbuId": 774,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1985,7 +2425,9 @@ export const clubs = [
     "postal": "2640",
     "region": "Sjælland",
     "dbuId": 3694,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -1994,7 +2436,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 1545,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2003,7 +2447,9 @@ export const clubs = [
     "postal": "8200",
     "region": "Jylland",
     "dbuId": 424,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2012,7 +2458,9 @@ export const clubs = [
     "postal": "6070",
     "region": "Jylland",
     "dbuId": 775,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2021,7 +2469,9 @@ export const clubs = [
     "postal": "1407",
     "region": "Hovedstaden",
     "dbuId": 1544,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2030,7 +2480,9 @@ export const clubs = [
     "postal": "6700",
     "region": "Jylland",
     "dbuId": 835,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2039,7 +2491,9 @@ export const clubs = [
     "postal": "2450",
     "region": "Hovedstaden",
     "dbuId": 3125,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2048,7 +2502,9 @@ export const clubs = [
     "postal": "1610",
     "region": "Hovedstaden",
     "dbuId": 3876,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2057,7 +2513,9 @@ export const clubs = [
     "postal": "2100",
     "region": "Hovedstaden",
     "dbuId": 2099,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2066,7 +2524,9 @@ export const clubs = [
     "postal": "6000",
     "region": "Jylland",
     "dbuId": 462,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2075,7 +2535,9 @@ export const clubs = [
     "postal": "4690",
     "region": "Sjælland",
     "dbuId": 989,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2084,7 +2546,9 @@ export const clubs = [
     "postal": "5380",
     "region": "Fyn",
     "dbuId": 1377,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2093,7 +2557,9 @@ export const clubs = [
     "postal": "3630",
     "region": "Sjælland",
     "dbuId": 990,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2102,7 +2568,9 @@ export const clubs = [
     "postal": "9230",
     "region": "Jylland",
     "dbuId": 35,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": "assets/logos/35.png"
   },
   {
@@ -2111,7 +2579,9 @@ export const clubs = [
     "postal": "5250",
     "region": "Fyn",
     "dbuId": 1378,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": "assets/logos/1378.png"
   },
   {
@@ -2120,7 +2590,9 @@ export const clubs = [
     "postal": "9800",
     "region": "Jylland",
     "dbuId": 3837,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2129,7 +2601,9 @@ export const clubs = [
     "postal": "2650",
     "region": "Hovedstaden",
     "dbuId": 3146,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2138,7 +2612,9 @@ export const clubs = [
     "postal": "6740",
     "region": "Jylland",
     "dbuId": 778,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2147,7 +2623,9 @@ export const clubs = [
     "postal": "8721",
     "region": "Jylland",
     "dbuId": 464,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2156,7 +2634,9 @@ export const clubs = [
     "postal": "8660",
     "region": "Jylland",
     "dbuId": 520,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2165,7 +2645,9 @@ export const clubs = [
     "postal": "6900",
     "region": "Jylland",
     "dbuId": 1940,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2174,7 +2656,9 @@ export const clubs = [
     "postal": "6000",
     "region": "Jylland",
     "dbuId": 454,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2183,7 +2667,9 @@ export const clubs = [
     "postal": "6900",
     "region": "Jylland",
     "dbuId": 2114,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2192,7 +2678,9 @@ export const clubs = [
     "postal": "6900",
     "region": "Jylland",
     "dbuId": 2885,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2201,7 +2689,9 @@ export const clubs = [
     "postal": "2500",
     "region": "Hovedstaden",
     "dbuId": 3362,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2210,7 +2700,9 @@ export const clubs = [
     "postal": "6093",
     "region": "Jylland",
     "dbuId": 1949,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2219,7 +2711,9 @@ export const clubs = [
     "postal": "1364",
     "region": "Hovedstaden",
     "dbuId": 2206,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2228,7 +2722,9 @@ export const clubs = [
     "postal": "6360",
     "region": "Jylland",
     "dbuId": 2771,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2237,7 +2733,9 @@ export const clubs = [
     "postal": "4939",
     "region": "Jylland",
     "dbuId": 1903,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2246,7 +2744,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 3336,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2255,7 +2755,9 @@ export const clubs = [
     "postal": "9000",
     "region": "Jylland",
     "dbuId": 3355,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2264,7 +2766,9 @@ export const clubs = [
     "postal": "6753",
     "region": "Jylland",
     "dbuId": 3341,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2273,7 +2777,9 @@ export const clubs = [
     "postal": "8200",
     "region": "Jylland",
     "dbuId": 459,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2282,7 +2788,9 @@ export const clubs = [
     "postal": "4293",
     "region": "Sjælland",
     "dbuId": 992,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2291,7 +2799,9 @@ export const clubs = [
     "postal": "8250",
     "region": "Jylland",
     "dbuId": 3288,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2300,7 +2810,9 @@ export const clubs = [
     "postal": "8585",
     "region": "Jylland",
     "dbuId": 1999,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2309,7 +2821,9 @@ export const clubs = [
     "postal": "9500",
     "region": "Jylland",
     "dbuId": 37,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2318,7 +2832,9 @@ export const clubs = [
     "postal": "8660",
     "region": "Jylland",
     "dbuId": 1888,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2327,7 +2843,9 @@ export const clubs = [
     "postal": "2791",
     "region": "Hovedstaden",
     "dbuId": 1548,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2336,7 +2854,9 @@ export const clubs = [
     "postal": "5300",
     "region": "Fyn",
     "dbuId": 1381,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2345,7 +2865,9 @@ export const clubs = [
     "postal": "8930",
     "region": "Jylland",
     "dbuId": 467,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2354,7 +2876,9 @@ export const clubs = [
     "postal": "8920",
     "region": "Jylland",
     "dbuId": 3238,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2363,7 +2887,9 @@ export const clubs = [
     "postal": "9330",
     "region": "Jylland",
     "dbuId": 39,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2372,7 +2898,9 @@ export const clubs = [
     "postal": "6400",
     "region": "Jylland",
     "dbuId": 779,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2381,7 +2909,9 @@ export const clubs = [
     "postal": "9352",
     "region": "Jylland",
     "dbuId": 40,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2390,7 +2920,9 @@ export const clubs = [
     "postal": "8220",
     "region": "Jylland",
     "dbuId": 468,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2399,7 +2931,9 @@ export const clubs = [
     "postal": "4880",
     "region": "Sjælland",
     "dbuId": 1627,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2408,7 +2942,9 @@ export const clubs = [
     "postal": "5631",
     "region": "Fyn",
     "dbuId": 1383,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2417,7 +2953,9 @@ export const clubs = [
     "postal": "8400",
     "region": "Jylland",
     "dbuId": 469,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2426,7 +2964,9 @@ export const clubs = [
     "postal": "6880",
     "region": "Jylland",
     "dbuId": 2869,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2435,7 +2975,9 @@ export const clubs = [
     "postal": "8362",
     "region": "Jylland",
     "dbuId": 3759,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2444,7 +2986,9 @@ export const clubs = [
     "postal": "5762",
     "region": "Fyn",
     "dbuId": 1384,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2453,7 +2997,9 @@ export const clubs = [
     "postal": "8700",
     "region": "Jylland",
     "dbuId": 470,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2462,7 +3008,9 @@ export const clubs = [
     "postal": "6430",
     "region": "Jylland",
     "dbuId": 780,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2471,7 +3019,9 @@ export const clubs = [
     "postal": "6310",
     "region": "Jylland",
     "dbuId": 781,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2480,7 +3030,9 @@ export const clubs = [
     "postal": "8000",
     "region": "Jylland",
     "dbuId": 1747,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2489,7 +3041,9 @@ export const clubs = [
     "postal": "6040",
     "region": "Jylland",
     "dbuId": 472,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2498,7 +3052,9 @@ export const clubs = [
     "postal": "2600",
     "region": "Sjælland",
     "dbuId": 1002,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2507,7 +3063,9 @@ export const clubs = [
     "postal": "4623",
     "region": "Sjælland",
     "dbuId": 1001,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2516,7 +3074,9 @@ export const clubs = [
     "postal": "5592",
     "region": "Fyn",
     "dbuId": 1386,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2525,7 +3085,9 @@ export const clubs = [
     "postal": "7830",
     "region": "Jylland",
     "dbuId": 217,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2534,7 +3096,9 @@ export const clubs = [
     "postal": "7361",
     "region": "Jylland",
     "dbuId": 473,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2543,7 +3107,9 @@ export const clubs = [
     "postal": "8700",
     "region": "Jylland",
     "dbuId": 1947,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2552,7 +3118,9 @@ export const clubs = [
     "postal": "3700",
     "region": "Bornholm",
     "dbuId": 2126,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2561,7 +3129,9 @@ export const clubs = [
     "postal": "4652",
     "region": "Sjælland",
     "dbuId": 1004,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2570,7 +3140,9 @@ export const clubs = [
     "postal": "7442",
     "region": "Jylland",
     "dbuId": 218,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2579,7 +3151,9 @@ export const clubs = [
     "postal": "7442",
     "region": "Jylland",
     "dbuId": 219,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2588,7 +3162,9 @@ export const clubs = [
     "postal": "7120",
     "region": "Jylland",
     "dbuId": 474,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2597,7 +3173,9 @@ export const clubs = [
     "postal": "6200",
     "region": "Jylland",
     "dbuId": 784,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2606,7 +3184,9 @@ export const clubs = [
     "postal": "4895",
     "region": "Sjælland",
     "dbuId": 1628,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2615,7 +3195,9 @@ export const clubs = [
     "postal": "7000",
     "region": "Jylland",
     "dbuId": 475,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2624,7 +3206,9 @@ export const clubs = [
     "postal": "6700",
     "region": "Ukendt",
     "dbuId": 3701,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2633,7 +3217,9 @@ export const clubs = [
     "postal": "6700",
     "region": "Jylland",
     "dbuId": 785,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2642,7 +3228,9 @@ export const clubs = [
     "postal": "6705",
     "region": "Jylland",
     "dbuId": 3337,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2651,7 +3239,9 @@ export const clubs = [
     "postal": "6700",
     "region": "Jylland",
     "dbuId": 787,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2660,7 +3250,9 @@ export const clubs = [
     "postal": "4863",
     "region": "Sjælland",
     "dbuId": 1629,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2669,7 +3261,9 @@ export const clubs = [
     "postal": "3060",
     "region": "Sjælland",
     "dbuId": 1005,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2678,7 +3272,9 @@ export const clubs = [
     "postal": "3230",
     "region": "Sjælland",
     "dbuId": 1006,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2687,7 +3283,9 @@ export const clubs = [
     "postal": "7700",
     "region": "Jylland",
     "dbuId": 3340,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2696,7 +3294,9 @@ export const clubs = [
     "postal": "2880",
     "region": "Sjælland",
     "dbuId": 1316,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2705,7 +3305,9 @@ export const clubs = [
     "postal": "5200",
     "region": "Fyn",
     "dbuId": 3367,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2714,7 +3316,9 @@ export const clubs = [
     "postal": "9400",
     "region": "Jylland",
     "dbuId": 3937,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2723,7 +3327,9 @@ export const clubs = [
     "postal": "2000",
     "region": "Hovedstaden",
     "dbuId": 1546,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2732,7 +3338,9 @@ export const clubs = [
     "postal": "7620",
     "region": "Jylland",
     "dbuId": 414,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2741,7 +3349,9 @@ export const clubs = [
     "postal": "5642",
     "region": "Fyn",
     "dbuId": 1392,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2750,7 +3360,9 @@ export const clubs = [
     "postal": "6720",
     "region": "Jylland",
     "dbuId": 789,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2759,7 +3371,9 @@ export const clubs = [
     "postal": "9240",
     "region": "Jylland",
     "dbuId": 43,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2768,7 +3382,9 @@ export const clubs = [
     "postal": "9640",
     "region": "Jylland",
     "dbuId": 3443,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2777,7 +3393,9 @@ export const clubs = [
     "postal": "9640",
     "region": "Jylland",
     "dbuId": 44,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2786,7 +3404,9 @@ export const clubs = [
     "postal": "3520",
     "region": "Sjælland",
     "dbuId": 1008,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2795,7 +3415,9 @@ export const clubs = [
     "postal": "6900",
     "region": "Jylland",
     "dbuId": 221,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2804,7 +3426,9 @@ export const clubs = [
     "postal": "4640",
     "region": "Sjælland",
     "dbuId": 1009,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2813,7 +3437,9 @@ export const clubs = [
     "postal": "4654",
     "region": "Sjælland",
     "dbuId": 1007,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2822,7 +3448,9 @@ export const clubs = [
     "postal": "8260",
     "region": "Jylland",
     "dbuId": 452,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2831,7 +3459,9 @@ export const clubs = [
     "postal": "5000",
     "region": "Fyn",
     "dbuId": 1511,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2840,7 +3470,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 1854,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2849,7 +3481,9 @@ export const clubs = [
     "postal": "5220",
     "region": "Fyn",
     "dbuId": 1893,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2858,7 +3492,9 @@ export const clubs = [
     "postal": "5672",
     "region": "Fyn",
     "dbuId": 1451,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2867,7 +3503,9 @@ export const clubs = [
     "postal": "8260",
     "region": "Jylland",
     "dbuId": 3951,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2876,7 +3514,9 @@ export const clubs = [
     "postal": "5230",
     "region": "Fyn",
     "dbuId": 1388,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2885,7 +3525,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 1607,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2894,7 +3536,9 @@ export const clubs = [
     "postal": "2720",
     "region": "Hovedstaden",
     "dbuId": 1547,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2903,7 +3547,9 @@ export const clubs = [
     "postal": "9400",
     "region": "Jylland",
     "dbuId": 185,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2912,7 +3558,9 @@ export const clubs = [
     "postal": "3400",
     "region": "Sjælland",
     "dbuId": 995,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2921,7 +3569,9 @@ export const clubs = [
     "postal": "7000",
     "region": "Ukendt",
     "dbuId": 3713,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2930,7 +3580,9 @@ export const clubs = [
     "postal": "5600",
     "region": "Fyn",
     "dbuId": 1399,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2939,7 +3591,9 @@ export const clubs = [
     "postal": "2990",
     "region": "Sjælland",
     "dbuId": 3826,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2948,7 +3602,9 @@ export const clubs = [
     "postal": "8585",
     "region": "Jylland",
     "dbuId": 3868,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2957,7 +3613,9 @@ export const clubs = [
     "postal": "3000",
     "region": "Sjælland",
     "dbuId": 1781,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2966,7 +3624,9 @@ export const clubs = [
     "postal": "3000",
     "region": "Ukendt",
     "dbuId": 3745,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2975,7 +3635,9 @@ export const clubs = [
     "postal": "5000",
     "region": "Fyn",
     "dbuId": 1389,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2984,7 +3646,9 @@ export const clubs = [
     "postal": "2840",
     "region": "Sjælland",
     "dbuId": 1764,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -2993,7 +3657,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 3861,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3002,7 +3668,9 @@ export const clubs = [
     "postal": "8700",
     "region": "Jylland",
     "dbuId": 543,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3011,7 +3679,9 @@ export const clubs = [
     "postal": "2650",
     "region": "Sjælland",
     "dbuId": 1091,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3020,7 +3690,9 @@ export const clubs = [
     "postal": "2635",
     "region": "Sjælland",
     "dbuId": 1878,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3029,7 +3701,9 @@ export const clubs = [
     "postal": "3500",
     "region": "Sjælland",
     "dbuId": 977,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3038,7 +3712,9 @@ export const clubs = [
     "postal": "8000",
     "region": "Jylland",
     "dbuId": 453,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3047,7 +3723,9 @@ export const clubs = [
     "postal": "6705",
     "region": "Jylland",
     "dbuId": 791,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3056,7 +3734,9 @@ export const clubs = [
     "postal": "2450",
     "region": "Hovedstaden",
     "dbuId": 3173,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3065,7 +3745,9 @@ export const clubs = [
     "postal": "5700",
     "region": "Fyn",
     "dbuId": 1436,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3074,7 +3756,9 @@ export const clubs = [
     "postal": "2100",
     "region": "Ukendt",
     "dbuId": 3710,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3083,7 +3767,9 @@ export const clubs = [
     "postal": "4320",
     "region": "Sjælland",
     "dbuId": 3422,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3092,7 +3778,9 @@ export const clubs = [
     "postal": "9000",
     "region": "Jylland",
     "dbuId": 111,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3101,7 +3789,9 @@ export const clubs = [
     "postal": "7400",
     "region": "Ukendt",
     "dbuId": 3705,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3110,7 +3800,9 @@ export const clubs = [
     "postal": "4900",
     "region": "Sjælland",
     "dbuId": 3851,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3119,7 +3811,9 @@ export const clubs = [
     "postal": "1152",
     "region": "Hovedstaden",
     "dbuId": 1759,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3128,7 +3822,9 @@ export const clubs = [
     "postal": "3520",
     "region": "Ukendt",
     "dbuId": 3702,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3137,7 +3833,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 1611,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3146,7 +3844,9 @@ export const clubs = [
     "postal": "5250",
     "region": "Fyn",
     "dbuId": 1390,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3155,7 +3855,9 @@ export const clubs = [
     "postal": "2450",
     "region": "Hovedstaden",
     "dbuId": 3169,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3164,7 +3866,9 @@ export const clubs = [
     "postal": "8200",
     "region": "Jylland",
     "dbuId": 728,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3173,7 +3877,9 @@ export const clubs = [
     "postal": "4000",
     "region": "Ukendt",
     "dbuId": 3731,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3182,7 +3888,9 @@ export const clubs = [
     "postal": "8200",
     "region": "Jylland",
     "dbuId": 487,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3191,7 +3899,9 @@ export const clubs = [
     "postal": "2100",
     "region": "Hovedstaden",
     "dbuId": 1535,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3200,7 +3910,9 @@ export const clubs = [
     "postal": "8920",
     "region": "Jylland",
     "dbuId": 482,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3209,7 +3921,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 2143,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3218,7 +3932,9 @@ export const clubs = [
     "postal": "8660",
     "region": "Jylland",
     "dbuId": 555,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3227,7 +3943,9 @@ export const clubs = [
     "postal": "2200",
     "region": "Hovedstaden",
     "dbuId": 3928,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3236,7 +3954,9 @@ export const clubs = [
     "postal": "6705",
     "region": "Jylland",
     "dbuId": 1713,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3245,7 +3965,9 @@ export const clubs = [
     "postal": "4220",
     "region": "Sjælland",
     "dbuId": 2031,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3254,7 +3976,9 @@ export const clubs = [
     "postal": "5700",
     "region": "Fyn",
     "dbuId": 1393,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3263,7 +3987,9 @@ export const clubs = [
     "postal": "6270",
     "region": "Ukendt",
     "dbuId": 3750,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3272,7 +3998,9 @@ export const clubs = [
     "postal": "1173",
     "region": "Hovedstaden",
     "dbuId": 1755,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3281,7 +4009,9 @@ export const clubs = [
     "postal": "4000",
     "region": "Sjælland",
     "dbuId": 3364,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3290,7 +4020,9 @@ export const clubs = [
     "postal": "2630",
     "region": "Sjælland",
     "dbuId": 1318,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3299,7 +4031,9 @@ export const clubs = [
     "postal": "8200",
     "region": "Jylland",
     "dbuId": 2043,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3308,7 +4042,9 @@ export const clubs = [
     "postal": "6100",
     "region": "Jylland",
     "dbuId": 809,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3317,7 +4053,9 @@ export const clubs = [
     "postal": "7540",
     "region": "Jylland",
     "dbuId": 222,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3326,7 +4064,9 @@ export const clubs = [
     "postal": "6200",
     "region": "Jylland",
     "dbuId": 913,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3335,7 +4075,9 @@ export const clubs = [
     "postal": "8200",
     "region": "Jylland",
     "dbuId": 3381,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3344,7 +4086,9 @@ export const clubs = [
     "postal": "8270",
     "region": "Jylland",
     "dbuId": 484,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3353,7 +4097,9 @@ export const clubs = [
     "postal": "3400",
     "region": "Sjælland",
     "dbuId": 1015,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3362,7 +4108,9 @@ export const clubs = [
     "postal": "4000",
     "region": "Sjælland",
     "dbuId": 1779,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3371,7 +4119,9 @@ export const clubs = [
     "postal": "7200",
     "region": "Jylland",
     "dbuId": 792,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3380,7 +4130,9 @@ export const clubs = [
     "postal": "5240",
     "region": "Fyn",
     "dbuId": 3155,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3389,7 +4141,9 @@ export const clubs = [
     "postal": "5463",
     "region": "Fyn",
     "dbuId": 1394,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3398,7 +4152,9 @@ export const clubs = [
     "postal": "6933",
     "region": "Jylland",
     "dbuId": 223,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3407,7 +4163,9 @@ export const clubs = [
     "postal": "6100",
     "region": "Jylland",
     "dbuId": 793,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3416,7 +4174,9 @@ export const clubs = [
     "postal": "9620",
     "region": "Jylland",
     "dbuId": 224,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3425,7 +4185,9 @@ export const clubs = [
     "postal": "9690",
     "region": "Jylland",
     "dbuId": 45,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3434,7 +4196,9 @@ export const clubs = [
     "postal": "5240",
     "region": "Fyn",
     "dbuId": 1395,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3443,7 +4207,9 @@ export const clubs = [
     "postal": "8970",
     "region": "Jylland",
     "dbuId": 490,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3452,7 +4218,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 491,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3461,7 +4229,9 @@ export const clubs = [
     "postal": "4560",
     "region": "Sjælland",
     "dbuId": 2082,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3470,7 +4240,9 @@ export const clubs = [
     "postal": "4700",
     "region": "Sjælland",
     "dbuId": 1750,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3479,7 +4251,9 @@ export const clubs = [
     "postal": "5000",
     "region": "Fyn",
     "dbuId": 1516,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3488,7 +4262,9 @@ export const clubs = [
     "postal": "8210",
     "region": "Jylland",
     "dbuId": 3325,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3497,7 +4273,9 @@ export const clubs = [
     "postal": "9330",
     "region": "Jylland",
     "dbuId": 46,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3506,7 +4284,9 @@ export const clubs = [
     "postal": "5620",
     "region": "Fyn",
     "dbuId": 1396,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3515,7 +4295,9 @@ export const clubs = [
     "postal": "8762",
     "region": "Jylland",
     "dbuId": 1699,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3524,7 +4306,9 @@ export const clubs = [
     "postal": "7900",
     "region": "Jylland",
     "dbuId": 228,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3533,7 +4317,9 @@ export const clubs = [
     "postal": "2640",
     "region": "Sjælland",
     "dbuId": 1019,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3542,7 +4328,9 @@ export const clubs = [
     "postal": "7400",
     "region": "Jylland",
     "dbuId": 3839,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3551,7 +4339,9 @@ export const clubs = [
     "postal": "2720",
     "region": "Hovedstaden",
     "dbuId": 1576,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3560,7 +4350,9 @@ export const clubs = [
     "postal": "4180",
     "region": "Sjælland",
     "dbuId": 1240,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3569,7 +4361,9 @@ export const clubs = [
     "postal": "6510",
     "region": "Jylland",
     "dbuId": 794,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3578,7 +4372,9 @@ export const clubs = [
     "postal": "8381",
     "region": "Jylland",
     "dbuId": 441,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3587,7 +4383,9 @@ export const clubs = [
     "postal": "8310",
     "region": "Jylland",
     "dbuId": 2168,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3596,7 +4394,9 @@ export const clubs = [
     "postal": "8200",
     "region": "Jylland",
     "dbuId": 3132,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3605,7 +4405,9 @@ export const clubs = [
     "postal": "9800",
     "region": "Jylland",
     "dbuId": 47,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3614,7 +4416,9 @@ export const clubs = [
     "postal": "9800",
     "region": "Ukendt",
     "dbuId": 3738,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3623,7 +4427,9 @@ export const clubs = [
     "postal": "5700",
     "region": "Fyn",
     "dbuId": 3162,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3632,7 +4438,9 @@ export const clubs = [
     "postal": "8000",
     "region": "Jylland",
     "dbuId": 941,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3641,7 +4449,9 @@ export const clubs = [
     "postal": "8830",
     "region": "Jylland",
     "dbuId": 226,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3650,7 +4460,9 @@ export const clubs = [
     "postal": "2450",
     "region": "Hovedstaden",
     "dbuId": 1609,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3659,7 +4471,9 @@ export const clubs = [
     "postal": "5220",
     "region": "Fyn",
     "dbuId": 1397,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3668,7 +4482,9 @@ export const clubs = [
     "postal": "3480",
     "region": "Sjælland",
     "dbuId": 1021,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3677,7 +4493,9 @@ export const clubs = [
     "postal": "7000",
     "region": "Jylland",
     "dbuId": 494,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3686,7 +4504,9 @@ export const clubs = [
     "postal": "7000",
     "region": "Jylland",
     "dbuId": 496,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3695,7 +4515,9 @@ export const clubs = [
     "postal": "2000",
     "region": "Hovedstaden",
     "dbuId": 1549,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3704,7 +4526,9 @@ export const clubs = [
     "postal": "2980",
     "region": "Sjælland",
     "dbuId": 2078,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3713,7 +4537,9 @@ export const clubs = [
     "postal": "9900",
     "region": "Jylland",
     "dbuId": 48,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3722,7 +4548,9 @@ export const clubs = [
     "postal": "3600",
     "region": "Sjælland",
     "dbuId": 1022,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3731,7 +4559,9 @@ export const clubs = [
     "postal": "3300",
     "region": "Sjælland",
     "dbuId": 1749,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3740,7 +4570,9 @@ export const clubs = [
     "postal": "8920",
     "region": "Jylland",
     "dbuId": 3252,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3749,7 +4581,9 @@ export const clubs = [
     "postal": "3140",
     "region": "Sjælland",
     "dbuId": 1061,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3758,7 +4592,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Ukendt",
     "dbuId": 3743,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3767,7 +4603,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 3831,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3776,7 +4614,9 @@ export const clubs = [
     "postal": "6780",
     "region": "Jylland",
     "dbuId": 796,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3785,7 +4625,9 @@ export const clubs = [
     "postal": "9550",
     "region": "Jylland",
     "dbuId": 2916,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3794,7 +4636,9 @@ export const clubs = [
     "postal": "6830",
     "region": "Jylland",
     "dbuId": 3445,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3803,7 +4647,9 @@ export const clubs = [
     "postal": "8210",
     "region": "Jylland",
     "dbuId": 427,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3812,7 +4658,9 @@ export const clubs = [
     "postal": "4250",
     "region": "Sjælland",
     "dbuId": 1025,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3821,7 +4669,9 @@ export const clubs = [
     "postal": "6705",
     "region": "Jylland",
     "dbuId": 3684,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3830,7 +4680,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 497,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3839,7 +4691,9 @@ export const clubs = [
     "postal": "7870",
     "region": "Jylland",
     "dbuId": 232,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3848,7 +4702,9 @@ export const clubs = [
     "postal": "3630",
     "region": "Sjælland",
     "dbuId": 3419,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3857,7 +4713,9 @@ export const clubs = [
     "postal": "6064",
     "region": "Jylland",
     "dbuId": 498,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3866,7 +4724,9 @@ export const clubs = [
     "postal": "4591",
     "region": "Sjælland",
     "dbuId": 1026,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3875,7 +4735,9 @@ export const clubs = [
     "postal": "4690",
     "region": "Sjælland",
     "dbuId": 1027,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3884,7 +4746,9 @@ export const clubs = [
     "postal": "6683",
     "region": "Jylland",
     "dbuId": 797,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3893,7 +4757,9 @@ export const clubs = [
     "postal": "6818",
     "region": "Jylland",
     "dbuId": 788,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3902,7 +4768,9 @@ export const clubs = [
     "postal": "4540",
     "region": "Sjælland",
     "dbuId": 1028,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3911,7 +4779,9 @@ export const clubs = [
     "postal": "8882",
     "region": "Jylland",
     "dbuId": 480,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3920,7 +4790,9 @@ export const clubs = [
     "postal": "3400",
     "region": "Sjælland",
     "dbuId": 1029,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3929,7 +4801,9 @@ export const clubs = [
     "postal": "8464",
     "region": "Jylland",
     "dbuId": 501,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3938,7 +4812,9 @@ export const clubs = [
     "postal": "7950",
     "region": "Jylland",
     "dbuId": 2083,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3947,7 +4823,9 @@ export const clubs = [
     "postal": "9362",
     "region": "Jylland",
     "dbuId": 49,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3956,7 +4834,9 @@ export const clubs = [
     "postal": "7080",
     "region": "Jylland",
     "dbuId": 503,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3965,7 +4845,9 @@ export const clubs = [
     "postal": "8751",
     "region": "Jylland",
     "dbuId": 504,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3974,7 +4856,9 @@ export const clubs = [
     "postal": "5591",
     "region": "Fyn",
     "dbuId": 1400,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3983,7 +4867,9 @@ export const clubs = [
     "postal": "6230",
     "region": "Jylland",
     "dbuId": 799,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -3992,7 +4878,9 @@ export const clubs = [
     "postal": "2820",
     "region": "Hovedstaden",
     "dbuId": 1555,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4001,7 +4889,9 @@ export const clubs = [
     "postal": "2820",
     "region": "Hovedstaden",
     "dbuId": 1556,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4010,7 +4900,9 @@ export const clubs = [
     "postal": "6621",
     "region": "Jylland",
     "dbuId": 800,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4019,7 +4911,9 @@ export const clubs = [
     "postal": "4000",
     "region": "Sjælland",
     "dbuId": 1032,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4028,7 +4922,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 526,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4037,7 +4933,9 @@ export const clubs = [
     "postal": "6510",
     "region": "Jylland",
     "dbuId": 804,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4046,7 +4944,9 @@ export const clubs = [
     "postal": "3250",
     "region": "Sjælland",
     "dbuId": 1033,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4055,7 +4955,9 @@ export const clubs = [
     "postal": "2400",
     "region": "Hovedstaden",
     "dbuId": 2035,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4064,7 +4966,9 @@ export const clubs = [
     "postal": "5854",
     "region": "Fyn",
     "dbuId": 1401,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4073,7 +4977,9 @@ export const clubs = [
     "postal": "4532",
     "region": "Sjælland",
     "dbuId": 1034,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4082,7 +4988,9 @@ export const clubs = [
     "postal": "7323",
     "region": "Jylland",
     "dbuId": 505,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4091,7 +4999,9 @@ export const clubs = [
     "postal": "7323",
     "region": "Jylland",
     "dbuId": 506,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4100,7 +5010,9 @@ export const clubs = [
     "postal": "8883",
     "region": "Jylland",
     "dbuId": 507,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4109,7 +5021,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 509,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4118,7 +5032,9 @@ export const clubs = [
     "postal": "9440",
     "region": "Jylland",
     "dbuId": 51,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4127,7 +5043,9 @@ export const clubs = [
     "postal": "2100",
     "region": "Jylland",
     "dbuId": 502,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4136,7 +5054,9 @@ export const clubs = [
     "postal": "2860",
     "region": "Sjælland",
     "dbuId": 1035,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": "assets/logos/1035.png"
   },
   {
@@ -4145,7 +5065,9 @@ export const clubs = [
     "postal": "5620",
     "region": "Fyn",
     "dbuId": 1402,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4154,7 +5076,9 @@ export const clubs = [
     "postal": "6752",
     "region": "Jylland",
     "dbuId": 3352,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4163,7 +5087,9 @@ export const clubs = [
     "postal": "6752",
     "region": "Jylland",
     "dbuId": 802,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4172,7 +5098,9 @@ export const clubs = [
     "postal": "2600",
     "region": "Sjælland",
     "dbuId": 1181,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4181,7 +5109,9 @@ export const clubs = [
     "postal": "2600",
     "region": "Sjælland",
     "dbuId": 1712,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4190,7 +5120,9 @@ export const clubs = [
     "postal": "7361",
     "region": "Jylland",
     "dbuId": 510,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4199,7 +5131,9 @@ export const clubs = [
     "postal": "4171",
     "region": "Sjælland",
     "dbuId": 2119,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4208,7 +5142,9 @@ export const clubs = [
     "postal": "6510",
     "region": "Jylland",
     "dbuId": 2086,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4217,7 +5153,9 @@ export const clubs = [
     "postal": "2750",
     "region": "Sjælland",
     "dbuId": 1039,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4226,7 +5164,9 @@ export const clubs = [
     "postal": "8870",
     "region": "Jylland",
     "dbuId": 3245,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4235,7 +5175,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 511,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4244,7 +5186,9 @@ export const clubs = [
     "postal": "6771",
     "region": "Jylland",
     "dbuId": 805,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4253,7 +5197,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 513,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4262,7 +5208,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 2866,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4271,7 +5219,9 @@ export const clubs = [
     "postal": "8500",
     "region": "Jylland",
     "dbuId": 515,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4280,7 +5230,9 @@ export const clubs = [
     "postal": "2670",
     "region": "Sjælland",
     "dbuId": 1041,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4289,7 +5241,9 @@ export const clubs = [
     "postal": "7200",
     "region": "Jylland",
     "dbuId": 806,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4298,7 +5252,9 @@ export const clubs = [
     "postal": "9310",
     "region": "Jylland",
     "dbuId": 179,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4307,7 +5263,9 @@ export const clubs = [
     "postal": "8382",
     "region": "Jylland",
     "dbuId": 516,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4316,7 +5274,9 @@ export const clubs = [
     "postal": "3230",
     "region": "Sjælland",
     "dbuId": 1043,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4325,7 +5285,9 @@ export const clubs = [
     "postal": "6971",
     "region": "Jylland",
     "dbuId": 234,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4334,7 +5296,9 @@ export const clubs = [
     "postal": "7323",
     "region": "Jylland",
     "dbuId": 517,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4343,7 +5307,9 @@ export const clubs = [
     "postal": "2605",
     "region": "Sjælland",
     "dbuId": 1044,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4352,7 +5318,9 @@ export const clubs = [
     "postal": "6300",
     "region": "Jylland",
     "dbuId": 803,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4361,7 +5329,9 @@ export const clubs = [
     "postal": "8860",
     "region": "Jylland",
     "dbuId": 2017,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4370,7 +5340,9 @@ export const clubs = [
     "postal": "7620",
     "region": "Jylland",
     "dbuId": 235,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4379,7 +5351,9 @@ export const clubs = [
     "postal": "7620",
     "region": "Jylland",
     "dbuId": 306,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4388,7 +5362,9 @@ export const clubs = [
     "postal": "9280",
     "region": "Jylland",
     "dbuId": 53,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4397,7 +5373,9 @@ export const clubs = [
     "postal": "9210",
     "region": "Jylland",
     "dbuId": 54,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4406,7 +5384,9 @@ export const clubs = [
     "postal": "4862",
     "region": "Sjælland",
     "dbuId": 1631,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4415,7 +5395,9 @@ export const clubs = [
     "postal": "7400",
     "region": "Jylland",
     "dbuId": 236,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4424,7 +5406,9 @@ export const clubs = [
     "postal": "9240",
     "region": "Jylland",
     "dbuId": 55,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4433,7 +5417,9 @@ export const clubs = [
     "postal": "4000",
     "region": "Sjælland",
     "dbuId": 1045,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4442,7 +5428,9 @@ export const clubs = [
     "postal": "4000",
     "region": "Sjælland",
     "dbuId": 1046,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4451,7 +5439,9 @@ export const clubs = [
     "postal": "9480",
     "region": "Jylland",
     "dbuId": 94,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4460,7 +5450,9 @@ export const clubs = [
     "postal": "8300",
     "region": "Jylland",
     "dbuId": 518,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4469,7 +5461,9 @@ export const clubs = [
     "postal": "8300",
     "region": "Jylland",
     "dbuId": 2065,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4478,7 +5472,9 @@ export const clubs = [
     "postal": "9900",
     "region": "Jylland",
     "dbuId": 56,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4487,7 +5483,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 3768,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4496,7 +5494,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 519,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4505,7 +5505,9 @@ export const clubs = [
     "postal": "6690",
     "region": "Jylland",
     "dbuId": 807,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4514,7 +5516,9 @@ export const clubs = [
     "postal": "4281",
     "region": "Sjælland",
     "dbuId": 1351,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4523,7 +5527,9 @@ export const clubs = [
     "postal": "4281",
     "region": "Sjælland",
     "dbuId": 1049,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4532,7 +5538,9 @@ export const clubs = [
     "postal": "3330",
     "region": "Sjælland",
     "dbuId": 1050,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4541,7 +5549,9 @@ export const clubs = [
     "postal": "4100",
     "region": "Sjælland",
     "dbuId": 1051,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4550,7 +5560,9 @@ export const clubs = [
     "postal": "7080",
     "region": "Jylland",
     "dbuId": 499,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4559,7 +5571,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 623,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4568,7 +5582,9 @@ export const clubs = [
     "postal": "6100",
     "region": "Jylland",
     "dbuId": 808,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4577,7 +5593,9 @@ export const clubs = [
     "postal": "8370",
     "region": "Jylland",
     "dbuId": 521,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4586,7 +5604,9 @@ export const clubs = [
     "postal": "9560",
     "region": "Jylland",
     "dbuId": 57,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4595,7 +5615,9 @@ export const clubs = [
     "postal": "4300",
     "region": "Sjælland",
     "dbuId": 1052,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4604,7 +5626,9 @@ export const clubs = [
     "postal": "8800",
     "region": "Jylland",
     "dbuId": 1934,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4613,7 +5637,9 @@ export const clubs = [
     "postal": "9370",
     "region": "Jylland",
     "dbuId": 59,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4622,7 +5648,9 @@ export const clubs = [
     "postal": "4900",
     "region": "Sjælland",
     "dbuId": 2600,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4631,7 +5659,9 @@ export const clubs = [
     "postal": "4900",
     "region": "Sjælland",
     "dbuId": 3953,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4640,7 +5670,9 @@ export const clubs = [
     "postal": "8450",
     "region": "Jylland",
     "dbuId": 523,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4649,7 +5681,9 @@ export const clubs = [
     "postal": "8500",
     "region": "Jylland",
     "dbuId": 734,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4658,7 +5692,9 @@ export const clubs = [
     "postal": "6500",
     "region": "Jylland",
     "dbuId": 810,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4667,7 +5703,9 @@ export const clubs = [
     "postal": "7400",
     "region": "Jylland",
     "dbuId": 1930,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4676,7 +5714,9 @@ export const clubs = [
     "postal": "7400",
     "region": "Jylland",
     "dbuId": 238,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4685,7 +5725,9 @@ export const clubs = [
     "postal": "7362",
     "region": "Jylland",
     "dbuId": 524,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4694,7 +5736,9 @@ export const clubs = [
     "postal": "9690",
     "region": "Jylland",
     "dbuId": 3272,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4703,7 +5747,9 @@ export const clubs = [
     "postal": "2100",
     "region": "Hovedstaden",
     "dbuId": 1558,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4712,7 +5758,9 @@ export const clubs = [
     "postal": "6900",
     "region": "Jylland",
     "dbuId": 239,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4721,7 +5769,9 @@ export const clubs = [
     "postal": "7742",
     "region": "Jylland",
     "dbuId": 231,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4730,7 +5780,9 @@ export const clubs = [
     "postal": "7730",
     "region": "Jylland",
     "dbuId": 240,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4739,7 +5791,9 @@ export const clubs = [
     "postal": "7673",
     "region": "Jylland",
     "dbuId": 241,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4748,7 +5802,9 @@ export const clubs = [
     "postal": "7560",
     "region": "Jylland",
     "dbuId": 2115,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4757,7 +5813,9 @@ export const clubs = [
     "postal": "3500",
     "region": "Sjælland",
     "dbuId": 1054,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4766,7 +5824,9 @@ export const clubs = [
     "postal": "8462",
     "region": "Jylland",
     "dbuId": 527,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4775,7 +5835,9 @@ export const clubs = [
     "postal": "6000",
     "region": "Jylland",
     "dbuId": 721,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4784,7 +5846,9 @@ export const clubs = [
     "postal": "4200",
     "region": "Sjælland",
     "dbuId": 1055,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4793,7 +5857,9 @@ export const clubs = [
     "postal": "8210",
     "region": "Jylland",
     "dbuId": 528,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4802,7 +5868,9 @@ export const clubs = [
     "postal": "3790",
     "region": "Bornholm",
     "dbuId": 1673,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4811,7 +5879,9 @@ export const clubs = [
     "postal": "4690",
     "region": "Sjælland",
     "dbuId": 1056,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4820,7 +5890,9 @@ export const clubs = [
     "postal": "4690",
     "region": "Sjælland",
     "dbuId": 3946,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4829,7 +5901,9 @@ export const clubs = [
     "postal": "8700",
     "region": "Jylland",
     "dbuId": 529,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4838,7 +5912,9 @@ export const clubs = [
     "postal": "9600",
     "region": "Jylland",
     "dbuId": 61,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4847,7 +5923,9 @@ export const clubs = [
     "postal": "4622",
     "region": "Sjælland",
     "dbuId": 1058,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4856,7 +5934,9 @@ export const clubs = [
     "postal": "9610",
     "region": "Jylland",
     "dbuId": 62,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4865,7 +5945,9 @@ export const clubs = [
     "postal": "8970",
     "region": "Jylland",
     "dbuId": 531,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4874,7 +5956,9 @@ export const clubs = [
     "postal": "4600",
     "region": "Ukendt",
     "dbuId": 3714,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4883,7 +5967,9 @@ export const clubs = [
     "postal": "8850",
     "region": "Jylland",
     "dbuId": 3942,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4892,7 +5978,9 @@ export const clubs = [
     "postal": "8722",
     "region": "Jylland",
     "dbuId": 532,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4901,7 +5989,9 @@ export const clubs = [
     "postal": "6950",
     "region": "Jylland",
     "dbuId": 243,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4910,7 +6000,9 @@ export const clubs = [
     "postal": "7250",
     "region": "Jylland",
     "dbuId": 812,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4919,7 +6011,9 @@ export const clubs = [
     "postal": "2500",
     "region": "Hovedstaden",
     "dbuId": 1561,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4928,7 +6022,9 @@ export const clubs = [
     "postal": "7130",
     "region": "Jylland",
     "dbuId": 1935,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4937,7 +6033,9 @@ export const clubs = [
     "postal": "2900",
     "region": "Hovedstaden",
     "dbuId": 1562,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4946,7 +6044,9 @@ export const clubs = [
     "postal": "4660",
     "region": "Sjælland",
     "dbuId": 1062,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4955,7 +6055,9 @@ export const clubs = [
     "postal": "6230",
     "region": "Jylland",
     "dbuId": 813,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4964,7 +6066,9 @@ export const clubs = [
     "postal": "3200",
     "region": "Sjælland",
     "dbuId": 1063,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4973,7 +6077,9 @@ export const clubs = [
     "postal": "3000",
     "region": "Sjælland",
     "dbuId": 1065,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4982,7 +6088,9 @@ export const clubs = [
     "postal": "8920",
     "region": "Jylland",
     "dbuId": 534,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -4991,7 +6099,9 @@ export const clubs = [
     "postal": "6854",
     "region": "Jylland",
     "dbuId": 814,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5000,7 +6110,9 @@ export const clubs = [
     "postal": "6920",
     "region": "Jylland",
     "dbuId": 2004,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5009,7 +6121,9 @@ export const clubs = [
     "postal": "4681",
     "region": "Sjælland",
     "dbuId": 1066,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5018,7 +6132,9 @@ export const clubs = [
     "postal": "2730",
     "region": "Sjælland",
     "dbuId": 1068,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5027,7 +6143,9 @@ export const clubs = [
     "postal": "4160",
     "region": "Sjælland",
     "dbuId": 2121,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5036,7 +6154,9 @@ export const clubs = [
     "postal": "4700",
     "region": "Sjælland",
     "dbuId": 1070,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5045,7 +6165,9 @@ export const clubs = [
     "postal": "7480",
     "region": "Jylland",
     "dbuId": 3345,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5054,7 +6176,9 @@ export const clubs = [
     "postal": "7400",
     "region": "Jylland",
     "dbuId": 245,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5063,7 +6187,9 @@ export const clubs = [
     "postal": "7400",
     "region": "Jylland",
     "dbuId": 246,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5072,7 +6198,9 @@ export const clubs = [
     "postal": "7400",
     "region": "Jylland",
     "dbuId": 247,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5081,7 +6209,9 @@ export const clubs = [
     "postal": "5853",
     "region": "Fyn",
     "dbuId": 1407,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5090,7 +6220,9 @@ export const clubs = [
     "postal": "8464",
     "region": "Jylland",
     "dbuId": 535,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5099,7 +6231,9 @@ export const clubs = [
     "postal": "9632",
     "region": "Jylland",
     "dbuId": 250,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5108,7 +6242,9 @@ export const clubs = [
     "postal": "2620",
     "region": "Sjælland",
     "dbuId": 1071,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5117,7 +6253,9 @@ export const clubs = [
     "postal": "5874",
     "region": "Fyn",
     "dbuId": 1410,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5126,7 +6264,9 @@ export const clubs = [
     "postal": "7441",
     "region": "Jylland",
     "dbuId": 2882,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5135,7 +6275,9 @@ export const clubs = [
     "postal": "2900",
     "region": "Ukendt",
     "dbuId": 3723,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5144,7 +6286,9 @@ export const clubs = [
     "postal": "7700",
     "region": "Jylland",
     "dbuId": 251,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5153,7 +6297,9 @@ export const clubs = [
     "postal": "3400",
     "region": "Sjælland",
     "dbuId": 1073,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5162,7 +6308,9 @@ export const clubs = [
     "postal": "4000",
     "region": "Sjælland",
     "dbuId": 1075,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5171,7 +6319,9 @@ export const clubs = [
     "postal": "9610",
     "region": "Jylland",
     "dbuId": 1937,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5180,7 +6330,9 @@ export const clubs = [
     "postal": "9850",
     "region": "Jylland",
     "dbuId": 64,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5189,7 +6341,9 @@ export const clubs = [
     "postal": "8000",
     "region": "Jylland",
     "dbuId": 3124,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5198,7 +6352,9 @@ export const clubs = [
     "postal": "9320",
     "region": "Jylland",
     "dbuId": 65,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5207,7 +6363,9 @@ export const clubs = [
     "postal": "4450",
     "region": "Sjælland",
     "dbuId": 3881,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5216,7 +6374,9 @@ export const clubs = [
     "postal": "5750",
     "region": "Fyn",
     "dbuId": 3944,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5225,7 +6385,9 @@ export const clubs = [
     "postal": "7560",
     "region": "Jylland",
     "dbuId": 252,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5234,7 +6396,9 @@ export const clubs = [
     "postal": "6710",
     "region": "Jylland",
     "dbuId": 925,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5243,7 +6407,9 @@ export const clubs = [
     "postal": "6230",
     "region": "Jylland",
     "dbuId": 815,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5252,7 +6418,9 @@ export const clubs = [
     "postal": "9690",
     "region": "Jylland",
     "dbuId": 66,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5261,7 +6429,9 @@ export const clubs = [
     "postal": "2730",
     "region": "Sjælland",
     "dbuId": 1077,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5270,7 +6440,9 @@ export const clubs = [
     "postal": "9800",
     "region": "Jylland",
     "dbuId": 67,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5279,7 +6451,9 @@ export const clubs = [
     "postal": "9800",
     "region": "Jylland",
     "dbuId": 68,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5288,7 +6462,9 @@ export const clubs = [
     "postal": "9800",
     "region": "Jylland",
     "dbuId": 3051,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5297,7 +6473,9 @@ export const clubs = [
     "postal": "9500",
     "region": "Jylland",
     "dbuId": 69,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5306,7 +6484,9 @@ export const clubs = [
     "postal": "9500",
     "region": "Ukendt",
     "dbuId": 3704,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5315,7 +6495,9 @@ export const clubs = [
     "postal": "7490",
     "region": "Jylland",
     "dbuId": 254,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5324,7 +6506,9 @@ export const clubs = [
     "postal": "8382",
     "region": "Jylland",
     "dbuId": 537,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5333,7 +6517,9 @@ export const clubs = [
     "postal": "4300",
     "region": "Ukendt",
     "dbuId": 3724,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5342,7 +6528,9 @@ export const clubs = [
     "postal": "4300",
     "region": "Sjælland",
     "dbuId": 2540,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5351,7 +6539,9 @@ export const clubs = [
     "postal": "4300",
     "region": "Sjælland",
     "dbuId": 1079,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5360,7 +6550,9 @@ export const clubs = [
     "postal": "6340",
     "region": "Jylland",
     "dbuId": 816,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5369,7 +6561,9 @@ export const clubs = [
     "postal": "4960",
     "region": "Sjælland",
     "dbuId": 1633,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5378,7 +6572,9 @@ export const clubs = [
     "postal": "5220",
     "region": "Fyn",
     "dbuId": 1411,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5387,7 +6583,9 @@ export const clubs = [
     "postal": "6430",
     "region": "Jylland",
     "dbuId": 1743,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5396,7 +6594,9 @@ export const clubs = [
     "postal": "4684",
     "region": "Sjælland",
     "dbuId": 1870,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5405,7 +6605,9 @@ export const clubs = [
     "postal": "4684",
     "region": "Sjælland",
     "dbuId": 1080,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5414,7 +6616,9 @@ export const clubs = [
     "postal": "6950",
     "region": "Jylland",
     "dbuId": 400,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5423,7 +6627,9 @@ export const clubs = [
     "postal": "7500",
     "region": "Jylland",
     "dbuId": 255,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5432,7 +6638,9 @@ export const clubs = [
     "postal": "7620",
     "region": "Jylland",
     "dbuId": 3344,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5441,7 +6649,9 @@ export const clubs = [
     "postal": "6670",
     "region": "Jylland",
     "dbuId": 817,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5450,7 +6660,9 @@ export const clubs = [
     "postal": "2840",
     "region": "Sjælland",
     "dbuId": 1082,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5459,7 +6671,9 @@ export const clubs = [
     "postal": "2840",
     "region": "Sjælland",
     "dbuId": 2360,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5468,7 +6682,9 @@ export const clubs = [
     "postal": "9362",
     "region": "Jylland",
     "dbuId": 70,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5477,7 +6693,9 @@ export const clubs = [
     "postal": "6100",
     "region": "Jylland",
     "dbuId": 818,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5486,7 +6704,9 @@ export const clubs = [
     "postal": "4871",
     "region": "Sjælland",
     "dbuId": 1634,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5495,7 +6715,9 @@ export const clubs = [
     "postal": "3100",
     "region": "Sjælland",
     "dbuId": 1083,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5504,7 +6726,9 @@ export const clubs = [
     "postal": "8920",
     "region": "Jylland",
     "dbuId": 540,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5513,7 +6737,9 @@ export const clubs = [
     "postal": "5600",
     "region": "Fyn",
     "dbuId": 1412,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5522,7 +6748,9 @@ export const clubs = [
     "postal": "6800",
     "region": "Jylland",
     "dbuId": 819,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5531,7 +6759,9 @@ export const clubs = [
     "postal": "9850",
     "region": "Jylland",
     "dbuId": 71,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5540,7 +6770,9 @@ export const clubs = [
     "postal": "8543",
     "region": "Jylland",
     "dbuId": 541,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5549,7 +6781,9 @@ export const clubs = [
     "postal": "9600",
     "region": "Jylland",
     "dbuId": 72,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5558,7 +6792,9 @@ export const clubs = [
     "postal": "8700",
     "region": "Jylland",
     "dbuId": 542,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5567,7 +6803,9 @@ export const clubs = [
     "postal": "8700",
     "region": "Jylland",
     "dbuId": 3346,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5576,7 +6814,9 @@ export const clubs = [
     "postal": "8700",
     "region": "Jylland",
     "dbuId": 546,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5585,7 +6825,9 @@ export const clubs = [
     "postal": "8700",
     "region": "Jylland",
     "dbuId": 545,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5594,7 +6836,9 @@ export const clubs = [
     "postal": "8700",
     "region": "Jylland",
     "dbuId": 547,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5603,7 +6847,9 @@ export const clubs = [
     "postal": "8700",
     "region": "Jylland",
     "dbuId": 3675,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5612,7 +6858,9 @@ export const clubs = [
     "postal": "4913",
     "region": "Sjælland",
     "dbuId": 1635,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5621,7 +6869,9 @@ export const clubs = [
     "postal": "5500",
     "region": "Fyn",
     "dbuId": 1413,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5630,7 +6880,9 @@ export const clubs = [
     "postal": "9370",
     "region": "Jylland",
     "dbuId": 74,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5639,7 +6891,9 @@ export const clubs = [
     "postal": "8300",
     "region": "Jylland",
     "dbuId": 1928,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5648,7 +6902,9 @@ export const clubs = [
     "postal": "8300",
     "region": "Jylland",
     "dbuId": 548,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5657,7 +6913,9 @@ export const clubs = [
     "postal": "8870",
     "region": "Jylland",
     "dbuId": 550,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5666,7 +6924,9 @@ export const clubs = [
     "postal": "8800",
     "region": "Jylland",
     "dbuId": 415,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5675,7 +6935,9 @@ export const clubs = [
     "postal": "6682",
     "region": "Jylland",
     "dbuId": 823,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5684,7 +6946,9 @@ export const clubs = [
     "postal": "8732",
     "region": "Jylland",
     "dbuId": 551,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5693,7 +6957,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 552,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5702,7 +6968,9 @@ export const clubs = [
     "postal": "6971",
     "region": "Jylland",
     "dbuId": 258,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5711,7 +6979,9 @@ export const clubs = [
     "postal": "6230",
     "region": "Jylland",
     "dbuId": 824,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5720,7 +6990,9 @@ export const clubs = [
     "postal": "5932",
     "region": "Fyn",
     "dbuId": 1414,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5729,7 +7001,9 @@ export const clubs = [
     "postal": "3050",
     "region": "Sjælland",
     "dbuId": 1085,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5738,7 +7012,9 @@ export const clubs = [
     "postal": "7700",
     "region": "Jylland",
     "dbuId": 259,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5747,7 +7023,9 @@ export const clubs = [
     "postal": "9800",
     "region": "Jylland",
     "dbuId": 75,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5756,7 +7034,9 @@ export const clubs = [
     "postal": "6740",
     "region": "Jylland",
     "dbuId": 825,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5765,7 +7045,9 @@ export const clubs = [
     "postal": "3390",
     "region": "Sjælland",
     "dbuId": 1086,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5774,7 +7056,9 @@ export const clubs = [
     "postal": "2670",
     "region": "Sjælland",
     "dbuId": 1087,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5783,7 +7067,9 @@ export const clubs = [
     "postal": "9440",
     "region": "Jylland",
     "dbuId": 76,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5792,7 +7078,9 @@ export const clubs = [
     "postal": "7760",
     "region": "Jylland",
     "dbuId": 260,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5801,7 +7089,9 @@ export const clubs = [
     "postal": "2700",
     "region": "Hovedstaden",
     "dbuId": 1563,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5810,7 +7100,9 @@ export const clubs = [
     "postal": "4330",
     "region": "Sjælland",
     "dbuId": 1088,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5819,7 +7111,9 @@ export const clubs = [
     "postal": "4490",
     "region": "Sjælland",
     "dbuId": 1089,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5828,7 +7122,9 @@ export const clubs = [
     "postal": "6760",
     "region": "Jylland",
     "dbuId": 826,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5837,7 +7133,9 @@ export const clubs = [
     "postal": "2650",
     "region": "Hovedstaden",
     "dbuId": 1564,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5846,7 +7144,9 @@ export const clubs = [
     "postal": "2650",
     "region": "Ukendt",
     "dbuId": 3716,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5855,7 +7155,9 @@ export const clubs = [
     "postal": "8660",
     "region": "Jylland",
     "dbuId": 447,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5864,7 +7166,9 @@ export const clubs = [
     "postal": "4573",
     "region": "Sjælland",
     "dbuId": 1094,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5873,7 +7177,9 @@ export const clubs = [
     "postal": "5260",
     "region": "Fyn",
     "dbuId": 1416,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5882,7 +7188,9 @@ export const clubs = [
     "postal": "2860",
     "region": "Sjælland",
     "dbuId": 1095,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5891,7 +7199,9 @@ export const clubs = [
     "postal": "6200",
     "region": "Jylland",
     "dbuId": 928,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5900,7 +7210,9 @@ export const clubs = [
     "postal": "2630",
     "region": "Sjælland",
     "dbuId": 2334,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5909,7 +7221,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 737,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5918,7 +7232,9 @@ export const clubs = [
     "postal": "6280",
     "region": "Jylland",
     "dbuId": 1936,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5927,7 +7243,9 @@ export const clubs = [
     "postal": "6280",
     "region": "Jylland",
     "dbuId": 827,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5936,7 +7254,9 @@ export const clubs = [
     "postal": "7840",
     "region": "Jylland",
     "dbuId": 264,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5945,7 +7265,9 @@ export const clubs = [
     "postal": "6760",
     "region": "Jylland",
     "dbuId": 924,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5954,7 +7276,9 @@ export const clubs = [
     "postal": "4270",
     "region": "Sjælland",
     "dbuId": 2544,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5963,7 +7287,9 @@ export const clubs = [
     "postal": "4270",
     "region": "Sjælland",
     "dbuId": 1097,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5972,7 +7298,9 @@ export const clubs = [
     "postal": "9300",
     "region": "Jylland",
     "dbuId": 2014,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5981,7 +7309,9 @@ export const clubs = [
     "postal": "9300",
     "region": "Jylland",
     "dbuId": 78,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5990,7 +7320,9 @@ export const clubs = [
     "postal": "8960",
     "region": "Jylland",
     "dbuId": 556,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -5999,7 +7331,9 @@ export const clubs = [
     "postal": "8362",
     "region": "Jylland",
     "dbuId": 557,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6008,7 +7342,9 @@ export const clubs = [
     "postal": "2960",
     "region": "Sjælland",
     "dbuId": 1098,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6017,7 +7353,9 @@ export const clubs = [
     "postal": "6470",
     "region": "Jylland",
     "dbuId": 828,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6026,7 +7364,9 @@ export const clubs = [
     "postal": "4534",
     "region": "Sjælland",
     "dbuId": 1099,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6035,7 +7375,9 @@ export const clubs = [
     "postal": "8370",
     "region": "Jylland",
     "dbuId": 705,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6044,7 +7386,9 @@ export const clubs = [
     "postal": "2970",
     "region": "Sjælland",
     "dbuId": 2062,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6053,7 +7397,9 @@ export const clubs = [
     "postal": "5683",
     "region": "Fyn",
     "dbuId": 3933,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6062,7 +7408,9 @@ export const clubs = [
     "postal": "5683",
     "region": "Fyn",
     "dbuId": 1418,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6071,7 +7419,9 @@ export const clubs = [
     "postal": "5471",
     "region": "Fyn",
     "dbuId": 1419,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6080,7 +7430,9 @@ export const clubs = [
     "postal": "4262",
     "region": "Sjælland",
     "dbuId": 3798,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6089,7 +7441,9 @@ export const clubs = [
     "postal": "7500",
     "region": "Jylland",
     "dbuId": 265,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6098,7 +7452,9 @@ export const clubs = [
     "postal": "8220",
     "region": "Jylland",
     "dbuId": 1782,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6107,7 +7463,9 @@ export const clubs = [
     "postal": "4500",
     "region": "Sjælland",
     "dbuId": 3948,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6116,7 +7474,9 @@ export const clubs = [
     "postal": "7500",
     "region": "Jylland",
     "dbuId": 1932,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6125,7 +7485,9 @@ export const clubs = [
     "postal": "9510",
     "region": "Jylland",
     "dbuId": 18,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6134,7 +7496,9 @@ export const clubs = [
     "postal": "9681",
     "region": "Jylland",
     "dbuId": 108,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6143,7 +7507,9 @@ export const clubs = [
     "postal": "2860",
     "region": "Sjælland",
     "dbuId": 986,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6152,7 +7518,9 @@ export const clubs = [
     "postal": "4632",
     "region": "Sjælland",
     "dbuId": 967,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6161,7 +7529,9 @@ export const clubs = [
     "postal": "9430",
     "region": "Jylland",
     "dbuId": 100,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6170,7 +7540,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 1606,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6179,7 +7551,9 @@ export const clubs = [
     "postal": "8450",
     "region": "Jylland",
     "dbuId": 714,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6188,7 +7562,9 @@ export const clubs = [
     "postal": "9220",
     "region": "Jylland",
     "dbuId": 175,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6197,7 +7573,9 @@ export const clubs = [
     "postal": "8270",
     "region": "Jylland",
     "dbuId": 586,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6206,7 +7584,9 @@ export const clubs = [
     "postal": "8550",
     "region": "Jylland",
     "dbuId": 590,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6215,7 +7595,9 @@ export const clubs = [
     "postal": "8420",
     "region": "Jylland",
     "dbuId": 591,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6224,7 +7606,9 @@ export const clubs = [
     "postal": "7900",
     "region": "Jylland",
     "dbuId": 300,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6233,7 +7617,9 @@ export const clubs = [
     "postal": "7700",
     "region": "Jylland",
     "dbuId": 301,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6242,7 +7628,9 @@ export const clubs = [
     "postal": "3460",
     "region": "Sjælland",
     "dbuId": 965,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6251,7 +7639,9 @@ export const clubs = [
     "postal": "9300",
     "region": "Jylland",
     "dbuId": 134,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6260,7 +7650,9 @@ export const clubs = [
     "postal": "4750",
     "region": "Sjælland",
     "dbuId": 1256,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6269,7 +7661,9 @@ export const clubs = [
     "postal": "8830",
     "region": "Jylland",
     "dbuId": 360,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6278,7 +7672,9 @@ export const clubs = [
     "postal": "8550",
     "region": "Jylland",
     "dbuId": 605,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6287,7 +7683,9 @@ export const clubs = [
     "postal": "9610",
     "region": "Jylland",
     "dbuId": 109,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6296,7 +7694,9 @@ export const clubs = [
     "postal": "7430",
     "region": "Jylland",
     "dbuId": 266,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6305,7 +7705,9 @@ export const clubs = [
     "postal": "9480",
     "region": "Jylland",
     "dbuId": 3242,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6314,7 +7716,9 @@ export const clubs = [
     "postal": "9480",
     "region": "Jylland",
     "dbuId": 81,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6323,7 +7727,9 @@ export const clubs = [
     "postal": "2100",
     "region": "Hovedstaden",
     "dbuId": 2207,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6332,7 +7738,9 @@ export const clubs = [
     "postal": "2400",
     "region": "Hovedstaden",
     "dbuId": 2222,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6341,7 +7749,9 @@ export const clubs = [
     "postal": "3320",
     "region": "Sjælland",
     "dbuId": 1226,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6350,7 +7760,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 2234,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6359,7 +7771,9 @@ export const clubs = [
     "postal": "7430",
     "region": "Jylland",
     "dbuId": 268,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6368,7 +7782,9 @@ export const clubs = [
     "postal": "7430",
     "region": "Jylland",
     "dbuId": 3649,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6377,7 +7793,9 @@ export const clubs = [
     "postal": "2610",
     "region": "Sjælland",
     "dbuId": 1104,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6386,7 +7804,9 @@ export const clubs = [
     "postal": "2970",
     "region": "Sjælland",
     "dbuId": 2451,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6395,7 +7815,9 @@ export const clubs = [
     "postal": "8260",
     "region": "Jylland",
     "dbuId": 426,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6404,7 +7826,9 @@ export const clubs = [
     "postal": "6851",
     "region": "Jylland",
     "dbuId": 829,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6413,7 +7837,9 @@ export const clubs = [
     "postal": "6851",
     "region": "Jylland",
     "dbuId": 3687,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6422,7 +7848,9 @@ export const clubs = [
     "postal": "6270",
     "region": "Jylland",
     "dbuId": 831,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6431,7 +7859,9 @@ export const clubs = [
     "postal": "7300",
     "region": "Jylland",
     "dbuId": 561,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6440,7 +7870,9 @@ export const clubs = [
     "postal": "6630",
     "region": "Jylland",
     "dbuId": 832,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6449,7 +7881,9 @@ export const clubs = [
     "postal": "6705",
     "region": "Jylland",
     "dbuId": 833,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6458,7 +7892,9 @@ export const clubs = [
     "postal": "4420",
     "region": "Sjælland",
     "dbuId": 1105,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6467,7 +7903,9 @@ export const clubs = [
     "postal": "6771",
     "region": "Jylland",
     "dbuId": 834,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6476,7 +7914,9 @@ export const clubs = [
     "postal": "9740",
     "region": "Jylland",
     "dbuId": 82,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6485,7 +7925,9 @@ export const clubs = [
     "postal": "9490",
     "region": "Jylland",
     "dbuId": 3657,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6494,7 +7936,9 @@ export const clubs = [
     "postal": "9490",
     "region": "Jylland",
     "dbuId": 84,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6503,7 +7947,9 @@ export const clubs = [
     "postal": "6700",
     "region": "Jylland",
     "dbuId": 3685,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6512,7 +7958,9 @@ export const clubs = [
     "postal": "2720",
     "region": "Hovedstaden",
     "dbuId": 3799,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6521,7 +7969,9 @@ export const clubs = [
     "postal": "7130",
     "region": "Jylland",
     "dbuId": 563,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6530,7 +7980,9 @@ export const clubs = [
     "postal": "4450",
     "region": "Sjælland",
     "dbuId": 1107,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6539,7 +7991,9 @@ export const clubs = [
     "postal": "4040",
     "region": "Sjælland",
     "dbuId": 1108,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6548,7 +8002,9 @@ export const clubs = [
     "postal": "4174",
     "region": "Sjælland",
     "dbuId": 1109,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6557,7 +8013,9 @@ export const clubs = [
     "postal": "2820",
     "region": "Hovedstaden",
     "dbuId": 1565,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6566,7 +8024,9 @@ export const clubs = [
     "postal": "3630",
     "region": "Sjælland",
     "dbuId": 1110,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6575,7 +8035,9 @@ export const clubs = [
     "postal": "1172",
     "region": "Hovedstaden",
     "dbuId": 1557,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6584,7 +8046,9 @@ export const clubs = [
     "postal": "4400",
     "region": "Sjælland",
     "dbuId": 1111,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6593,7 +8057,9 @@ export const clubs = [
     "postal": "4653",
     "region": "Sjælland",
     "dbuId": 1113,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6602,7 +8068,9 @@ export const clubs = [
     "postal": "2690",
     "region": "Sjælland",
     "dbuId": 1115,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6611,7 +8079,9 @@ export const clubs = [
     "postal": "4736",
     "region": "Sjælland",
     "dbuId": 1117,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6620,7 +8090,9 @@ export const clubs = [
     "postal": "6933",
     "region": "Jylland",
     "dbuId": 271,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6629,7 +8101,9 @@ export const clubs = [
     "postal": "7470",
     "region": "Jylland",
     "dbuId": 1955,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6638,7 +8112,9 @@ export const clubs = [
     "postal": "2770",
     "region": "Hovedstaden",
     "dbuId": 1566,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6647,7 +8123,9 @@ export const clubs = [
     "postal": "8200",
     "region": "Jylland",
     "dbuId": 3843,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6656,7 +8134,9 @@ export const clubs = [
     "postal": "5500",
     "region": "Fyn",
     "dbuId": 1422,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6665,7 +8145,9 @@ export const clubs = [
     "postal": "2670",
     "region": "Sjælland",
     "dbuId": 1116,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6674,7 +8156,9 @@ export const clubs = [
     "postal": "9220",
     "region": "Jylland",
     "dbuId": 186,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6683,7 +8167,9 @@ export const clubs = [
     "postal": "3400",
     "region": "Sjælland",
     "dbuId": 1127,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6692,7 +8178,9 @@ export const clubs = [
     "postal": "5560",
     "region": "Fyn",
     "dbuId": 1423,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6701,7 +8189,9 @@ export const clubs = [
     "postal": "5300",
     "region": "Fyn",
     "dbuId": 1424,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6710,7 +8200,9 @@ export const clubs = [
     "postal": "5300",
     "region": "Fyn",
     "dbuId": 2663,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6719,7 +8211,9 @@ export const clubs = [
     "postal": "4000",
     "region": "Sjælland",
     "dbuId": 1198,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6728,7 +8222,9 @@ export const clubs = [
     "postal": "5200",
     "region": "Fyn",
     "dbuId": 1425,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6737,7 +8233,9 @@ export const clubs = [
     "postal": "2400",
     "region": "Hovedstaden",
     "dbuId": 1569,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6746,7 +8244,9 @@ export const clubs = [
     "postal": "6933",
     "region": "Jylland",
     "dbuId": 272,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6755,7 +8255,9 @@ export const clubs = [
     "postal": "5000",
     "region": "Fyn",
     "dbuId": 1426,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6764,7 +8266,9 @@ export const clubs = [
     "postal": "6000",
     "region": "Jylland",
     "dbuId": 3870,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6773,7 +8277,9 @@ export const clubs = [
     "postal": "4281",
     "region": "Sjælland",
     "dbuId": 1121,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6782,7 +8288,9 @@ export const clubs = [
     "postal": "4070",
     "region": "Sjælland",
     "dbuId": 1122,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6791,7 +8299,9 @@ export const clubs = [
     "postal": "5771",
     "region": "Fyn",
     "dbuId": 1427,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6800,7 +8310,9 @@ export const clubs = [
     "postal": "9800",
     "region": "Jylland",
     "dbuId": 3663,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6809,7 +8321,9 @@ export const clubs = [
     "postal": "7800",
     "region": "Jylland",
     "dbuId": 273,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6818,7 +8332,9 @@ export const clubs = [
     "postal": "8620",
     "region": "Jylland",
     "dbuId": 274,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6827,7 +8343,9 @@ export const clubs = [
     "postal": "2000",
     "region": "Hovedstaden",
     "dbuId": 1567,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6836,7 +8354,9 @@ export const clubs = [
     "postal": "8464",
     "region": "Jylland",
     "dbuId": 2087,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6845,7 +8365,9 @@ export const clubs = [
     "postal": "9500",
     "region": "Jylland",
     "dbuId": 345,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6854,7 +8376,9 @@ export const clubs = [
     "postal": "3782",
     "region": "Bornholm",
     "dbuId": 1674,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6863,7 +8387,9 @@ export const clubs = [
     "postal": "7620",
     "region": "Jylland",
     "dbuId": 276,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6872,7 +8398,9 @@ export const clubs = [
     "postal": "5400",
     "region": "Fyn",
     "dbuId": 1428,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6881,7 +8409,9 @@ export const clubs = [
     "postal": "7700",
     "region": "Jylland",
     "dbuId": 277,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6890,7 +8420,9 @@ export const clubs = [
     "postal": "9320",
     "region": "Jylland",
     "dbuId": 85,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6899,7 +8431,9 @@ export const clubs = [
     "postal": "6240",
     "region": "Jylland",
     "dbuId": 3371,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6908,7 +8442,9 @@ export const clubs = [
     "postal": "8765",
     "region": "Jylland",
     "dbuId": 565,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6917,7 +8453,9 @@ export const clubs = [
     "postal": "2500",
     "region": "Hovedstaden",
     "dbuId": 3833,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6926,7 +8464,9 @@ export const clubs = [
     "postal": "2605",
     "region": "Sjælland",
     "dbuId": 1851,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6935,7 +8475,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 1568,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6944,7 +8486,9 @@ export const clubs = [
     "postal": "3700",
     "region": "Bornholm",
     "dbuId": 1675,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6953,7 +8497,9 @@ export const clubs = [
     "postal": "2980",
     "region": "Sjælland",
     "dbuId": 1837,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6962,7 +8508,9 @@ export const clubs = [
     "postal": "7752",
     "region": "Jylland",
     "dbuId": 279,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6971,7 +8519,9 @@ export const clubs = [
     "postal": "6000",
     "region": "Jylland",
     "dbuId": 566,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6980,7 +8530,9 @@ export const clubs = [
     "postal": "6000",
     "region": "Jylland",
     "dbuId": 567,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6989,7 +8541,9 @@ export const clubs = [
     "postal": "6000",
     "region": "Jylland",
     "dbuId": 1938,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -6998,7 +8552,9 @@ export const clubs = [
     "postal": "8560",
     "region": "Jylland",
     "dbuId": 569,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7007,7 +8563,9 @@ export const clubs = [
     "postal": "8361",
     "region": "Jylland",
     "dbuId": 570,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7016,7 +8574,9 @@ export const clubs = [
     "postal": "7470",
     "region": "Jylland",
     "dbuId": 2084,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7025,7 +8585,9 @@ export const clubs = [
     "postal": "9293",
     "region": "Jylland",
     "dbuId": 86,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7034,7 +8596,9 @@ export const clubs = [
     "postal": "5600",
     "region": "Fyn",
     "dbuId": 1429,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7043,7 +8607,9 @@ export const clubs = [
     "postal": "8700",
     "region": "Jylland",
     "dbuId": 571,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7052,7 +8618,9 @@ export const clubs = [
     "postal": "8382",
     "region": "Jylland",
     "dbuId": 572,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7061,7 +8629,9 @@ export const clubs = [
     "postal": "2450",
     "region": "Hovedstaden",
     "dbuId": 3667,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7070,7 +8640,9 @@ export const clubs = [
     "postal": "5300",
     "region": "Fyn",
     "dbuId": 1431,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7079,7 +8651,9 @@ export const clubs = [
     "postal": "3500",
     "region": "Sjælland",
     "dbuId": 1123,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7088,7 +8662,9 @@ export const clubs = [
     "postal": "8723",
     "region": "Jylland",
     "dbuId": 1989,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7097,7 +8673,9 @@ export const clubs = [
     "postal": "5750",
     "region": "Fyn",
     "dbuId": 1432,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7106,7 +8684,9 @@ export const clubs = [
     "postal": "8960",
     "region": "Jylland",
     "dbuId": 573,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7115,7 +8695,9 @@ export const clubs = [
     "postal": "7200",
     "region": "Jylland",
     "dbuId": 840,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7124,7 +8706,9 @@ export const clubs = [
     "postal": "6870",
     "region": "Jylland",
     "dbuId": 3686,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7133,7 +8717,9 @@ export const clubs = [
     "postal": "2200",
     "region": "Hovedstaden",
     "dbuId": 3650,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7142,7 +8728,9 @@ export const clubs = [
     "postal": "5210",
     "region": "Fyn",
     "dbuId": 1430,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7151,7 +8739,9 @@ export const clubs = [
     "postal": "4520",
     "region": "Sjælland",
     "dbuId": 1130,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7160,7 +8750,9 @@ export const clubs = [
     "postal": "6705",
     "region": "Jylland",
     "dbuId": 841,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7169,7 +8761,9 @@ export const clubs = [
     "postal": "6760",
     "region": "Jylland",
     "dbuId": 880,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7178,7 +8772,9 @@ export const clubs = [
     "postal": "9620",
     "region": "Jylland",
     "dbuId": 280,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7187,7 +8783,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 2124,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7196,7 +8794,9 @@ export const clubs = [
     "postal": "9900",
     "region": "Jylland",
     "dbuId": 184,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7205,7 +8805,9 @@ export const clubs = [
     "postal": "3490",
     "region": "Sjælland",
     "dbuId": 1131,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7214,7 +8816,9 @@ export const clubs = [
     "postal": "6800",
     "region": "Jylland",
     "dbuId": 842,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7223,7 +8827,9 @@ export const clubs = [
     "postal": "4100",
     "region": "Sjælland",
     "dbuId": 1132,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7232,7 +8838,9 @@ export const clubs = [
     "postal": "5772",
     "region": "Fyn",
     "dbuId": 1437,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7241,7 +8849,9 @@ export const clubs = [
     "postal": "6300",
     "region": "Jylland",
     "dbuId": 922,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7250,7 +8860,9 @@ export const clubs = [
     "postal": "8983",
     "region": "Jylland",
     "dbuId": 3376,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7259,7 +8871,9 @@ export const clubs = [
     "postal": "9000",
     "region": "Jylland",
     "dbuId": 3117,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7268,7 +8882,9 @@ export const clubs = [
     "postal": "2000",
     "region": "Hovedstaden",
     "dbuId": 2088,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7277,7 +8893,9 @@ export const clubs = [
     "postal": "2750",
     "region": "Sjælland",
     "dbuId": 2079,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7286,7 +8904,9 @@ export const clubs = [
     "postal": "4600",
     "region": "Sjælland",
     "dbuId": 1133,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7295,7 +8915,9 @@ export const clubs = [
     "postal": "4600",
     "region": "Sjælland",
     "dbuId": 1961,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7304,7 +8926,9 @@ export const clubs = [
     "postal": "4600",
     "region": "Sjælland",
     "dbuId": 1194,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7313,7 +8937,9 @@ export const clubs = [
     "postal": "4600",
     "region": "Sjælland",
     "dbuId": 1125,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7322,7 +8948,9 @@ export const clubs = [
     "postal": "7400",
     "region": "Jylland",
     "dbuId": 281,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7331,7 +8959,9 @@ export const clubs = [
     "postal": "4773",
     "region": "Sjælland",
     "dbuId": 3230,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7340,7 +8970,9 @@ export const clubs = [
     "postal": "5550",
     "region": "Fyn",
     "dbuId": 1438,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7349,7 +8981,9 @@ export const clubs = [
     "postal": "9310",
     "region": "Jylland",
     "dbuId": 73,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7358,7 +8992,9 @@ export const clubs = [
     "postal": "5540",
     "region": "Fyn",
     "dbuId": 1439,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7367,7 +9003,9 @@ export const clubs = [
     "postal": "8870",
     "region": "Jylland",
     "dbuId": 575,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7376,7 +9014,9 @@ export const clubs = [
     "postal": "2765",
     "region": "Sjælland",
     "dbuId": 1135,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7385,7 +9025,9 @@ export const clubs = [
     "postal": "2650",
     "region": "Sjælland",
     "dbuId": 1136,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7394,7 +9036,9 @@ export const clubs = [
     "postal": "4320",
     "region": "Sjælland",
     "dbuId": 1137,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7403,7 +9047,9 @@ export const clubs = [
     "postal": "4600",
     "region": "Sjælland",
     "dbuId": 1138,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7412,7 +9058,9 @@ export const clubs = [
     "postal": "6940",
     "region": "Jylland",
     "dbuId": 283,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7421,7 +9069,9 @@ export const clubs = [
     "postal": "8632",
     "region": "Jylland",
     "dbuId": 578,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7430,7 +9080,9 @@ export const clubs = [
     "postal": "7620",
     "region": "Jylland",
     "dbuId": 284,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7439,7 +9091,9 @@ export const clubs = [
     "postal": "9870",
     "region": "Jylland",
     "dbuId": 89,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7448,7 +9102,9 @@ export const clubs = [
     "postal": "8620",
     "region": "Jylland",
     "dbuId": 1948,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7457,7 +9113,9 @@ export const clubs = [
     "postal": "7620",
     "region": "Jylland",
     "dbuId": 409,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7466,7 +9124,9 @@ export const clubs = [
     "postal": "7400",
     "region": "Jylland",
     "dbuId": 285,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7475,7 +9135,9 @@ export const clubs = [
     "postal": "7600",
     "region": "Jylland",
     "dbuId": 286,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7484,7 +9146,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 580,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7493,7 +9157,9 @@ export const clubs = [
     "postal": "6660",
     "region": "Jylland",
     "dbuId": 843,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7502,7 +9168,9 @@ export const clubs = [
     "postal": "2730",
     "region": "Sjælland",
     "dbuId": 1142,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7511,7 +9179,9 @@ export const clubs = [
     "postal": "8200",
     "region": "Jylland",
     "dbuId": 701,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7520,7 +9190,9 @@ export const clubs = [
     "postal": "4800",
     "region": "Sjælland",
     "dbuId": 1640,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7529,7 +9201,9 @@ export const clubs = [
     "postal": "7990",
     "region": "Jylland",
     "dbuId": 288,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7538,7 +9212,9 @@ export const clubs = [
     "postal": "9260",
     "region": "Jylland",
     "dbuId": 91,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7547,7 +9223,9 @@ export const clubs = [
     "postal": "7620",
     "region": "Jylland",
     "dbuId": 1933,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7556,7 +9234,9 @@ export const clubs = [
     "postal": "5900",
     "region": "Fyn",
     "dbuId": 1441,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7565,7 +9245,9 @@ export const clubs = [
     "postal": "2765",
     "region": "Sjælland",
     "dbuId": 3261,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7574,7 +9256,9 @@ export const clubs = [
     "postal": "5270",
     "region": "Fyn",
     "dbuId": 1442,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7583,7 +9267,9 @@ export const clubs = [
     "postal": "8700",
     "region": "Jylland",
     "dbuId": 582,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7592,7 +9278,9 @@ export const clubs = [
     "postal": "4750",
     "region": "Sjælland",
     "dbuId": 2637,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7601,7 +9289,9 @@ export const clubs = [
     "postal": "6830",
     "region": "Jylland",
     "dbuId": 844,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7610,7 +9300,9 @@ export const clubs = [
     "postal": "9800",
     "region": "Jylland",
     "dbuId": 183,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7619,7 +9311,9 @@ export const clubs = [
     "postal": "6640",
     "region": "Jylland",
     "dbuId": 583,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7628,7 +9322,9 @@ export const clubs = [
     "postal": "6640",
     "region": "Jylland",
     "dbuId": 1993,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7637,7 +9333,9 @@ export const clubs = [
     "postal": "6200",
     "region": "Jylland",
     "dbuId": 845,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7646,7 +9344,9 @@ export const clubs = [
     "postal": "2800",
     "region": "Sjælland",
     "dbuId": 1145,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7655,7 +9355,9 @@ export const clubs = [
     "postal": "2800",
     "region": "Ukendt",
     "dbuId": 3717,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7664,7 +9366,9 @@ export const clubs = [
     "postal": "2800",
     "region": "Sjælland",
     "dbuId": 1146,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7673,7 +9377,9 @@ export const clubs = [
     "postal": "4180",
     "region": "Sjælland",
     "dbuId": 1148,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7682,7 +9388,9 @@ export const clubs = [
     "postal": "3540",
     "region": "Sjælland",
     "dbuId": 1149,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7691,7 +9399,9 @@ export const clubs = [
     "postal": "7790",
     "region": "Jylland",
     "dbuId": 1931,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7700,7 +9410,9 @@ export const clubs = [
     "postal": "9300",
     "region": "Jylland",
     "dbuId": 92,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7709,7 +9421,9 @@ export const clubs = [
     "postal": "6470",
     "region": "Jylland",
     "dbuId": 847,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7718,7 +9432,9 @@ export const clubs = [
     "postal": "8520",
     "region": "Jylland",
     "dbuId": 587,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7727,7 +9443,9 @@ export const clubs = [
     "postal": "6600",
     "region": "Jylland",
     "dbuId": 848,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7736,7 +9454,9 @@ export const clubs = [
     "postal": "2640",
     "region": "Sjælland",
     "dbuId": 2330,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7745,7 +9465,9 @@ export const clubs = [
     "postal": "8831",
     "region": "Jylland",
     "dbuId": 291,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7754,7 +9476,9 @@ export const clubs = [
     "postal": "9670",
     "region": "Jylland",
     "dbuId": 93,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7763,7 +9487,9 @@ export const clubs = [
     "postal": "6240",
     "region": "Jylland",
     "dbuId": 849,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7772,7 +9498,9 @@ export const clubs = [
     "postal": "6240",
     "region": "Jylland",
     "dbuId": 1990,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7781,7 +9509,9 @@ export const clubs = [
     "postal": "6200",
     "region": "Jylland",
     "dbuId": 850,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7790,7 +9520,9 @@ export const clubs = [
     "postal": "8723",
     "region": "Jylland",
     "dbuId": 588,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7799,7 +9531,9 @@ export const clubs = [
     "postal": "4270",
     "region": "Sjælland",
     "dbuId": 1150,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7808,7 +9542,9 @@ export const clubs = [
     "postal": "8830",
     "region": "Jylland",
     "dbuId": 292,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7817,7 +9553,9 @@ export const clubs = [
     "postal": "8670",
     "region": "Jylland",
     "dbuId": 574,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7826,7 +9564,9 @@ export const clubs = [
     "postal": "8850",
     "region": "Jylland",
     "dbuId": 398,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7835,7 +9575,9 @@ export const clubs = [
     "postal": "9550",
     "region": "Jylland",
     "dbuId": 2915,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7844,7 +9586,9 @@ export const clubs = [
     "postal": "9550",
     "region": "Jylland",
     "dbuId": 723,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7853,7 +9597,9 @@ export const clubs = [
     "postal": "4930",
     "region": "Sjælland",
     "dbuId": 1641,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7862,7 +9608,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 600,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7871,7 +9619,9 @@ export const clubs = [
     "postal": "5290",
     "region": "Fyn",
     "dbuId": 1445,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7880,7 +9630,9 @@ export const clubs = [
     "postal": "5960",
     "region": "Fyn",
     "dbuId": 1446,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7889,7 +9641,9 @@ export const clubs = [
     "postal": "7500",
     "region": "Jylland",
     "dbuId": 293,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7898,7 +9652,9 @@ export const clubs = [
     "postal": "9610",
     "region": "Jylland",
     "dbuId": 3655,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7907,7 +9663,9 @@ export const clubs = [
     "postal": "7500",
     "region": "Jylland",
     "dbuId": 294,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7916,7 +9674,9 @@ export const clubs = [
     "postal": "3370",
     "region": "Sjælland",
     "dbuId": 1151,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7925,7 +9685,9 @@ export const clubs = [
     "postal": "8930",
     "region": "Jylland",
     "dbuId": 2164,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7934,7 +9696,9 @@ export const clubs = [
     "postal": "4735",
     "region": "Sjælland",
     "dbuId": 1152,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7943,7 +9707,9 @@ export const clubs = [
     "postal": "5500",
     "region": "Fyn",
     "dbuId": 1447,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7952,7 +9718,9 @@ export const clubs = [
     "postal": "6440",
     "region": "Jylland",
     "dbuId": 855,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7961,7 +9729,9 @@ export const clubs = [
     "postal": "7361",
     "region": "Jylland",
     "dbuId": 3110,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7970,7 +9740,9 @@ export const clubs = [
     "postal": "7840",
     "region": "Jylland",
     "dbuId": 3343,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7979,7 +9751,9 @@ export const clubs = [
     "postal": "4250",
     "region": "Sjælland",
     "dbuId": 2545,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7988,7 +9762,9 @@ export const clubs = [
     "postal": "2750",
     "region": "Sjælland",
     "dbuId": 1154,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -7997,7 +9773,9 @@ export const clubs = [
     "postal": "6100",
     "region": "Jylland",
     "dbuId": 1895,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8006,7 +9784,9 @@ export const clubs = [
     "postal": "5462",
     "region": "Fyn",
     "dbuId": 1448,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8015,7 +9795,9 @@ export const clubs = [
     "postal": "9490",
     "region": "Jylland",
     "dbuId": 95,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8024,7 +9806,9 @@ export const clubs = [
     "postal": "2670",
     "region": "Sjælland",
     "dbuId": 1155,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8033,7 +9817,9 @@ export const clubs = [
     "postal": "6800",
     "region": "Jylland",
     "dbuId": 851,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8042,7 +9828,9 @@ export const clubs = [
     "postal": "9280",
     "region": "Jylland",
     "dbuId": 96,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8051,7 +9839,9 @@ export const clubs = [
     "postal": "5330",
     "region": "Fyn",
     "dbuId": 1449,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8060,7 +9850,9 @@ export const clubs = [
     "postal": "6000",
     "region": "Jylland",
     "dbuId": 1852,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8069,7 +9861,9 @@ export const clubs = [
     "postal": "6270",
     "region": "Jylland",
     "dbuId": 852,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8078,7 +9872,9 @@ export const clubs = [
     "postal": "9632",
     "region": "Jylland",
     "dbuId": 296,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8087,7 +9883,9 @@ export const clubs = [
     "postal": "4780",
     "region": "Sjælland",
     "dbuId": 1158,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8096,7 +9894,9 @@ export const clubs = [
     "postal": "8800",
     "region": "Jylland",
     "dbuId": 297,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8105,7 +9905,9 @@ export const clubs = [
     "postal": "8544",
     "region": "Jylland",
     "dbuId": 592,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8114,7 +9916,9 @@ export const clubs = [
     "postal": "2860",
     "region": "Sjælland",
     "dbuId": 1276,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8123,7 +9927,9 @@ export const clubs = [
     "postal": "4440",
     "region": "Sjælland",
     "dbuId": 1159,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8132,7 +9938,9 @@ export const clubs = [
     "postal": "7500",
     "region": "Jylland",
     "dbuId": 397,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8141,7 +9949,9 @@ export const clubs = [
     "postal": "2760",
     "region": "Sjælland",
     "dbuId": 1160,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8150,7 +9960,9 @@ export const clubs = [
     "postal": "3200",
     "region": "Sjælland",
     "dbuId": 1161,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8159,7 +9971,9 @@ export const clubs = [
     "postal": "7500",
     "region": "Jylland",
     "dbuId": 298,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8168,7 +9982,9 @@ export const clubs = [
     "postal": "8200",
     "region": "Jylland",
     "dbuId": 593,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8177,7 +9993,9 @@ export const clubs = [
     "postal": "2750",
     "region": "Sjælland",
     "dbuId": 1162,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8186,7 +10004,9 @@ export const clubs = [
     "postal": "2650",
     "region": "Sjælland",
     "dbuId": 3819,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8195,7 +10015,9 @@ export const clubs = [
     "postal": "3730",
     "region": "Bornholm",
     "dbuId": 1676,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8204,7 +10026,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 3416,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8213,7 +10037,9 @@ export const clubs = [
     "postal": "9240",
     "region": "Jylland",
     "dbuId": 97,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8222,7 +10048,9 @@ export const clubs = [
     "postal": "8370",
     "region": "Jylland",
     "dbuId": 594,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8231,7 +10059,9 @@ export const clubs = [
     "postal": "8740",
     "region": "Jylland",
     "dbuId": 595,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8240,7 +10070,9 @@ export const clubs = [
     "postal": "5450",
     "region": "Fyn",
     "dbuId": 2713,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8249,7 +10081,9 @@ export const clubs = [
     "postal": "2990",
     "region": "Sjælland",
     "dbuId": 1163,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8258,7 +10092,9 @@ export const clubs = [
     "postal": "6430",
     "region": "Jylland",
     "dbuId": 854,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8267,7 +10103,9 @@ export const clubs = [
     "postal": "6430",
     "region": "Jylland",
     "dbuId": 2752,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8276,7 +10114,9 @@ export const clubs = [
     "postal": "8930",
     "region": "Jylland",
     "dbuId": 3385,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8285,7 +10125,9 @@ export const clubs = [
     "postal": "6800",
     "region": "Jylland",
     "dbuId": 856,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8294,7 +10136,9 @@ export const clubs = [
     "postal": "4840",
     "region": "Sjælland",
     "dbuId": 1644,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8303,7 +10147,9 @@ export const clubs = [
     "postal": "3200",
     "region": "Sjælland",
     "dbuId": 2422,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8312,7 +10158,9 @@ export const clubs = [
     "postal": "7950",
     "region": "Jylland",
     "dbuId": 3342,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8321,7 +10169,9 @@ export const clubs = [
     "postal": "7950",
     "region": "Jylland",
     "dbuId": 302,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8330,7 +10180,9 @@ export const clubs = [
     "postal": "7700",
     "region": "Jylland",
     "dbuId": 303,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8339,7 +10191,9 @@ export const clubs = [
     "postal": "6440",
     "region": "Jylland",
     "dbuId": 857,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8348,7 +10202,9 @@ export const clubs = [
     "postal": "6000",
     "region": "Jylland",
     "dbuId": 597,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8357,7 +10213,9 @@ export const clubs = [
     "postal": "7500",
     "region": "Jylland",
     "dbuId": 305,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8366,7 +10224,9 @@ export const clubs = [
     "postal": "9293",
     "region": "Jylland",
     "dbuId": 102,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8375,7 +10235,9 @@ export const clubs = [
     "postal": "5792",
     "region": "Fyn",
     "dbuId": 1452,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8384,7 +10246,9 @@ export const clubs = [
     "postal": "6830",
     "region": "Jylland",
     "dbuId": 861,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8393,7 +10257,9 @@ export const clubs = [
     "postal": "7620",
     "region": "Jylland",
     "dbuId": 2066,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8402,7 +10268,9 @@ export const clubs = [
     "postal": "5792",
     "region": "Fyn",
     "dbuId": 1453,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8411,7 +10279,9 @@ export const clubs = [
     "postal": "6920",
     "region": "Jylland",
     "dbuId": 308,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8420,7 +10290,9 @@ export const clubs = [
     "postal": "5580",
     "region": "Fyn",
     "dbuId": 1454,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8429,7 +10301,9 @@ export const clubs = [
     "postal": "8800",
     "region": "Jylland",
     "dbuId": 411,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8438,7 +10312,9 @@ export const clubs = [
     "postal": "6500",
     "region": "Jylland",
     "dbuId": 858,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8447,7 +10323,9 @@ export const clubs = [
     "postal": "4900",
     "region": "Sjælland",
     "dbuId": 1951,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8456,7 +10334,9 @@ export const clubs = [
     "postal": "5800",
     "region": "Fyn",
     "dbuId": 1456,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8465,7 +10345,9 @@ export const clubs = [
     "postal": "3700",
     "region": "Bornholm",
     "dbuId": 1677,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8474,7 +10356,9 @@ export const clubs = [
     "postal": "4800",
     "region": "Sjælland",
     "dbuId": 3404,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8483,7 +10367,9 @@ export const clubs = [
     "postal": "4800",
     "region": "Ukendt",
     "dbuId": 3746,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8492,7 +10378,9 @@ export const clubs = [
     "postal": "4500",
     "region": "Sjælland",
     "dbuId": 1167,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8501,7 +10389,9 @@ export const clubs = [
     "postal": "4760",
     "region": "Sjælland",
     "dbuId": 1168,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8510,7 +10400,9 @@ export const clubs = [
     "postal": "4880",
     "region": "Sjælland",
     "dbuId": 2614,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8519,7 +10411,9 @@ export const clubs = [
     "postal": "6800",
     "region": "Jylland",
     "dbuId": 860,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8528,7 +10422,9 @@ export const clubs = [
     "postal": "5270",
     "region": "Ukendt",
     "dbuId": 3726,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8537,7 +10433,9 @@ export const clubs = [
     "postal": "5270",
     "region": "Fyn",
     "dbuId": 1457,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8546,7 +10444,9 @@ export const clubs = [
     "postal": "4700",
     "region": "Ukendt",
     "dbuId": 3727,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8555,7 +10455,9 @@ export const clubs = [
     "postal": "4700",
     "region": "Sjælland",
     "dbuId": 1170,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8564,7 +10466,9 @@ export const clubs = [
     "postal": "4700",
     "region": "Sjælland",
     "dbuId": 1171,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8573,7 +10477,9 @@ export const clubs = [
     "postal": "2500",
     "region": "Hovedstaden",
     "dbuId": 3734,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8582,7 +10488,9 @@ export const clubs = [
     "postal": "3480",
     "region": "Sjælland",
     "dbuId": 1173,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8591,7 +10499,9 @@ export const clubs = [
     "postal": "8961",
     "region": "Jylland",
     "dbuId": 596,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8600,7 +10510,9 @@ export const clubs = [
     "postal": "9610",
     "region": "Jylland",
     "dbuId": 99,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8609,7 +10521,9 @@ export const clubs = [
     "postal": "8990",
     "region": "Jylland",
     "dbuId": 2930,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8618,7 +10532,9 @@ export const clubs = [
     "postal": "4840",
     "region": "Sjælland",
     "dbuId": 1650,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8627,7 +10543,9 @@ export const clubs = [
     "postal": "8766",
     "region": "Jylland",
     "dbuId": 598,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8636,7 +10554,9 @@ export const clubs = [
     "postal": "5580",
     "region": "Fyn",
     "dbuId": 3887,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8645,7 +10565,9 @@ export const clubs = [
     "postal": "2100",
     "region": "Hovedstaden",
     "dbuId": 2089,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8654,7 +10576,9 @@ export const clubs = [
     "postal": "2200",
     "region": "Hovedstaden",
     "dbuId": 1987,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8663,7 +10587,9 @@ export const clubs = [
     "postal": "9400",
     "region": "Jylland",
     "dbuId": 90,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8672,7 +10598,9 @@ export const clubs = [
     "postal": "9260",
     "region": "Jylland",
     "dbuId": 193,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8681,7 +10609,9 @@ export const clubs = [
     "postal": "7480",
     "region": "Jylland",
     "dbuId": 2064,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8690,7 +10620,9 @@ export const clubs = [
     "postal": "5200",
     "region": "Ukendt",
     "dbuId": 3706,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8699,7 +10631,9 @@ export const clubs = [
     "postal": "5000",
     "region": "Fyn",
     "dbuId": 3938,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8708,7 +10642,9 @@ export const clubs = [
     "postal": "4700",
     "region": "Sjælland",
     "dbuId": 2157,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8717,7 +10653,9 @@ export const clubs = [
     "postal": "7860",
     "region": "Jylland",
     "dbuId": 401,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8726,7 +10664,9 @@ export const clubs = [
     "postal": "8300",
     "region": "Jylland",
     "dbuId": 602,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8735,7 +10675,9 @@ export const clubs = [
     "postal": "5000",
     "region": "Fyn",
     "dbuId": 1458,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8744,7 +10686,9 @@ export const clubs = [
     "postal": "4540",
     "region": "Sjælland",
     "dbuId": 2523,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8753,7 +10697,9 @@ export const clubs = [
     "postal": "6760",
     "region": "Jylland",
     "dbuId": 862,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8762,7 +10708,9 @@ export const clubs = [
     "postal": "8920",
     "region": "Jylland",
     "dbuId": 2106,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8771,7 +10719,9 @@ export const clubs = [
     "postal": "4780",
     "region": "Sjælland",
     "dbuId": 2158,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8780,7 +10730,9 @@ export const clubs = [
     "postal": "9560",
     "region": "Jylland",
     "dbuId": 173,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8789,7 +10741,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 3144,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8798,7 +10752,9 @@ export const clubs = [
     "postal": "5960",
     "region": "Fyn",
     "dbuId": 1464,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8807,7 +10763,9 @@ export const clubs = [
     "postal": "9500",
     "region": "Jylland",
     "dbuId": 105,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8816,7 +10774,9 @@ export const clubs = [
     "postal": "2750",
     "region": "Sjælland",
     "dbuId": 2295,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8825,7 +10785,9 @@ export const clubs = [
     "postal": "5400",
     "region": "Fyn",
     "dbuId": 1465,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8834,7 +10796,9 @@ export const clubs = [
     "postal": "3600",
     "region": "Sjælland",
     "dbuId": 1177,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8843,7 +10807,9 @@ export const clubs = [
     "postal": "2610",
     "region": "Sjælland",
     "dbuId": 1178,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8852,7 +10818,9 @@ export const clubs = [
     "postal": "4320",
     "region": "Sjælland",
     "dbuId": 3223,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8861,7 +10829,9 @@ export const clubs = [
     "postal": "4320",
     "region": "Sjælland",
     "dbuId": 1179,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8870,7 +10840,9 @@ export const clubs = [
     "postal": "5450",
     "region": "Fyn",
     "dbuId": 1467,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8879,7 +10851,9 @@ export const clubs = [
     "postal": "5883",
     "region": "Fyn",
     "dbuId": 1468,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8888,7 +10862,9 @@ export const clubs = [
     "postal": "6855",
     "region": "Jylland",
     "dbuId": 865,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8897,7 +10873,9 @@ export const clubs = [
     "postal": "7400",
     "region": "Jylland",
     "dbuId": 1848,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8906,7 +10884,9 @@ export const clubs = [
     "postal": "6500",
     "region": "Jylland",
     "dbuId": 866,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8915,7 +10895,9 @@ export const clubs = [
     "postal": "8800",
     "region": "Jylland",
     "dbuId": 309,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8924,7 +10906,9 @@ export const clubs = [
     "postal": "4760",
     "region": "Sjælland",
     "dbuId": 3690,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8933,7 +10917,9 @@ export const clubs = [
     "postal": "1620",
     "region": "Hovedstaden",
     "dbuId": 1760,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8942,7 +10928,9 @@ export const clubs = [
     "postal": "3720",
     "region": "Bornholm",
     "dbuId": 1679,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8951,7 +10939,9 @@ export const clubs = [
     "postal": "4943",
     "region": "Sjælland",
     "dbuId": 2599,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8960,7 +10950,9 @@ export const clubs = [
     "postal": "7130",
     "region": "Jylland",
     "dbuId": 3586,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8969,7 +10961,9 @@ export const clubs = [
     "postal": "2450",
     "region": "Hovedstaden",
     "dbuId": 1574,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8978,7 +10972,9 @@ export const clubs = [
     "postal": "3730",
     "region": "Bornholm",
     "dbuId": 1680,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8987,7 +10983,9 @@ export const clubs = [
     "postal": "9760",
     "region": "Jylland",
     "dbuId": 188,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -8996,7 +10994,9 @@ export const clubs = [
     "postal": "8260",
     "region": "Jylland",
     "dbuId": 609,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9005,7 +11005,9 @@ export const clubs = [
     "postal": "4720",
     "region": "Sjælland",
     "dbuId": 1185,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9014,7 +11016,9 @@ export const clubs = [
     "postal": "9700",
     "region": "Jylland",
     "dbuId": 106,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9023,7 +11027,9 @@ export const clubs = [
     "postal": "8990",
     "region": "Jylland",
     "dbuId": 607,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9032,7 +11038,9 @@ export const clubs = [
     "postal": "4990",
     "region": "Sjælland",
     "dbuId": 1651,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9041,7 +11049,9 @@ export const clubs = [
     "postal": "4400",
     "region": "Sjælland",
     "dbuId": 1186,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9050,7 +11060,9 @@ export const clubs = [
     "postal": "3200",
     "region": "Sjælland",
     "dbuId": 1187,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9059,7 +11071,9 @@ export const clubs = [
     "postal": "7620",
     "region": "Jylland",
     "dbuId": 310,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9068,7 +11082,9 @@ export const clubs = [
     "postal": "8900",
     "region": "Jylland",
     "dbuId": 3228,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9077,7 +11093,9 @@ export const clubs = [
     "postal": "8920",
     "region": "Ukendt",
     "dbuId": 3707,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9086,7 +11104,9 @@ export const clubs = [
     "postal": "8920",
     "region": "Jylland",
     "dbuId": 3347,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9095,7 +11115,9 @@ export const clubs = [
     "postal": "8920",
     "region": "Jylland",
     "dbuId": 610,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9104,7 +11126,9 @@ export const clubs = [
     "postal": "8920",
     "region": "Jylland",
     "dbuId": 611,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9113,7 +11137,9 @@ export const clubs = [
     "postal": "8300",
     "region": "Jylland",
     "dbuId": 613,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9122,7 +11148,9 @@ export const clubs = [
     "postal": "9681",
     "region": "Jylland",
     "dbuId": 2059,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9131,7 +11159,9 @@ export const clubs = [
     "postal": "8763",
     "region": "Jylland",
     "dbuId": 614,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9140,7 +11170,9 @@ export const clubs = [
     "postal": "8800",
     "region": "Jylland",
     "dbuId": 311,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9149,7 +11181,9 @@ export const clubs = [
     "postal": "6372",
     "region": "Jylland",
     "dbuId": 867,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9158,7 +11192,9 @@ export const clubs = [
     "postal": "9520",
     "region": "Jylland",
     "dbuId": 1991,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9167,7 +11203,9 @@ export const clubs = [
     "postal": "2650",
     "region": "Sjælland",
     "dbuId": 1188,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9176,7 +11214,9 @@ export const clubs = [
     "postal": "2640",
     "region": "Sjælland",
     "dbuId": 1189,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9185,7 +11225,9 @@ export const clubs = [
     "postal": "6780",
     "region": "Jylland",
     "dbuId": 1776,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9194,7 +11236,9 @@ export const clubs = [
     "postal": "7600",
     "region": "Jylland",
     "dbuId": 312,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9203,7 +11247,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 618,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9212,7 +11258,9 @@ export const clubs = [
     "postal": "6760",
     "region": "Jylland",
     "dbuId": 869,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9221,7 +11269,9 @@ export const clubs = [
     "postal": "8660",
     "region": "Jylland",
     "dbuId": 619,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9230,7 +11280,9 @@ export const clubs = [
     "postal": "2500",
     "region": "Hovedstaden",
     "dbuId": 1577,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9239,7 +11291,9 @@ export const clubs = [
     "postal": "6950",
     "region": "Jylland",
     "dbuId": 313,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9248,7 +11302,9 @@ export const clubs = [
     "postal": "5750",
     "region": "Fyn",
     "dbuId": 1472,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9257,7 +11313,9 @@ export const clubs = [
     "postal": "5750",
     "region": "Fyn",
     "dbuId": 3943,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9266,7 +11324,9 @@ export const clubs = [
     "postal": "6950",
     "region": "Jylland",
     "dbuId": 315,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9275,7 +11335,9 @@ export const clubs = [
     "postal": "4100",
     "region": "Sjælland",
     "dbuId": 1192,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9284,7 +11346,9 @@ export const clubs = [
     "postal": "4100",
     "region": "Sjælland",
     "dbuId": 1191,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9293,7 +11357,9 @@ export const clubs = [
     "postal": "6300",
     "region": "Jylland",
     "dbuId": 2003,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9302,7 +11368,9 @@ export const clubs = [
     "postal": "5970",
     "region": "Fyn",
     "dbuId": 1475,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9311,7 +11379,9 @@ export const clubs = [
     "postal": "9270",
     "region": "Jylland",
     "dbuId": 110,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9320,7 +11390,9 @@ export const clubs = [
     "postal": "4640",
     "region": "Sjælland",
     "dbuId": 1195,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9329,7 +11401,9 @@ export const clubs = [
     "postal": "5863",
     "region": "Fyn",
     "dbuId": 1477,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9338,7 +11412,9 @@ export const clubs = [
     "postal": "8960",
     "region": "Jylland",
     "dbuId": 727,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9347,7 +11423,9 @@ export const clubs = [
     "postal": "9500",
     "region": "Jylland",
     "dbuId": 41,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9356,7 +11434,9 @@ export const clubs = [
     "postal": "2650",
     "region": "Sjælland",
     "dbuId": 1196,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9365,7 +11445,9 @@ export const clubs = [
     "postal": "4000",
     "region": "Sjælland",
     "dbuId": 1197,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9374,7 +11456,9 @@ export const clubs = [
     "postal": "4000",
     "region": "Sjælland",
     "dbuId": 3696,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9383,7 +11467,9 @@ export const clubs = [
     "postal": "7870",
     "region": "Jylland",
     "dbuId": 316,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9392,7 +11478,9 @@ export const clubs = [
     "postal": "4983",
     "region": "Sjælland",
     "dbuId": 1652,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9401,7 +11489,9 @@ export const clubs = [
     "postal": "5900",
     "region": "Fyn",
     "dbuId": 1478,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9410,7 +11500,9 @@ export const clubs = [
     "postal": "4291",
     "region": "Sjælland",
     "dbuId": 1200,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9419,7 +11511,9 @@ export const clubs = [
     "postal": "8660",
     "region": "Jylland",
     "dbuId": 620,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9428,7 +11522,9 @@ export const clubs = [
     "postal": "7830",
     "region": "Jylland",
     "dbuId": 317,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9437,7 +11533,9 @@ export const clubs = [
     "postal": "5856",
     "region": "Fyn",
     "dbuId": 1479,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9446,7 +11544,9 @@ export const clubs = [
     "postal": "4970",
     "region": "Sjælland",
     "dbuId": 1653,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9455,7 +11555,9 @@ export const clubs = [
     "postal": "6630",
     "region": "Jylland",
     "dbuId": 870,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9464,7 +11566,9 @@ export const clubs = [
     "postal": "8830",
     "region": "Jylland",
     "dbuId": 318,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9473,7 +11577,9 @@ export const clubs = [
     "postal": "8381",
     "region": "Jylland",
     "dbuId": 3137,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9482,7 +11588,9 @@ export const clubs = [
     "postal": "5000",
     "region": "Fyn",
     "dbuId": 1480,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9491,7 +11599,9 @@ export const clubs = [
     "postal": "4000",
     "region": "Sjælland",
     "dbuId": 1201,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9500,7 +11610,9 @@ export const clubs = [
     "postal": "7800",
     "region": "Jylland",
     "dbuId": 394,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9509,7 +11621,9 @@ export const clubs = [
     "postal": "6230",
     "region": "Jylland",
     "dbuId": 871,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9518,7 +11632,9 @@ export const clubs = [
     "postal": "8840",
     "region": "Jylland",
     "dbuId": 319,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9527,7 +11643,9 @@ export const clubs = [
     "postal": "4673",
     "region": "Sjælland",
     "dbuId": 1203,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9536,7 +11654,9 @@ export const clubs = [
     "postal": "7800",
     "region": "Jylland",
     "dbuId": 320,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9545,7 +11665,9 @@ export const clubs = [
     "postal": "8410",
     "region": "Jylland",
     "dbuId": 1944,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9554,7 +11676,9 @@ export const clubs = [
     "postal": "3700",
     "region": "Bornholm",
     "dbuId": 1956,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9563,7 +11687,9 @@ export const clubs = [
     "postal": "3700",
     "region": "Bornholm",
     "dbuId": 1682,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9572,7 +11698,9 @@ export const clubs = [
     "postal": "4700",
     "region": "Sjælland",
     "dbuId": 1204,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9581,7 +11709,9 @@ export const clubs = [
     "postal": "4683",
     "region": "Sjælland",
     "dbuId": 1205,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9590,7 +11720,9 @@ export const clubs = [
     "postal": "3450",
     "region": "Sjælland",
     "dbuId": 1206,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9599,7 +11731,9 @@ export const clubs = [
     "postal": "4400",
     "region": "Sjælland",
     "dbuId": 1207,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9608,7 +11742,9 @@ export const clubs = [
     "postal": "9500",
     "region": "Jylland",
     "dbuId": 112,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9617,7 +11753,9 @@ export const clubs = [
     "postal": "4581",
     "region": "Sjælland",
     "dbuId": 1208,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9626,7 +11764,9 @@ export const clubs = [
     "postal": "5240",
     "region": "Fyn",
     "dbuId": 2709,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9635,7 +11775,9 @@ export const clubs = [
     "postal": "5260",
     "region": "Fyn",
     "dbuId": 1488,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9644,7 +11786,9 @@ export const clubs = [
     "postal": "8471",
     "region": "Jylland",
     "dbuId": 625,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9653,7 +11797,9 @@ export const clubs = [
     "postal": "8450",
     "region": "Jylland",
     "dbuId": 3141,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9662,7 +11808,9 @@ export const clubs = [
     "postal": "7870",
     "region": "Jylland",
     "dbuId": 3654,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9671,7 +11819,9 @@ export const clubs = [
     "postal": "7870",
     "region": "Jylland",
     "dbuId": 214,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9680,7 +11830,9 @@ export const clubs = [
     "postal": "9493",
     "region": "Jylland",
     "dbuId": 114,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9689,7 +11841,9 @@ export const clubs = [
     "postal": "8305",
     "region": "Jylland",
     "dbuId": 2946,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9698,7 +11852,9 @@ export const clubs = [
     "postal": "8305",
     "region": "Jylland",
     "dbuId": 626,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9707,7 +11863,9 @@ export const clubs = [
     "postal": "4900",
     "region": "Sjælland",
     "dbuId": 1655,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9716,7 +11874,9 @@ export const clubs = [
     "postal": "5250",
     "region": "Fyn",
     "dbuId": 1481,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9725,7 +11885,9 @@ export const clubs = [
     "postal": "4262",
     "region": "Sjælland",
     "dbuId": 1209,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9734,7 +11896,9 @@ export const clubs = [
     "postal": "8300",
     "region": "Jylland",
     "dbuId": 627,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9743,7 +11907,9 @@ export const clubs = [
     "postal": "2650",
     "region": "Sjælland",
     "dbuId": 3844,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9752,7 +11918,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 1892,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9761,7 +11929,9 @@ export const clubs = [
     "postal": "4700",
     "region": "Sjælland",
     "dbuId": 1211,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9770,7 +11940,9 @@ export const clubs = [
     "postal": "6893",
     "region": "Jylland",
     "dbuId": 2870,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9779,7 +11951,9 @@ export const clubs = [
     "postal": "7280",
     "region": "Jylland",
     "dbuId": 2067,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9788,7 +11962,9 @@ export const clubs = [
     "postal": "7280",
     "region": "Jylland",
     "dbuId": 348,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9797,7 +11973,9 @@ export const clubs = [
     "postal": "6630",
     "region": "Jylland",
     "dbuId": 923,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9806,7 +11984,9 @@ export const clubs = [
     "postal": "5792",
     "region": "Fyn",
     "dbuId": 2734,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9815,7 +11995,9 @@ export const clubs = [
     "postal": "7260",
     "region": "Jylland",
     "dbuId": 890,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9824,7 +12006,9 @@ export const clubs = [
     "postal": "8800",
     "region": "Jylland",
     "dbuId": 349,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9833,7 +12017,9 @@ export const clubs = [
     "postal": "9240",
     "region": "Jylland",
     "dbuId": 115,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9842,7 +12028,9 @@ export const clubs = [
     "postal": "6000",
     "region": "Jylland",
     "dbuId": 628,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9851,7 +12039,9 @@ export const clubs = [
     "postal": "4592",
     "region": "Sjælland",
     "dbuId": 1212,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9860,7 +12050,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 629,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9869,7 +12061,9 @@ export const clubs = [
     "postal": "2630",
     "region": "Sjælland",
     "dbuId": 1213,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9878,7 +12072,9 @@ export const clubs = [
     "postal": "7800",
     "region": "Jylland",
     "dbuId": 295,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9887,7 +12083,9 @@ export const clubs = [
     "postal": "5700",
     "region": "Fyn",
     "dbuId": 1497,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9896,7 +12094,9 @@ export const clubs = [
     "postal": "6990",
     "region": "Jylland",
     "dbuId": 366,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9905,7 +12105,9 @@ export const clubs = [
     "postal": "4652",
     "region": "Sjælland",
     "dbuId": 1215,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9914,7 +12116,9 @@ export const clubs = [
     "postal": "8960",
     "region": "Jylland",
     "dbuId": 658,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9923,7 +12127,9 @@ export const clubs = [
     "postal": "4300",
     "region": "Sjælland",
     "dbuId": 1216,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9932,7 +12138,9 @@ export const clubs = [
     "postal": "6800",
     "region": "Jylland",
     "dbuId": 872,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9941,7 +12149,9 @@ export const clubs = [
     "postal": "3600",
     "region": "Sjælland",
     "dbuId": 1217,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9950,7 +12160,9 @@ export const clubs = [
     "postal": "8800",
     "region": "Jylland",
     "dbuId": 377,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9959,7 +12171,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Ukendt",
     "dbuId": 3708,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9968,7 +12182,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 630,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9977,7 +12193,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 3765,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9986,7 +12204,9 @@ export const clubs = [
     "postal": "8620",
     "region": "Jylland",
     "dbuId": 3348,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -9995,7 +12215,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 632,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10004,7 +12226,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 3400,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10013,7 +12237,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 633,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10022,7 +12248,9 @@ export const clubs = [
     "postal": "9870",
     "region": "Jylland",
     "dbuId": 116,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10031,7 +12259,9 @@ export const clubs = [
     "postal": "7400",
     "region": "Jylland",
     "dbuId": 322,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10040,7 +12270,9 @@ export const clubs = [
     "postal": "6240",
     "region": "Jylland",
     "dbuId": 1992,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10049,7 +12281,9 @@ export const clubs = [
     "postal": "8000",
     "region": "Jylland",
     "dbuId": 3859,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10058,7 +12292,9 @@ export const clubs = [
     "postal": "4100",
     "region": "Sjælland",
     "dbuId": 2077,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10067,7 +12303,9 @@ export const clubs = [
     "postal": "6093",
     "region": "Jylland",
     "dbuId": 904,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10076,7 +12314,9 @@ export const clubs = [
     "postal": "7700",
     "region": "Jylland",
     "dbuId": 323,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10085,7 +12325,9 @@ export const clubs = [
     "postal": "8620",
     "region": "Jylland",
     "dbuId": 324,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10094,7 +12336,9 @@ export const clubs = [
     "postal": "9990",
     "region": "Jylland",
     "dbuId": 117,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10103,7 +12347,9 @@ export const clubs = [
     "postal": "5492",
     "region": "Fyn",
     "dbuId": 1482,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10112,7 +12358,9 @@ export const clubs = [
     "postal": "9200",
     "region": "Jylland",
     "dbuId": 118,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10121,7 +12369,9 @@ export const clubs = [
     "postal": "5492",
     "region": "Fyn",
     "dbuId": 1483,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10130,7 +12380,9 @@ export const clubs = [
     "postal": "9800",
     "region": "Jylland",
     "dbuId": 119,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10139,7 +12391,9 @@ export const clubs = [
     "postal": "8832",
     "region": "Jylland",
     "dbuId": 3763,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10148,7 +12402,9 @@ export const clubs = [
     "postal": "8832",
     "region": "Jylland",
     "dbuId": 326,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10157,7 +12413,9 @@ export const clubs = [
     "postal": "5485",
     "region": "Fyn",
     "dbuId": 1484,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10166,7 +12424,9 @@ export const clubs = [
     "postal": "6640",
     "region": "Jylland",
     "dbuId": 2020,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10175,7 +12435,9 @@ export const clubs = [
     "postal": "6640",
     "region": "Jylland",
     "dbuId": 719,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10184,7 +12446,9 @@ export const clubs = [
     "postal": "5450",
     "region": "Fyn",
     "dbuId": 1485,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10193,7 +12457,9 @@ export const clubs = [
     "postal": "6310",
     "region": "Jylland",
     "dbuId": 874,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10202,7 +12468,9 @@ export const clubs = [
     "postal": "9560",
     "region": "Jylland",
     "dbuId": 120,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10211,7 +12479,9 @@ export const clubs = [
     "postal": "4623",
     "region": "Sjælland",
     "dbuId": 1219,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10220,7 +12490,9 @@ export const clubs = [
     "postal": "7480",
     "region": "Jylland",
     "dbuId": 327,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10229,7 +12501,9 @@ export const clubs = [
     "postal": "4050",
     "region": "Sjælland",
     "dbuId": 1220,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10238,7 +12512,9 @@ export const clubs = [
     "postal": "6600",
     "region": "Jylland",
     "dbuId": 3845,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10247,7 +12523,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 637,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10256,7 +12534,9 @@ export const clubs = [
     "postal": "9800",
     "region": "Jylland",
     "dbuId": 121,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10265,7 +12545,9 @@ export const clubs = [
     "postal": "7800",
     "region": "Jylland",
     "dbuId": 328,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10274,7 +12556,9 @@ export const clubs = [
     "postal": "7800",
     "region": "Ukendt",
     "dbuId": 3732,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10283,7 +12567,9 @@ export const clubs = [
     "postal": "6900",
     "region": "Jylland",
     "dbuId": 329,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10292,7 +12578,9 @@ export const clubs = [
     "postal": "6900",
     "region": "Jylland",
     "dbuId": 3368,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10301,7 +12589,9 @@ export const clubs = [
     "postal": "8450",
     "region": "Jylland",
     "dbuId": 3241,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10310,7 +12600,9 @@ export const clubs = [
     "postal": "6630",
     "region": "Jylland",
     "dbuId": 875,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10319,7 +12611,9 @@ export const clubs = [
     "postal": "8240",
     "region": "Jylland",
     "dbuId": 3246,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10328,7 +12622,9 @@ export const clubs = [
     "postal": "4100",
     "region": "Sjælland",
     "dbuId": 3606,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10337,7 +12633,9 @@ export const clubs = [
     "postal": "5400",
     "region": "Fyn",
     "dbuId": 1487,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10346,7 +12644,9 @@ export const clubs = [
     "postal": "6823",
     "region": "Jylland",
     "dbuId": 2165,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10355,7 +12655,9 @@ export const clubs = [
     "postal": "6823",
     "region": "Jylland",
     "dbuId": 876,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10364,7 +12666,9 @@ export const clubs = [
     "postal": "2740",
     "region": "Sjælland",
     "dbuId": 1868,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10373,7 +12677,9 @@ export const clubs = [
     "postal": "9460",
     "region": "Jylland",
     "dbuId": 122,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10382,7 +12688,9 @@ export const clubs = [
     "postal": "2930",
     "region": "Hovedstaden",
     "dbuId": 1579,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10391,7 +12699,9 @@ export const clubs = [
     "postal": "7752",
     "region": "Jylland",
     "dbuId": 2085,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10400,7 +12710,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 641,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10409,7 +12721,9 @@ export const clubs = [
     "postal": "4230",
     "region": "Sjælland",
     "dbuId": 1225,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10418,7 +12732,9 @@ export const clubs = [
     "postal": "6780",
     "region": "Jylland",
     "dbuId": 909,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10427,7 +12743,9 @@ export const clubs = [
     "postal": "6780",
     "region": "Jylland",
     "dbuId": 3370,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10436,7 +12754,9 @@ export const clubs = [
     "postal": "8541",
     "region": "Jylland",
     "dbuId": 642,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10445,7 +12765,9 @@ export const clubs = [
     "postal": "9520",
     "region": "Jylland",
     "dbuId": 124,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10454,7 +12776,9 @@ export const clubs = [
     "postal": "5881",
     "region": "Fyn",
     "dbuId": 1489,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10463,7 +12787,9 @@ export const clubs = [
     "postal": "4200",
     "region": "Sjælland",
     "dbuId": 1229,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10472,7 +12798,9 @@ export const clubs = [
     "postal": "4180",
     "region": "Sjælland",
     "dbuId": 1232,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10481,7 +12809,9 @@ export const clubs = [
     "postal": "3660",
     "region": "Sjælland",
     "dbuId": 1233,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10490,7 +12820,9 @@ export const clubs = [
     "postal": "3550",
     "region": "Sjælland",
     "dbuId": 1234,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10499,7 +12831,9 @@ export const clubs = [
     "postal": "7000",
     "region": "Jylland",
     "dbuId": 643,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10508,7 +12842,9 @@ export const clubs = [
     "postal": "8930",
     "region": "Jylland",
     "dbuId": 655,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10517,7 +12853,9 @@ export const clubs = [
     "postal": "7752",
     "region": "Jylland",
     "dbuId": 330,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10526,7 +12864,9 @@ export const clubs = [
     "postal": "7400",
     "region": "Jylland",
     "dbuId": 331,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10535,7 +12875,9 @@ export const clubs = [
     "postal": "3070",
     "region": "Sjælland",
     "dbuId": 1235,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10544,7 +12886,9 @@ export const clubs = [
     "postal": "8355",
     "region": "Jylland",
     "dbuId": 644,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10553,7 +12897,9 @@ export const clubs = [
     "postal": "8723",
     "region": "Jylland",
     "dbuId": 645,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10562,7 +12908,9 @@ export const clubs = [
     "postal": "2680",
     "region": "Sjælland",
     "dbuId": 1238,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10571,7 +12919,9 @@ export const clubs = [
     "postal": "6560",
     "region": "Jylland",
     "dbuId": 2021,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10580,7 +12930,9 @@ export const clubs = [
     "postal": "6560",
     "region": "Jylland",
     "dbuId": 879,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10589,7 +12941,9 @@ export const clubs = [
     "postal": "8641",
     "region": "Jylland",
     "dbuId": 646,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10598,7 +12952,9 @@ export const clubs = [
     "postal": "4180",
     "region": "Sjælland",
     "dbuId": 2579,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10607,7 +12963,9 @@ export const clubs = [
     "postal": "6715",
     "region": "Jylland",
     "dbuId": 881,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10616,7 +12974,9 @@ export const clubs = [
     "postal": "8800",
     "region": "Jylland",
     "dbuId": 332,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10625,7 +12985,9 @@ export const clubs = [
     "postal": "8981",
     "region": "Jylland",
     "dbuId": 647,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10634,7 +12996,9 @@ export const clubs = [
     "postal": "7130",
     "region": "Jylland",
     "dbuId": 3884,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10643,7 +13007,9 @@ export const clubs = [
     "postal": "6971",
     "region": "Jylland",
     "dbuId": 1965,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10652,7 +13018,9 @@ export const clubs = [
     "postal": "6971",
     "region": "Jylland",
     "dbuId": 333,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10661,7 +13029,9 @@ export const clubs = [
     "postal": "2970",
     "region": "Sjælland",
     "dbuId": 3954,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10670,7 +13040,9 @@ export const clubs = [
     "postal": "9440",
     "region": "Jylland",
     "dbuId": 1996,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10679,7 +13051,9 @@ export const clubs = [
     "postal": "7860",
     "region": "Jylland",
     "dbuId": 201,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10688,7 +13062,9 @@ export const clubs = [
     "postal": "7130",
     "region": "Jylland",
     "dbuId": 638,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10697,7 +13073,9 @@ export const clubs = [
     "postal": "8380",
     "region": "Jylland",
     "dbuId": 648,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10706,7 +13084,9 @@ export const clubs = [
     "postal": "8380",
     "region": "Jylland",
     "dbuId": 3156,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10715,7 +13095,9 @@ export const clubs = [
     "postal": "9200",
     "region": "Jylland",
     "dbuId": 126,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10724,7 +13106,9 @@ export const clubs = [
     "postal": "7200",
     "region": "Jylland",
     "dbuId": 882,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10733,7 +13117,9 @@ export const clubs = [
     "postal": "6100",
     "region": "Jylland",
     "dbuId": 883,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10742,7 +13128,9 @@ export const clubs = [
     "postal": "6900",
     "region": "Jylland",
     "dbuId": 337,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10751,7 +13139,9 @@ export const clubs = [
     "postal": "8260",
     "region": "Jylland",
     "dbuId": 649,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10760,7 +13150,9 @@ export const clubs = [
     "postal": "4295",
     "region": "Sjælland",
     "dbuId": 1242,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10769,7 +13161,9 @@ export const clubs = [
     "postal": "3660",
     "region": "Sjælland",
     "dbuId": 1243,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10778,7 +13172,9 @@ export const clubs = [
     "postal": "8700",
     "region": "Jylland",
     "dbuId": 650,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10787,7 +13183,9 @@ export const clubs = [
     "postal": "5771",
     "region": "Fyn",
     "dbuId": 1491,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10796,7 +13194,9 @@ export const clubs = [
     "postal": "6070",
     "region": "Jylland",
     "dbuId": 884,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10805,7 +13205,9 @@ export const clubs = [
     "postal": "9300",
     "region": "Jylland",
     "dbuId": 1694,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10814,7 +13216,9 @@ export const clubs = [
     "postal": "8660",
     "region": "Jylland",
     "dbuId": 652,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10823,7 +13227,9 @@ export const clubs = [
     "postal": "4200",
     "region": "Sjælland",
     "dbuId": 1246,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10832,7 +13238,9 @@ export const clubs = [
     "postal": "8464",
     "region": "Jylland",
     "dbuId": 653,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10841,7 +13249,9 @@ export const clubs = [
     "postal": "7850",
     "region": "Jylland",
     "dbuId": 338,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10850,7 +13260,9 @@ export const clubs = [
     "postal": "4952",
     "region": "Sjælland",
     "dbuId": 1656,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10859,7 +13271,9 @@ export const clubs = [
     "postal": "4660",
     "region": "Sjælland",
     "dbuId": 1247,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10868,7 +13282,9 @@ export const clubs = [
     "postal": "3320",
     "region": "Sjælland",
     "dbuId": 1248,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10877,7 +13293,9 @@ export const clubs = [
     "postal": "4370",
     "region": "Sjælland",
     "dbuId": 1249,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10886,7 +13304,9 @@ export const clubs = [
     "postal": "9280",
     "region": "Jylland",
     "dbuId": 127,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10895,7 +13315,9 @@ export const clubs = [
     "postal": "9640",
     "region": "Jylland",
     "dbuId": 129,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10904,7 +13326,9 @@ export const clubs = [
     "postal": "9970",
     "region": "Jylland",
     "dbuId": 128,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10913,7 +13337,9 @@ export const clubs = [
     "postal": "6880",
     "region": "Jylland",
     "dbuId": 846,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10922,7 +13348,9 @@ export const clubs = [
     "postal": "5500",
     "region": "Fyn",
     "dbuId": 3949,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10931,7 +13359,9 @@ export const clubs = [
     "postal": "5500",
     "region": "Fyn",
     "dbuId": 1494,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10940,7 +13370,9 @@ export const clubs = [
     "postal": "7600",
     "region": "Jylland",
     "dbuId": 339,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10949,7 +13381,9 @@ export const clubs = [
     "postal": "4850",
     "region": "Sjælland",
     "dbuId": 1658,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10958,7 +13392,9 @@ export const clubs = [
     "postal": "1665",
     "region": "Hovedstaden",
     "dbuId": 1598,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10967,7 +13403,9 @@ export const clubs = [
     "postal": "7400",
     "region": "Jylland",
     "dbuId": 340,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10976,7 +13414,9 @@ export const clubs = [
     "postal": "6520",
     "region": "Jylland",
     "dbuId": 2756,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10985,7 +13425,9 @@ export const clubs = [
     "postal": "9530",
     "region": "Jylland",
     "dbuId": 130,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -10994,7 +13436,9 @@ export const clubs = [
     "postal": "5540",
     "region": "Fyn",
     "dbuId": 1496,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11003,7 +13447,9 @@ export const clubs = [
     "postal": "9381",
     "region": "Jylland",
     "dbuId": 131,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11012,7 +13458,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 1583,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11021,7 +13469,9 @@ export const clubs = [
     "postal": "7950",
     "region": "Jylland",
     "dbuId": 341,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11030,7 +13480,9 @@ export const clubs = [
     "postal": "7752",
     "region": "Jylland",
     "dbuId": 342,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11039,7 +13491,9 @@ export const clubs = [
     "postal": "6200",
     "region": "Jylland",
     "dbuId": 1950,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11048,7 +13502,9 @@ export const clubs = [
     "postal": "7451",
     "region": "Jylland",
     "dbuId": 343,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11057,7 +13513,9 @@ export const clubs = [
     "postal": "4160",
     "region": "Sjælland",
     "dbuId": 1252,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11066,7 +13524,9 @@ export const clubs = [
     "postal": "3740",
     "region": "Bornholm",
     "dbuId": 1683,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11075,7 +13535,9 @@ export const clubs = [
     "postal": "7755",
     "region": "Jylland",
     "dbuId": 344,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11084,7 +13546,9 @@ export const clubs = [
     "postal": "5700",
     "region": "Fyn",
     "dbuId": 3589,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11093,7 +13557,9 @@ export const clubs = [
     "postal": "6430",
     "region": "Jylland",
     "dbuId": 885,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11102,7 +13568,9 @@ export const clubs = [
     "postal": "9230",
     "region": "Jylland",
     "dbuId": 132,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11111,7 +13579,9 @@ export const clubs = [
     "postal": "4520",
     "region": "Sjælland",
     "dbuId": 1257,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11120,7 +13590,9 @@ export const clubs = [
     "postal": "4000",
     "region": "Sjælland",
     "dbuId": 1258,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11129,7 +13601,9 @@ export const clubs = [
     "postal": "4720",
     "region": "Sjælland",
     "dbuId": 2080,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11138,7 +13612,9 @@ export const clubs = [
     "postal": "7990",
     "region": "Jylland",
     "dbuId": 346,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11147,7 +13623,9 @@ export const clubs = [
     "postal": "7760",
     "region": "Jylland",
     "dbuId": 233,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11156,7 +13634,9 @@ export const clubs = [
     "postal": "6740",
     "region": "Jylland",
     "dbuId": 3273,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11165,7 +13645,9 @@ export const clubs = [
     "postal": "7200",
     "region": "Jylland",
     "dbuId": 3351,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11174,7 +13656,9 @@ export const clubs = [
     "postal": "6040",
     "region": "Jylland",
     "dbuId": 3350,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11183,7 +13667,9 @@ export const clubs = [
     "postal": "4800",
     "region": "Sjælland",
     "dbuId": 1660,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11192,7 +13678,9 @@ export const clubs = [
     "postal": "9300",
     "region": "Jylland",
     "dbuId": 133,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11201,7 +13689,9 @@ export const clubs = [
     "postal": "4682",
     "region": "Sjælland",
     "dbuId": 1261,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11210,7 +13700,9 @@ export const clubs = [
     "postal": "6900",
     "region": "Jylland",
     "dbuId": 3514,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11219,7 +13711,9 @@ export const clubs = [
     "postal": "6710",
     "region": "Jylland",
     "dbuId": 886,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11228,7 +13722,9 @@ export const clubs = [
     "postal": "5471",
     "region": "Fyn",
     "dbuId": 1498,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11237,7 +13733,9 @@ export const clubs = [
     "postal": "8382",
     "region": "Jylland",
     "dbuId": 656,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11246,7 +13744,9 @@ export const clubs = [
     "postal": "5270",
     "region": "Fyn",
     "dbuId": 2070,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11255,7 +13755,9 @@ export const clubs = [
     "postal": "4920",
     "region": "Sjælland",
     "dbuId": 1662,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11264,7 +13766,9 @@ export const clubs = [
     "postal": "5750",
     "region": "Fyn",
     "dbuId": 1501,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11273,7 +13777,9 @@ export const clubs = [
     "postal": "6400",
     "region": "Jylland",
     "dbuId": 887,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11282,7 +13788,9 @@ export const clubs = [
     "postal": "6400",
     "region": "Jylland",
     "dbuId": 888,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11291,7 +13799,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 1580,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11300,7 +13810,9 @@ export const clubs = [
     "postal": "6200",
     "region": "Jylland",
     "dbuId": 3356,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11309,7 +13821,9 @@ export const clubs = [
     "postal": "6100",
     "region": "Ukendt",
     "dbuId": 3703,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11318,7 +13832,9 @@ export const clubs = [
     "postal": "6710",
     "region": "Jylland",
     "dbuId": 891,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11327,7 +13843,9 @@ export const clubs = [
     "postal": "5471",
     "region": "Fyn",
     "dbuId": 1502,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11336,7 +13854,9 @@ export const clubs = [
     "postal": "9541",
     "region": "Jylland",
     "dbuId": 135,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11345,7 +13865,9 @@ export const clubs = [
     "postal": "9530",
     "region": "Jylland",
     "dbuId": 182,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11354,7 +13876,9 @@ export const clubs = [
     "postal": "4690",
     "region": "Sjælland",
     "dbuId": 3941,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11363,7 +13887,9 @@ export const clubs = [
     "postal": "8700",
     "region": "Jylland",
     "dbuId": 659,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11372,7 +13898,9 @@ export const clubs = [
     "postal": "4060",
     "region": "Sjælland",
     "dbuId": 1266,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11381,7 +13909,9 @@ export const clubs = [
     "postal": "7660",
     "region": "Jylland",
     "dbuId": 396,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11390,7 +13920,9 @@ export const clubs = [
     "postal": "6070",
     "region": "Jylland",
     "dbuId": 892,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11399,7 +13931,9 @@ export const clubs = [
     "postal": "6880",
     "region": "Jylland",
     "dbuId": 350,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11408,7 +13942,9 @@ export const clubs = [
     "postal": "6715",
     "region": "Jylland",
     "dbuId": 893,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11417,7 +13953,9 @@ export const clubs = [
     "postal": "5210",
     "region": "Fyn",
     "dbuId": 1503,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11426,7 +13964,9 @@ export const clubs = [
     "postal": "7000",
     "region": "Jylland",
     "dbuId": 661,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11435,7 +13975,9 @@ export const clubs = [
     "postal": "2450",
     "region": "Hovedstaden",
     "dbuId": 3957,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11444,7 +13986,9 @@ export const clubs = [
     "postal": "4000",
     "region": "Sjælland",
     "dbuId": 3830,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11453,7 +13997,9 @@ export const clubs = [
     "postal": "8000",
     "region": "Jylland",
     "dbuId": 740,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11462,7 +14008,9 @@ export const clubs = [
     "postal": "8850",
     "region": "Jylland",
     "dbuId": 253,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11471,7 +14019,9 @@ export const clubs = [
     "postal": "8800",
     "region": "Jylland",
     "dbuId": 3850,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11480,7 +14030,9 @@ export const clubs = [
     "postal": "3770",
     "region": "Bornholm",
     "dbuId": 1684,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11489,7 +14041,9 @@ export const clubs = [
     "postal": "9575",
     "region": "Jylland",
     "dbuId": 137,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11498,7 +14052,9 @@ export const clubs = [
     "postal": "4690",
     "region": "Sjælland",
     "dbuId": 1267,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11507,7 +14063,9 @@ export const clubs = [
     "postal": "8653",
     "region": "Jylland",
     "dbuId": 663,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11516,7 +14074,9 @@ export const clubs = [
     "postal": "9700",
     "region": "Jylland",
     "dbuId": 138,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11525,7 +14085,9 @@ export const clubs = [
     "postal": "7700",
     "region": "Jylland",
     "dbuId": 351,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11534,7 +14096,9 @@ export const clubs = [
     "postal": "7700",
     "region": "Ukendt",
     "dbuId": 3747,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11543,7 +14107,9 @@ export const clubs = [
     "postal": "8620",
     "region": "Jylland",
     "dbuId": 352,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11552,7 +14118,9 @@ export const clubs = [
     "postal": "8881",
     "region": "Jylland",
     "dbuId": 3136,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11561,7 +14129,9 @@ export const clubs = [
     "postal": "8881",
     "region": "Jylland",
     "dbuId": 353,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11570,7 +14140,9 @@ export const clubs = [
     "postal": "9690",
     "region": "Jylland",
     "dbuId": 140,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11579,7 +14151,9 @@ export const clubs = [
     "postal": "5700",
     "region": "Fyn",
     "dbuId": 1505,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11588,7 +14162,9 @@ export const clubs = [
     "postal": "7680",
     "region": "Jylland",
     "dbuId": 354,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11597,7 +14173,9 @@ export const clubs = [
     "postal": "7790",
     "region": "Jylland",
     "dbuId": 355,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11606,7 +14184,9 @@ export const clubs = [
     "postal": "7700",
     "region": "Jylland",
     "dbuId": 2019,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11615,7 +14195,9 @@ export const clubs = [
     "postal": "7323",
     "region": "Jylland",
     "dbuId": 665,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11624,7 +14206,9 @@ export const clubs = [
     "postal": "3080",
     "region": "Sjælland",
     "dbuId": 1270,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11633,7 +14217,9 @@ export const clubs = [
     "postal": "7700",
     "region": "Jylland",
     "dbuId": 356,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11642,7 +14228,9 @@ export const clubs = [
     "postal": "6980",
     "region": "Jylland",
     "dbuId": 357,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11651,7 +14239,9 @@ export const clubs = [
     "postal": "6360",
     "region": "Jylland",
     "dbuId": 755,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11660,7 +14250,9 @@ export const clubs = [
     "postal": "4800",
     "region": "Sjælland",
     "dbuId": 1663,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11669,7 +14261,9 @@ export const clubs = [
     "postal": "8400",
     "region": "Jylland",
     "dbuId": 1945,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11678,7 +14272,9 @@ export const clubs = [
     "postal": "8400",
     "region": "Jylland",
     "dbuId": 667,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11687,7 +14283,9 @@ export const clubs = [
     "postal": "6862",
     "region": "Jylland",
     "dbuId": 894,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11696,7 +14294,9 @@ export const clubs = [
     "postal": "3220",
     "region": "Sjælland",
     "dbuId": 1271,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11705,7 +14305,9 @@ export const clubs = [
     "postal": "8830",
     "region": "Jylland",
     "dbuId": 3013,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11714,7 +14316,9 @@ export const clubs = [
     "postal": "6731",
     "region": "Jylland",
     "dbuId": 895,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11723,7 +14327,9 @@ export const clubs = [
     "postal": "7400",
     "region": "Jylland",
     "dbuId": 359,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11732,7 +14338,9 @@ export const clubs = [
     "postal": "8530",
     "region": "Jylland",
     "dbuId": 668,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11741,7 +14349,9 @@ export const clubs = [
     "postal": "6520",
     "region": "Jylland",
     "dbuId": 896,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11750,7 +14360,9 @@ export const clubs = [
     "postal": "4684",
     "region": "Sjælland",
     "dbuId": 1958,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11759,7 +14371,9 @@ export const clubs = [
     "postal": "5690",
     "region": "Fyn",
     "dbuId": 1507,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11768,7 +14382,9 @@ export const clubs = [
     "postal": "9850",
     "region": "Jylland",
     "dbuId": 143,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11777,7 +14393,9 @@ export const clubs = [
     "postal": "8000",
     "region": "Jylland",
     "dbuId": 1858,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11786,7 +14404,9 @@ export const clubs = [
     "postal": "2635",
     "region": "Sjælland",
     "dbuId": 1274,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11795,7 +14415,9 @@ export const clubs = [
     "postal": "5900",
     "region": "Fyn",
     "dbuId": 1508,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11804,7 +14426,9 @@ export const clubs = [
     "postal": "9460",
     "region": "Jylland",
     "dbuId": 144,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11813,7 +14437,9 @@ export const clubs = [
     "postal": "9690",
     "region": "Jylland",
     "dbuId": 178,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11822,7 +14448,9 @@ export const clubs = [
     "postal": "7000",
     "region": "Jylland",
     "dbuId": 670,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11831,7 +14459,9 @@ export const clubs = [
     "postal": "6920",
     "region": "Jylland",
     "dbuId": 361,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11840,7 +14470,9 @@ export const clubs = [
     "postal": "8570",
     "region": "Jylland",
     "dbuId": 672,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11849,7 +14481,9 @@ export const clubs = [
     "postal": "9750",
     "region": "Jylland",
     "dbuId": 145,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11858,7 +14492,9 @@ export const clubs = [
     "postal": "9700",
     "region": "Jylland",
     "dbuId": 142,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11867,7 +14503,9 @@ export const clubs = [
     "postal": "8381",
     "region": "Jylland",
     "dbuId": 671,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11876,7 +14514,9 @@ export const clubs = [
     "postal": "8381",
     "region": "Jylland",
     "dbuId": 3265,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11885,7 +14525,9 @@ export const clubs = [
     "postal": "7430",
     "region": "Jylland",
     "dbuId": 362,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11894,7 +14536,9 @@ export const clubs = [
     "postal": "4030",
     "region": "Sjælland",
     "dbuId": 1280,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11903,7 +14547,9 @@ export const clubs = [
     "postal": "4300",
     "region": "Sjælland",
     "dbuId": 1282,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11912,7 +14558,9 @@ export const clubs = [
     "postal": "4300",
     "region": "Sjælland",
     "dbuId": 1283,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11921,7 +14569,9 @@ export const clubs = [
     "postal": "5700",
     "region": "Fyn",
     "dbuId": 1510,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11930,7 +14580,9 @@ export const clubs = [
     "postal": "7500",
     "region": "Jylland",
     "dbuId": 363,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11939,7 +14591,9 @@ export const clubs = [
     "postal": "9382",
     "region": "Jylland",
     "dbuId": 146,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11948,7 +14602,9 @@ export const clubs = [
     "postal": "4340",
     "region": "Sjælland",
     "dbuId": 1284,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11957,7 +14613,9 @@ export const clubs = [
     "postal": "4340",
     "region": "Sjælland",
     "dbuId": 2590,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11966,7 +14624,9 @@ export const clubs = [
     "postal": "4400",
     "region": "Sjælland",
     "dbuId": 2549,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11975,7 +14635,9 @@ export const clubs = [
     "postal": "4400",
     "region": "Sjælland",
     "dbuId": 1285,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11984,7 +14646,9 @@ export const clubs = [
     "postal": "6270",
     "region": "Jylland",
     "dbuId": 897,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -11993,7 +14657,9 @@ export const clubs = [
     "postal": "7160",
     "region": "Jylland",
     "dbuId": 675,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12002,7 +14668,9 @@ export const clubs = [
     "postal": "2930",
     "region": "Sjælland",
     "dbuId": 1286,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12011,7 +14679,9 @@ export const clubs = [
     "postal": "2770",
     "region": "Hovedstaden",
     "dbuId": 1766,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12020,7 +14690,9 @@ export const clubs = [
     "postal": "9830",
     "region": "Jylland",
     "dbuId": 136,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12029,7 +14701,9 @@ export const clubs = [
     "postal": "5871",
     "region": "Fyn",
     "dbuId": 1512,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12038,7 +14712,9 @@ export const clubs = [
     "postal": "5700",
     "region": "Fyn",
     "dbuId": 1513,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12047,7 +14723,9 @@ export const clubs = [
     "postal": "2630",
     "region": "Sjælland",
     "dbuId": 1783,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12056,7 +14734,9 @@ export const clubs = [
     "postal": "5491",
     "region": "Fyn",
     "dbuId": 1514,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12065,7 +14745,9 @@ export const clubs = [
     "postal": "4490",
     "region": "Sjælland",
     "dbuId": 3892,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12074,7 +14756,9 @@ export const clubs = [
     "postal": "2450",
     "region": "Hovedstaden",
     "dbuId": 3751,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12083,7 +14767,9 @@ export const clubs = [
     "postal": "8410",
     "region": "Jylland",
     "dbuId": 3133,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12092,7 +14778,9 @@ export const clubs = [
     "postal": "9800",
     "region": "Jylland",
     "dbuId": 3678,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12101,7 +14789,9 @@ export const clubs = [
     "postal": "7330",
     "region": "Jylland",
     "dbuId": 364,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12110,7 +14800,9 @@ export const clubs = [
     "postal": "8832",
     "region": "Jylland",
     "dbuId": 365,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12119,7 +14811,9 @@ export const clubs = [
     "postal": "7171",
     "region": "Jylland",
     "dbuId": 676,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12128,7 +14822,9 @@ export const clubs = [
     "postal": "9370",
     "region": "Jylland",
     "dbuId": 147,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12137,7 +14833,9 @@ export const clubs = [
     "postal": "8860",
     "region": "Jylland",
     "dbuId": 367,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12146,7 +14844,9 @@ export const clubs = [
     "postal": "9300",
     "region": "Jylland",
     "dbuId": 148,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12155,7 +14855,9 @@ export const clubs = [
     "postal": "4340",
     "region": "Sjælland",
     "dbuId": 1290,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12164,7 +14866,9 @@ export const clubs = [
     "postal": "8270",
     "region": "Jylland",
     "dbuId": 3225,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12173,7 +14877,9 @@ export const clubs = [
     "postal": "6500",
     "region": "Jylland",
     "dbuId": 3307,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12182,7 +14888,9 @@ export const clubs = [
     "postal": "4800",
     "region": "Sjælland",
     "dbuId": 1670,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12191,7 +14899,9 @@ export const clubs = [
     "postal": "5260",
     "region": "Fyn",
     "dbuId": 3840,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12200,7 +14910,9 @@ export const clubs = [
     "postal": "2770",
     "region": "Hovedstaden",
     "dbuId": 2373,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12209,7 +14921,9 @@ export const clubs = [
     "postal": "3550",
     "region": "Sjælland",
     "dbuId": 1291,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12218,7 +14932,9 @@ export const clubs = [
     "postal": "9430",
     "region": "Jylland",
     "dbuId": 150,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12227,7 +14943,9 @@ export const clubs = [
     "postal": "2450",
     "region": "Hovedstaden",
     "dbuId": 1587,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12236,7 +14954,9 @@ export const clubs = [
     "postal": "2625",
     "region": "Sjælland",
     "dbuId": 1292,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12245,7 +14965,9 @@ export const clubs = [
     "postal": "4700",
     "region": "Sjælland",
     "dbuId": 2120,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12254,7 +14976,9 @@ export const clubs = [
     "postal": "9500",
     "region": "Jylland",
     "dbuId": 190,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12263,7 +14987,9 @@ export const clubs = [
     "postal": "6580",
     "region": "Jylland",
     "dbuId": 677,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12272,7 +14998,9 @@ export const clubs = [
     "postal": "8830",
     "region": "Jylland",
     "dbuId": 368,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12281,7 +15009,9 @@ export const clubs = [
     "postal": "7184",
     "region": "Jylland",
     "dbuId": 1894,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12290,7 +15020,9 @@ export const clubs = [
     "postal": "2720",
     "region": "Hovedstaden",
     "dbuId": 1588,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": "assets/logos/1588.png"
   },
   {
@@ -12299,7 +15031,9 @@ export const clubs = [
     "postal": "3070",
     "region": "Sjælland",
     "dbuId": 1295,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12308,7 +15042,9 @@ export const clubs = [
     "postal": "6800",
     "region": "Jylland",
     "dbuId": 899,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12317,7 +15053,9 @@ export const clubs = [
     "postal": "6200",
     "region": "Jylland",
     "dbuId": 918,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12326,7 +15064,9 @@ export const clubs = [
     "postal": "8220",
     "region": "Jylland",
     "dbuId": 666,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12335,7 +15075,9 @@ export const clubs = [
     "postal": "9560",
     "region": "Jylland",
     "dbuId": 151,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12344,7 +15086,9 @@ export const clubs = [
     "postal": "6990",
     "region": "Jylland",
     "dbuId": 3651,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12353,7 +15097,9 @@ export const clubs = [
     "postal": "6500",
     "region": "Jylland",
     "dbuId": 900,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12362,7 +15108,9 @@ export const clubs = [
     "postal": "5474",
     "region": "Fyn",
     "dbuId": 1518,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12371,7 +15119,9 @@ export const clubs = [
     "postal": "9240",
     "region": "Jylland",
     "dbuId": 152,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12380,7 +15130,9 @@ export const clubs = [
     "postal": "3210",
     "region": "Sjælland",
     "dbuId": 1298,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12389,7 +15141,9 @@ export const clubs = [
     "postal": "6600",
     "region": "Jylland",
     "dbuId": 3781,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12398,7 +15152,9 @@ export const clubs = [
     "postal": "6600",
     "region": "Jylland",
     "dbuId": 902,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12407,7 +15163,9 @@ export const clubs = [
     "postal": "9000",
     "region": "Jylland",
     "dbuId": 154,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12416,7 +15174,9 @@ export const clubs = [
     "postal": "8240",
     "region": "Jylland",
     "dbuId": 431,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12425,7 +15185,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 681,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12434,7 +15196,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Ukendt",
     "dbuId": 3718,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12443,7 +15207,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 685,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12452,7 +15218,9 @@ export const clubs = [
     "postal": "7120",
     "region": "Jylland",
     "dbuId": 2094,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12461,7 +15229,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 1941,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12470,7 +15240,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 686,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12479,7 +15251,9 @@ export const clubs = [
     "postal": "8721",
     "region": "Jylland",
     "dbuId": 683,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12488,7 +15262,9 @@ export const clubs = [
     "postal": "8830",
     "region": "Jylland",
     "dbuId": 369,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12497,7 +15273,9 @@ export const clubs = [
     "postal": "6740",
     "region": "Jylland",
     "dbuId": 903,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12506,7 +15284,9 @@ export const clubs = [
     "postal": "3670",
     "region": "Sjælland",
     "dbuId": 1301,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12515,7 +15295,9 @@ export const clubs = [
     "postal": "8860",
     "region": "Jylland",
     "dbuId": 370,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12524,7 +15306,9 @@ export const clubs = [
     "postal": "6950",
     "region": "Jylland",
     "dbuId": 371,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12533,7 +15317,9 @@ export const clubs = [
     "postal": "7570",
     "region": "Jylland",
     "dbuId": 372,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12542,7 +15328,9 @@ export const clubs = [
     "postal": "4241",
     "region": "Sjælland",
     "dbuId": 1303,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12551,7 +15339,9 @@ export const clubs = [
     "postal": "9800",
     "region": "Ukendt",
     "dbuId": 3733,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12560,7 +15350,9 @@ export const clubs = [
     "postal": "9700",
     "region": "Jylland",
     "dbuId": 3349,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12569,7 +15361,9 @@ export const clubs = [
     "postal": "5690",
     "region": "Fyn",
     "dbuId": 1519,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12578,7 +15372,9 @@ export const clubs = [
     "postal": "8752",
     "region": "Jylland",
     "dbuId": 1994,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12587,7 +15383,9 @@ export const clubs = [
     "postal": "9380",
     "region": "Jylland",
     "dbuId": 155,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12596,7 +15394,9 @@ export const clubs = [
     "postal": "9310",
     "region": "Jylland",
     "dbuId": 156,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12605,7 +15405,9 @@ export const clubs = [
     "postal": "9700",
     "region": "Jylland",
     "dbuId": 181,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12614,7 +15416,9 @@ export const clubs = [
     "postal": "9640",
     "region": "Jylland",
     "dbuId": 157,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12623,7 +15427,9 @@ export const clubs = [
     "postal": "6715",
     "region": "Jylland",
     "dbuId": 906,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12632,7 +15438,9 @@ export const clubs = [
     "postal": "4953",
     "region": "Sjælland",
     "dbuId": 3811,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12641,7 +15449,9 @@ export const clubs = [
     "postal": "1365",
     "region": "Hovedstaden",
     "dbuId": 1604,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12650,7 +15460,9 @@ export const clubs = [
     "postal": "7323",
     "region": "Jylland",
     "dbuId": 3107,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12659,7 +15471,9 @@ export const clubs = [
     "postal": "7770",
     "region": "Jylland",
     "dbuId": 373,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12668,7 +15482,9 @@ export const clubs = [
     "postal": "9940",
     "region": "Jylland",
     "dbuId": 158,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12677,7 +15493,9 @@ export const clubs = [
     "postal": "4100",
     "region": "Sjælland",
     "dbuId": 2081,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12686,7 +15504,9 @@ export const clubs = [
     "postal": "4281",
     "region": "Sjælland",
     "dbuId": 3947,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12695,7 +15515,9 @@ export const clubs = [
     "postal": "4771",
     "region": "Sjælland",
     "dbuId": 2159,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12704,7 +15526,9 @@ export const clubs = [
     "postal": "4100",
     "region": "Sjælland",
     "dbuId": 1306,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12713,7 +15537,9 @@ export const clubs = [
     "postal": "8800",
     "region": "Ukendt",
     "dbuId": 3719,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12722,7 +15548,9 @@ export const clubs = [
     "postal": "8800",
     "region": "Jylland",
     "dbuId": 375,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12731,7 +15559,9 @@ export const clubs = [
     "postal": "8800",
     "region": "Jylland",
     "dbuId": 376,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12740,7 +15570,9 @@ export const clubs = [
     "postal": "8800",
     "region": "Jylland",
     "dbuId": 1702,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12749,7 +15581,9 @@ export const clubs = [
     "postal": "8800",
     "region": "Jylland",
     "dbuId": 378,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12758,7 +15592,9 @@ export const clubs = [
     "postal": "8260",
     "region": "Jylland",
     "dbuId": 691,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12767,7 +15603,9 @@ export const clubs = [
     "postal": "6920",
     "region": "Jylland",
     "dbuId": 379,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12776,7 +15614,9 @@ export const clubs = [
     "postal": "7960",
     "region": "Jylland",
     "dbuId": 270,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12785,7 +15625,9 @@ export const clubs = [
     "postal": "2450",
     "region": "Hovedstaden",
     "dbuId": 1591,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12794,7 +15636,9 @@ export const clubs = [
     "postal": "3700",
     "region": "Bornholm",
     "dbuId": 1685,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12803,7 +15647,9 @@ export const clubs = [
     "postal": "7480",
     "region": "Jylland",
     "dbuId": 380,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12812,7 +15658,9 @@ export const clubs = [
     "postal": "7480",
     "region": "Jylland",
     "dbuId": 1976,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12821,7 +15669,9 @@ export const clubs = [
     "postal": "6100",
     "region": "Jylland",
     "dbuId": 907,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12830,7 +15680,9 @@ export const clubs = [
     "postal": "9670",
     "region": "Jylland",
     "dbuId": 159,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12839,7 +15691,9 @@ export const clubs = [
     "postal": "8620",
     "region": "Jylland",
     "dbuId": 382,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12848,7 +15702,9 @@ export const clubs = [
     "postal": "7830",
     "region": "Jylland",
     "dbuId": 383,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12857,7 +15713,9 @@ export const clubs = [
     "postal": "7100",
     "region": "Jylland",
     "dbuId": 692,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12866,7 +15724,9 @@ export const clubs = [
     "postal": "7550",
     "region": "Jylland",
     "dbuId": 384,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12875,7 +15735,9 @@ export const clubs = [
     "postal": "5800",
     "region": "Fyn",
     "dbuId": 1523,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12884,7 +15746,9 @@ export const clubs = [
     "postal": "4000",
     "region": "Sjælland",
     "dbuId": 1310,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12893,7 +15757,9 @@ export const clubs = [
     "postal": "4390",
     "region": "Sjælland",
     "dbuId": 1311,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12902,7 +15768,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 693,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12911,7 +15779,9 @@ export const clubs = [
     "postal": "8660",
     "region": "Jylland",
     "dbuId": 694,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12920,7 +15790,9 @@ export const clubs = [
     "postal": "2830",
     "region": "Sjælland",
     "dbuId": 1313,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12929,7 +15801,9 @@ export const clubs = [
     "postal": "8530",
     "region": "Jylland",
     "dbuId": 695,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12938,7 +15812,9 @@ export const clubs = [
     "postal": "9560",
     "region": "Jylland",
     "dbuId": 160,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12947,7 +15823,9 @@ export const clubs = [
     "postal": "6261",
     "region": "Jylland",
     "dbuId": 908,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12956,7 +15834,9 @@ export const clubs = [
     "postal": "5492",
     "region": "Fyn",
     "dbuId": 1524,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12965,7 +15845,9 @@ export const clubs = [
     "postal": "9480",
     "region": "Jylland",
     "dbuId": 2060,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12974,7 +15856,9 @@ export const clubs = [
     "postal": "9560",
     "region": "Jylland",
     "dbuId": 161,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12983,7 +15867,9 @@ export const clubs = [
     "postal": "8961",
     "region": "Jylland",
     "dbuId": 1946,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -12992,7 +15878,9 @@ export const clubs = [
     "postal": "8961",
     "region": "Jylland",
     "dbuId": 696,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13001,7 +15889,9 @@ export const clubs = [
     "postal": "9310",
     "region": "Jylland",
     "dbuId": 162,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13010,7 +15900,9 @@ export const clubs = [
     "postal": "8660",
     "region": "Jylland",
     "dbuId": 697,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13019,7 +15911,9 @@ export const clubs = [
     "postal": "9300",
     "region": "Jylland",
     "dbuId": 163,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13028,7 +15922,9 @@ export const clubs = [
     "postal": "6500",
     "region": "Jylland",
     "dbuId": 910,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13037,7 +15933,9 @@ export const clubs = [
     "postal": "6500",
     "region": "Jylland",
     "dbuId": 2013,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13046,7 +15944,9 @@ export const clubs = [
     "postal": "6000",
     "region": "Jylland",
     "dbuId": 699,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13055,7 +15955,9 @@ export const clubs = [
     "postal": "4000",
     "region": "Sjælland",
     "dbuId": 1315,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13064,7 +15966,9 @@ export const clubs = [
     "postal": "6623",
     "region": "Jylland",
     "dbuId": 911,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13073,7 +15977,9 @@ export const clubs = [
     "postal": "4760",
     "region": "Sjælland",
     "dbuId": 1314,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13082,7 +15988,9 @@ export const clubs = [
     "postal": "6920",
     "region": "Jylland",
     "dbuId": 386,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": "assets/logos/386.png"
   },
   {
@@ -13091,7 +15999,9 @@ export const clubs = [
     "postal": "8940",
     "region": "Jylland",
     "dbuId": 700,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13100,7 +16010,9 @@ export const clubs = [
     "postal": "7752",
     "region": "Jylland",
     "dbuId": 387,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13109,7 +16021,9 @@ export const clubs = [
     "postal": "7800",
     "region": "Jylland",
     "dbuId": 388,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13118,7 +16032,9 @@ export const clubs = [
     "postal": "7140",
     "region": "Jylland",
     "dbuId": 3108,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13127,7 +16043,9 @@ export const clubs = [
     "postal": "9760",
     "region": "Jylland",
     "dbuId": 3057,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13136,7 +16054,9 @@ export const clubs = [
     "postal": "9760",
     "region": "Jylland",
     "dbuId": 165,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13145,7 +16065,9 @@ export const clubs = [
     "postal": "4873",
     "region": "Sjælland",
     "dbuId": 1667,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13154,7 +16076,9 @@ export const clubs = [
     "postal": "3500",
     "region": "Sjælland",
     "dbuId": 1317,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13163,7 +16087,9 @@ export const clubs = [
     "postal": "8940",
     "region": "Jylland",
     "dbuId": 703,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13172,7 +16098,9 @@ export const clubs = [
     "postal": "9260",
     "region": "Jylland",
     "dbuId": 149,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13181,7 +16109,9 @@ export const clubs = [
     "postal": "8660",
     "region": "Jylland",
     "dbuId": 3846,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13190,7 +16120,9 @@ export const clubs = [
     "postal": "8600",
     "region": "Jylland",
     "dbuId": 711,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13199,7 +16131,9 @@ export const clubs = [
     "postal": "6580",
     "region": "Jylland",
     "dbuId": 704,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13208,7 +16142,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 1596,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13217,7 +16153,9 @@ export const clubs = [
     "postal": "9460",
     "region": "Jylland",
     "dbuId": 167,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13226,7 +16164,9 @@ export const clubs = [
     "postal": "6870",
     "region": "Jylland",
     "dbuId": 2166,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13235,7 +16175,9 @@ export const clubs = [
     "postal": "6870",
     "region": "Jylland",
     "dbuId": 914,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13244,7 +16186,9 @@ export const clubs = [
     "postal": "7160",
     "region": "Jylland",
     "dbuId": 706,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13253,7 +16197,9 @@ export const clubs = [
     "postal": "3310",
     "region": "Sjælland",
     "dbuId": 1321,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13262,7 +16208,9 @@ export const clubs = [
     "postal": "8723",
     "region": "Jylland",
     "dbuId": 707,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13271,7 +16219,9 @@ export const clubs = [
     "postal": "6950",
     "region": "Jylland",
     "dbuId": 389,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13280,7 +16230,9 @@ export const clubs = [
     "postal": "3650",
     "region": "Sjælland",
     "dbuId": 1322,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13289,7 +16241,9 @@ export const clubs = [
     "postal": "9690",
     "region": "Jylland",
     "dbuId": 168,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13298,7 +16252,9 @@ export const clubs = [
     "postal": "2300",
     "region": "Hovedstaden",
     "dbuId": 3357,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13307,7 +16263,9 @@ export const clubs = [
     "postal": "6973",
     "region": "Jylland",
     "dbuId": 390,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13316,7 +16274,9 @@ export const clubs = [
     "postal": "4760",
     "region": "Sjælland",
     "dbuId": 1324,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13325,7 +16285,9 @@ export const clubs = [
     "postal": "4243",
     "region": "Sjælland",
     "dbuId": 1326,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13334,7 +16296,9 @@ export const clubs = [
     "postal": "4200",
     "region": "Sjælland",
     "dbuId": 1327,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13343,7 +16307,9 @@ export const clubs = [
     "postal": "7840",
     "region": "Jylland",
     "dbuId": 391,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13352,7 +16318,9 @@ export const clubs = [
     "postal": "8950",
     "region": "Jylland",
     "dbuId": 708,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13361,7 +16329,9 @@ export const clubs = [
     "postal": "6100",
     "region": "Jylland",
     "dbuId": 915,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13370,7 +16340,9 @@ export const clubs = [
     "postal": "8752",
     "region": "Jylland",
     "dbuId": 709,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13379,7 +16351,9 @@ export const clubs = [
     "postal": "9700",
     "region": "Jylland",
     "dbuId": 171,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13388,7 +16362,9 @@ export const clubs = [
     "postal": "9530",
     "region": "Jylland",
     "dbuId": 172,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13397,7 +16373,9 @@ export const clubs = [
     "postal": "6240",
     "region": "Jylland",
     "dbuId": 927,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13406,7 +16384,9 @@ export const clubs = [
     "postal": "6630",
     "region": "Jylland",
     "dbuId": 916,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13415,7 +16395,9 @@ export const clubs = [
     "postal": "7173",
     "region": "Jylland",
     "dbuId": 712,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13424,7 +16406,9 @@ export const clubs = [
     "postal": "6040",
     "region": "Jylland",
     "dbuId": 689,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13433,7 +16417,9 @@ export const clubs = [
     "postal": "9220",
     "region": "Jylland",
     "dbuId": 174,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13442,7 +16428,9 @@ export const clubs = [
     "postal": "4894",
     "region": "Sjælland",
     "dbuId": 1668,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13451,7 +16439,9 @@ export const clubs = [
     "postal": "6760",
     "region": "Jylland",
     "dbuId": 921,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13460,7 +16450,9 @@ export const clubs = [
     "postal": "2100",
     "region": "Hovedstaden",
     "dbuId": 1595,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": "assets/logos/1595.png"
   },
   {
@@ -13469,7 +16461,9 @@ export const clubs = [
     "postal": "9940",
     "region": "Jylland",
     "dbuId": 191,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13478,7 +16472,9 @@ export const clubs = [
     "postal": "3760",
     "region": "Bornholm",
     "dbuId": 1686,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13487,7 +16483,9 @@ export const clubs = [
     "postal": "3751",
     "region": "Bornholm",
     "dbuId": 1687,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13496,7 +16494,9 @@ export const clubs = [
     "postal": "9750",
     "region": "Jylland",
     "dbuId": 176,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13505,7 +16505,9 @@ export const clubs = [
     "postal": "4780",
     "region": "Sjælland",
     "dbuId": 1328,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13514,7 +16516,9 @@ export const clubs = [
     "postal": "4951",
     "region": "Sjælland",
     "dbuId": 1669,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13523,7 +16527,9 @@ export const clubs = [
     "postal": "9220",
     "region": "Jylland",
     "dbuId": 2,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13532,7 +16538,9 @@ export const clubs = [
     "postal": "9220",
     "region": "Ukendt",
     "dbuId": 3698,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13541,7 +16549,9 @@ export const clubs = [
     "postal": "6200",
     "region": "Jylland",
     "dbuId": 744,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13550,7 +16560,9 @@ export const clubs = [
     "postal": "9440",
     "region": "Jylland",
     "dbuId": 1,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13559,7 +16571,9 @@ export const clubs = [
     "postal": "8230",
     "region": "Jylland",
     "dbuId": 419,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13568,7 +16582,9 @@ export const clubs = [
     "postal": "8544",
     "region": "Jylland",
     "dbuId": 579,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13577,7 +16593,9 @@ export const clubs = [
     "postal": "6880",
     "region": "Jylland",
     "dbuId": 195,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13586,7 +16604,9 @@ export const clubs = [
     "postal": "6040",
     "region": "Jylland",
     "dbuId": 2018,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13595,7 +16615,9 @@ export const clubs = [
     "postal": "2920",
     "region": "Hovedstaden",
     "dbuId": 3358,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13604,7 +16626,9 @@ export const clubs = [
     "postal": "3720",
     "region": "Bornholm",
     "dbuId": 1688,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13613,7 +16637,9 @@ export const clubs = [
     "postal": "9000",
     "region": "Jylland",
     "dbuId": 4,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13622,7 +16648,9 @@ export const clubs = [
     "postal": "9400",
     "region": "Jylland",
     "dbuId": 3353,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13631,7 +16659,9 @@ export const clubs = [
     "postal": "9530",
     "region": "Jylland",
     "dbuId": 3139,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13640,7 +16670,9 @@ export const clubs = [
     "postal": "9000",
     "region": "Jylland",
     "dbuId": 6,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13649,7 +16681,9 @@ export const clubs = [
     "postal": "9220",
     "region": "Jylland",
     "dbuId": 3939,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13658,7 +16692,9 @@ export const clubs = [
     "postal": "9000",
     "region": "Jylland",
     "dbuId": 3417,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13667,7 +16703,9 @@ export const clubs = [
     "postal": "9000",
     "region": "Jylland",
     "dbuId": 5,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13676,7 +16714,9 @@ export const clubs = [
     "postal": "9220",
     "region": "Jylland",
     "dbuId": 8,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13685,7 +16725,9 @@ export const clubs = [
     "postal": "9982",
     "region": "Jylland",
     "dbuId": 7,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13694,7 +16736,9 @@ export const clubs = [
     "postal": "7160",
     "region": "Jylland",
     "dbuId": 420,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13703,7 +16747,9 @@ export const clubs = [
     "postal": "9620",
     "region": "Jylland",
     "dbuId": 230,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13712,7 +16758,9 @@ export const clubs = [
     "postal": "3400",
     "region": "Sjælland",
     "dbuId": 1329,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13721,7 +16769,9 @@ export const clubs = [
     "postal": "8900",
     "region": "Jylland",
     "dbuId": 3134,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13730,7 +16780,9 @@ export const clubs = [
     "postal": "4400",
     "region": "Sjælland",
     "dbuId": 1330,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13739,7 +16791,9 @@ export const clubs = [
     "postal": "8000",
     "region": "Jylland",
     "dbuId": 428,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13748,7 +16802,9 @@ export const clubs = [
     "postal": "8260",
     "region": "Jylland",
     "dbuId": 3818,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13757,7 +16813,9 @@ export const clubs = [
     "postal": "8541",
     "region": "Jylland",
     "dbuId": 733,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13766,7 +16824,9 @@ export const clubs = [
     "postal": "8660",
     "region": "Jylland",
     "dbuId": 2093,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13775,7 +16835,9 @@ export const clubs = [
     "postal": "8200",
     "region": "Jylland",
     "dbuId": 425,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13784,7 +16846,9 @@ export const clubs = [
     "postal": "8200",
     "region": "Ukendt",
     "dbuId": 3729,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13793,7 +16857,9 @@ export const clubs = [
     "postal": "8210",
     "region": "Jylland",
     "dbuId": 429,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13802,7 +16868,9 @@ export const clubs = [
     "postal": "6818",
     "region": "Jylland",
     "dbuId": 746,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13811,7 +16879,9 @@ export const clubs = [
     "postal": "9600",
     "region": "Jylland",
     "dbuId": 9,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13820,7 +16890,9 @@ export const clubs = [
     "postal": "3700",
     "region": "Bornholm",
     "dbuId": 1689,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13829,7 +16901,9 @@ export const clubs = [
     "postal": "5792",
     "region": "Fyn",
     "dbuId": 1528,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13838,7 +16912,9 @@ export const clubs = [
     "postal": "5560",
     "region": "Fyn",
     "dbuId": 1354,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13847,7 +16923,9 @@ export const clubs = [
     "postal": "8500",
     "region": "Jylland",
     "dbuId": 432,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   },
   {
@@ -13856,14 +16934,16 @@ export const clubs = [
     "postal": "5240",
     "region": "Fyn",
     "dbuId": 1529,
-    "color": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "kitStyle": null,
     "logo": null
   }
 ];
 
 export function getClub(name) {
   return clubs.find(c => c.name === name)
-    || { name, color: '#6b7280', city: '', postal: '', region: '', dbuId: null, logo: null };
+    || { name, city: '', postal: '', region: '', dbuId: null, primaryColor: null, secondaryColor: null, kitStyle: null, logo: null };
 }
 
 export function clubInitials(name) {

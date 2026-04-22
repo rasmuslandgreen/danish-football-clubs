@@ -11,14 +11,16 @@ import { readFileSync, writeFileSync } from 'fs';
 const raw = JSON.parse(readFileSync('clubs.json', 'utf8'));
 
 // Strip scraper-internal fields; preserve schema used by consuming apps
-const clubs = raw.map(({ name, city, postal, region, dbuId, color, logo }) => ({
+const clubs = raw.map(({ name, city, postal, region, dbuId, primaryColor, secondaryColor, kitStyle, logo }) => ({
   name,
   city,
   postal,
   region,
-  dbuId:  dbuId  ?? null,
-  color:  color  ?? null,
-  logo:   logo   ?? null,
+  dbuId:          dbuId          ?? null,
+  primaryColor:   primaryColor   ?? null,
+  secondaryColor: secondaryColor ?? null,
+  kitStyle:       kitStyle       ?? null,
+  logo:           logo           ?? null,
 }));
 
 const clubsJs = JSON.stringify(clubs, null, 2);
@@ -27,7 +29,7 @@ const output = `export const clubs = ${clubsJs};
 
 export function getClub(name) {
   return clubs.find(c => c.name === name)
-    || { name, color: '#6b7280', city: '', postal: '', region: '', dbuId: null, logo: null };
+    || { name, city: '', postal: '', region: '', dbuId: null, primaryColor: null, secondaryColor: null, kitStyle: null, logo: null };
 }
 
 export function clubInitials(name) {
