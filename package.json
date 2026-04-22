@@ -1,6 +1,6 @@
 {
   "name": "danish-football-clubs",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Club data and DBU utilities for Danish youth football",
   "type": "module",
   "main": "index.js",
