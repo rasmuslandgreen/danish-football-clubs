@@ -2,7 +2,19 @@
 
 const clubs = [
   {
-    "name": "AB",
+    "name": "10. Klasse Center Djursland",
+    "dbuId": 3653
+  },
+  {
+    "name": "10. Aabenraa",
+    "dbuId": 3777
+  },
+  {
+    "name": "10ende Fredericia",
+    "dbuId": 2826
+  },
+  {
+    "name": "AB (professional)",
     "dbuId": 3711
   },
   {
@@ -14,12 +26,16 @@ const clubs = [
     "dbuId": 1728
   },
   {
-    "name": "AC Horsens",
+    "name": "AC Horsens (professional)",
     "dbuId": 3715
   },
   {
     "name": "AC Iben",
     "dbuId": 3128
+  },
+  {
+    "name": "AC Norddjurs",
+    "dbuId": 651
   },
   {
     "name": "Adventure Efterskole",
@@ -30,16 +46,68 @@ const clubs = [
     "dbuId": 2101
   },
   {
-    "name": "AGF",
+    "name": "Agerbæk SF",
+    "dbuId": 747
+  },
+  {
+    "name": "Agerskov Sogns UF",
+    "dbuId": 748
+  },
+  {
+    "name": "Agersted GF",
+    "dbuId": 10
+  },
+  {
+    "name": "AGF (professional)",
     "dbuId": 3699
+  },
+  {
+    "name": "AGF, Aarhus",
+    "dbuId": 421
+  },
+  {
+    "name": "Aggersund IF",
+    "dbuId": 11
   },
   {
     "name": "Ahi International School",
     "dbuId": 3449
   },
   {
+    "name": "AIA-Tranbjerg",
+    "dbuId": 422
+  },
+  {
     "name": "AIK 65 Strøby Fodbold",
     "dbuId": 1251
+  },
+  {
+    "name": "Aktiv Timring",
+    "dbuId": 358
+  },
+  {
+    "name": "Albertslund BS 72",
+    "dbuId": 948
+  },
+  {
+    "name": "Albertslund IF",
+    "dbuId": 949
+  },
+  {
+    "name": "Alhedens IF",
+    "dbuId": 227
+  },
+  {
+    "name": "All Stars FC-91",
+    "dbuId": 585
+  },
+  {
+    "name": "Allerslev UIF",
+    "dbuId": 950
+  },
+  {
+    "name": "Allerød Fodbold Klub",
+    "dbuId": 1141
   },
   {
     "name": "Allested U & IF",
@@ -50,8 +118,36 @@ const clubs = [
     "dbuId": 1357
   },
   {
+    "name": "Alliancen IF",
+    "dbuId": 435
+  },
+  {
     "name": "Allinge-Sandvig G.F.",
     "dbuId": 1671
+  },
+  {
+    "name": "Allingåbro IF",
+    "dbuId": 436
+  },
+  {
+    "name": "Alminde/Viuf GIF",
+    "dbuId": 437
+  },
+  {
+    "name": "Als B",
+    "dbuId": 13
+  },
+  {
+    "name": "Alslev Sport & Kultur",
+    "dbuId": 750
+  },
+  {
+    "name": "Alsted-Fjenneslev GI",
+    "dbuId": 951
+  },
+  {
+    "name": "Alsønderup SG&I",
+    "dbuId": 952
   },
   {
     "name": "Amager Fodbold Forening",
@@ -62,12 +158,48 @@ const clubs = [
     "dbuId": 3772
   },
   {
+    "name": "Ammitsbøl Fodbold",
+    "dbuId": 624
+  },
+  {
     "name": "Ammitsbøl/Egtved",
     "dbuId": 3276
   },
   {
+    "name": "Andrup IF",
+    "dbuId": 751
+  },
+  {
+    "name": "Andst U&I",
+    "dbuId": 752
+  },
+  {
+    "name": "Annisse IF",
+    "dbuId": 955
+  },
+  {
+    "name": "Ans IF",
+    "dbuId": 197
+  },
+  {
+    "name": "Ansager IF",
+    "dbuId": 753
+  },
+  {
     "name": "Arctos",
     "dbuId": 3237
+  },
+  {
+    "name": "Arden IF",
+    "dbuId": 14
+  },
+  {
+    "name": "Arentsminde IF",
+    "dbuId": 15
+  },
+  {
+    "name": "Arnborg IF",
+    "dbuId": 199
   },
   {
     "name": "Aros FC",
@@ -82,19 +214,59 @@ const clubs = [
     "dbuId": 2868
   },
   {
+    "name": "As IF",
+    "dbuId": 439
+  },
+  {
+    "name": "ASA, Aarhus",
+    "dbuId": 423
+  },
+  {
+    "name": "Askov/Malt UI",
+    "dbuId": 754
+  },
+  {
+    "name": "Asnæs BK",
+    "dbuId": 956
+  },
+  {
     "name": "Assens FC",
     "dbuId": 1358
+  },
+  {
+    "name": "Assens IF",
+    "dbuId": 589
+  },
+  {
+    "name": "Astrup/Sønderskov IF",
+    "dbuId": 19
+  },
+  {
+    "name": "Asaa B",
+    "dbuId": 16
+  },
+  {
+    "name": "Aulum IF",
+    "dbuId": 200
+  },
+  {
+    "name": "Auning IF",
+    "dbuId": 443
   },
   {
     "name": "Aunslev IF",
     "dbuId": 1359
   },
   {
-    "name": "Avarta",
+    "name": "Avarta (professional)",
     "dbuId": 3720
   },
   {
-    "name": "B 1908",
+    "name": "Avedøre IF",
+    "dbuId": 959
+  },
+  {
+    "name": "B 1908 (professional)",
     "dbuId": 3721
   },
   {
@@ -106,8 +278,16 @@ const clubs = [
     "dbuId": 1637
   },
   {
+    "name": "B 1950 Bolderslev",
+    "dbuId": 762
+  },
+  {
     "name": "B 1990",
     "dbuId": 1649
+  },
+  {
+    "name": "B 65",
+    "dbuId": 522
   },
   {
     "name": "B 65 OB",
@@ -118,12 +298,24 @@ const clubs = [
     "dbuId": 1366
   },
   {
-    "name": "B 93",
+    "name": "B 74 Silkeborg",
+    "dbuId": 631
+  },
+  {
+    "name": "B 83, Skive",
+    "dbuId": 416
+  },
+  {
+    "name": "B 93 (professional)",
     "dbuId": 3722
   },
   {
     "name": "B Chang",
     "dbuId": 1367
+  },
+  {
+    "name": "B. 1973, Herlev",
+    "dbuId": 1069
   },
   {
     "name": "B. 73, Slagelse",
@@ -146,6 +338,18 @@ const clubs = [
     "dbuId": 1365
   },
   {
+    "name": "B52/Aalborg Fodbold Club",
+    "dbuId": 3
+  },
+  {
+    "name": "Bagsværd BK",
+    "dbuId": 961
+  },
+  {
+    "name": "Bagterp IF",
+    "dbuId": 20
+  },
+  {
     "name": "Balle Musik- og Idrætsefterskole",
     "dbuId": 1923
   },
@@ -158,16 +362,68 @@ const clubs = [
     "dbuId": 2131
   },
   {
+    "name": "Ballum IF",
+    "dbuId": 756
+  },
+  {
+    "name": "Bangsbo Freja",
+    "dbuId": 21
+  },
+  {
+    "name": "Barrit GIF",
+    "dbuId": 446
+  },
+  {
     "name": "Beboerprojekt Bispebjerg",
     "dbuId": 3758
+  },
+  {
+    "name": "Beder Fodboldklub",
+    "dbuId": 939
+  },
+  {
+    "name": "Bedsted IF",
+    "dbuId": 202
+  },
+  {
+    "name": "Bedsted UIF",
+    "dbuId": 757
+  },
+  {
+    "name": "Benløse IF",
+    "dbuId": 963
+  },
+  {
+    "name": "Bevtoft IF",
+    "dbuId": 758
+  },
+  {
+    "name": "BFC Lundegården",
+    "dbuId": 1144
   },
   {
     "name": "BGI Akademiet",
     "dbuId": 1924
   },
   {
+    "name": "Biersted IF",
+    "dbuId": 22
+  },
+  {
     "name": "Billum IF",
     "dbuId": 3688
+  },
+  {
+    "name": "Billund IF",
+    "dbuId": 761
+  },
+  {
+    "name": "Bindslev/Tversted IF",
+    "dbuId": 23
+  },
+  {
+    "name": "Birkelse IF",
+    "dbuId": 24
   },
   {
     "name": "Birkende BK",
@@ -182,8 +438,24 @@ const clubs = [
     "dbuId": 1542
   },
   {
+    "name": "Bjergby/Mygdal IF",
+    "dbuId": 26
+  },
+  {
     "name": "Bjergsnæs Efterskole",
     "dbuId": 3764
+  },
+  {
+    "name": "Bjerregrav B",
+    "dbuId": 451
+  },
+  {
+    "name": "Bjerringbro IF",
+    "dbuId": 203
+  },
+  {
+    "name": "Bjert IF",
+    "dbuId": 657
   },
   {
     "name": "Bjørns International School",
@@ -198,8 +470,16 @@ const clubs = [
     "dbuId": 1237
   },
   {
-    "name": "BK Frem",
+    "name": "BK Avarta",
+    "dbuId": 958
+  },
+  {
+    "name": "BK Frem (professional)",
     "dbuId": 3742
+  },
+  {
+    "name": "BK Friheden",
+    "dbuId": 1024
   },
   {
     "name": "BK Posten",
@@ -226,8 +506,20 @@ const clubs = [
     "dbuId": 1486
   },
   {
+    "name": "Blenstrup IF",
+    "dbuId": 27
+  },
+  {
     "name": "Blidstrup Efterskole",
     "dbuId": 3005
+  },
+  {
+    "name": "Blistrup SI",
+    "dbuId": 968
+  },
+  {
+    "name": "Blovstrød IF",
+    "dbuId": 969
   },
   {
     "name": "Blåhøj IF",
@@ -236,6 +528,10 @@ const clubs = [
   {
     "name": "Blåkilde Efterskole",
     "dbuId": 2167
+  },
+  {
+    "name": "Boeslunde BK",
+    "dbuId": 970
   },
   {
     "name": "Bogense G & IF",
@@ -270,6 +566,10 @@ const clubs = [
     "dbuId": 1540
   },
   {
+    "name": "Boldklubben anno 2007",
+    "dbuId": 739
+  },
+  {
     "name": "Boldklubben Døvania",
     "dbuId": 1603
   },
@@ -300,6 +600,10 @@ const clubs = [
   {
     "name": "Boldklubben Hekla",
     "dbuId": 1560
+  },
+  {
+    "name": "Boldklubben Klitten",
+    "dbuId": 278
   },
   {
     "name": "Boldklubben Marienlyst",
@@ -338,6 +642,10 @@ const clubs = [
     "dbuId": 1590
   },
   {
+    "name": "Boldklubben Vestkysten",
+    "dbuId": 863
+  },
+  {
     "name": "Boldklubben Viktoria",
     "dbuId": 1592
   },
@@ -350,16 +658,60 @@ const clubs = [
     "dbuId": 1594
   },
   {
+    "name": "Borbjerg Skave Fodbold",
+    "dbuId": 205
+  },
+  {
+    "name": "Bording IF",
+    "dbuId": 206
+  },
+  {
     "name": "Boreas",
     "dbuId": 3131
+  },
+  {
+    "name": "Bork FK",
+    "dbuId": 207
   },
   {
     "name": "Bork Havn Efterskole",
     "dbuId": 3444
   },
   {
+    "name": "Borris IF",
+    "dbuId": 208
+  },
+  {
+    "name": "Borsholm-Skibstrup IF",
+    "dbuId": 971
+  },
+  {
+    "name": "Borup IF (J)",
+    "dbuId": 209
+  },
+  {
+    "name": "Borup IF Fodbold",
+    "dbuId": 972
+  },
+  {
+    "name": "Bov IF",
+    "dbuId": 763
+  },
+  {
     "name": "Brabrand IF",
+    "dbuId": 455
+  },
+  {
+    "name": "Brabrand IF (professional)",
     "dbuId": 3744
+  },
+  {
+    "name": "Bramdrupdam GIF",
+    "dbuId": 456
+  },
+  {
+    "name": "Bramming B",
+    "dbuId": 764
   },
   {
     "name": "Bramming Firmaidræt",
@@ -370,8 +722,28 @@ const clubs = [
     "dbuId": 2063
   },
   {
+    "name": "Bramsnæs FB",
+    "dbuId": 974
+  },
+  {
+    "name": "Brande IF",
+    "dbuId": 210
+  },
+  {
     "name": "Branderslev IF",
     "dbuId": 1626
+  },
+  {
+    "name": "Bredballe IF",
+    "dbuId": 457
+  },
+  {
+    "name": "Brede IF",
+    "dbuId": 975
+  },
+  {
+    "name": "Bredebro IF",
+    "dbuId": 766
   },
   {
     "name": "Brejning Efterskole",
@@ -386,28 +758,68 @@ const clubs = [
     "dbuId": 1370
   },
   {
+    "name": "Broager UI",
+    "dbuId": 768
+  },
+  {
     "name": "Broby Sportsefterskole",
     "dbuId": 2652
+  },
+  {
+    "name": "Brovst IF",
+    "dbuId": 30
+  },
+  {
+    "name": "Bruunshåb-Tapdrup-Arnbjerg IF",
+    "dbuId": 212
   },
   {
     "name": "Brylle BK",
     "dbuId": 1372
   },
   {
+    "name": "Bryrup IF",
+    "dbuId": 460
+  },
+  {
+    "name": "Brædstrup IF",
+    "dbuId": 461
+  },
+  {
     "name": "Brøderup Efterskole",
     "dbuId": 3468
   },
   {
-    "name": "Brøndby",
+    "name": "Brødeskov IF",
+    "dbuId": 979
+  },
+  {
+    "name": "Brøndby (professional)",
     "dbuId": 3700
   },
   {
-    "name": "Brønshøj",
+    "name": "Brøndby Strand IK",
+    "dbuId": 982
+  },
+  {
+    "name": "Brøndbyernes IF",
+    "dbuId": 981
+  },
+  {
+    "name": "Brønderslev IF",
+    "dbuId": 31
+  },
+  {
+    "name": "Brønshøj (professional)",
     "dbuId": 3712
   },
   {
     "name": "Brønshøj Boldklub",
     "dbuId": 1543
+  },
+  {
+    "name": "Brørup GF",
+    "dbuId": 770
   },
   {
     "name": "Brøruphus Efterskole",
@@ -422,6 +834,18 @@ const clubs = [
     "dbuId": 2154
   },
   {
+    "name": "Bylderup/Burkal IF",
+    "dbuId": 771
+  },
+  {
+    "name": "Bække SF",
+    "dbuId": 772
+  },
+  {
+    "name": "Bælum/Solbjerg IF",
+    "dbuId": 34
+  },
+  {
     "name": "Børneuniversitetet",
     "dbuId": 2230
   },
@@ -430,8 +854,16 @@ const clubs = [
     "dbuId": 1939
   },
   {
+    "name": "Bøvling UF",
+    "dbuId": 405
+  },
+  {
     "name": "Båring GF",
     "dbuId": 1376
+  },
+  {
+    "name": "Bårse IF",
+    "dbuId": 987
   },
   {
     "name": "Campus Vejle",
@@ -446,6 +878,10 @@ const clubs = [
     "dbuId": 2827
   },
   {
+    "name": "Centrum IF",
+    "dbuId": 774
+  },
+  {
     "name": "Charlotteager Fodbold Klub",
     "dbuId": 3694
   },
@@ -454,8 +890,20 @@ const clubs = [
     "dbuId": 1545
   },
   {
+    "name": "Christiansbjerg IF",
+    "dbuId": 424
+  },
+  {
+    "name": "Christiansfeld IF",
+    "dbuId": 775
+  },
+  {
     "name": "Christianshavns Idræts Klub",
     "dbuId": 1544
+  },
+  {
+    "name": "Coconut Lions FC",
+    "dbuId": 835
   },
   {
     "name": "Copenhagen Celtic",
@@ -470,8 +918,24 @@ const clubs = [
     "dbuId": 2099
   },
   {
+    "name": "Dalby GF",
+    "dbuId": 462
+  },
+  {
+    "name": "Dalby GI (H)",
+    "dbuId": 989
+  },
+  {
     "name": "Dalby IF",
     "dbuId": 1377
+  },
+  {
+    "name": "Dalby IF / HFK fodbold",
+    "dbuId": 990
+  },
+  {
+    "name": "Dall-Ferslev IF",
+    "dbuId": 35
   },
   {
     "name": "Dalum IF",
@@ -486,8 +950,24 @@ const clubs = [
     "dbuId": 3146
   },
   {
+    "name": "Darum IF",
+    "dbuId": 778
+  },
+  {
+    "name": "Daugaard IF",
+    "dbuId": 464
+  },
+  {
+    "name": "De 7 Dale Idrætsforening",
+    "dbuId": 520
+  },
+  {
     "name": "Dejbjerglund Efterskole",
     "dbuId": 1940
+  },
+  {
+    "name": "Den Bosniske IF",
+    "dbuId": 454
   },
   {
     "name": "Den Danske Husflidsefterskole",
@@ -530,12 +1010,24 @@ const clubs = [
     "dbuId": 3341
   },
   {
+    "name": "DGL 2000, Aarhus",
+    "dbuId": 459
+  },
+  {
+    "name": "Dianalund IF",
+    "dbuId": 992
+  },
+  {
     "name": "Djursland Fodbolddommerklub",
     "dbuId": 3288
   },
   {
     "name": "Djurslands Efterskole",
     "dbuId": 1999
+  },
+  {
+    "name": "Doense/Vebbestrup IF",
+    "dbuId": 37
   },
   {
     "name": "Dover GF",
@@ -550,8 +1042,28 @@ const clubs = [
     "dbuId": 1381
   },
   {
+    "name": "Dronningborg B",
+    "dbuId": 467
+  },
+  {
     "name": "Dronningborg Oldboys",
     "dbuId": 3238
+  },
+  {
+    "name": "Dronninglund IF",
+    "dbuId": 39
+  },
+  {
+    "name": "Dybbøl IU",
+    "dbuId": 779
+  },
+  {
+    "name": "Dybvad B",
+    "dbuId": 40
+  },
+  {
+    "name": "Dynamo Petrobras",
+    "dbuId": 468
   },
   {
     "name": "Døllefjelde Musse IF",
@@ -560,6 +1072,10 @@ const clubs = [
   {
     "name": "Ebberup IF",
     "dbuId": 1383
+  },
+  {
+    "name": "Ebeltoft IF",
+    "dbuId": 469
   },
   {
     "name": "Efterskolen Solgården",
@@ -574,12 +1090,44 @@ const clubs = [
     "dbuId": 1384
   },
   {
+    "name": "Egebjerg IF",
+    "dbuId": 470
+  },
+  {
+    "name": "Egen UI",
+    "dbuId": 780
+  },
+  {
+    "name": "Egernsund Kultur- og IF",
+    "dbuId": 781
+  },
+  {
     "name": "Egmont Rollators FC",
     "dbuId": 1747
   },
   {
+    "name": "Egtved IF",
+    "dbuId": 472
+  },
+  {
+    "name": "Ejby IF 1968",
+    "dbuId": 1002
+  },
+  {
+    "name": "Ejby IF Fodbold",
+    "dbuId": 1001
+  },
+  {
     "name": "Ejby IK",
     "dbuId": 1386
+  },
+  {
+    "name": "Ejsing B",
+    "dbuId": 217
+  },
+  {
+    "name": "Ejstrupholm IF",
+    "dbuId": 473
   },
   {
     "name": "Elbæk Efterskole",
@@ -590,20 +1138,60 @@ const clubs = [
     "dbuId": 2126
   },
   {
+    "name": "Endeslev-Vråby IF",
+    "dbuId": 1004
+  },
+  {
+    "name": "Engesvang B",
+    "dbuId": 218
+  },
+  {
+    "name": "Engesvang Fremad",
+    "dbuId": 219
+  },
+  {
+    "name": "Engum UI",
+    "dbuId": 474
+  },
+  {
+    "name": "Ensted IF",
+    "dbuId": 784
+  },
+  {
     "name": "Errindlev G & I",
     "dbuId": 1628
   },
   {
-    "name": "Esbjerg",
+    "name": "Erritsø GIF",
+    "dbuId": 475
+  },
+  {
+    "name": "Esbjerg (professional)",
     "dbuId": 3701
+  },
+  {
+    "name": "Esbjerg fB",
+    "dbuId": 785
   },
   {
     "name": "Esbjerg Firmaidræt",
     "dbuId": 3337
   },
   {
+    "name": "Esbjerg IF 92",
+    "dbuId": 787
+  },
+  {
     "name": "Eskilstrup BK",
     "dbuId": 1629
+  },
+  {
+    "name": "Espergærde IF",
+    "dbuId": 1005
+  },
+  {
+    "name": "Esrum IF",
+    "dbuId": 1006
   },
   {
     "name": "EUC Nordvest",
@@ -626,12 +1214,48 @@ const clubs = [
     "dbuId": 1546
   },
   {
+    "name": "Fabjerg KFUM",
+    "dbuId": 414
+  },
+  {
     "name": "Faldsled/Svanninge SG & IF",
     "dbuId": 1392
   },
   {
+    "name": "Fanø B",
+    "dbuId": 789
+  },
+  {
+    "name": "Farstrup B",
+    "dbuId": 43
+  },
+  {
     "name": "Farsø Efterskole",
     "dbuId": 3443
+  },
+  {
+    "name": "Farsø/Ullits IK",
+    "dbuId": 44
+  },
+  {
+    "name": "Farum BK",
+    "dbuId": 1008
+  },
+  {
+    "name": "Faster B",
+    "dbuId": 221
+  },
+  {
+    "name": "Faxe BK",
+    "dbuId": 1009
+  },
+  {
+    "name": "Faxe Ladeplads IF",
+    "dbuId": 1007
+  },
+  {
+    "name": "FB Århus Omegn",
+    "dbuId": 452
   },
   {
     "name": "FC Avrasya",
@@ -666,7 +1290,15 @@ const clubs = [
     "dbuId": 1547
   },
   {
-    "name": "FC Fredericia",
+    "name": "FC Dansom",
+    "dbuId": 185
+  },
+  {
+    "name": "FC Dunav",
+    "dbuId": 995
+  },
+  {
+    "name": "FC Fredericia (professional)",
     "dbuId": 3713
   },
   {
@@ -686,7 +1318,7 @@ const clubs = [
     "dbuId": 1781
   },
   {
-    "name": "FC Helsingør",
+    "name": "FC Helsingør (professional)",
     "dbuId": 3745
   },
   {
@@ -702,8 +1334,28 @@ const clubs = [
     "dbuId": 3861
   },
   {
+    "name": "FC Horsens",
+    "dbuId": 543
+  },
+  {
+    "name": "FC Hvidovre",
+    "dbuId": 1091
+  },
+  {
     "name": "FC Ishøj",
     "dbuId": 1878
+  },
+  {
+    "name": "FC Jonstrup",
+    "dbuId": 977
+  },
+  {
+    "name": "FC Jura",
+    "dbuId": 453
+  },
+  {
+    "name": "FC King George",
+    "dbuId": 791
   },
   {
     "name": "FC Knöedel",
@@ -714,7 +1366,7 @@ const clubs = [
     "dbuId": 1436
   },
   {
-    "name": "FC København",
+    "name": "FC København (professional)",
     "dbuId": 3710
   },
   {
@@ -722,7 +1374,11 @@ const clubs = [
     "dbuId": 3422
   },
   {
-    "name": "FC Midtjylland",
+    "name": "FC Ljiljan, Aalborg",
+    "dbuId": 111
+  },
+  {
+    "name": "FC Midtjylland (professional)",
     "dbuId": 3705
   },
   {
@@ -734,7 +1390,7 @@ const clubs = [
     "dbuId": 1759
   },
   {
-    "name": "FC Nordsjælland",
+    "name": "FC Nordsjælland (professional)",
     "dbuId": 3702
   },
   {
@@ -750,16 +1406,32 @@ const clubs = [
     "dbuId": 3169
   },
   {
-    "name": "FC Roskilde",
+    "name": "FC Rangers",
+    "dbuId": 728
+  },
+  {
+    "name": "FC Roskilde (professional)",
     "dbuId": 3731
+  },
+  {
+    "name": "FC Royal",
+    "dbuId": 487
   },
   {
     "name": "FC Ryparken",
     "dbuId": 1535
   },
   {
+    "name": "FC Sabur",
+    "dbuId": 482
+  },
+  {
     "name": "FC SevenOaks",
     "dbuId": 2143
+  },
+  {
+    "name": "FC Skanderborg",
+    "dbuId": 555
   },
   {
     "name": "FC Soccersisters",
@@ -778,7 +1450,7 @@ const clubs = [
     "dbuId": 1393
   },
   {
-    "name": "FC Sydvest 05 Tønder",
+    "name": "FC Sydvest 05 Tønder (professional)",
     "dbuId": 3750
   },
   {
@@ -798,12 +1470,36 @@ const clubs = [
     "dbuId": 2043
   },
   {
+    "name": "FCH 6100",
+    "dbuId": 809
+  },
+  {
+    "name": "Feldborg/Haderup IF",
+    "dbuId": 222
+  },
+  {
+    "name": "Felsted IF",
+    "dbuId": 913
+  },
+  {
     "name": "FF Klettar",
     "dbuId": 3381
   },
   {
+    "name": "FFD Kralupy",
+    "dbuId": 484
+  },
+  {
+    "name": "FIF, Hillerød",
+    "dbuId": 1015
+  },
+  {
     "name": "Fiktiv",
     "dbuId": 1779
+  },
+  {
+    "name": "Filskov IF",
+    "dbuId": 792
   },
   {
     "name": "FIUK, Odense",
@@ -814,8 +1510,32 @@ const clubs = [
     "dbuId": 1394
   },
   {
+    "name": "Fjelstervang IF",
+    "dbuId": 223
+  },
+  {
+    "name": "Fjelstrup IF",
+    "dbuId": 793
+  },
+  {
+    "name": "Fjelsø Gedsted FF",
+    "dbuId": 224
+  },
+  {
+    "name": "Fjerritslev IF",
+    "dbuId": 45
+  },
+  {
     "name": "Fjordager IF",
     "dbuId": 1395
+  },
+  {
+    "name": "Fjorden IF",
+    "dbuId": 490
+  },
+  {
+    "name": "FK 73",
+    "dbuId": 491
   },
   {
     "name": "FK Odsherred",
@@ -834,12 +1554,24 @@ const clubs = [
     "dbuId": 3325
   },
   {
+    "name": "Flauenskjold IF",
+    "dbuId": 46
+  },
+  {
     "name": "Flemløse BK",
     "dbuId": 1396
   },
   {
     "name": "Flemming Efterskole",
     "dbuId": 1699
+  },
+  {
+    "name": "FLUIF-MORS",
+    "dbuId": 228
+  },
+  {
+    "name": "Fløng-Hedehusene Fodbold",
+    "dbuId": 1019
   },
   {
     "name": "FodboldHoldet Herning",
@@ -854,6 +1586,14 @@ const clubs = [
     "dbuId": 1240
   },
   {
+    "name": "Fole IF",
+    "dbuId": 794
+  },
+  {
+    "name": "Football Club Vietnam",
+    "dbuId": 441
+  },
+  {
     "name": "Football Festival Denmark",
     "dbuId": 2168
   },
@@ -863,11 +1603,23 @@ const clubs = [
   },
   {
     "name": "Fortuna Hjørring",
+    "dbuId": 47
+  },
+  {
+    "name": "Fortuna Hjørring (professional)",
     "dbuId": 3738
   },
   {
     "name": "Fortuna Svendborg",
     "dbuId": 3162
+  },
+  {
+    "name": "Forza FC",
+    "dbuId": 941
+  },
+  {
+    "name": "Foulum IF",
+    "dbuId": 226
   },
   {
     "name": "Fr.holm Sydhavnen",
@@ -878,12 +1630,32 @@ const clubs = [
     "dbuId": 1397
   },
   {
+    "name": "Fredensborg BI",
+    "dbuId": 1021
+  },
+  {
+    "name": "Fredericia fF",
+    "dbuId": 494
+  },
+  {
+    "name": "Fredericia KFUM",
+    "dbuId": 496
+  },
+  {
     "name": "Frederiksberg Boldklub",
     "dbuId": 1549
   },
   {
     "name": "Frederiksborg Amts",
     "dbuId": 2078
+  },
+  {
+    "name": "Frederikshavn fI",
+    "dbuId": 48
+  },
+  {
+    "name": "Frederikssund IK",
+    "dbuId": 1022
   },
   {
     "name": "Frederiksværk Fodbold Klub",
@@ -894,12 +1666,20 @@ const clubs = [
     "dbuId": 3252
   },
   {
-    "name": "Fremad Amager Elite",
+    "name": "Frem Hellebæk",
+    "dbuId": 1061
+  },
+  {
+    "name": "Fremad Amager Elite (professional)",
     "dbuId": 3743
   },
   {
     "name": "Fremad Forsing",
     "dbuId": 3831
+  },
+  {
+    "name": "Frifelt SF",
+    "dbuId": 796
   },
   {
     "name": "Frydensberg Efterskole",
@@ -910,20 +1690,88 @@ const clubs = [
     "dbuId": 3445
   },
   {
+    "name": "Fuglebakken KFUM Århus",
+    "dbuId": 427
+  },
+  {
+    "name": "Fuglebjerg IF",
+    "dbuId": 1025
+  },
+  {
     "name": "Fuglsang IF",
     "dbuId": 3684
+  },
+  {
+    "name": "Funder GF",
+    "dbuId": 497
+  },
+  {
+    "name": "Fursund IF",
+    "dbuId": 232
   },
   {
     "name": "Futsal Club Fjordbold",
     "dbuId": 3419
   },
   {
+    "name": "Fynslund B",
+    "dbuId": 498
+  },
+  {
+    "name": "Føllenslev-Særslev IF",
+    "dbuId": 1026
+  },
+  {
+    "name": "Førslev IF",
+    "dbuId": 1027
+  },
+  {
+    "name": "Føvling/Stenderup UI",
+    "dbuId": 797
+  },
+  {
+    "name": "Faaborg/Vrenderup IF",
+    "dbuId": 788
+  },
+  {
+    "name": "Fårevejle BK",
+    "dbuId": 1028
+  },
+  {
+    "name": "Fårvang IF",
+    "dbuId": 480
+  },
+  {
+    "name": "Gadevang IF",
+    "dbuId": 1029
+  },
+  {
+    "name": "Galten FS",
+    "dbuId": 501
+  },
+  {
     "name": "Galtrup Efterskole",
     "dbuId": 2083
   },
   {
+    "name": "Gandrup SK",
+    "dbuId": 49
+  },
+  {
+    "name": "Gauerslund IF",
+    "dbuId": 503
+  },
+  {
+    "name": "Gedved IF",
+    "dbuId": 504
+  },
+  {
     "name": "Gelsted G & IF",
     "dbuId": 1400
+  },
+  {
+    "name": "Genner IF",
+    "dbuId": 799
   },
   {
     "name": "Gentofte Fodboldklub",
@@ -934,12 +1782,64 @@ const clubs = [
     "dbuId": 1556
   },
   {
+    "name": "Gesten IF",
+    "dbuId": 800
+  },
+  {
+    "name": "Gevninge IF",
+    "dbuId": 1032
+  },
+  {
+    "name": "GFG Voel",
+    "dbuId": 526
+  },
+  {
+    "name": "GIF-Gram",
+    "dbuId": 804
+  },
+  {
+    "name": "Gilleleje FK",
+    "dbuId": 1033
+  },
+  {
     "name": "Giovani Hajduk",
     "dbuId": 2035
   },
   {
     "name": "Gislev IF",
     "dbuId": 1401
+  },
+  {
+    "name": "Gislinge BK",
+    "dbuId": 1034
+  },
+  {
+    "name": "Give Fremad",
+    "dbuId": 505
+  },
+  {
+    "name": "Givskud GUF",
+    "dbuId": 506
+  },
+  {
+    "name": "Gjern IF",
+    "dbuId": 507
+  },
+  {
+    "name": "Gjessø UF",
+    "dbuId": 509
+  },
+  {
+    "name": "Gjøl B",
+    "dbuId": 51
+  },
+  {
+    "name": "Gl. Rye IF",
+    "dbuId": 502
+  },
+  {
+    "name": "Gladsaxe-Hero BK",
+    "dbuId": 1035
   },
   {
     "name": "Glamsbjerg IF",
@@ -950,8 +1850,20 @@ const clubs = [
     "dbuId": 3352
   },
   {
+    "name": "Glejbjerg SF",
+    "dbuId": 802
+  },
+  {
+    "name": "Glostrup 95",
+    "dbuId": 1181
+  },
+  {
     "name": "Glostrup FK - IF 32",
     "dbuId": 1712
+  },
+  {
+    "name": "Gludsted GIF",
+    "dbuId": 510
   },
   {
     "name": "Glumsø",
@@ -962,36 +1874,184 @@ const clubs = [
     "dbuId": 2086
   },
   {
+    "name": "Grantoften IF",
+    "dbuId": 1039
+  },
+  {
     "name": "Grasshopperne",
     "dbuId": 3245
+  },
+  {
+    "name": "Grauballe UGF",
+    "dbuId": 511
+  },
+  {
+    "name": "Gredstedbro B",
+    "dbuId": 805
+  },
+  {
+    "name": "Grejs-Dalen Idrætsklub",
+    "dbuId": 513
   },
   {
     "name": "Grejsdalens Efterskole",
     "dbuId": 2866
   },
   {
+    "name": "Grenaa IF",
+    "dbuId": 515
+  },
+  {
+    "name": "Greve Fodbold",
+    "dbuId": 1041
+  },
+  {
+    "name": "Grindsted GIF",
+    "dbuId": 806
+  },
+  {
+    "name": "Grindsted Uggerhalne IF",
+    "dbuId": 179
+  },
+  {
+    "name": "Grundfør UI",
+    "dbuId": 516
+  },
+  {
+    "name": "Græsted IF",
+    "dbuId": 1043
+  },
+  {
+    "name": "Grønbjerg Aktiv Fritid For Alle",
+    "dbuId": 234
+  },
+  {
+    "name": "Grønbjerg/Langelund IF",
+    "dbuId": 517
+  },
+  {
+    "name": "Grønne Stjerne",
+    "dbuId": 1044
+  },
+  {
+    "name": "Gråsten B",
+    "dbuId": 803
+  },
+  {
     "name": "Gudenaadalens Efterskole",
     "dbuId": 2017
+  },
+  {
+    "name": "Gudum IF",
+    "dbuId": 235
+  },
+  {
+    "name": "Gudum Nissum IF",
+    "dbuId": 306
+  },
+  {
+    "name": "Gudumholm IF",
+    "dbuId": 53
+  },
+  {
+    "name": "Gug B",
+    "dbuId": 54
   },
   {
     "name": "Guldborg IF",
     "dbuId": 1631
   },
   {
+    "name": "Gullestrup IF",
+    "dbuId": 236
+  },
+  {
+    "name": "Gundersted IF",
+    "dbuId": 55
+  },
+  {
+    "name": "Gundsølille SGIF",
+    "dbuId": 1045
+  },
+  {
+    "name": "Gundsømagle IF",
+    "dbuId": 1046
+  },
+  {
+    "name": "GVL Løkken",
+    "dbuId": 94
+  },
+  {
+    "name": "Gylling B",
+    "dbuId": 518
+  },
+  {
     "name": "Gylling Efterskole",
     "dbuId": 2065
+  },
+  {
+    "name": "Gærum IF",
+    "dbuId": 56
   },
   {
     "name": "Gødvad Efterskole",
     "dbuId": 3768
   },
   {
+    "name": "Gødvad GIF",
+    "dbuId": 519
+  },
+  {
+    "name": "Gørding/Lourup IF",
+    "dbuId": 807
+  },
+  {
     "name": "Gørlev Idrætsefterskole",
     "dbuId": 1351
   },
   {
+    "name": "Gørlev IF",
+    "dbuId": 1049
+  },
+  {
+    "name": "Gørløse SI",
+    "dbuId": 1050
+  },
+  {
+    "name": "Gørslev IF",
+    "dbuId": 1051
+  },
+  {
+    "name": "Gaarslev GF",
+    "dbuId": 499
+  },
+  {
+    "name": "HA85",
+    "dbuId": 623
+  },
+  {
+    "name": "Haderslev FK",
+    "dbuId": 808
+  },
+  {
+    "name": "Hadsten Sports Klub",
+    "dbuId": 521
+  },
+  {
+    "name": "Hadsund B",
+    "dbuId": 57
+  },
+  {
+    "name": "Hagested IF",
+    "dbuId": 1052
+  },
+  {
     "name": "Hald Ege Efterskole",
     "dbuId": 1934
+  },
+  {
+    "name": "Hals FS",
+    "dbuId": 59
   },
   {
     "name": "Halstedhus Efterskole",
@@ -1002,8 +2062,28 @@ const clubs = [
     "dbuId": 3953
   },
   {
+    "name": "Hammel GF",
+    "dbuId": 523
+  },
+  {
+    "name": "Hammelev IF (G)",
+    "dbuId": 734
+  },
+  {
+    "name": "Hammelev SUF",
+    "dbuId": 810
+  },
+  {
     "name": "Hammerum Fri- og Efterskole",
     "dbuId": 1930
+  },
+  {
+    "name": "Hammerum IF",
+    "dbuId": 238
+  },
+  {
+    "name": "Hampen IF",
+    "dbuId": 524
   },
   {
     "name": "Han Herred Efterskoles Fodboldforening",
@@ -1014,24 +2094,96 @@ const clubs = [
     "dbuId": 1558
   },
   {
+    "name": "Hanning B",
+    "dbuId": 239
+  },
+  {
+    "name": "Hannæs Sport og Fritid",
+    "dbuId": 231
+  },
+  {
+    "name": "Hanstholm IF",
+    "dbuId": 240
+  },
+  {
+    "name": "Harboøre IF",
+    "dbuId": 241
+  },
+  {
     "name": "Hardsyssel Efterskole",
     "dbuId": 2115
+  },
+  {
+    "name": "Hareskov IF",
+    "dbuId": 1054
+  },
+  {
+    "name": "Harlev IK",
+    "dbuId": 527
+  },
+  {
+    "name": "Harte G & IF",
+    "dbuId": 721
+  },
+  {
+    "name": "Hashøj IF",
+    "dbuId": 1055
+  },
+  {
+    "name": "Hasle B",
+    "dbuId": 528
   },
   {
     "name": "Hasle IF",
     "dbuId": 1673
   },
   {
+    "name": "Haslev FC",
+    "dbuId": 1056
+  },
+  {
     "name": "Haslev Idrætsefterskole",
     "dbuId": 3946
   },
   {
-    "name": "HB Køge",
+    "name": "Hatting-Torsted Fodbold",
+    "dbuId": 529
+  },
+  {
+    "name": "Haubro IF",
+    "dbuId": 61
+  },
+  {
+    "name": "Havdrup Fodbold",
+    "dbuId": 1058
+  },
+  {
+    "name": "Haverslev IF",
+    "dbuId": 62
+  },
+  {
+    "name": "Havndal-Udbyneder IF",
+    "dbuId": 531
+  },
+  {
+    "name": "HB Køge (professional)",
     "dbuId": 3714
   },
   {
     "name": "Hedemølle Efterskole",
     "dbuId": 3942
+  },
+  {
+    "name": "Hedensted IF",
+    "dbuId": 532
+  },
+  {
+    "name": "Hee SF",
+    "dbuId": 243
+  },
+  {
+    "name": "Hejnsvig IF",
+    "dbuId": 812
   },
   {
     "name": "Hellas",
@@ -1046,20 +2198,80 @@ const clubs = [
     "dbuId": 1562
   },
   {
+    "name": "Hellested IF",
+    "dbuId": 1062
+  },
+  {
+    "name": "Hellevad IF",
+    "dbuId": 813
+  },
+  {
+    "name": "Helsinge Fodbold",
+    "dbuId": 1063
+  },
+  {
+    "name": "Helsingør IF Fodbold",
+    "dbuId": 1065
+  },
+  {
+    "name": "Helsted Fremad IF",
+    "dbuId": 534
+  },
+  {
+    "name": "Henne B",
+    "dbuId": 814
+  },
+  {
     "name": "Herborg Ungdomsforening",
     "dbuId": 2004
+  },
+  {
+    "name": "Herfølge BK",
+    "dbuId": 1066
+  },
+  {
+    "name": "Herlev IF",
+    "dbuId": 1068
   },
   {
     "name": "Herlufmagle",
     "dbuId": 2121
   },
   {
+    "name": "Herlufsholm GF",
+    "dbuId": 1070
+  },
+  {
     "name": "Herning Fodbolddommerklub",
     "dbuId": 3345
   },
   {
+    "name": "Herning Fremad",
+    "dbuId": 245
+  },
+  {
+    "name": "Herning IK",
+    "dbuId": 246
+  },
+  {
+    "name": "Herning KFUM",
+    "dbuId": 247
+  },
+  {
     "name": "Herrested-Ørbæk Boldklub",
     "dbuId": 1407
+  },
+  {
+    "name": "Herskind B",
+    "dbuId": 535
+  },
+  {
+    "name": "Hersom/Bjerregrav IF",
+    "dbuId": 250
+  },
+  {
+    "name": "Herstedøster IC",
+    "dbuId": 1071
   },
   {
     "name": "Hesselager Fodbold",
@@ -1070,16 +2282,36 @@ const clubs = [
     "dbuId": 2882
   },
   {
-    "name": "HIK",
+    "name": "HIK (professional)",
     "dbuId": 3723
+  },
+  {
+    "name": "Hillerslev Sport",
+    "dbuId": 251
+  },
+  {
+    "name": "Hillerød Fodbold",
+    "dbuId": 1073
+  },
+  {
+    "name": "Himmelev-Veddelev BK",
+    "dbuId": 1075
   },
   {
     "name": "Himmerlandscentrets Idrætsefterskole (Haverslev)",
     "dbuId": 1937
   },
   {
+    "name": "Hirtshals B",
+    "dbuId": 64
+  },
+  {
     "name": "Historie Fremad",
     "dbuId": 3124
+  },
+  {
+    "name": "Hjallerup IF",
+    "dbuId": 65
   },
   {
     "name": "Hjembæk Efterskole",
@@ -1090,20 +2322,68 @@ const clubs = [
     "dbuId": 3944
   },
   {
+    "name": "Hjerm FIF",
+    "dbuId": 252
+  },
+  {
+    "name": "Hjerting IF",
+    "dbuId": 925
+  },
+  {
+    "name": "Hjordkær UIF",
+    "dbuId": 815
+  },
+  {
+    "name": "Hjortdal Ungdoms & IF",
+    "dbuId": 66
+  },
+  {
+    "name": "Hjorten Fodbold, Herlev",
+    "dbuId": 1077
+  },
+  {
+    "name": "Hjørring AIK Frem",
+    "dbuId": 67
+  },
+  {
+    "name": "Hjørring IF",
+    "dbuId": 68
+  },
+  {
     "name": "Hjørring Ny 10. klasse",
     "dbuId": 3051
   },
   {
     "name": "Hobro IK",
+    "dbuId": 69
+  },
+  {
+    "name": "Hobro IK (professional)",
     "dbuId": 3704
   },
   {
-    "name": "Holbæk",
+    "name": "Hodsager UF",
+    "dbuId": 254
+  },
+  {
+    "name": "HOG Hinnerup",
+    "dbuId": 537
+  },
+  {
+    "name": "Holbæk (professional)",
     "dbuId": 3724
   },
   {
     "name": "Holbæk 10. klassecenter",
     "dbuId": 2540
+  },
+  {
+    "name": "Holbæk B&I",
+    "dbuId": 1079
+  },
+  {
+    "name": "Holbøl IF",
+    "dbuId": 816
   },
   {
     "name": "Holeby IF",
@@ -1122,24 +2402,92 @@ const clubs = [
     "dbuId": 1870
   },
   {
+    "name": "Holmegaard GB",
+    "dbuId": 1080
+  },
+  {
+    "name": "Holmsland GU",
+    "dbuId": 400
+  },
+  {
+    "name": "Holstebro B",
+    "dbuId": 255
+  },
+  {
     "name": "Holstebro/Vestjysk Fodbolddommerklub",
     "dbuId": 3344
+  },
+  {
+    "name": "Holsted FB",
+    "dbuId": 817
+  },
+  {
+    "name": "Holte Star Club",
+    "dbuId": 1082
   },
   {
     "name": "Holte-Hus Efterskole",
     "dbuId": 2360
   },
   {
+    "name": "Holtet IF",
+    "dbuId": 70
+  },
+  {
+    "name": "Hoptrup/Marstrup IF",
+    "dbuId": 818
+  },
+  {
     "name": "Horbelev IF",
     "dbuId": 1634
+  },
+  {
+    "name": "Hornbæk IF",
+    "dbuId": 1083
+  },
+  {
+    "name": "Hornbæk SF",
+    "dbuId": 540
   },
   {
     "name": "Horne f. Sp.",
     "dbuId": 1412
   },
   {
+    "name": "Horne IF",
+    "dbuId": 819
+  },
+  {
+    "name": "Horne KFUM",
+    "dbuId": 71
+  },
+  {
+    "name": "Hornslet IF",
+    "dbuId": 541
+  },
+  {
+    "name": "Hornum IF",
+    "dbuId": 72
+  },
+  {
+    "name": "Horsens B",
+    "dbuId": 542
+  },
+  {
     "name": "Horsens Fodbolddommerklub",
     "dbuId": 3346
+  },
+  {
+    "name": "Horsens Freja",
+    "dbuId": 546
+  },
+  {
+    "name": "Horsens fS",
+    "dbuId": 545
+  },
+  {
+    "name": "Horsens KFUM",
+    "dbuId": 547
   },
   {
     "name": "Horsens Motionsklub",
@@ -1154,44 +2502,188 @@ const clubs = [
     "dbuId": 1413
   },
   {
+    "name": "Hou GI",
+    "dbuId": 74
+  },
+  {
     "name": "Hou Maritime Idrætsefterskole",
     "dbuId": 1928
+  },
+  {
+    "name": "Hou Og Omegns IF",
+    "dbuId": 548
+  },
+  {
+    "name": "Houlbjerg/Laurbjerg IF",
+    "dbuId": 550
+  },
+  {
+    "name": "Houlkær Fodboldklub",
+    "dbuId": 415
+  },
+  {
+    "name": "Hovborg/Lindknud FA",
+    "dbuId": 823
+  },
+  {
+    "name": "Hovedgård IF",
+    "dbuId": 551
+  },
+  {
+    "name": "Hover IF",
+    "dbuId": 552
+  },
+  {
+    "name": "Hover UIF",
+    "dbuId": 258
+  },
+  {
+    "name": "Hovslund GF",
+    "dbuId": 824
   },
   {
     "name": "Humble BK",
     "dbuId": 1414
   },
   {
+    "name": "Humlebæk BK",
+    "dbuId": 1085
+  },
+  {
+    "name": "Hundborg B",
+    "dbuId": 259
+  },
+  {
+    "name": "Hundelev B",
+    "dbuId": 75
+  },
+  {
+    "name": "Hunderup/Sejstrup UG",
+    "dbuId": 825
+  },
+  {
+    "name": "Hundested IK",
+    "dbuId": 1086
+  },
+  {
+    "name": "Hundige BK",
+    "dbuId": 1087
+  },
+  {
+    "name": "Hune B",
+    "dbuId": 76
+  },
+  {
+    "name": "Hurup IF",
+    "dbuId": 260
+  },
+  {
     "name": "Husum Boldklub",
     "dbuId": 1563
+  },
+  {
+    "name": "Hvalsø IF",
+    "dbuId": 1088
+  },
+  {
+    "name": "Hvidebæk IF",
+    "dbuId": 1089
+  },
+  {
+    "name": "Hviding IF",
+    "dbuId": 826
   },
   {
     "name": "Hvidovre Idrætsforening",
     "dbuId": 1564
   },
   {
-    "name": "Hvidovre IF",
+    "name": "Hvidovre IF (professional)",
     "dbuId": 3716
+  },
+  {
+    "name": "Hylke Fodboldklub",
+    "dbuId": 447
+  },
+  {
+    "name": "Højby IF",
+    "dbuId": 1094
   },
   {
     "name": "Højby S & G",
     "dbuId": 1416
   },
   {
+    "name": "Høje Gladsaxe IF",
+    "dbuId": 1095
+  },
+  {
+    "name": "Høje Kolstrup B 81",
+    "dbuId": 928
+  },
+  {
     "name": "Høje-Taastrup Linie 10",
     "dbuId": 2334
+  },
+  {
+    "name": "Højen G&U",
+    "dbuId": 737
   },
   {
     "name": "Højer Efterskole",
     "dbuId": 1936
   },
   {
+    "name": "Højer IF",
+    "dbuId": 827
+  },
+  {
+    "name": "Højslev Station IF",
+    "dbuId": 264
+  },
+  {
+    "name": "Høm/Seem UIF",
+    "dbuId": 924
+  },
+  {
     "name": "Høng  Efterskole",
     "dbuId": 2544
   },
   {
+    "name": "Høng GF",
+    "dbuId": 1097
+  },
+  {
     "name": "Hørby Efterskoles IF",
     "dbuId": 2014
+  },
+  {
+    "name": "Hørby IF",
+    "dbuId": 78
+  },
+  {
+    "name": "Hørning GF",
+    "dbuId": 556
+  },
+  {
+    "name": "Hørning IF",
+    "dbuId": 557
+  },
+  {
+    "name": "Hørsholm-Usserød IK",
+    "dbuId": 1098
+  },
+  {
+    "name": "Hørup UI",
+    "dbuId": 828
+  },
+  {
+    "name": "Hørve IF",
+    "dbuId": 1099
+  },
+  {
+    "name": "HØST IF",
+    "dbuId": 705
   },
   {
     "name": "Høsterkøb Fodboldklub 2000",
@@ -1214,6 +2706,10 @@ const clubs = [
     "dbuId": 3798
   },
   {
+    "name": "Idom IF",
+    "dbuId": 265
+  },
+  {
     "name": "Idræt og Venskab Foreningen, Århus",
     "dbuId": 1782
   },
@@ -1226,16 +2722,92 @@ const clubs = [
     "dbuId": 1932
   },
   {
+    "name": "Idrætsforeningen Dannebrog, Astrup",
+    "dbuId": 18
+  },
+  {
+    "name": "Idrætsklubben Vest af 1971",
+    "dbuId": 108
+  },
+  {
+    "name": "IF Bytoften",
+    "dbuId": 986
+  },
+  {
+    "name": "IF Frem Bjæverskov Fodbold",
+    "dbuId": 967
+  },
+  {
+    "name": "IF Fremad Nørhalne",
+    "dbuId": 100
+  },
+  {
     "name": "IF Føroyar",
     "dbuId": 1606
+  },
+  {
+    "name": "IF Haurum/Sall",
+    "dbuId": 714
+  },
+  {
+    "name": "IF Haabet, Øster Uttrup",
+    "dbuId": 175
+  },
+  {
+    "name": "IF Lyseng",
+    "dbuId": 586
+  },
+  {
+    "name": "IF Midtdjurs",
+    "dbuId": 590
+  },
+  {
+    "name": "IF Mols",
+    "dbuId": 591
+  },
+  {
+    "name": "IF Nordmors",
+    "dbuId": 300
+  },
+  {
+    "name": "IF Nordthy",
+    "dbuId": 301
+  },
+  {
+    "name": "IF Skjold Birkerød",
+    "dbuId": 965
+  },
+  {
+    "name": "IF Skjold Sæby",
+    "dbuId": 134
   },
   {
     "name": "IF Svend Gønge",
     "dbuId": 1256
   },
   {
+    "name": "IF Trojka",
+    "dbuId": 360
+  },
+  {
+    "name": "IF Viking Pindstrup",
+    "dbuId": 605
+  },
+  {
+    "name": "IK Sylvia Ravnkilde",
+    "dbuId": 109
+  },
+  {
+    "name": "Ikast FS Fodbold",
+    "dbuId": 266
+  },
+  {
     "name": "Ingstrup Efterskoles IF",
     "dbuId": 3242
+  },
+  {
+    "name": "Ingstrup SF",
+    "dbuId": 81
   },
   {
     "name": "Institut Sankt Joseph",
@@ -1254,20 +2826,68 @@ const clubs = [
     "dbuId": 2234
   },
   {
+    "name": "Isenvad Borger- og Idrætsforening",
+    "dbuId": 268
+  },
+  {
     "name": "ISI Idrætsefterskole",
     "dbuId": 3649
+  },
+  {
+    "name": "Islev BK",
+    "dbuId": 1104
   },
   {
     "name": "Isterød Efterskole",
     "dbuId": 2451
   },
   {
+    "name": "JAI, Aarhus",
+    "dbuId": 426
+  },
+  {
+    "name": "Janderup FS",
+    "dbuId": 829
+  },
+  {
     "name": "Janderup IF",
     "dbuId": 3687
   },
   {
+    "name": "Jejsing IF",
+    "dbuId": 831
+  },
+  {
+    "name": "Jelling fS",
+    "dbuId": 561
+  },
+  {
+    "name": "Jels IF",
+    "dbuId": 832
+  },
+  {
+    "name": "Jerne IF",
+    "dbuId": 833
+  },
+  {
+    "name": "Jernløse BK",
+    "dbuId": 1105
+  },
+  {
+    "name": "Jernved IF",
+    "dbuId": 834
+  },
+  {
+    "name": "Jerslev/Sterup IF",
+    "dbuId": 82
+  },
+  {
     "name": "Jetsmark Idrætscenter",
     "dbuId": 3657
+  },
+  {
+    "name": "Jetsmark IF",
+    "dbuId": 84
   },
   {
     "name": "JIK-Esbjerg",
@@ -1278,12 +2898,52 @@ const clubs = [
     "dbuId": 3799
   },
   {
+    "name": "Juelsminde IF",
+    "dbuId": 563
+  },
+  {
+    "name": "Jyderup BK",
+    "dbuId": 1107
+  },
+  {
+    "name": "Jyllinge FC",
+    "dbuId": 1108
+  },
+  {
+    "name": "Jystrup IF",
+    "dbuId": 1109
+  },
+  {
     "name": "Jægersborg Boldklub",
     "dbuId": 1565
   },
   {
+    "name": "Jægerspris IK",
+    "dbuId": 1110
+  },
+  {
     "name": "Jødisk Idrætsforening Hakoah",
     "dbuId": 1557
+  },
+  {
+    "name": "Kalundborg GB",
+    "dbuId": 1111
+  },
+  {
+    "name": "Karise IK",
+    "dbuId": 1113
+  },
+  {
+    "name": "Karlslunde IF",
+    "dbuId": 1115
+  },
+  {
+    "name": "Karrebæk IF",
+    "dbuId": 1117
+  },
+  {
+    "name": "Karstoft IF",
+    "dbuId": 271
   },
   {
     "name": "Karup/Kølvrå 07",
@@ -1302,6 +2962,18 @@ const clubs = [
     "dbuId": 1422
   },
   {
+    "name": "KB 92, Karlslunde",
+    "dbuId": 1116
+  },
+  {
+    "name": "KB81 Aalborg",
+    "dbuId": 186
+  },
+  {
+    "name": "KBK Hillerød",
+    "dbuId": 1127
+  },
+  {
     "name": "Kerte GF",
     "dbuId": 1423
   },
@@ -1314,12 +2986,20 @@ const clubs = [
     "dbuId": 2663
   },
   {
+    "name": "KFUM BK, Roskilde",
+    "dbuId": 1198
+  },
+  {
     "name": "KFUM.s BK Odense",
     "dbuId": 1425
   },
   {
     "name": "KFUMs Boldklub",
     "dbuId": 1569
+  },
+  {
+    "name": "Kibæk IF",
+    "dbuId": 272
   },
   {
     "name": "Kildemosens BK",
@@ -1330,12 +3010,28 @@ const clubs = [
     "dbuId": 3870
   },
   {
+    "name": "Kirke Helsinge IF",
+    "dbuId": 1121
+  },
+  {
+    "name": "Kirke Hyllinge IF",
+    "dbuId": 1122
+  },
+  {
     "name": "Kirkeby IF",
     "dbuId": 1427
   },
   {
     "name": "Kirkeholdet Vrå",
     "dbuId": 3663
+  },
+  {
+    "name": "Kjeldbjerg UIF",
+    "dbuId": 273
+  },
+  {
+    "name": "Kjellerup IF",
+    "dbuId": 274
   },
   {
     "name": "Kjøbenhavns Boldklub",
@@ -1346,16 +3042,36 @@ const clubs = [
     "dbuId": 2087
   },
   {
+    "name": "Klejtrup B",
+    "dbuId": 345
+  },
+  {
     "name": "Klemensker IF",
     "dbuId": 1674
+  },
+  {
+    "name": "Klinkby B",
+    "dbuId": 276
   },
   {
     "name": "Klinte Grindløse IF",
     "dbuId": 1428
   },
   {
+    "name": "Klitmøller IF",
+    "dbuId": 277
+  },
+  {
+    "name": "Klokkerholm IF",
+    "dbuId": 85
+  },
+  {
     "name": "Klosterhallen",
     "dbuId": 3371
+  },
+  {
+    "name": "Klovborg UF",
+    "dbuId": 565
   },
   {
     "name": "Klub 14",
@@ -1378,16 +3094,48 @@ const clubs = [
     "dbuId": 1837
   },
   {
+    "name": "Koldby/Hørdum IF",
+    "dbuId": 279
+  },
+  {
+    "name": "Kolding B",
+    "dbuId": 566
+  },
+  {
+    "name": "Kolding IF",
+    "dbuId": 567
+  },
+  {
     "name": "Koldingegnens Idrætsefterskole",
     "dbuId": 1938
+  },
+  {
+    "name": "Kolind/Perstrup IF",
+    "dbuId": 569
+  },
+  {
+    "name": "Kolt/Hasselager IF",
+    "dbuId": 570
   },
   {
     "name": "Kongenshus Efterskole",
     "dbuId": 2084
   },
   {
+    "name": "Kongerslev IF",
+    "dbuId": 86
+  },
+  {
     "name": "Korinth IF",
     "dbuId": 1429
+  },
+  {
+    "name": "Korning IF",
+    "dbuId": 571
+  },
+  {
+    "name": "Korsholm IF",
+    "dbuId": 572
   },
   {
     "name": "KP Zebras",
@@ -1398,12 +3146,24 @@ const clubs = [
     "dbuId": 1431
   },
   {
+    "name": "Kr. Værløse IF",
+    "dbuId": 1123
+  },
+  {
     "name": "Kragelund Efterskole",
     "dbuId": 1989
   },
   {
     "name": "Krarup Espe Fodbold",
     "dbuId": 1432
+  },
+  {
+    "name": "Kristrup B",
+    "dbuId": 573
+  },
+  {
+    "name": "Krogager B",
+    "dbuId": 840
   },
   {
     "name": "Krusbjerg IF",
@@ -1418,12 +3178,48 @@ const clubs = [
     "dbuId": 1430
   },
   {
+    "name": "Kundby IF",
+    "dbuId": 1130
+  },
+  {
+    "name": "Kvaglund IF",
+    "dbuId": 841
+  },
+  {
+    "name": "Kvik 70",
+    "dbuId": 880
+  },
+  {
+    "name": "Kvik IF",
+    "dbuId": 280
+  },
+  {
     "name": "Kvindedivisionsforeningen",
     "dbuId": 2124
   },
   {
+    "name": "Kvissel-Ravnshøj IF",
+    "dbuId": 184
+  },
+  {
+    "name": "Kvistgård IF",
+    "dbuId": 1131
+  },
+  {
+    "name": "Kvong IF",
+    "dbuId": 842
+  },
+  {
+    "name": "Kværkeby IF",
+    "dbuId": 1132
+  },
+  {
     "name": "Kværndrup BK",
     "dbuId": 1437
+  },
+  {
+    "name": "Kværs B",
+    "dbuId": 922
   },
   {
     "name": "Kærby IF",
@@ -1442,8 +3238,24 @@ const clubs = [
     "dbuId": 2079
   },
   {
+    "name": "Køge BK",
+    "dbuId": 1133
+  },
+  {
     "name": "Køge FC",
     "dbuId": 1961
+  },
+  {
+    "name": "Køge Nord FC",
+    "dbuId": 1194
+  },
+  {
+    "name": "Køge Union",
+    "dbuId": 1125
+  },
+  {
+    "name": "Kølkær/Fasterholt IF",
+    "dbuId": 281
   },
   {
     "name": "Langebæk Alliancen",
@@ -1454,16 +3266,92 @@ const clubs = [
     "dbuId": 1438
   },
   {
+    "name": "Langholt Sports Klub",
+    "dbuId": 73
+  },
+  {
     "name": "Langtved SG  &  IF",
     "dbuId": 1439
+  },
+  {
+    "name": "Langaa IK",
+    "dbuId": 575
+  },
+  {
+    "name": "Ledøje-Smørum Fodbold",
+    "dbuId": 1135
+  },
+  {
+    "name": "Lejerbo BK",
+    "dbuId": 1136
+  },
+  {
+    "name": "Lejre IF",
+    "dbuId": 1137
+  },
+  {
+    "name": "Lellinge IF",
+    "dbuId": 1138
+  },
+  {
+    "name": "Lem B",
+    "dbuId": 283
+  },
+  {
+    "name": "Lemming IF",
+    "dbuId": 578
+  },
+  {
+    "name": "Lemvig GF",
+    "dbuId": 284
+  },
+  {
+    "name": "Lendum UGI",
+    "dbuId": 89
   },
   {
     "name": "Levring Efterskole",
     "dbuId": 1948
   },
   {
+    "name": "Lidenlund B",
+    "dbuId": 409
+  },
+  {
+    "name": "Lind/Kollund (KLG)",
+    "dbuId": 285
+  },
+  {
+    "name": "Linde B",
+    "dbuId": 286
+  },
+  {
+    "name": "Lindved GF",
+    "dbuId": 580
+  },
+  {
+    "name": "Lintrup UG",
+    "dbuId": 843
+  },
+  {
+    "name": "Liria FK",
+    "dbuId": 1142
+  },
+  {
+    "name": "Lisbjerg FC",
+    "dbuId": 701
+  },
+  {
     "name": "Listrup U&IF",
     "dbuId": 1640
+  },
+  {
+    "name": "Ljørslev/Ørding IF",
+    "dbuId": 288
+  },
+  {
+    "name": "LKB/Gistrup",
+    "dbuId": 91
   },
   {
     "name": "Lomborg Gymnastik- og Idrætsefterskole",
@@ -1482,36 +3370,132 @@ const clubs = [
     "dbuId": 1442
   },
   {
+    "name": "Lund IF",
+    "dbuId": 582
+  },
+  {
     "name": "Lundby Efterskole",
     "dbuId": 2637
+  },
+  {
+    "name": "Lunde B",
+    "dbuId": 844
+  },
+  {
+    "name": "Lundergård IU",
+    "dbuId": 183
+  },
+  {
+    "name": "Lunderskov B",
+    "dbuId": 583
   },
   {
     "name": "Lunderskov Efterskole",
     "dbuId": 1993
   },
   {
-    "name": "Lyngby",
+    "name": "Lundtoft IF",
+    "dbuId": 845
+  },
+  {
+    "name": "Lundtofte Boldklub",
+    "dbuId": 1145
+  },
+  {
+    "name": "Lyngby (professional)",
     "dbuId": 3717
+  },
+  {
+    "name": "Lyngby Boldklub 1921",
+    "dbuId": 1146
+  },
+  {
+    "name": "Lynge-Broby IF",
+    "dbuId": 1148
+  },
+  {
+    "name": "Lynge-Uggeløse IF",
+    "dbuId": 1149
   },
   {
     "name": "Lyngs Idrætsefterskole",
     "dbuId": 1931
   },
   {
+    "name": "Lyngsaa B",
+    "dbuId": 92
+  },
+  {
+    "name": "Lysabild SG",
+    "dbuId": 847
+  },
+  {
+    "name": "Lystrup IF",
+    "dbuId": 587
+  },
+  {
+    "name": "Læborg GF",
+    "dbuId": 848
+  },
+  {
     "name": "Læringshuset",
     "dbuId": 2330
+  },
+  {
+    "name": "Løgstrup G&IF",
+    "dbuId": 291
+  },
+  {
+    "name": "Løgstør IF",
+    "dbuId": 93
+  },
+  {
+    "name": "Løgum IF",
+    "dbuId": 849
   },
   {
     "name": "Løgumkloster Efterskole",
     "dbuId": 1990
   },
   {
+    "name": "Løjt IF",
+    "dbuId": 850
+  },
+  {
+    "name": "Løsning IF",
+    "dbuId": 588
+  },
+  {
+    "name": "Løve IF",
+    "dbuId": 1150
+  },
+  {
+    "name": "Løvel IF",
+    "dbuId": 292
+  },
+  {
+    "name": "Låsby B",
+    "dbuId": 574
+  },
+  {
+    "name": "Mammen IF",
+    "dbuId": 398
+  },
+  {
     "name": "Mariager Efterskole",
     "dbuId": 2915
   },
   {
+    "name": "Mariager IK",
+    "dbuId": 723
+  },
+  {
     "name": "Maribo BK",
     "dbuId": 1641
+  },
+  {
+    "name": "Mariehøj Kammeraterne Silkeborg",
+    "dbuId": 600
   },
   {
     "name": "Marslev G & IF",
@@ -1522,16 +3506,36 @@ const clubs = [
     "dbuId": 1446
   },
   {
+    "name": "Mejdal-Halgård Fodbold",
+    "dbuId": 293
+  },
+  {
     "name": "Mejlby Efterskole",
     "dbuId": 3655
+  },
+  {
+    "name": "Mejrup GU",
+    "dbuId": 294
+  },
+  {
+    "name": "Melby-Liseleje IF",
+    "dbuId": 1151
   },
   {
     "name": "Mellerup Efterskole",
     "dbuId": 2164
   },
   {
+    "name": "Mern UIF",
+    "dbuId": 1152
+  },
+  {
     "name": "MG & BK",
     "dbuId": 1447
+  },
+  {
+    "name": "Midtals IF",
+    "dbuId": 855
   },
   {
     "name": "Midtjysk Efterskole",
@@ -1546,12 +3550,32 @@ const clubs = [
     "dbuId": 2545
   },
   {
+    "name": "Mladost IF",
+    "dbuId": 1154
+  },
+  {
     "name": "Moltrup IF",
     "dbuId": 1895
   },
   {
     "name": "Morud IF",
     "dbuId": 1448
+  },
+  {
+    "name": "Moseby B",
+    "dbuId": 95
+  },
+  {
+    "name": "Mosede BK",
+    "dbuId": 1155
+  },
+  {
+    "name": "Mot G & U",
+    "dbuId": 851
+  },
+  {
+    "name": "Mou IF",
+    "dbuId": 96
   },
   {
     "name": "Munkebo BK",
@@ -1562,8 +3586,56 @@ const clubs = [
     "dbuId": 1852
   },
   {
+    "name": "Møgeltønder UIF",
+    "dbuId": 852
+  },
+  {
+    "name": "Møldrup/Tostrup IF",
+    "dbuId": 296
+  },
+  {
+    "name": "Møns FK",
+    "dbuId": 1158
+  },
+  {
+    "name": "Mønsted IF",
+    "dbuId": 297
+  },
+  {
+    "name": "Mørke IF",
+    "dbuId": 592
+  },
+  {
     "name": "Mørkhøj Sportsklub",
     "dbuId": 1276
+  },
+  {
+    "name": "Mørkøv IF",
+    "dbuId": 1159
+  },
+  {
+    "name": "Måbjerg IF",
+    "dbuId": 397
+  },
+  {
+    "name": "Måløv BK",
+    "dbuId": 1160
+  },
+  {
+    "name": "Mårum IF",
+    "dbuId": 1161
+  },
+  {
+    "name": "Naur-Sir-Krunderup",
+    "dbuId": 298
+  },
+  {
+    "name": "NB 93, Aarhus",
+    "dbuId": 593
+  },
+  {
+    "name": "Nerashté, Ballerup",
+    "dbuId": 1162
   },
   {
     "name": "New City",
@@ -1578,8 +3650,28 @@ const clubs = [
     "dbuId": 3416
   },
   {
+    "name": "Nibe B",
+    "dbuId": 97
+  },
+  {
+    "name": "Nielstrup/Voldum UI",
+    "dbuId": 594
+  },
+  {
+    "name": "Nim IF",
+    "dbuId": 595
+  },
+  {
     "name": "Nislevgård Efterskole",
     "dbuId": 2713
+  },
+  {
+    "name": "Nivå-Kokkedal FK",
+    "dbuId": 1163
+  },
+  {
+    "name": "Nord-Als B",
+    "dbuId": 854
   },
   {
     "name": "Nordborg Slots Efterskole",
@@ -1588,6 +3680,10 @@ const clubs = [
   {
     "name": "Nordbyens Boldklub",
     "dbuId": 3385
+  },
+  {
+    "name": "Nordenskov IF",
+    "dbuId": 856
   },
   {
     "name": "Nordfalster FB",
@@ -1602,8 +3698,36 @@ const clubs = [
     "dbuId": 3342
   },
   {
+    "name": "Nordvestmors BK",
+    "dbuId": 302
+  },
+  {
+    "name": "Nors B",
+    "dbuId": 303
+  },
+  {
+    "name": "Notmark SU",
+    "dbuId": 857
+  },
+  {
+    "name": "Nr. Bjært/Strandhuse IF",
+    "dbuId": 597
+  },
+  {
+    "name": "Nr. Felding GIF",
+    "dbuId": 305
+  },
+  {
+    "name": "Nr. Kongerslev IF",
+    "dbuId": 102
+  },
+  {
     "name": "Nr. Lyndelse / Søby F.C.",
     "dbuId": 1452
+  },
+  {
+    "name": "Nr. Nebel IF",
+    "dbuId": 861
   },
   {
     "name": "Nr. Nissum Efterskole",
@@ -1614,8 +3738,20 @@ const clubs = [
     "dbuId": 1453
   },
   {
+    "name": "Nr. Vium GF",
+    "dbuId": 308
+  },
+  {
     "name": "Nr. Aaby IK",
     "dbuId": 1454
+  },
+  {
+    "name": "NUGF Viborg",
+    "dbuId": 411
+  },
+  {
+    "name": "Nustrup UF",
+    "dbuId": 858
   },
   {
     "name": "Ny Kappel Boldklub 07",
@@ -1634,15 +3770,27 @@ const clubs = [
     "dbuId": 3404
   },
   {
-    "name": "Nykøbing FC",
+    "name": "Nykøbing FC (professional)",
     "dbuId": 3746
+  },
+  {
+    "name": "Nykøbing IF",
+    "dbuId": 1167
+  },
+  {
+    "name": "Nyråd IF",
+    "dbuId": 1168
   },
   {
     "name": "Nysted Efterskole",
     "dbuId": 2614
   },
   {
-    "name": "Næsby",
+    "name": "Næsbjerg/Rousthøje UI",
+    "dbuId": 860
+  },
+  {
+    "name": "Næsby (professional)",
     "dbuId": 3726
   },
   {
@@ -1650,12 +3798,32 @@ const clubs = [
     "dbuId": 1457
   },
   {
-    "name": "Næstved BK",
+    "name": "Næstved BK (professional)",
     "dbuId": 3727
+  },
+  {
+    "name": "Næstved FC 77",
+    "dbuId": 1170
+  },
+  {
+    "name": "Næstved I.F.",
+    "dbuId": 1171
   },
   {
     "name": "Nøddealliancen",
     "dbuId": 3734
+  },
+  {
+    "name": "Nødebo IF",
+    "dbuId": 1173
+  },
+  {
+    "name": "Nørager B",
+    "dbuId": 596
+  },
+  {
+    "name": "Nørager IF",
+    "dbuId": 99
   },
   {
     "name": "Nørbæk Efterskole",
@@ -1664,6 +3832,10 @@ const clubs = [
   {
     "name": "Nørre Alslev BK",
     "dbuId": 1650
+  },
+  {
+    "name": "Nørre Snede GF",
+    "dbuId": 598
   },
   {
     "name": "Nørre Åby Efterskole",
@@ -1678,11 +3850,19 @@ const clubs = [
     "dbuId": 1987
   },
   {
+    "name": "Nørresundby Forenede Boldklubber",
+    "dbuId": 90
+  },
+  {
+    "name": "Nøvling FK",
+    "dbuId": 193
+  },
+  {
     "name": "Nøvlingskov Efterskole",
     "dbuId": 2064
   },
   {
-    "name": "OB",
+    "name": "OB (professional)",
     "dbuId": 3706
   },
   {
@@ -1694,12 +3874,24 @@ const clubs = [
     "dbuId": 2157
   },
   {
+    "name": "Oddense-Otting UGF",
+    "dbuId": 401
+  },
+  {
+    "name": "Odder Fodbold",
+    "dbuId": 602
+  },
+  {
     "name": "Odense Boldklub",
     "dbuId": 1458
   },
   {
     "name": "Odsherreds Efterskole",
     "dbuId": 2523
+  },
+  {
+    "name": "OK 89",
+    "dbuId": 862
   },
   {
     "name": "Old Boys 1945",
@@ -1710,12 +3902,20 @@ const clubs = [
     "dbuId": 2158
   },
   {
+    "name": "Olympia Øster Hurup IF",
+    "dbuId": 173
+  },
+  {
     "name": "Olympic Amager KIF - Afventer",
     "dbuId": 3144
   },
   {
     "name": "Ommel BK",
     "dbuId": 1464
+  },
+  {
+    "name": "Onsild IF",
+    "dbuId": 105
   },
   {
     "name": "Ordblindeinstituttet",
@@ -1726,8 +3926,20 @@ const clubs = [
     "dbuId": 1465
   },
   {
+    "name": "ORI-Fodbold",
+    "dbuId": 1177
+  },
+  {
+    "name": "Orient GI",
+    "dbuId": 1178
+  },
+  {
     "name": "Osted Fri- og Efterskole",
     "dbuId": 3223
+  },
+  {
+    "name": "Osted IF",
+    "dbuId": 1179
   },
   {
     "name": "Otterup Bold- og Idrætsklub",
@@ -1738,8 +3950,20 @@ const clubs = [
     "dbuId": 1468
   },
   {
+    "name": "Outrup B",
+    "dbuId": 865
+  },
+  {
     "name": "Ove Lyhne",
     "dbuId": 1848
+  },
+  {
+    "name": "Over Jerstal Fodboldklub",
+    "dbuId": 866
+  },
+  {
+    "name": "Overlund GF",
+    "dbuId": 309
   },
   {
     "name": "Overvindinge",
@@ -1770,15 +3994,47 @@ const clubs = [
     "dbuId": 1680
   },
   {
+    "name": "Poulstrup Vrejlev 81",
+    "dbuId": 188
+  },
+  {
+    "name": "Prügelknabe IK",
+    "dbuId": 609
+  },
+  {
+    "name": "Præstø IF",
+    "dbuId": 1185
+  },
+  {
+    "name": "PSI/Serritslev",
+    "dbuId": 106
+  },
+  {
+    "name": "Purhus IF",
+    "dbuId": 607
+  },
+  {
     "name": "Radsted IF",
     "dbuId": 1651
+  },
+  {
+    "name": "Raklev GI",
+    "dbuId": 1186
+  },
+  {
+    "name": "Ramløse Fodbold IF",
+    "dbuId": 1187
+  },
+  {
+    "name": "Ramme-Lomborg IF",
+    "dbuId": 310
   },
   {
     "name": "Randers ElitesportsCollege",
     "dbuId": 3228
   },
   {
-    "name": "Randers FC",
+    "name": "Randers FC (professional)",
     "dbuId": 3707
   },
   {
@@ -1786,20 +4042,72 @@ const clubs = [
     "dbuId": 3347
   },
   {
+    "name": "Randers Freja",
+    "dbuId": 610
+  },
+  {
+    "name": "Randers KFUM Fodbold",
+    "dbuId": 611
+  },
+  {
+    "name": "Randlev/Boulstrup IF",
+    "dbuId": 613
+  },
+  {
     "name": "Ranum Efterskole",
     "dbuId": 2059
+  },
+  {
+    "name": "Rask Mølle & Omegns IF",
+    "dbuId": 614
+  },
+  {
+    "name": "Ravnsbjerg IF",
+    "dbuId": 311
+  },
+  {
+    "name": "Ravsted UI",
+    "dbuId": 867
   },
   {
     "name": "Rebild Efterskole",
     "dbuId": 1991
   },
   {
+    "name": "Rebæk IF",
+    "dbuId": 1188
+  },
+  {
+    "name": "Reerslev IF",
+    "dbuId": 1189
+  },
+  {
     "name": "Rejsby Europæiske Efterskole",
     "dbuId": 1776
   },
   {
+    "name": "Resen/Humlum IF",
+    "dbuId": 312
+  },
+  {
+    "name": "Resenbro UIF",
+    "dbuId": 618
+  },
+  {
+    "name": "Ribe BK",
+    "dbuId": 869
+  },
+  {
+    "name": "Riis Tebstrup IF",
+    "dbuId": 619
+  },
+  {
     "name": "Rikken Fodbold Club",
     "dbuId": 1577
+  },
+  {
+    "name": "Rindum SU",
+    "dbuId": 313
   },
   {
     "name": "Ringe BK",
@@ -1810,6 +4118,18 @@ const clubs = [
     "dbuId": 3943
   },
   {
+    "name": "Ringkøbing IF",
+    "dbuId": 315
+  },
+  {
+    "name": "Ringsted IF",
+    "dbuId": 1192
+  },
+  {
+    "name": "Ringsted Pigefodbold",
+    "dbuId": 1191
+  },
+  {
     "name": "Rinkenæs Efterskole",
     "dbuId": 2003
   },
@@ -1818,12 +4138,40 @@ const clubs = [
     "dbuId": 1475
   },
   {
+    "name": "RKG Fodbold",
+    "dbuId": 110
+  },
+  {
+    "name": "Roholte BK",
+    "dbuId": 1195
+  },
+  {
     "name": "Rolfsted IF",
     "dbuId": 1477
   },
   {
+    "name": "Romalt IF",
+    "dbuId": 727
+  },
+  {
+    "name": "Rosendal IK",
+    "dbuId": 41
+  },
+  {
+    "name": "Rosenhøj BK",
+    "dbuId": 1196
+  },
+  {
+    "name": "Roskilde Boldklub",
+    "dbuId": 1197
+  },
+  {
     "name": "Roskilde Pigefodbold",
     "dbuId": 3696
+  },
+  {
+    "name": "Roslev IK",
+    "dbuId": 316
   },
   {
     "name": "Rudbjerg FB",
@@ -1838,12 +4186,28 @@ const clubs = [
     "dbuId": 1200
   },
   {
+    "name": "Ry Fodbold",
+    "dbuId": 620
+  },
+  {
+    "name": "Ryde/Handbjerg UF",
+    "dbuId": 317
+  },
+  {
     "name": "Ryslinge BK",
     "dbuId": 1479
   },
   {
     "name": "Rødby BK",
     "dbuId": 1653
+  },
+  {
+    "name": "Rødding IF",
+    "dbuId": 870
+  },
+  {
+    "name": "Rødding UIF",
+    "dbuId": 318
   },
   {
     "name": "Røde Fane IF",
@@ -1858,8 +4222,24 @@ const clubs = [
     "dbuId": 1201
   },
   {
+    "name": "Røde Stjerne FC, Skive",
+    "dbuId": 394
+  },
+  {
+    "name": "Rødekro IF",
+    "dbuId": 871
+  },
+  {
+    "name": "Rødkærsbroegnens IF",
+    "dbuId": 319
+  },
+  {
     "name": "Rødvig G&I",
     "dbuId": 1203
+  },
+  {
+    "name": "Rønbjerg IF",
+    "dbuId": 320
   },
   {
     "name": "Rønde Efterskole",
@@ -1890,6 +4270,10 @@ const clubs = [
     "dbuId": 1207
   },
   {
+    "name": "Rørbæk IF",
+    "dbuId": 112
+  },
+  {
     "name": "Rørvig IF",
     "dbuId": 1208
   },
@@ -1902,6 +4286,10 @@ const clubs = [
     "dbuId": 1488
   },
   {
+    "name": "Sabro IF",
+    "dbuId": 625
+  },
+  {
     "name": "Sall IF",
     "dbuId": 3141
   },
@@ -1910,8 +4298,20 @@ const clubs = [
     "dbuId": 3654
   },
   {
+    "name": "Sallingsund FC",
+    "dbuId": 214
+  },
+  {
+    "name": "Saltum IF",
+    "dbuId": 114
+  },
+  {
     "name": "Samsø Efterskole",
     "dbuId": 2946
+  },
+  {
+    "name": "Samsø Idræt & Kultur",
+    "dbuId": 626
   },
   {
     "name": "Sandby  GF",
@@ -1924,6 +4324,10 @@ const clubs = [
   {
     "name": "Sandved-Tornemark IF",
     "dbuId": 1209
+  },
+  {
+    "name": "Saxild IF",
+    "dbuId": 627
   },
   {
     "name": "SBV 09",
@@ -1946,36 +4350,88 @@ const clubs = [
     "dbuId": 2067
   },
   {
+    "name": "Sdr. Felding GIF",
+    "dbuId": 348
+  },
+  {
+    "name": "Sdr. Hygum B",
+    "dbuId": 923
+  },
+  {
     "name": "Sdr. Nærå Fri- og Efterskole",
     "dbuId": 2734
+  },
+  {
+    "name": "Sdr. Omme IF",
+    "dbuId": 890
+  },
+  {
+    "name": "Sdr. Rind/Vinkel IF",
+    "dbuId": 349
+  },
+  {
+    "name": "Sebber IF",
+    "dbuId": 115
+  },
+  {
+    "name": "Seest B",
+    "dbuId": 628
   },
   {
     "name": "Sejerø IF",
     "dbuId": 1212
   },
   {
+    "name": "Sejs Svejbæk IF",
+    "dbuId": 629
+  },
+  {
     "name": "Sengeløse GI",
     "dbuId": 1213
+  },
+  {
+    "name": "Sevel/Mogenstrup IF",
+    "dbuId": 295
   },
   {
     "name": "SfB",
     "dbuId": 1497
   },
   {
+    "name": "SHN/Ulfborg",
+    "dbuId": 366
+  },
+  {
     "name": "Sierslev FC",
     "dbuId": 1215
+  },
+  {
+    "name": "SIF Assentoft",
+    "dbuId": 658
   },
   {
     "name": "SIF Holbæk IF",
     "dbuId": 1216
   },
   {
+    "name": "Sig/Thorstrup IF",
+    "dbuId": 872
+  },
+  {
     "name": "Sigerslevøster IF",
     "dbuId": 1217
   },
   {
-    "name": "Silkeborg",
+    "name": "SIK Viborg, fodbold",
+    "dbuId": 377
+  },
+  {
+    "name": "Silkeborg (professional)",
     "dbuId": 3708
+  },
+  {
+    "name": "Silkeborg B",
+    "dbuId": 630
   },
   {
     "name": "Silkeborg Efterskole",
@@ -1986,8 +4442,24 @@ const clubs = [
     "dbuId": 3348
   },
   {
+    "name": "Silkeborg IF",
+    "dbuId": 632
+  },
+  {
     "name": "Silkeborg IF Q",
     "dbuId": 3400
+  },
+  {
+    "name": "Silkeborg KFUM",
+    "dbuId": 633
+  },
+  {
+    "name": "Sindal IF",
+    "dbuId": 116
+  },
+  {
+    "name": "Sinding GIF",
+    "dbuId": 322
   },
   {
     "name": "SINE Sportsefterskole",
@@ -2002,16 +4474,44 @@ const clubs = [
     "dbuId": 2077
   },
   {
+    "name": "Sjølund IF",
+    "dbuId": 904
+  },
+  {
+    "name": "Sjørring B",
+    "dbuId": 323
+  },
+  {
+    "name": "Sjørslev/Demstrup IF",
+    "dbuId": 324
+  },
+  {
+    "name": "Skagen IK",
+    "dbuId": 117
+  },
+  {
     "name": "Skalbjerg BK",
     "dbuId": 1482
+  },
+  {
+    "name": "Skalborg SK",
+    "dbuId": 118
   },
   {
     "name": "Skallebølle Sportsklub",
     "dbuId": 1483
   },
   {
+    "name": "Skallerup/Vennebjerg IF",
+    "dbuId": 119
+  },
+  {
     "name": "Skals Efterskole",
     "dbuId": 3763
+  },
+  {
+    "name": "Skals FF",
+    "dbuId": 326
   },
   {
     "name": "Skamby BK",
@@ -2022,12 +4522,28 @@ const clubs = [
     "dbuId": 2020
   },
   {
+    "name": "Skanderup Hjarup IF",
+    "dbuId": 719
+  },
+  {
     "name": "Skeby GF",
     "dbuId": 1485
   },
   {
+    "name": "Skelde GF",
+    "dbuId": 874
+  },
+  {
+    "name": "Skelund IF",
+    "dbuId": 120
+  },
+  {
     "name": "Skensved IF",
     "dbuId": 1219
+  },
+  {
+    "name": "Skibbild-Nøvling Idræt og Motion",
+    "dbuId": 327
   },
   {
     "name": "Skibby IK",
@@ -2038,8 +4554,24 @@ const clubs = [
     "dbuId": 3845
   },
   {
+    "name": "Skibet IF",
+    "dbuId": 637
+  },
+  {
+    "name": "Skibsby-Højene IF",
+    "dbuId": 121
+  },
+  {
     "name": "Skive IK",
+    "dbuId": 328
+  },
+  {
+    "name": "Skive IK (professional)",
     "dbuId": 3732
+  },
+  {
+    "name": "Skjern GF",
+    "dbuId": 329
   },
   {
     "name": "Skjern Kulturcenter",
@@ -2048,6 +4580,10 @@ const clubs = [
   {
     "name": "Skjød IF",
     "dbuId": 3241
+  },
+  {
+    "name": "Skodborg IF",
+    "dbuId": 875
   },
   {
     "name": "Skovbakken IK OB",
@@ -2066,8 +4602,16 @@ const clubs = [
     "dbuId": 2165
   },
   {
+    "name": "Skovlund IF",
+    "dbuId": 876
+  },
+  {
     "name": "Skovlunde IF Oldboys/Girls",
     "dbuId": 1868
+  },
+  {
+    "name": "Skovsgaard B",
+    "dbuId": 122
   },
   {
     "name": "Skovshoved Idrætsforening",
@@ -2078,12 +4622,28 @@ const clubs = [
     "dbuId": 2085
   },
   {
+    "name": "Skægkær IF Centrum",
+    "dbuId": 641
+  },
+  {
     "name": "Skælskør Boldklub og Idrætsforening",
     "dbuId": 1225
   },
   {
+    "name": "Skærbæk Boldklub",
+    "dbuId": 909
+  },
+  {
     "name": "Skærbæk Fritidscenter",
     "dbuId": 3370
+  },
+  {
+    "name": "Skødstrup SF",
+    "dbuId": 642
+  },
+  {
+    "name": "Skørping IF Frem",
+    "dbuId": 124
   },
   {
     "name": "Skårup IF",
@@ -2106,8 +4666,32 @@ const clubs = [
     "dbuId": 1234
   },
   {
+    "name": "Smidstrup/Skærup IF",
+    "dbuId": 643
+  },
+  {
+    "name": "SMIFF09",
+    "dbuId": 655
+  },
+  {
+    "name": "Snedsted GIF",
+    "dbuId": 330
+  },
+  {
+    "name": "Snejbjerg SG&I",
+    "dbuId": 331
+  },
+  {
     "name": "Snekkersten IF",
     "dbuId": 1235
+  },
+  {
+    "name": "Solbjerg IF",
+    "dbuId": 644
+  },
+  {
+    "name": "Sole IF",
+    "dbuId": 645
   },
   {
     "name": "Solrød FC",
@@ -2118,8 +4702,28 @@ const clubs = [
     "dbuId": 2021
   },
   {
+    "name": "Sommersted IF",
+    "dbuId": 879
+  },
+  {
+    "name": "Sorring/Toustrup IF",
+    "dbuId": 646
+  },
+  {
     "name": "Sorø Gymnastikefterskole",
     "dbuId": 2579
+  },
+  {
+    "name": "Spangsbjerg IF",
+    "dbuId": 881
+  },
+  {
+    "name": "Sparkær IF",
+    "dbuId": 332
+  },
+  {
+    "name": "Spentrup IF",
+    "dbuId": 647
   },
   {
     "name": "Spir Efterskole",
@@ -2130,6 +4734,10 @@ const clubs = [
     "dbuId": 1965
   },
   {
+    "name": "Spjald IF",
+    "dbuId": 333
+  },
+  {
     "name": "Sportsefterskolen Sjælsølund",
     "dbuId": 3954
   },
@@ -2138,8 +4746,40 @@ const clubs = [
     "dbuId": 1996
   },
   {
+    "name": "Spøttrup Motion & Sport",
+    "dbuId": 201
+  },
+  {
+    "name": "SS Skjold",
+    "dbuId": 638
+  },
+  {
+    "name": "ST 70",
+    "dbuId": 648
+  },
+  {
     "name": "ST Oldboys, Trige",
     "dbuId": 3156
+  },
+  {
+    "name": "St. Restrup IF",
+    "dbuId": 126
+  },
+  {
+    "name": "Starup IF",
+    "dbuId": 882
+  },
+  {
+    "name": "Starup UIF",
+    "dbuId": 883
+  },
+  {
+    "name": "Stauning/Dejbjerg UI",
+    "dbuId": 337
+  },
+  {
+    "name": "Stavtrup IF Fodbold",
+    "dbuId": 649
   },
   {
     "name": "Stenlille IF",
@@ -2150,16 +4790,36 @@ const clubs = [
     "dbuId": 1243
   },
   {
+    "name": "Stensballe IK",
+    "dbuId": 650
+  },
+  {
     "name": "Stenstrup IF",
     "dbuId": 1491
+  },
+  {
+    "name": "Stepping IF",
+    "dbuId": 884
   },
   {
     "name": "Stidsholt IF (Efterskole)",
     "dbuId": 1694
   },
   {
+    "name": "Stilling IF",
+    "dbuId": 652
+  },
+  {
     "name": "Stillinge IF",
     "dbuId": 1246
+  },
+  {
+    "name": "Stjær B",
+    "dbuId": 653
+  },
+  {
+    "name": "Stoholm IF",
+    "dbuId": 338
   },
   {
     "name": "Stokkemarke",
@@ -2178,12 +4838,32 @@ const clubs = [
     "dbuId": 1249
   },
   {
+    "name": "Storvorde/Sejlflod B",
+    "dbuId": 127
+  },
+  {
+    "name": "Strandby IF Farsø",
+    "dbuId": 129
+  },
+  {
+    "name": "Strandby-Elling-Nielstrup IF Fodbold",
+    "dbuId": 128
+  },
+  {
+    "name": "Strellev/Lyne GU",
+    "dbuId": 846
+  },
+  {
     "name": "Strib Idrætsefterskole",
     "dbuId": 3949
   },
   {
     "name": "Strib IF",
     "dbuId": 1494
+  },
+  {
+    "name": "Struer B",
+    "dbuId": 339
   },
   {
     "name": "Stubbekøbing BK",
@@ -2194,20 +4874,44 @@ const clubs = [
     "dbuId": 1598
   },
   {
+    "name": "Studsgård Sport & Kultur",
+    "dbuId": 340
+  },
+  {
     "name": "STUK Overbygning",
     "dbuId": 2756
+  },
+  {
+    "name": "Støvring IF Fodbold",
+    "dbuId": 130
   },
   {
     "name": "SUB Ullerslev",
     "dbuId": 1496
   },
   {
+    "name": "Sulsted IF",
+    "dbuId": 131
+  },
+  {
     "name": "Sundby Boldklub",
     "dbuId": 1583
   },
   {
+    "name": "Sundby Mors IF",
+    "dbuId": 341
+  },
+  {
+    "name": "Sundby Thy IK",
+    "dbuId": 342
+  },
+  {
     "name": "Sundeved Efterskoles IF",
     "dbuId": 1950
+  },
+  {
+    "name": "Sunds IF",
+    "dbuId": 343
   },
   {
     "name": "Suså IF",
@@ -2218,8 +4922,20 @@ const clubs = [
     "dbuId": 1683
   },
   {
+    "name": "Svankjær B",
+    "dbuId": 344
+  },
+  {
     "name": "Svendborg Efterskole",
     "dbuId": 3589
+  },
+  {
+    "name": "Svenstrup UF",
+    "dbuId": 885
+  },
+  {
+    "name": "Svenstrup-Godthåb IF",
+    "dbuId": 132
   },
   {
     "name": "Svinninge IF",
@@ -2232,6 +4948,14 @@ const clubs = [
   {
     "name": "Syd- & Østsjællands",
     "dbuId": 2080
+  },
+  {
+    "name": "Sydmors IF",
+    "dbuId": 346
+  },
+  {
+    "name": "Sydthy B",
+    "dbuId": 233
   },
   {
     "name": "Sydvestjyllands Efterskole Fodbold",
@@ -2250,6 +4974,10 @@ const clubs = [
     "dbuId": 1660
   },
   {
+    "name": "Syvsten IF",
+    "dbuId": 133
+  },
+  {
     "name": "Sædder IF",
     "dbuId": 1261
   },
@@ -2258,8 +4986,16 @@ const clubs = [
     "dbuId": 3514
   },
   {
+    "name": "Sædding/G IF",
+    "dbuId": 886
+  },
+  {
     "name": "Særslev BK",
     "dbuId": 1498
+  },
+  {
+    "name": "Søften GF",
+    "dbuId": 656
   },
   {
     "name": "Søhus IF",
@@ -2274,6 +5010,14 @@ const clubs = [
     "dbuId": 1501
   },
   {
+    "name": "Sønderborg Boldklub",
+    "dbuId": 887
+  },
+  {
+    "name": "Sønderborg Fremad",
+    "dbuId": 888
+  },
+  {
     "name": "Sønderbro Fight",
     "dbuId": 1580
   },
@@ -2282,24 +5026,60 @@ const clubs = [
     "dbuId": 3356
   },
   {
-    "name": "SønderjyskE",
+    "name": "SønderjyskE (professional)",
     "dbuId": 3703
+  },
+  {
+    "name": "Sønderris SK",
+    "dbuId": 891
   },
   {
     "name": "Søndersø BK",
     "dbuId": 1502
   },
   {
+    "name": "Sønderup/Suldrup IK Frem",
+    "dbuId": 135
+  },
+  {
+    "name": "Sørup IF",
+    "dbuId": 182
+  },
+  {
     "name": "SØS - Sydøstsjællands Idrætsefterskole",
     "dbuId": 3941
+  },
+  {
+    "name": "Søvind GIF",
+    "dbuId": 659
   },
   {
     "name": "Såby Fodbold",
     "dbuId": 1266
   },
   {
+    "name": "Tangsø fS",
+    "dbuId": 396
+  },
+  {
+    "name": "Taps.dk - By- og IF",
+    "dbuId": 892
+  },
+  {
+    "name": "Tarm IF",
+    "dbuId": 350
+  },
+  {
+    "name": "Tarp B",
+    "dbuId": 893
+  },
+  {
     "name": "Tarup/Paarup IF",
     "dbuId": 1503
+  },
+  {
+    "name": "Taulov/Skærbæk IF",
+    "dbuId": 661
   },
   {
     "name": "Team 2. Sal",
@@ -2310,6 +5090,14 @@ const clubs = [
     "dbuId": 3830
   },
   {
+    "name": "Team Leo IF",
+    "dbuId": 740
+  },
+  {
+    "name": "Team Nørreå",
+    "dbuId": 253
+  },
+  {
     "name": "Team Viborg",
     "dbuId": 3850
   },
@@ -2318,28 +5106,80 @@ const clubs = [
     "dbuId": 1684
   },
   {
+    "name": "Terndrup IF",
+    "dbuId": 137
+  },
+  {
     "name": "Terslev G&IF",
     "dbuId": 1267
   },
   {
+    "name": "Them GF",
+    "dbuId": 663
+  },
+  {
+    "name": "Thise IF",
+    "dbuId": 138
+  },
+  {
     "name": "Thisted FC",
+    "dbuId": 351
+  },
+  {
+    "name": "Thisted FC (professional)",
     "dbuId": 3747
+  },
+  {
+    "name": "Thorning IF",
+    "dbuId": 352
   },
   {
     "name": "Thorsø OB",
     "dbuId": 3136
   },
   {
+    "name": "Thorsø/Tungelund IF",
+    "dbuId": 353
+  },
+  {
+    "name": "Thorup/Klim B",
+    "dbuId": 140
+  },
+  {
     "name": "Thurø BK af 1920",
     "dbuId": 1505
+  },
+  {
+    "name": "Thyborøn Fritid",
+    "dbuId": 354
+  },
+  {
+    "name": "Thyholm IF",
+    "dbuId": 355
   },
   {
     "name": "Thyland idrætsefterskole",
     "dbuId": 2019
   },
   {
+    "name": "Thyregod SF Frem",
+    "dbuId": 665
+  },
+  {
     "name": "Tikøb IF",
     "dbuId": 1270
+  },
+  {
+    "name": "Tilsted IK",
+    "dbuId": 356
+  },
+  {
+    "name": "Tim GIF",
+    "dbuId": 357
+  },
+  {
+    "name": "Tinglev IF",
+    "dbuId": 755
   },
   {
     "name": "Tingsted BK",
@@ -2350,6 +5190,14 @@ const clubs = [
     "dbuId": 1945
   },
   {
+    "name": "Tirstrup-Balle IF",
+    "dbuId": 667
+  },
+  {
+    "name": "Tistrup B",
+    "dbuId": 894
+  },
+  {
     "name": "Tisvildeleje GF",
     "dbuId": 1271
   },
@@ -2358,12 +5206,32 @@ const clubs = [
     "dbuId": 3013
   },
   {
+    "name": "Tjæreborg IF",
+    "dbuId": 895
+  },
+  {
+    "name": "Tjørring IF",
+    "dbuId": 359
+  },
+  {
+    "name": "Todbjerg/Mejlby IF",
+    "dbuId": 668
+  },
+  {
+    "name": "Toftlund IF",
+    "dbuId": 896
+  },
+  {
     "name": "Toksværd Olstrup Fodbold",
     "dbuId": 1958
   },
   {
     "name": "Tommerup BK",
     "dbuId": 1507
+  },
+  {
+    "name": "Tornby IF",
+    "dbuId": 143
   },
   {
     "name": "Torpedo AT",
@@ -2378,8 +5246,44 @@ const clubs = [
     "dbuId": 1508
   },
   {
+    "name": "Tranum GF",
+    "dbuId": 144
+  },
+  {
+    "name": "Trekroner IF 98",
+    "dbuId": 178
+  },
+  {
+    "name": "Trelde GIF",
+    "dbuId": 670
+  },
+  {
+    "name": "Troldhede GIF",
+    "dbuId": 361
+  },
+  {
+    "name": "Trustrup-Ålsrode IF",
+    "dbuId": 672
+  },
+  {
+    "name": "Try/Thorshøj B",
+    "dbuId": 145
+  },
+  {
+    "name": "TSI/Stenum",
+    "dbuId": 142
+  },
+  {
+    "name": "tst Fodbold",
+    "dbuId": 671
+  },
+  {
     "name": "TST Kunstgræsanlæg",
     "dbuId": 3265
+  },
+  {
+    "name": "Tulstrup-Faurholt IK",
+    "dbuId": 362
   },
   {
     "name": "Tune IF",
@@ -2398,6 +5302,14 @@ const clubs = [
     "dbuId": 1510
   },
   {
+    "name": "Tvis KFUM & IF",
+    "dbuId": 363
+  },
+  {
+    "name": "Tylstrup IF",
+    "dbuId": 146
+  },
+  {
     "name": "Tølløse BK",
     "dbuId": 1284
   },
@@ -2414,12 +5326,24 @@ const clubs = [
     "dbuId": 1285
   },
   {
+    "name": "Tønder SF",
+    "dbuId": 897
+  },
+  {
+    "name": "Tørring IF",
+    "dbuId": 675
+  },
+  {
     "name": "Taarbæk IF",
     "dbuId": 1286
   },
   {
     "name": "Tårnby FF",
     "dbuId": 1766
+  },
+  {
+    "name": "Tårs/Ugilt IF",
+    "dbuId": 136
   },
   {
     "name": "Tårup IF",
@@ -2454,6 +5378,30 @@ const clubs = [
     "dbuId": 3678
   },
   {
+    "name": "Uhre GIF",
+    "dbuId": 364
+  },
+  {
+    "name": "Ulbjerg IF",
+    "dbuId": 365
+  },
+  {
+    "name": "Uldum IF",
+    "dbuId": 676
+  },
+  {
+    "name": "Ulsted B",
+    "dbuId": 147
+  },
+  {
+    "name": "Ulstrup IF",
+    "dbuId": 367
+  },
+  {
+    "name": "Understed IF",
+    "dbuId": 148
+  },
+  {
     "name": "Undløse BK",
     "dbuId": 1290
   },
@@ -2482,6 +5430,10 @@ const clubs = [
     "dbuId": 1291
   },
   {
+    "name": "Vadum IF",
+    "dbuId": 150
+  },
+  {
     "name": "Valby Boldklub",
     "dbuId": 1587
   },
@@ -2492,6 +5444,18 @@ const clubs = [
   {
     "name": "Vallensved",
     "dbuId": 2120
+  },
+  {
+    "name": "Valsgård IF 83",
+    "dbuId": 190
+  },
+  {
+    "name": "Vamdrup IF",
+    "dbuId": 677
+  },
+  {
+    "name": "Vammen IF",
+    "dbuId": 368
   },
   {
     "name": "Vandel Efterskole",
@@ -2506,12 +5470,36 @@ const clubs = [
     "dbuId": 1295
   },
   {
+    "name": "Varde IF",
+    "dbuId": 899
+  },
+  {
+    "name": "Varnæs/Bovrup IF",
+    "dbuId": 918
+  },
+  {
+    "name": "Vatanspor",
+    "dbuId": 666
+  },
+  {
+    "name": "Veddum IF",
+    "dbuId": 151
+  },
+  {
     "name": "Vedersø Efterskole",
     "dbuId": 3651
   },
   {
+    "name": "Vedsted UF",
+    "dbuId": 900
+  },
+  {
     "name": "Veflinge G &  IF",
     "dbuId": 1518
+  },
+  {
+    "name": "Vegger IF",
+    "dbuId": 152
   },
   {
     "name": "Vejby IF",
@@ -2522,8 +5510,28 @@ const clubs = [
     "dbuId": 3781
   },
   {
-    "name": "Vejle Boldklub",
+    "name": "Vejen SF",
+    "dbuId": 902
+  },
+  {
+    "name": "Vejgaard B",
+    "dbuId": 154
+  },
+  {
+    "name": "Vejlby Skovbakken Aarhus",
+    "dbuId": 431
+  },
+  {
+    "name": "Vejle B",
+    "dbuId": 681
+  },
+  {
+    "name": "Vejle Boldklub (professional)",
     "dbuId": 3718
+  },
+  {
+    "name": "Vejle FC",
+    "dbuId": 685
   },
   {
     "name": "Vejle Fodbolddommerklub",
@@ -2534,15 +5542,43 @@ const clubs = [
     "dbuId": 1941
   },
   {
+    "name": "Vejle Kammeraterne",
+    "dbuId": 686
+  },
+  {
+    "name": "Vejlefjord IF",
+    "dbuId": 683
+  },
+  {
+    "name": "Vejrumbro Boldklub",
+    "dbuId": 369
+  },
+  {
+    "name": "Vejrup IF",
+    "dbuId": 903
+  },
+  {
     "name": "Veksø IF",
     "dbuId": 1301
+  },
+  {
+    "name": "Vellev IF",
+    "dbuId": 370
+  },
+  {
+    "name": "Velling UIF",
+    "dbuId": 371
+  },
+  {
+    "name": "Vemb FS",
+    "dbuId": 372
   },
   {
     "name": "Vemmelev BK",
     "dbuId": 1303
   },
   {
-    "name": "Vendsyssel FF",
+    "name": "Vendsyssel FF (professional)",
     "dbuId": 3733
   },
   {
@@ -2558,6 +5594,26 @@ const clubs = [
     "dbuId": 1994
   },
   {
+    "name": "Vestbjerg IF",
+    "dbuId": 155
+  },
+  {
+    "name": "Vester Hassing GF",
+    "dbuId": 156
+  },
+  {
+    "name": "Vester Hjermitslev B",
+    "dbuId": 181
+  },
+  {
+    "name": "Vester Hornum IF",
+    "dbuId": 157
+  },
+  {
+    "name": "Vester Nebel IF",
+    "dbuId": 906
+  },
+  {
     "name": "Vesterborg Efterskole",
     "dbuId": 3811
   },
@@ -2568,6 +5624,14 @@ const clubs = [
   {
     "name": "Vesterlund Efterskole",
     "dbuId": 3107
+  },
+  {
+    "name": "Vestervig/Agger IF",
+    "dbuId": 373
+  },
+  {
+    "name": "Vesterø B",
+    "dbuId": 158
   },
   {
     "name": "Vestsjællands Amts",
@@ -2586,12 +5650,36 @@ const clubs = [
     "dbuId": 1306
   },
   {
-    "name": "Viborg",
+    "name": "Viborg (professional)",
     "dbuId": 3719
+  },
+  {
+    "name": "Viborg B67",
+    "dbuId": 375
+  },
+  {
+    "name": "Viborg FF",
+    "dbuId": 376
   },
   {
     "name": "Viborg FF Oldboys 2003",
     "dbuId": 1702
+  },
+  {
+    "name": "Viborg Vestermarken",
+    "dbuId": 378
+  },
+  {
+    "name": "Viby IF",
+    "dbuId": 691
+  },
+  {
+    "name": "Videbæk IF",
+    "dbuId": 379
+  },
+  {
+    "name": "VIF, Mors",
+    "dbuId": 270
   },
   {
     "name": "Vigerslev Boldklub",
@@ -2602,8 +5690,36 @@ const clubs = [
     "dbuId": 1685
   },
   {
+    "name": "Vildbjerg SF",
+    "dbuId": 380
+  },
+  {
     "name": "Vildbjerg Sports- & Kulturcenter",
     "dbuId": 1976
+  },
+  {
+    "name": "Vilstrup UIF",
+    "dbuId": 907
+  },
+  {
+    "name": "Vindblæs B",
+    "dbuId": 159
+  },
+  {
+    "name": "Vinderslev IF",
+    "dbuId": 382
+  },
+  {
+    "name": "Vinderup IK",
+    "dbuId": 383
+  },
+  {
+    "name": "Vinding SF",
+    "dbuId": 692
+  },
+  {
+    "name": "Vinding UIF",
+    "dbuId": 384
   },
   {
     "name": "Vindinge BK",
@@ -2618,8 +5734,28 @@ const clubs = [
     "dbuId": 1311
   },
   {
+    "name": "Virklund B",
+    "dbuId": 693
+  },
+  {
+    "name": "Virring Fodbold",
+    "dbuId": 694
+  },
+  {
     "name": "Virum-Sorgenfri BK",
     "dbuId": 1313
+  },
+  {
+    "name": "Virup IF",
+    "dbuId": 695
+  },
+  {
+    "name": "Visborg IF",
+    "dbuId": 160
+  },
+  {
+    "name": "Visby IF",
+    "dbuId": 908
   },
   {
     "name": "Vissenbjerg G & IF",
@@ -2630,20 +5766,68 @@ const clubs = [
     "dbuId": 2060
   },
   {
+    "name": "Vive IF",
+    "dbuId": 161
+  },
+  {
     "name": "Vivild Gymnastik- og Idrætsefterskole",
     "dbuId": 1946
+  },
+  {
+    "name": "Vivild IF",
+    "dbuId": 696
+  },
+  {
+    "name": "Vodskov IF",
+    "dbuId": 162
+  },
+  {
+    "name": "Voerladegaard IF",
+    "dbuId": 697
+  },
+  {
+    "name": "Voersaa IF",
+    "dbuId": 163
+  },
+  {
+    "name": "Vojens BI",
+    "dbuId": 910
   },
   {
     "name": "Vojens Gymnastik- & Idrætsefterskole",
     "dbuId": 2013
   },
   {
+    "name": "Vonsild FK",
+    "dbuId": 699
+  },
+  {
     "name": "Vor Frue IF",
     "dbuId": 1315
   },
   {
+    "name": "Vorbasse Boldklub af 1912",
+    "dbuId": 911
+  },
+  {
     "name": "Vordingborg IF",
     "dbuId": 1314
+  },
+  {
+    "name": "Vorgod-Barde Motion og fritid",
+    "dbuId": 386
+  },
+  {
+    "name": "Vorup FB",
+    "dbuId": 700
+  },
+  {
+    "name": "Vorupør B",
+    "dbuId": 387
+  },
+  {
+    "name": "Vridsted IF",
+    "dbuId": 388
   },
   {
     "name": "Vrigsted Efterskole",
@@ -2654,6 +5838,10 @@ const clubs = [
     "dbuId": 3057
   },
   {
+    "name": "Vrå/Børglum IF",
+    "dbuId": 165
+  },
+  {
     "name": "Væggerløse BK",
     "dbuId": 1667
   },
@@ -2662,28 +5850,72 @@ const clubs = [
     "dbuId": 1317
   },
   {
+    "name": "Værum GF",
+    "dbuId": 703
+  },
+  {
+    "name": "Vaarst/Fjellerad B",
+    "dbuId": 149
+  },
+  {
     "name": "Walther F.C.",
     "dbuId": 3846
+  },
+  {
+    "name": "ØBG Silkeborg",
+    "dbuId": 711
+  },
+  {
+    "name": "Ødis IF",
+    "dbuId": 704
   },
   {
     "name": "ØKF",
     "dbuId": 1596
   },
   {
+    "name": "Øland/Halvrimmen IK",
+    "dbuId": 167
+  },
+  {
     "name": "Ølgod Efterskole",
     "dbuId": 2166
+  },
+  {
+    "name": "Ølgod IF",
+    "dbuId": 914
+  },
+  {
+    "name": "Ølholm B",
+    "dbuId": 706
   },
   {
     "name": "Ølsted IF",
     "dbuId": 1321
   },
   {
+    "name": "Ølsted UGF",
+    "dbuId": 707
+  },
+  {
+    "name": "Ølstrup GU",
+    "dbuId": 389
+  },
+  {
     "name": "Ølstykke FC",
     "dbuId": 1322
   },
   {
+    "name": "Ørebro B",
+    "dbuId": 168
+  },
+  {
     "name": "Ørestad IF",
     "dbuId": 3357
+  },
+  {
+    "name": "Ørnhøj/Abildå B 1986",
+    "dbuId": 390
   },
   {
     "name": "Ørslev GIF (V)",
@@ -2698,12 +5930,64 @@ const clubs = [
     "dbuId": 1327
   },
   {
+    "name": "Ørslevkloster IF",
+    "dbuId": 391
+  },
+  {
+    "name": "Ørsted IF",
+    "dbuId": 708
+  },
+  {
+    "name": "Øsby IF",
+    "dbuId": 915
+  },
+  {
+    "name": "Østbirk IF",
+    "dbuId": 709
+  },
+  {
+    "name": "Øster Brønderslev IF",
+    "dbuId": 171
+  },
+  {
+    "name": "Øster Hornum IF",
+    "dbuId": 172
+  },
+  {
+    "name": "Øster Højst UIF",
+    "dbuId": 927
+  },
+  {
+    "name": "Øster Lindet IF",
+    "dbuId": 916
+  },
+  {
+    "name": "Øster Nykirke IF",
+    "dbuId": 712
+  },
+  {
+    "name": "Øster Starup/Vester Nebel IF",
+    "dbuId": 689
+  },
+  {
+    "name": "Øster Sundby B32",
+    "dbuId": 174
+  },
+  {
     "name": "Øster Ulslev BK",
     "dbuId": 1668
   },
   {
+    "name": "Øster Vedsted IF",
+    "dbuId": 921
+  },
+  {
     "name": "Østerbro Idræts Forening",
     "dbuId": 1595
+  },
+  {
+    "name": "Østerby Sportsforening",
+    "dbuId": 191
   },
   {
     "name": "Østerlars B.",
@@ -2712,6 +5996,10 @@ const clubs = [
   {
     "name": "Østermarie IF",
     "dbuId": 1687
+  },
+  {
+    "name": "Østervraa IF",
+    "dbuId": 176
   },
   {
     "name": "Østmøn SGI",
@@ -2723,7 +6011,31 @@ const clubs = [
   },
   {
     "name": "AaB",
+    "dbuId": 2
+  },
+  {
+    "name": "AaB (professional)",
     "dbuId": 3698
+  },
+  {
+    "name": "Aabenraa BK",
+    "dbuId": 744
+  },
+  {
+    "name": "Aabybro IF",
+    "dbuId": 1
+  },
+  {
+    "name": "Aabyhøj IF",
+    "dbuId": 419
+  },
+  {
+    "name": "Ådalen IF",
+    "dbuId": 579
+  },
+  {
+    "name": "Aadum IU",
+    "dbuId": 195
   },
   {
     "name": "Ågård Efterskole",
@@ -2738,6 +6050,10 @@ const clubs = [
     "dbuId": 1688
   },
   {
+    "name": "Aalborg Chang",
+    "dbuId": 4
+  },
+  {
     "name": "Aalborg Firmaidræt",
     "dbuId": 3353
   },
@@ -2746,12 +6062,36 @@ const clubs = [
     "dbuId": 3139
   },
   {
+    "name": "Aalborg Freja",
+    "dbuId": 6
+  },
+  {
     "name": "Aalborg Fremad",
     "dbuId": 3939
   },
   {
     "name": "Aalborg Futsal Klub",
     "dbuId": 3417
+  },
+  {
+    "name": "Aalborg KFUM Fodbold",
+    "dbuId": 5
+  },
+  {
+    "name": "Aalborg Studenternes IF",
+    "dbuId": 8
+  },
+  {
+    "name": "Aalbæk Stations IF",
+    "dbuId": 7
+  },
+  {
+    "name": "Aale UI",
+    "dbuId": 420
+  },
+  {
+    "name": "Aalestrup IF",
+    "dbuId": 230
   },
   {
     "name": "Ålholm IF",
@@ -2766,8 +6106,16 @@ const clubs = [
     "dbuId": 1330
   },
   {
+    "name": "Aarhus 1900",
+    "dbuId": 428
+  },
+  {
     "name": "Aarhus Black Vipers",
     "dbuId": 3818
+  },
+  {
+    "name": "Århus Expats",
+    "dbuId": 733
   },
   {
     "name": "Aarhus Fodbolddommerklub",
@@ -2775,7 +6123,23 @@ const clubs = [
   },
   {
     "name": "Aarhus Fremad",
+    "dbuId": 425
+  },
+  {
+    "name": "Aarhus Fremad (professional)",
     "dbuId": 3729
+  },
+  {
+    "name": "Aarhus Posten",
+    "dbuId": 429
+  },
+  {
+    "name": "Årre B",
+    "dbuId": 746
+  },
+  {
+    "name": "Aars IK",
+    "dbuId": 9
   },
   {
     "name": "Aarsballe B.",
@@ -2788,6 +6152,10 @@ const clubs = [
   {
     "name": "Aarup BK",
     "dbuId": 1354
+  },
+  {
+    "name": "Aastrup IF",
+    "dbuId": 432
   },
   {
     "name": "Aasum IF",
@@ -2804,12 +6172,39 @@ async function main() {
   await figma.loadFontAsync({ family: 'Inter', style: 'Regular' });
   await figma.loadFontAsync({ family: 'Inter', style: 'Bold' });
 
-  const nodes = [];
-  let currentY = 0;
+  // Build a set of dbuIds that already have a frame on this page
+  const existingIds = new Set(
+    figma.currentPage.children
+      .filter(n => n.type === 'FRAME')
+      .map(n => n.name)
+  );
 
-  // Group clubs by first letter (already sorted alphabetically)
+  const newClubs = clubs.filter(c => !existingIds.has(String(c.dbuId)));
+
+  if (newClubs.length === 0) {
+    figma.closePlugin('Nothing to add — all clubs already have frames.');
+    return;
+  }
+
+  const nodes = [];
+
+  // Map existing letter labels (single uppercase letter text nodes) to their Y position
+  const letterRows = {};
+  for (const node of figma.currentPage.children) {
+    if (node.type === 'TEXT' && /^[A-ZÆØÅ]$/.test(node.characters)) {
+      letterRows[node.characters] = node.y + node.height / 2 - FRAME_SIZE / 2; // row Y
+    }
+  }
+
+  // Find the bottom of the canvas so new letter rows can be appended below
+  const allFrames = figma.currentPage.children.filter(n => n.type === 'FRAME');
+  let bottomY = allFrames.length > 0
+    ? Math.max(...allFrames.map(f => f.y + f.height)) + ROW_GAP
+    : 0;
+
+  // Group NEW clubs by first letter
   const groups = [];
-  for (const club of clubs) {
+  for (const club of newClubs) {
     const letter = club.name[0].toUpperCase();
     if (!groups.length || groups[groups.length - 1].letter !== letter) {
       groups.push({ letter, clubs: [] });
@@ -2818,26 +6213,42 @@ async function main() {
   }
 
   for (const { letter, clubs: letterClubs } of groups) {
-    // Letter label — sits to the left of the row, vertically centred
-    const label = figma.createText();
-    figma.currentPage.appendChild(label);
-    label.characters = letter;
-    label.fontSize   = 48;
-    label.fontName   = { family: 'Inter', style: 'Bold' };
-    label.fills      = [{ type: 'SOLID', color: { r: 0.7, g: 0.7, b: 0.7 } }];
-    label.x          = -LABEL_OFFSET;
-    label.y          = currentY + (FRAME_SIZE - label.height) / 2;
-    nodes.push(label);
+    let rowY;
+    let startX;
 
-    // Frames for this letter — single row
+    if (letterRows[letter] !== undefined) {
+      // Letter row already exists — find the rightmost frame in that row and append after it
+      rowY = letterRows[letter];
+      const rowFrames = allFrames.filter(f => Math.abs(f.y - rowY) < FRAME_SIZE / 2);
+      startX = rowFrames.length > 0
+        ? Math.max(...rowFrames.map(f => f.x + f.width)) + FRAME_GAP
+        : 0;
+    } else {
+      // New letter — create a label and start a new row at the bottom
+      rowY = bottomY;
+      startX = 0;
+      letterRows[letter] = rowY;
+      bottomY += FRAME_SIZE + ROW_GAP;
+
+      const label = figma.createText();
+      figma.currentPage.appendChild(label);
+      label.characters = letter;
+      label.fontSize   = 48;
+      label.fontName   = { family: 'Inter', style: 'Bold' };
+      label.fills      = [{ type: 'SOLID', color: { r: 0.7, g: 0.7, b: 0.7 } }];
+      label.x          = -LABEL_OFFSET;
+      label.y          = rowY + (FRAME_SIZE - label.height) / 2;
+      nodes.push(label);
+    }
+
     for (let i = 0; i < letterClubs.length; i++) {
       const { name, dbuId } = letterClubs[i];
 
       const frame = figma.createFrame();
       frame.name   = String(dbuId);
       frame.resize(FRAME_SIZE, FRAME_SIZE);
-      frame.x      = i * (FRAME_SIZE + FRAME_GAP);
-      frame.y      = currentY;
+      frame.x      = startX + i * (FRAME_SIZE + FRAME_GAP);
+      frame.y      = rowY;
       frame.fills  = [{ type: 'SOLID', color: { r: 1, g: 1, b: 1 } }];
       frame.clipsContent = false;
       // No export settings — add manually in Figma when a badge is finished
@@ -2855,13 +6266,11 @@ async function main() {
 
       nodes.push(frame);
     }
-
-    currentY += FRAME_SIZE + ROW_GAP;
   }
 
   figma.currentPage.selection = nodes;
   figma.viewport.scrollAndZoomIntoView(nodes);
-  figma.closePlugin('Done — ' + clubs.length + ' frames across ' + groups.length + ' letters.');
+  figma.closePlugin('Added ' + newClubs.length + ' new frames (' + (clubs.length - newClubs.length) + ' already existed).');
 }
 
 main();

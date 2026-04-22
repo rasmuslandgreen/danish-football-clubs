@@ -34,12 +34,39 @@ async function main() {
   await figma.loadFontAsync({ family: 'Inter', style: 'Regular' });
   await figma.loadFontAsync({ family: 'Inter', style: 'Bold' });
 
-  const nodes = [];
-  let currentY = 0;
+  // Build a set of dbuIds that already have a frame on this page
+  const existingIds = new Set(
+    figma.currentPage.children
+      .filter(n => n.type === 'FRAME')
+      .map(n => n.name)
+  );
 
-  // Group clubs by first letter (already sorted alphabetically)
+  const newClubs = clubs.filter(c => !existingIds.has(String(c.dbuId)));
+
+  if (newClubs.length === 0) {
+    figma.closePlugin('Nothing to add — all clubs already have frames.');
+    return;
+  }
+
+  const nodes = [];
+
+  // Map existing letter labels (single uppercase letter text nodes) to their Y position
+  const letterRows = {};
+  for (const node of figma.currentPage.children) {
+    if (node.type === 'TEXT' && /^[A-ZÆØÅ]$/.test(node.characters)) {
+      letterRows[node.characters] = node.y + node.height / 2 - FRAME_SIZE / 2; // row Y
+    }
+  }
+
+  // Find the bottom of the canvas so new letter rows can be appended below
+  const allFrames = figma.currentPage.children.filter(n => n.type === 'FRAME');
+  let bottomY = allFrames.length > 0
+    ? Math.max(...allFrames.map(f => f.y + f.height)) + ROW_GAP
+    : 0;
+
+  // Group NEW clubs by first letter
   const groups = [];
-  for (const club of clubs) {
+  for (const club of newClubs) {
     const letter = club.name[0].toUpperCase();
     if (!groups.length || groups[groups.length - 1].letter !== letter) {
       groups.push({ letter, clubs: [] });
@@ -48,26 +75,42 @@ async function main() {
   }
 
   for (const { letter, clubs: letterClubs } of groups) {
-    // Letter label — sits to the left of the row, vertically centred
-    const label = figma.createText();
-    figma.currentPage.appendChild(label);
-    label.characters = letter;
-    label.fontSize   = 48;
-    label.fontName   = { family: 'Inter', style: 'Bold' };
-    label.fills      = [{ type: 'SOLID', color: { r: 0.7, g: 0.7, b: 0.7 } }];
-    label.x          = -LABEL_OFFSET;
-    label.y          = currentY + (FRAME_SIZE - label.height) / 2;
-    nodes.push(label);
+    let rowY;
+    let startX;
 
-    // Frames for this letter — single row
+    if (letterRows[letter] !== undefined) {
+      // Letter row already exists — find the rightmost frame in that row and append after it
+      rowY = letterRows[letter];
+      const rowFrames = allFrames.filter(f => Math.abs(f.y - rowY) < FRAME_SIZE / 2);
+      startX = rowFrames.length > 0
+        ? Math.max(...rowFrames.map(f => f.x + f.width)) + FRAME_GAP
+        : 0;
+    } else {
+      // New letter — create a label and start a new row at the bottom
+      rowY = bottomY;
+      startX = 0;
+      letterRows[letter] = rowY;
+      bottomY += FRAME_SIZE + ROW_GAP;
+
+      const label = figma.createText();
+      figma.currentPage.appendChild(label);
+      label.characters = letter;
+      label.fontSize   = 48;
+      label.fontName   = { family: 'Inter', style: 'Bold' };
+      label.fills      = [{ type: 'SOLID', color: { r: 0.7, g: 0.7, b: 0.7 } }];
+      label.x          = -LABEL_OFFSET;
+      label.y          = rowY + (FRAME_SIZE - label.height) / 2;
+      nodes.push(label);
+    }
+
     for (let i = 0; i < letterClubs.length; i++) {
       const { name, dbuId } = letterClubs[i];
 
       const frame = figma.createFrame();
       frame.name   = String(dbuId);
       frame.resize(FRAME_SIZE, FRAME_SIZE);
-      frame.x      = i * (FRAME_SIZE + FRAME_GAP);
-      frame.y      = currentY;
+      frame.x      = startX + i * (FRAME_SIZE + FRAME_GAP);
+      frame.y      = rowY;
       frame.fills  = [{ type: 'SOLID', color: { r: 1, g: 1, b: 1 } }];
       frame.clipsContent = false;
       // No export settings — add manually in Figma when a badge is finished
@@ -85,13 +128,11 @@ async function main() {
 
       nodes.push(frame);
     }
-
-    currentY += FRAME_SIZE + ROW_GAP;
   }
 
   figma.currentPage.selection = nodes;
   figma.viewport.scrollAndZoomIntoView(nodes);
-  figma.closePlugin('Done — ' + clubs.length + ' frames across ' + groups.length + ' letters.');
+  figma.closePlugin('Added ' + newClubs.length + ' new frames (' + (clubs.length - newClubs.length) + ' already existed).');
 }
 
 main();
