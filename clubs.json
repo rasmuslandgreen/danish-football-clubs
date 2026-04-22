@@ -3327,9 +3327,9 @@
     "postal": "2000",
     "region": "Hovedstaden",
     "dbuId": 1546,
-    "primaryColor": null,
-    "secondaryColor": null,
-    "kitStyle": null,
+    "primaryColor": "#0042aa",
+    "secondaryColor": "#ffffff",
+    "kitStyle": "plain",
     "logo": null
   },
   {
@@ -15020,9 +15020,9 @@
     "postal": "2720",
     "region": "Hovedstaden",
     "dbuId": 1588,
-    "primaryColor": null,
-    "secondaryColor": null,
-    "kitStyle": null,
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#000000",
+    "kitStyle": "plain",
     "logo": "assets/logos/1588.png"
   },
   {
@@ -16450,9 +16450,9 @@
     "postal": "2100",
     "region": "Hovedstaden",
     "dbuId": 1595,
-    "primaryColor": null,
-    "secondaryColor": null,
-    "kitStyle": null,
+    "primaryColor": "#b51a00",
+    "secondaryColor": "#ffffff",
+    "kitStyle": "stripes-v",
     "logo": "assets/logos/1595.png"
   },
   {
