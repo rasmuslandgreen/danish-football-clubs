@@ -4639,7 +4639,7 @@ export const clubs = [
     "primaryColor": null,
     "secondaryColor": null,
     "kitStyle": null,
-    "logo": null
+    "logo": "assets/logos/3445.png"
   },
   {
     "name": "Fuglebakken KFUM Århus",
