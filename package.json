@@ -25,6 +25,7 @@
     "build": "node scripts/buildIndex.js",
     "figma": "node scripts/buildFigmaPlugin.js",
     "logos": "node scripts/mergeLogos.js && node scripts/buildIndex.js",
+    "editor": "node scripts/editor-server.js",
     "release": "git add package.json && git commit -m \"v$npm_package_version\" && git push origin main && git tag v$npm_package_version && git push origin v$npm_package_version"
   }
 }

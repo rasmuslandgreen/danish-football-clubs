@@ -49,15 +49,15 @@ Run this once per season or when clubs are added/removed from DBU.
 
 ## Updating Opstillingen
 
-After releasing a new version, update the version tag in `opstillingen/src/features/cloud.js`.
+After releasing a new version, update the version tag in `opstillingen/src/utils/klub-combobox.js`.
 
-Find `_CLUBS_URL` near the top of the Klub combobox section and change the version:
+Find `_CLUBS_CDN` at the top of the file and change the version:
 
 ```js
-const _CLUBS_URL = 'https://cdn.jsdelivr.net/gh/rasmuslandgreen/danish-football-clubs@v1.0.0/clubs.json';
+const _CLUBS_CDN = 'https://cdn.jsdelivr.net/gh/rasmuslandgreen/danish-football-clubs@v1.0.0';
 ```
 
-Change `@v1.0.0` to the new version tag (e.g. `@v1.0.1`), then commit and deploy.
+Change `@v1.0.0` to the new version tag (e.g. `@v1.1.0`), then commit and deploy.
 
 **jsDelivr caches each version permanently** — changing the tag is how you get fresh data. Never rely on `@main`; always pin to a version tag.
 

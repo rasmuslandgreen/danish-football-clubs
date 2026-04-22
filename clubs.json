@@ -1754,9 +1754,9 @@
     "postal": "2450",
     "region": "Hovedstaden",
     "dbuId": 1590,
-    "primaryColor": null,
-    "secondaryColor": null,
-    "kitStyle": null,
+    "primaryColor": "#cf2e2e",
+    "secondaryColor": "#000000",
+    "kitStyle": "stripes-v",
     "logo": null
   },
   {
