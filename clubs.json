@@ -2184,10 +2184,11 @@
     "postal": "2605",
     "region": "Ukendt",
     "dbuId": 3700,
-    "primaryColor": null,
-    "secondaryColor": null,
-    "kitStyle": null,
-    "logo": null
+    "primaryColor": "#fffb00",
+    "secondaryColor": "#0433ff",
+    "kitStyle": "plain",
+    "logo": null,
+    "abbreviation": "BIF"
   },
   {
     "name": "Brøndby Strand IK",
@@ -3330,7 +3331,7 @@
     "region": "Hovedstaden",
     "dbuId": 1546,
     "primaryColor": "#0042aa",
-    "secondaryColor": "#ffffff",
+    "secondaryColor": "#0042aa",
     "kitStyle": "plain",
     "logo": null,
     "abbreviation": "FA"
@@ -4639,9 +4640,9 @@
     "postal": "6830",
     "region": "Jylland",
     "dbuId": 3445,
-    "primaryColor": null,
-    "secondaryColor": null,
-    "kitStyle": null,
+    "primaryColor": "#ff8647",
+    "secondaryColor": "#ff8647",
+    "kitStyle": "plain",
     "logo": "assets/logos/3445.png"
   },
   {
