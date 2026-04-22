@@ -18,7 +18,7 @@ import { chromium } from 'playwright';
 import { writeFileSync } from 'fs';
 
 const DELAY_MS   = 250;
-const ID_START   = 1200; // first valid IDs are around 1500; start just below
+const ID_START   = 1; // IDs start as low as 35; scan from the beginning
 const ID_MAX     = 5000;
 const MISS_LIMIT = 500;  // stop after this many consecutive non-club pages
 
