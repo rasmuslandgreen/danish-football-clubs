@@ -12291,7 +12291,7 @@ export const clubs = [
     "region": "Hovedstaden",
     "dbuId": 1588,
     "color": null,
-    "logo": null
+    "logo": "assets/logos/1588.png"
   },
   {
     "name": "Vapnagård FK 72",
@@ -13461,7 +13461,7 @@ export const clubs = [
     "region": "Hovedstaden",
     "dbuId": 1595,
     "color": null,
-    "logo": null
+    "logo": "assets/logos/1595.png"
   },
   {
     "name": "Østerby Sportsforening",
