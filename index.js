@@ -2103,7 +2103,7 @@ export const clubs = [
     "region": "Jylland",
     "dbuId": 35,
     "color": null,
-    "logo": null
+    "logo": "assets/logos/35.png"
   },
   {
     "name": "Dalum IF",
@@ -2112,7 +2112,7 @@ export const clubs = [
     "region": "Fyn",
     "dbuId": 1378,
     "color": null,
-    "logo": null
+    "logo": "assets/logos/1378.png"
   },
   {
     "name": "Dana Cup Sports Center",
@@ -4137,7 +4137,7 @@ export const clubs = [
     "region": "Sjælland",
     "dbuId": 1035,
     "color": null,
-    "logo": null
+    "logo": "assets/logos/1035.png"
   },
   {
     "name": "Glamsbjerg IF",
@@ -13083,7 +13083,7 @@ export const clubs = [
     "region": "Jylland",
     "dbuId": 386,
     "color": null,
-    "logo": null
+    "logo": "assets/logos/386.png"
   },
   {
     "name": "Vorup FB",

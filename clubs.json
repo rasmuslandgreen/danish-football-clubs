@@ -2103,7 +2103,7 @@
     "union": "DBU Jylland",
     "dbuId": 35,
     "region": "Jylland",
-    "logo": null
+    "logo": "assets/logos/35.png"
   },
   {
     "name": "Dalum IF",
@@ -2112,7 +2112,7 @@
     "union": "DBU Fyn",
     "dbuId": 1378,
     "region": "Fyn",
-    "logo": null
+    "logo": "assets/logos/1378.png"
   },
   {
     "name": "Dana Cup Sports Center",
@@ -4137,7 +4137,7 @@
     "union": "DBU Sjælland",
     "dbuId": 1035,
     "region": "Sjælland",
-    "logo": null
+    "logo": "assets/logos/1035.png"
   },
   {
     "name": "Glamsbjerg IF",
@@ -13083,7 +13083,7 @@
     "union": "DBU Jylland",
     "dbuId": 386,
     "region": "Jylland",
-    "logo": null
+    "logo": "assets/logos/386.png"
   },
   {
     "name": "Vorup FB",
