@@ -1757,7 +1757,8 @@
     "primaryColor": "#cf2e2e",
     "secondaryColor": "#000000",
     "kitStyle": "stripes-v",
-    "logo": null
+    "logo": null,
+    "abbreviation": "BKV"
   },
   {
     "name": "Boldklubben Vestkysten",
@@ -2568,10 +2569,11 @@
     "postal": "9230",
     "region": "Jylland",
     "dbuId": 35,
-    "primaryColor": null,
-    "secondaryColor": null,
-    "kitStyle": null,
-    "logo": "assets/logos/35.png"
+    "primaryColor": "#f5ec00",
+    "secondaryColor": "#000000",
+    "kitStyle": "plain",
+    "logo": "assets/logos/35.png",
+    "abbreviation": "DFI"
   },
   {
     "name": "Dalum IF",
@@ -3330,7 +3332,8 @@
     "primaryColor": "#0042aa",
     "secondaryColor": "#ffffff",
     "kitStyle": "plain",
-    "logo": null
+    "logo": null,
+    "abbreviation": "FA"
   },
   {
     "name": "Fabjerg KFUM",
