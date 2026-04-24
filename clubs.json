@@ -5524,10 +5524,11 @@
     "postal": "4281",
     "region": "Sjælland",
     "dbuId": 1351,
-    "primaryColor": "#ffffff",
-    "secondaryColor": null,
-    "kitStyle": null,
-    "logo": null
+    "primaryColor": "#000000",
+    "secondaryColor": "#0061ff",
+    "kitStyle": "stripes-v",
+    "logo": "assets/logos/1351.png",
+    "abbreviation": "GI"
   },
   {
     "name": "Gørlev IF",
