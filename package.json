@@ -1,15 +1,19 @@
 {
   "name": "danish-football-clubs",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "description": "Club data and DBU utilities for Danish youth football",
   "type": "module",
   "main": "index.js",
   "exports": {
     ".": "./index.js",
+    "./teams": "./teams.js",
+    "./bydel": "./bydel.js",
     "./global": "./global.js"
   },
   "files": [
     "index.js",
+    "teams.js",
+    "bydel.js",
     "global.js",
     "assets"
   ],
@@ -25,6 +29,12 @@
     "build": "node scripts/buildIndex.js",
     "figma": "node scripts/buildFigmaPlugin.js",
     "logos": "node scripts/mergeLogos.js && node scripts/buildIndex.js",
+    "enrich": "node scripts/enrichClubs.js && node scripts/buildIndex.js",
+    "scrape-teams": "node scripts/scrapeTeams.js",
+    "scrape-bydel": "node scripts/scrapeBydel.js",
+    "build-teams": "node scripts/buildTeams.js",
+    "build-bydel": "node scripts/buildBydel.js",
+    "build-all": "npm run build && npm run build-teams && npm run build-bydel",
     "editor": "node scripts/editor-server.js",
     "release": "git push origin main && git push origin v$npm_package_version"
   }
