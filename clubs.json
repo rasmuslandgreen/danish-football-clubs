@@ -8625,7 +8625,7 @@
     "primaryColor": "#fffc41",
     "secondaryColor": "#000000",
     "kitStyle": "stripes-v",
-    "logo": null,
+    "logo": "assets/logos/1549.png",
     "email": "fb@frederiksberg-boldklub.dk",
     "website": "http://www.frederiksberg-boldklub.dk/",
     "phone": "20580898",
@@ -15931,10 +15931,10 @@
     "postal": "2000",
     "region": "Hovedstaden",
     "dbuId": 1567,
-    "primaryColor": "#ffffff",
+    "primaryColor": "#184c9c",
     "secondaryColor": "#ffffff",
-    "kitStyle": null,
-    "logo": null,
+    "kitStyle": "plain",
+    "logo": "assets/logos/1567.png",
     "email": "mail@kb-boldklub.dk",
     "website": "http://www.kb-boldklub.dk/",
     "phone": "3871 4150 (tast 1)",
@@ -15944,7 +15944,8 @@
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "municipality": "København"
+    "municipality": "København",
+    "abbreviation": "KB"
   },
   {
     "name": "Klank Efterskole (fodbold)",
