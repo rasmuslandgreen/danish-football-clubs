@@ -8217,7 +8217,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null
+    "logo": "assets/logos/1549.png"
   },
   {
     "name": "Frederiksborg Amts",
@@ -15165,9 +15165,9 @@ export const clubs = [
     "postal": "2000",
     "region": "Hovedstaden",
     "dbuId": 1567,
-    "primaryColor": "#ffffff",
+    "primaryColor": "#184c9c",
     "secondaryColor": "#ffffff",
-    "kitStyle": null,
+    "kitStyle": "plain",
     "email": "mail@kb-boldklub.dk",
     "website": "http://www.kb-boldklub.dk/",
     "phone": "3871 4150 (tast 1)",
@@ -15177,7 +15177,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null
+    "logo": "assets/logos/1567.png"
   },
   {
     "name": "Klank Efterskole (fodbold)",
