@@ -3286,7 +3286,7 @@
     "primaryColor": "#cc0000",
     "secondaryColor": "#ffffff",
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/1582.png",
     "email": "kasserer@bkstefan.dk",
     "website": "http://www.bkstefan.dk/",
     "phone": "29406046",
@@ -6365,7 +6365,8 @@
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "municipality": "København"
+    "municipality": "København",
+    "kaldenavn": "FA 2000"
   },
   {
     "name": "Fabjerg KFUM",
@@ -8635,7 +8636,9 @@
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "municipality": "København"
+    "municipality": "København",
+    "abbreviation": "FB",
+    "kaldenavn": "FB"
   },
   {
     "name": "Frederiksborg Amts",
@@ -15945,7 +15948,8 @@
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "municipality": "København",
-    "abbreviation": "KB"
+    "abbreviation": "KB",
+    "kaldenavn": "KB"
   },
   {
     "name": "Klank Efterskole (fodbold)",
@@ -20195,10 +20199,10 @@
     "postal": "2200",
     "region": "Hovedstaden",
     "dbuId": 1987,
-    "primaryColor": null,
-    "secondaryColor": "#000000",
-    "kitStyle": null,
-    "logo": null,
+    "primaryColor": "#1e5634",
+    "secondaryColor": "#ffffff",
+    "kitStyle": "stripes-v",
+    "logo": "assets/logos/1987.png",
     "email": "kontor@nbunited.dk",
     "website": "http://www.nbunited.dk/",
     "phone": "6079 6140",
@@ -20208,7 +20212,8 @@
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "municipality": "København"
+    "municipality": "København",
+    "abbreviation": "NB"
   },
   {
     "name": "Nørresundby Forenede Boldklubber",
