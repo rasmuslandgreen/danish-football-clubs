@@ -758,9 +758,9 @@
     "postal": "3770",
     "region": "Bornholm",
     "dbuId": 1671,
-    "primaryColor": null,
+    "primaryColor": "#222222",
     "secondaryColor": "#cc0000",
-    "kitStyle": null,
+    "kitStyle": "plain",
     "logo": null,
     "email": "mujnmarker@gmail.com",
     "website": "http://www.a-s-g.dk/",
@@ -775,7 +775,8 @@
     "coords": [
       55.36353136,
       14.76377199
-    ]
+    ],
+    "abbreviation": "AGS"
   },
   {
     "name": "Allingåbro IF",
@@ -16731,11 +16732,7 @@
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "municipality": "Sønderborg",
-    "coords": [
-      54.87308589,
-      10.03587811
-    ]
+    "coords": null
   },
   {
     "name": "Hørve IF",
@@ -21434,11 +21431,7 @@
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "municipality": "Sønderborg",
-    "coords": [
-      54.87308589,
-      10.03587811
-    ]
+    "coords": null
   },
   {
     "name": "Lystrup IF",
@@ -31612,11 +31605,7 @@
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "municipality": "Lejre",
-    "coords": [
-      55.65437818,
-      11.87375746
-    ]
+    "coords": null
   },
   {
     "name": "Tangsø fS",

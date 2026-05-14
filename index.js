@@ -755,9 +755,9 @@ export const clubs = [
     "postal": "3770",
     "region": "Bornholm",
     "dbuId": 1671,
-    "primaryColor": null,
+    "primaryColor": "#222222",
     "secondaryColor": "#cc0000",
-    "kitStyle": null,
+    "kitStyle": "plain",
     "email": "mujnmarker@gmail.com",
     "website": "http://www.a-s-g.dk/",
     "phone": "2946 3264",
@@ -16716,10 +16716,7 @@ export const clubs = [
     "kitAwaySocks": null,
     "logo": null,
     "kaldenavn": null,
-    "coords": [
-      54.87308589,
-      10.03587811
-    ]
+    "coords": null
   },
   {
     "name": "Hørve IF",
@@ -21416,10 +21413,7 @@ export const clubs = [
     "kitAwaySocks": null,
     "logo": "assets/logos/847.png",
     "kaldenavn": null,
-    "coords": [
-      54.87308589,
-      10.03587811
-    ]
+    "coords": null
   },
   {
     "name": "Lystrup IF",
@@ -31591,10 +31585,7 @@ export const clubs = [
     "kitAwaySocks": null,
     "logo": "assets/logos/1266.png",
     "kaldenavn": null,
-    "coords": [
-      55.65437818,
-      11.87375746
-    ]
+    "coords": null
   },
   {
     "name": "Tangsø fS",

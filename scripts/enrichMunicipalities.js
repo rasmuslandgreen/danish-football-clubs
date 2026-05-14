@@ -44,7 +44,7 @@ async function dataForPostal(postal) {
     municipality = (byName ?? kommuner[0])?.navn ?? null;
   }
 
-  return { municipality, coords };
+  return { municipality, name: data.navn ?? null, coords };
 }
 
 async function main() {

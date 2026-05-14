@@ -1214,8 +1214,7 @@ export const municipalities = {
     1088,
     1122,
     1137,
-    1179,
-    1266
+    1179
   ],
   "Middelfart": [
     1370,
@@ -1236,9 +1235,7 @@ export const municipalities = {
     781,
     803,
     1743,
-    828,
     922,
-    847,
     855,
     854,
     857,
