@@ -18,7 +18,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.43069147,
+      11.08217337
+    ]
   },
   {
     "name": "10. Aabenraa",
@@ -39,7 +43,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.02899493,
+      9.49975045
+    ]
   },
   {
     "name": "10ende Fredericia",
@@ -60,7 +68,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.57103757,
+      9.66918005
+    ]
   },
   {
     "name": "AB (professional)",
@@ -81,7 +93,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3711.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73800813,
+      12.48425242
+    ]
   },
   {
     "name": "AB Tårnby",
@@ -102,7 +118,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1537.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.63352245,
+      12.78698239
+    ]
   },
   {
     "name": "Abild IF",
@@ -123,7 +143,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.95248429,
+      8.89453488
+    ]
   },
   {
     "name": "AC Horsens (professional)",
@@ -144,7 +168,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86597915,
+      9.89301425
+    ]
   },
   {
     "name": "AC Iben",
@@ -165,7 +193,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6940569,
+      12.54914572
+    ]
   },
   {
     "name": "AC Norddjurs",
@@ -186,7 +218,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.44956016,
+      10.62703709
+    ]
   },
   {
     "name": "Adventure Efterskole",
@@ -207,7 +243,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.8713804,
+      9.68079394
+    ]
   },
   {
     "name": "Agedrup-Bullerup Boldklub",
@@ -228,7 +268,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.43442698,
+      10.48909454
+    ]
   },
   {
     "name": "Agerbæk SF",
@@ -249,7 +293,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.60852142,
+      8.82421529
+    ]
   },
   {
     "name": "Agerskov Sogns UF",
@@ -270,7 +318,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.12832485,
+      9.15854853
+    ]
   },
   {
     "name": "Agersted GF",
@@ -291,7 +343,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.21127809,
+      10.31020366
+    ]
   },
   {
     "name": "AGF (professional)",
@@ -312,7 +368,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15051496,
+      10.27802097
+    ]
   },
   {
     "name": "AGF, Aarhus",
@@ -333,7 +393,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/421.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.12635244,
+      10.13778473
+    ]
   },
   {
     "name": "Aggersund IF",
@@ -354,7 +418,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.95819912,
+      9.30949603
+    ]
   },
   {
     "name": "Ahi International School",
@@ -375,7 +443,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6883311,
+      12.48194421
+    ]
   },
   {
     "name": "AIA-Tranbjerg",
@@ -396,7 +468,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/422.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.09423322,
+      10.13924601
+    ]
   },
   {
     "name": "AIK 65 Strøby Fodbold",
@@ -417,7 +493,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.42088958,
+      12.31112895
+    ]
   },
   {
     "name": "Aktiv Timring",
@@ -438,7 +518,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.18215286,
+      8.74507312
+    ]
   },
   {
     "name": "Albertslund BS 72",
@@ -459,7 +543,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/948.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6869516,
+      12.34477556
+    ]
   },
   {
     "name": "Albertslund IF",
@@ -480,7 +568,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6869516,
+      12.34477556
+    ]
   },
   {
     "name": "Alhedens IF",
@@ -501,7 +593,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.32799021,
+      9.17419358
+    ]
   },
   {
     "name": "All Stars FC-91",
@@ -522,7 +618,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41476356,
+      10.01231946
+    ]
   },
   {
     "name": "Allerslev UIF",
@@ -543,7 +643,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.12208613,
+      12.19166049
+    ]
   },
   {
     "name": "Allerød Fodbold Klub",
@@ -564,7 +668,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1141.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86605512,
+      12.33661891
+    ]
   },
   {
     "name": "Allested U & IF",
@@ -585,7 +693,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.24506199,
+      10.25211529
+    ]
   },
   {
     "name": "Allesø GF",
@@ -606,7 +718,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.44966319,
+      10.35714765
+    ]
   },
   {
     "name": "Alliancen IF",
@@ -627,7 +743,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/435.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.3806496,
+      9.90941177
+    ]
   },
   {
     "name": "Allinge-Sandvig G.F.",
@@ -648,7 +768,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.36353136,
+      14.76377199
+    ]
   },
   {
     "name": "Allingåbro IF",
@@ -669,7 +793,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.49705855,
+      10.49037138
+    ]
   },
   {
     "name": "Alminde/Viuf GIF",
@@ -690,7 +818,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.55907816,
+      9.46401838
+    ]
   },
   {
     "name": "Als B",
@@ -711,7 +843,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.77688954,
+      10.41645939
+    ]
   },
   {
     "name": "Alslev Sport & Kultur",
@@ -732,7 +868,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65607154,
+      8.52854473
+    ]
   },
   {
     "name": "Alsted-Fjenneslev GI",
@@ -753,7 +893,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.40880423,
+      11.55727004
+    ]
   },
   {
     "name": "Alsønderup SG&I",
@@ -774,7 +918,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92123871,
+      12.28696917
+    ]
   },
   {
     "name": "Amager Fodbold Forening",
@@ -795,7 +943,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.63352245,
+      12.78698239
+    ]
   },
   {
     "name": "Amager International School",
@@ -816,7 +968,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Ammitsbøl Fodbold",
@@ -837,7 +993,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "Ammitsbøl/Egtved",
@@ -858,7 +1018,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.61664144,
+      9.29089234
+    ]
   },
   {
     "name": "Andrup IF",
@@ -879,7 +1043,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.49118916,
+      8.50670194
+    ]
   },
   {
     "name": "Andst U&I",
@@ -900,7 +1068,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.4784284,
+      9.11204215
+    ]
   },
   {
     "name": "Annisse IF",
@@ -921,7 +1093,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.01099572,
+      12.1715219
+    ]
   },
   {
     "name": "Ans IF",
@@ -942,7 +1118,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.28777753,
+      9.6247327
+    ]
   },
   {
     "name": "Ansager IF",
@@ -963,7 +1143,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.72123589,
+      8.75126746
+    ]
   },
   {
     "name": "Arctos",
@@ -984,7 +1168,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Arden IF",
@@ -1005,7 +1193,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.76264148,
+      9.94260419
+    ]
   },
   {
     "name": "Arentsminde IF",
@@ -1026,7 +1218,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.10716869,
+      9.5353613
+    ]
   },
   {
     "name": "Arnborg IF",
@@ -1047,7 +1243,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.11911505,
+      8.98775376
+    ]
   },
   {
     "name": "Aros FC",
@@ -1068,7 +1268,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.12635244,
+      10.13778473
+    ]
   },
   {
     "name": "Arrild Idrætsforening",
@@ -1089,7 +1293,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.18306206,
+      9.0451996
+    ]
   },
   {
     "name": "Artium, Brande",
@@ -1110,7 +1318,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.93341595,
+      9.0912202
+    ]
   },
   {
     "name": "As IF",
@@ -1131,7 +1343,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.76046689,
+      10.02918372
+    ]
   },
   {
     "name": "ASA, Aarhus",
@@ -1152,7 +1368,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15051496,
+      10.27802097
+    ]
   },
   {
     "name": "Askov/Malt UI",
@@ -1173,7 +1393,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.4784284,
+      9.11204215
+    ]
   },
   {
     "name": "Asnæs BK",
@@ -1194,7 +1418,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.81190532,
+      11.49734325
+    ]
   },
   {
     "name": "Assens FC",
@@ -1215,7 +1443,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.29165859,
+      9.8932785
+    ]
   },
   {
     "name": "Assens IF",
@@ -1236,7 +1468,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.63765951,
+      10.0220988
+    ]
   },
   {
     "name": "Astrup/Sønderskov IF",
@@ -1257,7 +1493,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.70230652,
+      9.2956345
+    ]
   },
   {
     "name": "Asaa B",
@@ -1278,7 +1518,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.13326579,
+      10.44405468
+    ]
   },
   {
     "name": "Aulum IF",
@@ -1299,7 +1543,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.2699576,
+      8.79948064
+    ]
   },
   {
     "name": "Auning IF",
@@ -1320,7 +1568,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.42921057,
+      10.38424574
+    ]
   },
   {
     "name": "Aunslev IF",
@@ -1341,7 +1593,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.35301317,
+      10.79790443
+    ]
   },
   {
     "name": "Avarta (professional)",
@@ -1362,7 +1618,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3720.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.68182922,
+      12.44863533
+    ]
   },
   {
     "name": "Avedøre IF",
@@ -1383,7 +1643,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.58934868,
+      12.46097002
+    ]
   },
   {
     "name": "B 1908 (professional)",
@@ -1404,7 +1668,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "B 1909",
@@ -1425,7 +1693,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.42123207,
+      10.44332209
+    ]
   },
   {
     "name": "B 1938",
@@ -1446,7 +1718,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.70210497,
+      12.11248046
+    ]
   },
   {
     "name": "B 1950 Bolderslev",
@@ -1467,7 +1743,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.68169351,
+      12.53569241
+    ]
   },
   {
     "name": "B 1990",
@@ -1488,7 +1768,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.62941506,
+      11.74490279
+    ]
   },
   {
     "name": "B 65",
@@ -1509,7 +1793,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.58244324,
+      10.10165114
+    ]
   },
   {
     "name": "B 65 OB",
@@ -1530,7 +1818,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.58244324,
+      10.10165114
+    ]
   },
   {
     "name": "B 67",
@@ -1551,7 +1843,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.34929575,
+      10.49825565
+    ]
   },
   {
     "name": "B 74 Silkeborg",
@@ -1572,7 +1868,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "B 83, Skive",
@@ -1593,7 +1893,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.46317549,
+      8.99505562
+    ]
   },
   {
     "name": "B 93 (professional)",
@@ -1614,7 +1918,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3722.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7109795,
+      12.57364633
+    ]
   },
   {
     "name": "B Chang",
@@ -1635,7 +1943,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1367.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.403021,
+      10.39174411
+    ]
   },
   {
     "name": "B. 1973, Herlev",
@@ -1656,7 +1968,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.74057031,
+      12.42581802
+    ]
   },
   {
     "name": "B. 73, Slagelse",
@@ -1677,7 +1993,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1227.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.40887345,
+      11.37134678
+    ]
   },
   {
     "name": "B. 77, Rødovre",
@@ -1698,7 +2018,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.68182922,
+      12.44863533
+    ]
   },
   {
     "name": "B. 82, Virum",
@@ -1719,7 +2043,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.78962271,
+      12.46836985
+    ]
   },
   {
     "name": "B. Frem",
@@ -1740,7 +2068,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.8143415,
+      11.63568865
+    ]
   },
   {
     "name": "B1913",
@@ -1761,7 +2093,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.37859541,
+      10.4114235
+    ]
   },
   {
     "name": "B52/Aalborg Fodbold Club",
@@ -1782,7 +2118,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.9991663,
+      9.93295578
+    ]
   },
   {
     "name": "Bagsværd BK",
@@ -1803,7 +2143,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.76191781,
+      12.44587672
+    ]
   },
   {
     "name": "Bagterp IF",
@@ -1824,7 +2168,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.70230652,
+      9.2956345
+    ]
   },
   {
     "name": "Balle Musik- og Idrætsefterskole",
@@ -1845,7 +2193,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.70610256,
+      9.36512374
+    ]
   },
   {
     "name": "Ballerup Boldklub",
@@ -1866,7 +2218,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73668449,
+      12.3638449
+    ]
   },
   {
     "name": "Ballerup-Skovlunde Fodbold",
@@ -1887,7 +2243,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73668449,
+      12.3638449
+    ]
   },
   {
     "name": "Ballum IF",
@@ -1908,7 +2268,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.07311357,
+      8.68091354
+    ]
   },
   {
     "name": "Bangsbo Freja",
@@ -1929,7 +2293,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.52270103,
+      10.72500277
+    ]
   },
   {
     "name": "Barrit GIF",
@@ -1950,7 +2318,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.68695015,
+      9.8978292
+    ]
   },
   {
     "name": "Beboerprojekt Bispebjerg",
@@ -1971,7 +2343,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.71256101,
+      12.52876704
+    ]
   },
   {
     "name": "Beder Fodboldklub",
@@ -1992,7 +2368,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.06302044,
+      10.24584275
+    ]
   },
   {
     "name": "Bedsted IF",
@@ -2013,7 +2393,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.17740891,
+      7.21613935
+    ]
   },
   {
     "name": "Bedsted UIF",
@@ -2034,7 +2418,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.06237954,
+      8.96415413
+    ]
   },
   {
     "name": "Benløse IF",
@@ -2055,7 +2443,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.43053197,
+      11.82805925
+    ]
   },
   {
     "name": "Bevtoft IF",
@@ -2076,7 +2468,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.19588025,
+      9.19750089
+    ]
   },
   {
     "name": "BFC Lundegården",
@@ -2097,7 +2493,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73668449,
+      12.3638449
+    ]
   },
   {
     "name": "BGI Akademiet",
@@ -2118,7 +2518,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.76234096,
+      9.85180061
+    ]
   },
   {
     "name": "Biersted IF",
@@ -2139,7 +2543,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.16282327,
+      9.76743314
+    ]
   },
   {
     "name": "Billum IF",
@@ -2160,7 +2568,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.59542013,
+      8.306516
+    ]
   },
   {
     "name": "Billund IF",
@@ -2181,7 +2593,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/761.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73792043,
+      9.10071489
+    ]
   },
   {
     "name": "Bindslev/Tversted IF",
@@ -2202,7 +2618,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.57139797,
+      10.23668023
+    ]
   },
   {
     "name": "Birkelse IF",
@@ -2223,7 +2643,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.16282327,
+      9.76743314
+    ]
   },
   {
     "name": "Birkende BK",
@@ -2244,7 +2668,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.36672658,
+      10.58946818
+    ]
   },
   {
     "name": "Birket Boldklub",
@@ -2265,7 +2693,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.05662783,
+      11.36808859
+    ]
   },
   {
     "name": "Bispebjerg Boldklub",
@@ -2286,7 +2718,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.71256101,
+      12.52876704
+    ]
   },
   {
     "name": "Bjergby/Mygdal IF",
@@ -2307,7 +2743,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.70230652,
+      9.2956345
+    ]
   },
   {
     "name": "Bjergsnæs Efterskole",
@@ -2328,7 +2768,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41681148,
+      9.36897659
+    ]
   },
   {
     "name": "Bjerregrav B",
@@ -2349,7 +2793,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.48050883,
+      9.88044731
+    ]
   },
   {
     "name": "Bjerringbro IF",
@@ -2370,7 +2818,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/203.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.36051392,
+      9.64257403
+    ]
   },
   {
     "name": "Bjert IF",
@@ -2391,7 +2843,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.44548525,
+      9.55990342
+    ]
   },
   {
     "name": "Bjørns International School",
@@ -2412,7 +2868,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7109795,
+      12.57364633
+    ]
   },
   {
     "name": "BK 10",
@@ -2433,7 +2893,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64077611,
+      12.52309722
+    ]
   },
   {
     "name": "BK 96, Solrød",
@@ -2454,7 +2918,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.5150734,
+      12.26072581
+    ]
   },
   {
     "name": "BK Avarta",
@@ -2464,7 +2932,7 @@ export const clubs = [
     "dbuId": 958,
     "primaryColor": "#008000",
     "secondaryColor": "#ffffff",
-    "kitStyle": null,
+    "kitStyle": "plain",
     "email": "mail@avarta.dk",
     "website": "http://www.avarta.dk/",
     "phone": "3670 9194",
@@ -2474,8 +2942,12 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
-    "kaldenavn": null
+    "logo": "assets/logos/958.png",
+    "kaldenavn": null,
+    "coords": [
+      55.68182922,
+      12.44863533
+    ]
   },
   {
     "name": "BK Frem (professional)",
@@ -2496,7 +2968,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64077611,
+      12.52309722
+    ]
   },
   {
     "name": "BK Friheden",
@@ -2517,7 +2993,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.58934868,
+      12.46097002
+    ]
   },
   {
     "name": "BK Posten",
@@ -2538,7 +3018,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.403021,
+      10.39174411
+    ]
   },
   {
     "name": "BK Stjernen af 1968",
@@ -2559,7 +3043,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.01443666,
+      10.59802878
+    ]
   },
   {
     "name": "BK Vest, Rødovre",
@@ -2569,7 +3057,7 @@ export const clubs = [
     "dbuId": 1304,
     "primaryColor": "#f5d000",
     "secondaryColor": "#0055a4",
-    "kitStyle": null,
+    "kitStyle": "plain",
     "email": "info@bk-vest.dk",
     "website": "http://www.bk-vest.dk/",
     "phone": "5123 4385",
@@ -2579,8 +3067,12 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
-    "kaldenavn": null
+    "logo": "assets/logos/1304.png",
+    "kaldenavn": null,
+    "coords": [
+      55.68182922,
+      12.44863533
+    ]
   },
   {
     "name": "BK Vestfyn",
@@ -2601,7 +3093,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.29165859,
+      9.8932785
+    ]
   },
   {
     "name": "BK-06 Esbjerg",
@@ -2622,7 +3118,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1866.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.49118916,
+      8.50670194
+    ]
   },
   {
     "name": "BK2020",
@@ -2643,7 +3143,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.39401435,
+      10.32843174
+    ]
   },
   {
     "name": "Blenstrup IF",
@@ -2664,7 +3168,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.84944104,
+      9.92696601
+    ]
   },
   {
     "name": "Blidstrup Efterskole",
@@ -2685,7 +3193,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.68763915,
+      8.70032858
+    ]
   },
   {
     "name": "Blistrup SI",
@@ -2706,7 +3218,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.22745639,
+      12.06980339
+    ]
   },
   {
     "name": "Blovstrød IF",
@@ -2727,7 +3243,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/969.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86605512,
+      12.33661891
+    ]
   },
   {
     "name": "Blåhøj IF",
@@ -2748,7 +3268,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.93341595,
+      9.0912202
+    ]
   },
   {
     "name": "Blåkilde Efterskole",
@@ -2769,7 +3293,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.89016003,
+      8.54104706
+    ]
   },
   {
     "name": "Boeslunde BK",
@@ -2790,7 +3318,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.3061459,
+      11.26828566
+    ]
   },
   {
     "name": "Bogense G & IF",
@@ -2811,7 +3343,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1362.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6129967,
+      10.15483531
+    ]
   },
   {
     "name": "Bogø IF",
@@ -2832,7 +3368,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.92382082,
+      12.05993905
+    ]
   },
   {
     "name": "Bolbro GIF",
@@ -2853,7 +3393,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.403021,
+      10.39174411
+    ]
   },
   {
     "name": "Boldklubben 1903",
@@ -2874,7 +3418,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73442051,
+      12.56946744
+    ]
   },
   {
     "name": "Boldklubben 1908",
@@ -2895,7 +3443,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1534.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Boldklubben 1960",
@@ -2916,7 +3468,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.71256101,
+      12.52876704
+    ]
   },
   {
     "name": "Boldklubben af 1893",
@@ -2936,8 +3492,12 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
-    "kaldenavn": null
+    "logo": "assets/logos/1532.png",
+    "kaldenavn": null,
+    "coords": [
+      55.7109795,
+      12.57364633
+    ]
   },
   {
     "name": "Boldklubben Amalie",
@@ -2958,7 +3518,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Boldklubben anno 2007",
@@ -2979,7 +3543,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17162148,
+      10.15819911
+    ]
   },
   {
     "name": "Boldklubben Døvania",
@@ -3000,7 +3568,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6940569,
+      12.54914572
+    ]
   },
   {
     "name": "Boldklubben Enghaven",
@@ -3021,7 +3593,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3161.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.35251254,
+      10.29791607
+    ]
   },
   {
     "name": "Boldklubben Fix",
@@ -3042,7 +3618,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1599.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.70964347,
+      12.48463422
+    ]
   },
   {
     "name": "Boldklubben Frem",
@@ -3050,9 +3630,9 @@ export const clubs = [
     "postal": "2450",
     "region": "Hovedstaden",
     "dbuId": 1552,
-    "primaryColor": null,
-    "secondaryColor": "#ffffff",
-    "kitStyle": null,
+    "primaryColor": "#371a94",
+    "secondaryColor": "#e32400",
+    "kitStyle": "stripes-h",
     "email": "kontakt@bkfrem.dk",
     "website": "http://bkfrem.dk/",
     "phone": "+45 40149469",
@@ -3062,8 +3642,12 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
-    "kaldenavn": null
+    "logo": "assets/logos/1552.png",
+    "kaldenavn": null,
+    "coords": [
+      55.64077611,
+      12.52309722
+    ]
   },
   {
     "name": "Boldklubben Fremad Amager",
@@ -3084,7 +3668,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1553.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Boldklubben Fremad Valby",
@@ -3105,7 +3693,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1554.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64077611,
+      12.52309722
+    ]
   },
   {
     "name": "Boldklubben Heimdal",
@@ -3126,7 +3718,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7109795,
+      12.57364633
+    ]
   },
   {
     "name": "Boldklubben Hekla",
@@ -3147,7 +3743,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Boldklubben Klitten",
@@ -3168,7 +3768,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.93212987,
+      4.28511819
+    ]
   },
   {
     "name": "Boldklubben Marienlyst",
@@ -3189,7 +3793,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1444.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.403021,
+      10.39174411
+    ]
   },
   {
     "name": "Boldklubben Olympia 1921",
@@ -3210,7 +3818,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Boldklubben Pioneren",
@@ -3231,7 +3843,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65941452,
+      12.49869399
+    ]
   },
   {
     "name": "Boldklubben Rødovre",
@@ -3252,7 +3868,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1578.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.68182922,
+      12.44863533
+    ]
   },
   {
     "name": "Boldklubben Skjold",
@@ -3272,8 +3892,12 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
-    "kaldenavn": null
+    "logo": "assets/logos/1581.png",
+    "kaldenavn": null,
+    "coords": [
+      55.7109795,
+      12.57364633
+    ]
   },
   {
     "name": "Boldklubben Stefan",
@@ -3294,7 +3918,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1582.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.71256101,
+      12.52876704
+    ]
   },
   {
     "name": "Boldklubben Sundby KFUM",
@@ -3315,7 +3943,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Boldklubben Union",
@@ -3336,7 +3968,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1586.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.71256101,
+      12.52876704
+    ]
   },
   {
     "name": "Boldklubben Vestia",
@@ -3357,7 +3993,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1590.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64077611,
+      12.52309722
+    ]
   },
   {
     "name": "Boldklubben Vestkysten",
@@ -3378,7 +4018,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.63843566,
+      8.2413214
+    ]
   },
   {
     "name": "Boldklubben Viktoria",
@@ -3399,7 +4043,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7109795,
+      12.57364633
+    ]
   },
   {
     "name": "Boldklubben VLI",
@@ -3420,7 +4068,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67945641,
+      12.51562935
+    ]
   },
   {
     "name": "Boldklubben Volvox",
@@ -3441,7 +4093,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6940569,
+      12.54914572
+    ]
   },
   {
     "name": "Borbjerg Skave Fodbold",
@@ -3462,7 +4118,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.34794414,
+      8.58519299
+    ]
   },
   {
     "name": "Bording IF",
@@ -3483,7 +4143,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15035869,
+      9.25469883
+    ]
   },
   {
     "name": "Boreas",
@@ -3504,7 +4168,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.27022295,
+      10.16086107
+    ]
   },
   {
     "name": "Bork FK",
@@ -3525,7 +4193,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.85259869,
+      8.33561789
+    ]
   },
   {
     "name": "Bork Havn Efterskole",
@@ -3546,7 +4218,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.85259869,
+      8.33561789
+    ]
   },
   {
     "name": "Borris IF",
@@ -3567,7 +4243,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.99089664,
+      8.53885308
+    ]
   },
   {
     "name": "Borsholm-Skibstrup IF",
@@ -3588,7 +4268,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.00467892,
+      12.59499744
+    ]
   },
   {
     "name": "Borup IF (J)",
@@ -3609,7 +4293,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.59071095,
+      9.35963562
+    ]
   },
   {
     "name": "Borup IF Fodbold",
@@ -3630,7 +4318,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/972.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.49411646,
+      11.97092667
+    ]
   },
   {
     "name": "Bov IF",
@@ -3651,7 +4343,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.8687306,
+      9.46328593
+    ]
   },
   {
     "name": "Brabrand IF",
@@ -3672,7 +4368,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/455.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15788265,
+      10.06788413
+    ]
   },
   {
     "name": "Brabrand IF (professional)",
@@ -3693,7 +4393,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15788265,
+      10.06788413
+    ]
   },
   {
     "name": "Bramdrupdam GIF",
@@ -3714,7 +4418,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50221297,
+      9.46847631
+    ]
   },
   {
     "name": "Bramming B",
@@ -3735,7 +4443,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.46065157,
+      8.70168486
+    ]
   },
   {
     "name": "Bramming Firmaidræt",
@@ -3756,7 +4468,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.46065157,
+      8.70168486
+    ]
   },
   {
     "name": "Bramming Gymnastik- og Idrætsefterskole",
@@ -3777,7 +4493,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.46065157,
+      8.70168486
+    ]
   },
   {
     "name": "Bramsnæs FB",
@@ -3798,7 +4518,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/974.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.70417096,
+      11.92418149
+    ]
   },
   {
     "name": "Brande IF",
@@ -3819,7 +4543,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.93341595,
+      9.0912202
+    ]
   },
   {
     "name": "Branderslev IF",
@@ -3840,7 +4568,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1626.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.75748092,
+      10.98835691
+    ]
   },
   {
     "name": "Bredballe IF",
@@ -3861,7 +4593,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7220274,
+      9.63873738
+    ]
   },
   {
     "name": "Brede IF",
@@ -3882,7 +4618,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/975.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.78572204,
+      12.52083673
+    ]
   },
   {
     "name": "Bredebro IF",
@@ -3903,7 +4643,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.07311357,
+      8.68091354
+    ]
   },
   {
     "name": "Brejning Efterskole",
@@ -3924,7 +4668,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65719788,
+      9.67048857
+    ]
   },
   {
     "name": "Brejninggaard Efterskole",
@@ -3945,7 +4693,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15361133,
+      8.50600358
+    ]
   },
   {
     "name": "Brenderup IF",
@@ -3966,7 +4718,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.49127877,
+      9.98162512
+    ]
   },
   {
     "name": "Broager UI",
@@ -3987,7 +4743,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.8713804,
+      9.68079394
+    ]
   },
   {
     "name": "Broby Sportsefterskole",
@@ -4008,7 +4768,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.24506199,
+      10.25211529
+    ]
   },
   {
     "name": "Brovst IF",
@@ -4029,7 +4793,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.10716869,
+      9.5353613
+    ]
   },
   {
     "name": "Bruunshåb-Tapdrup-Arnbjerg IF",
@@ -4050,7 +4818,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41681148,
+      9.36897659
+    ]
   },
   {
     "name": "Brylle BK",
@@ -4071,7 +4843,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.3195544,
+      10.19834407
+    ]
   },
   {
     "name": "Bryrup IF",
@@ -4092,7 +4868,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.02488921,
+      9.47060993
+    ]
   },
   {
     "name": "Brædstrup IF",
@@ -4113,7 +4893,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.96052136,
+      9.59236493
+    ]
   },
   {
     "name": "Brøderup Efterskole",
@@ -4134,7 +4918,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.18127292,
+      11.98569733
+    ]
   },
   {
     "name": "Brødeskov IF",
@@ -4155,7 +4943,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92123871,
+      12.28696917
+    ]
   },
   {
     "name": "Brøndby (professional)",
@@ -4176,7 +4968,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64503648,
+      12.40439537
+    ]
   },
   {
     "name": "Brøndby Strand IK",
@@ -4197,7 +4993,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.61998785,
+      12.42233883
+    ]
   },
   {
     "name": "Brøndbyernes IF",
@@ -4218,7 +5018,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64503648,
+      12.40439537
+    ]
   },
   {
     "name": "Brønderslev IF",
@@ -4239,7 +5043,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.28432949,
+      9.88277134
+    ]
   },
   {
     "name": "Brønshøj (professional)",
@@ -4260,7 +5068,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.70964347,
+      12.48463422
+    ]
   },
   {
     "name": "Brønshøj Boldklub",
@@ -4281,7 +5093,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1543.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.70964347,
+      12.48463422
+    ]
   },
   {
     "name": "Brørup GF",
@@ -4302,7 +5118,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.49880374,
+      8.99731666
+    ]
   },
   {
     "name": "Brøruphus Efterskole",
@@ -4323,7 +5143,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.02388208,
+      9.89235588
+    ]
   },
   {
     "name": "Bråskovgård Efterskole",
@@ -4344,7 +5168,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.76234096,
+      9.85180061
+    ]
   },
   {
     "name": "BUF Horsens",
@@ -4365,7 +5193,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86597915,
+      9.89301425
+    ]
   },
   {
     "name": "Bylderup/Burkal IF",
@@ -4386,7 +5218,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.01708464,
+      9.14165594
+    ]
   },
   {
     "name": "Bække SF",
@@ -4407,7 +5243,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.58270689,
+      9.15666611
+    ]
   },
   {
     "name": "Bælum/Solbjerg IF",
@@ -4428,7 +5268,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.8298458,
+      10.12654857
+    ]
   },
   {
     "name": "Børneuniversitetet",
@@ -4449,7 +5293,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67082135,
+      12.54858405
+    ]
   },
   {
     "name": "Bøvling Idrætsefterskole",
@@ -4470,7 +5318,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.54689645,
+      5.04556549
+    ]
   },
   {
     "name": "Bøvling UF",
@@ -4491,7 +5343,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.54689645,
+      5.04556549
+    ]
   },
   {
     "name": "Båring GF",
@@ -4512,7 +5368,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50180178,
+      9.90219075
+    ]
   },
   {
     "name": "Bårse IF",
@@ -4533,7 +5393,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.12208613,
+      12.19166049
+    ]
   },
   {
     "name": "Campus Vejle",
@@ -4554,7 +5418,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "CBS Sport",
@@ -4575,7 +5443,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67945641,
+      12.51562935
+    ]
   },
   {
     "name": "Center for Høretab",
@@ -4596,7 +5468,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.57103757,
+      9.66918005
+    ]
   },
   {
     "name": "Centrum IF",
@@ -4617,7 +5493,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.79347704,
+      8.61815877
+    ]
   },
   {
     "name": "Charlotteager Fodbold Klub",
@@ -4638,7 +5518,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.66357137,
+      12.19945854
+    ]
   },
   {
     "name": "Christiania Sports Club",
@@ -4659,7 +5543,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Christiansbjerg IF",
@@ -4680,7 +5568,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20167527,
+      10.15922351
+    ]
   },
   {
     "name": "Christiansfeld IF",
@@ -4701,7 +5593,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.35487274,
+      9.44750863
+    ]
   },
   {
     "name": "Christianshavns Idræts Klub",
@@ -4722,7 +5618,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67360101,
+      12.59549054
+    ]
   },
   {
     "name": "Coconut Lions FC",
@@ -4743,7 +5643,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.45935717,
+      8.46174114
+    ]
   },
   {
     "name": "Copenhagen Celtic",
@@ -4764,7 +5668,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64077611,
+      12.52309722
+    ]
   },
   {
     "name": "Copenhagen City School",
@@ -4785,7 +5693,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67457821,
+      12.55768339
+    ]
   },
   {
     "name": "DAI - Fodbold",
@@ -4806,7 +5718,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7109795,
+      12.57364633
+    ]
   },
   {
     "name": "Dalby GF",
@@ -4827,7 +5743,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50221297,
+      9.46847631
+    ]
   },
   {
     "name": "Dalby GI (H)",
@@ -4848,7 +5768,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.32031014,
+      11.95519764
+    ]
   },
   {
     "name": "Dalby IF",
@@ -4869,7 +5793,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.51715531,
+      10.7017613
+    ]
   },
   {
     "name": "Dalby IF / HFK fodbold",
@@ -4890,7 +5818,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86932225,
+      11.91680034
+    ]
   },
   {
     "name": "Dall-Ferslev IF",
@@ -4911,7 +5843,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/35.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.9647583,
+      9.86815189
+    ]
   },
   {
     "name": "Dalum IF",
@@ -4932,7 +5868,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1378.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.35251254,
+      10.29791607
+    ]
   },
   {
     "name": "Dana Cup Sports Center",
@@ -4953,7 +5893,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.70230652,
+      9.2956345
+    ]
   },
   {
     "name": "Dansk Træner Union",
@@ -4974,7 +5918,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.58934868,
+      12.46097002
+    ]
   },
   {
     "name": "Darum IF",
@@ -4995,7 +5943,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.46065157,
+      8.70168486
+    ]
   },
   {
     "name": "Daugaard IF",
@@ -5016,7 +5968,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.72499013,
+      9.70789065
+    ]
   },
   {
     "name": "De 7 Dale Idrætsforening",
@@ -5037,7 +5993,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.02388208,
+      9.89235588
+    ]
   },
   {
     "name": "Dejbjerglund Efterskole",
@@ -5058,7 +6018,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.99089664,
+      8.53885308
+    ]
   },
   {
     "name": "Den Bosniske IF",
@@ -5079,7 +6043,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50221297,
+      9.46847631
+    ]
   },
   {
     "name": "Den Danske Husflidsefterskole",
@@ -5100,7 +6068,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.99089664,
+      8.53885308
+    ]
   },
   {
     "name": "Den Danske Husflidsefterskole (Dhe)",
@@ -5121,7 +6093,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.99089664,
+      8.53885308
+    ]
   },
   {
     "name": "Deportivo Cobayas",
@@ -5142,7 +6118,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65941452,
+      12.49869399
+    ]
   },
   {
     "name": "Design- & Idrætsefterskolen Skamling",
@@ -5163,7 +6143,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.4068472,
+      9.53828204
+    ]
   },
   {
     "name": "Det Kgl. Vajsenhus",
@@ -5184,7 +6168,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.68207564,
+      12.56643374
+    ]
   },
   {
     "name": "Deutsche Nachschule Tingleff",
@@ -5205,7 +6193,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.90310802,
+      9.20354055
+    ]
   },
   {
     "name": "DGF Flensborg",
@@ -5226,7 +6218,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": null
   },
   {
     "name": "DGI Midtjylland",
@@ -5247,7 +6240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "DGI Nordvest",
@@ -5268,7 +6265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.05171431,
+      9.8350492
+    ]
   },
   {
     "name": "DGI Sydvest",
@@ -5289,7 +6290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.60852142,
+      8.82421529
+    ]
   },
   {
     "name": "DGL 2000, Aarhus",
@@ -5310,7 +6315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20167527,
+      10.15922351
+    ]
   },
   {
     "name": "Dianalund IF",
@@ -5331,7 +6340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.53579978,
+      11.48228398
+    ]
   },
   {
     "name": "Djursland Fodbolddommerklub",
@@ -5352,7 +6365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.22214938,
+      10.29989608
+    ]
   },
   {
     "name": "Djurslands Efterskole",
@@ -5373,7 +6390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.58757292,
+      10.64766235
+    ]
   },
   {
     "name": "Doense/Vebbestrup IF",
@@ -5394,7 +6415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.6528756,
+      9.77366901
+    ]
   },
   {
     "name": "Dover GF",
@@ -5415,7 +6440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.02388208,
+      9.89235588
+    ]
   },
   {
     "name": "Dragør Boldklub",
@@ -5436,7 +6465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.5081121,
+      12.59121712
+    ]
   },
   {
     "name": "Drigstrup BK",
@@ -5457,7 +6490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.49807432,
+      10.8508032
+    ]
   },
   {
     "name": "Dronningborg B",
@@ -5478,7 +6515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/467.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.50265825,
+      10.1724293
+    ]
   },
   {
     "name": "Dronningborg Oldboys",
@@ -5499,7 +6540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.48050883,
+      9.88044731
+    ]
   },
   {
     "name": "Dronninglund IF",
@@ -5520,7 +6565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/39.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.21127809,
+      10.31020366
+    ]
   },
   {
     "name": "Dybbøl IU",
@@ -5541,7 +6590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.9528525,
+      9.71079556
+    ]
   },
   {
     "name": "Dybvad B",
@@ -5562,7 +6615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.28497909,
+      10.32334518
+    ]
   },
   {
     "name": "Dynamo Petrobras",
@@ -5583,7 +6640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15788265,
+      10.06788413
+    ]
   },
   {
     "name": "Døllefjelde Musse IF",
@@ -5604,7 +6665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.62941506,
+      11.74490279
+    ]
   },
   {
     "name": "Ebberup IF",
@@ -5625,7 +6690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.13177189,
+      9.96382534
+    ]
   },
   {
     "name": "Ebeltoft IF",
@@ -5646,7 +6715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/469.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.14931257,
+      10.82632626
+    ]
   },
   {
     "name": "Efterskolen Solgården",
@@ -5667,7 +6740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.89016003,
+      8.54104706
+    ]
   },
   {
     "name": "Efterskolen Ådalen",
@@ -5688,7 +6765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.09369625,
+      10.0135704
+    ]
   },
   {
     "name": "Egebjerg Fodbold",
@@ -5709,7 +6790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.06342876,
+      10.45011017
+    ]
   },
   {
     "name": "Egebjerg IF",
@@ -5730,7 +6815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86597915,
+      9.89301425
+    ]
   },
   {
     "name": "Egen UI",
@@ -5751,7 +6840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.06940698,
+      9.77014411
+    ]
   },
   {
     "name": "Egernsund Kultur- og IF",
@@ -5772,7 +6865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.8713804,
+      9.68079394
+    ]
   },
   {
     "name": "Egmont Rollators FC",
@@ -5793,7 +6890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15051496,
+      10.27802097
+    ]
   },
   {
     "name": "Egtved IF",
@@ -5814,7 +6915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.61664144,
+      9.29089234
+    ]
   },
   {
     "name": "Ejby IF 1968",
@@ -5835,7 +6940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6741838,
+      12.39697754
+    ]
   },
   {
     "name": "Ejby IF Fodbold",
@@ -5856,7 +6965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50779016,
+      12.08511883
+    ]
   },
   {
     "name": "Ejby IK",
@@ -5877,7 +6990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.36518649,
+      9.82415972
+    ]
   },
   {
     "name": "Ejsing B",
@@ -5898,7 +7015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.47769058,
+      8.80020865
+    ]
   },
   {
     "name": "Ejstrupholm IF",
@@ -5919,7 +7040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.02375436,
+      9.24826265
+    ]
   },
   {
     "name": "Elbæk Efterskole",
@@ -5940,7 +7065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86597915,
+      9.89301425
+    ]
   },
   {
     "name": "Elite Bornholm",
@@ -5961,7 +7090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.98495945,
+      14.40163467
+    ]
   },
   {
     "name": "Endeslev-Vråby IF",
@@ -5982,7 +7115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.36245892,
+      12.22317915
+    ]
   },
   {
     "name": "Engesvang B",
@@ -6003,7 +7140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.21005036,
+      9.30391703
+    ]
   },
   {
     "name": "Engesvang Fremad",
@@ -6024,7 +7165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.21005036,
+      9.30391703
+    ]
   },
   {
     "name": "Engum UI",
@@ -6045,7 +7190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7220274,
+      9.63873738
+    ]
   },
   {
     "name": "Ensted IF",
@@ -6066,7 +7215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.02899493,
+      9.49975045
+    ]
   },
   {
     "name": "Errindlev G & I",
@@ -6087,7 +7240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.63787516,
+      11.53487222
+    ]
   },
   {
     "name": "Erritsø GIF",
@@ -6108,7 +7265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.57103757,
+      9.66918005
+    ]
   },
   {
     "name": "Esbjerg (professional)",
@@ -6129,7 +7290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3701.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.45935717,
+      8.46174114
+    ]
   },
   {
     "name": "Esbjerg fB",
@@ -6150,7 +7315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.45935717,
+      8.46174114
+    ]
   },
   {
     "name": "Esbjerg Firmaidræt",
@@ -6171,7 +7340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.49118916,
+      8.50670194
+    ]
   },
   {
     "name": "Esbjerg IF 92",
@@ -6192,7 +7365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/787.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.45935717,
+      8.46174114
+    ]
   },
   {
     "name": "Eskilstrup BK",
@@ -6213,7 +7390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.86008913,
+      11.90575722
+    ]
   },
   {
     "name": "Espergærde IF",
@@ -6234,7 +7415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.99425687,
+      12.54283631
+    ]
   },
   {
     "name": "Esrum IF",
@@ -6255,7 +7440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1006.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.22745639,
+      12.06980339
+    ]
   },
   {
     "name": "EUC Nordvest",
@@ -6276,7 +7465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.32370377,
+      7.90681299
+    ]
   },
   {
     "name": "F.C. Gladsaxe",
@@ -6297,7 +7490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.76191781,
+      12.44587672
+    ]
   },
   {
     "name": "F.C. Lange Bolde",
@@ -6318,7 +7515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.39401435,
+      10.32843174
+    ]
   },
   {
     "name": "F.C. Vesterbro",
@@ -6339,7 +7540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.08119416,
+      9.92809079
+    ]
   },
   {
     "name": "FA 2000",
@@ -6360,7 +7565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1546.png",
-    "kaldenavn": "FA 2000"
+    "kaldenavn": "FA 2000",
+    "coords": [
+      55.67945641,
+      12.51562935
+    ]
   },
   {
     "name": "Fabjerg KFUM",
@@ -6381,7 +7590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.54580784,
+      8.33453584
+    ]
   },
   {
     "name": "Faldsled/Svanninge SG & IF",
@@ -6402,7 +7615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.15062316,
+      10.12933606
+    ]
   },
   {
     "name": "Fanø B",
@@ -6423,7 +7640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/789.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.28286185,
+      7.56593986
+    ]
   },
   {
     "name": "Farstrup B",
@@ -6444,7 +7665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.94881207,
+      9.57985536
+    ]
   },
   {
     "name": "Farsø Efterskole",
@@ -6465,7 +7690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.77310507,
+      9.27748567
+    ]
   },
   {
     "name": "Farsø/Ullits IK",
@@ -6486,7 +7715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.77310507,
+      9.27748567
+    ]
   },
   {
     "name": "Farum BK",
@@ -6507,7 +7740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.81981968,
+      12.35067108
+    ]
   },
   {
     "name": "Faster B",
@@ -6528,7 +7765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.99089664,
+      8.53885308
+    ]
   },
   {
     "name": "Faxe BK",
@@ -6549,7 +7790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2685839,
+      12.12411652
+    ]
   },
   {
     "name": "Faxe Ladeplads IF",
@@ -6570,7 +7815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.19490482,
+      12.19373813
+    ]
   },
   {
     "name": "FB Århus Omegn",
@@ -6591,7 +7840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.12635244,
+      10.13778473
+    ]
   },
   {
     "name": "FC Avrasya",
@@ -6612,7 +7865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.403021,
+      10.39174411
+    ]
   },
   {
     "name": "FC Bedem",
@@ -6633,7 +7890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "FC BiH Odense",
@@ -6654,7 +7915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.34929575,
+      10.49825565
+    ]
   },
   {
     "name": "FC Broby",
@@ -6675,7 +7940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1451.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.24506199,
+      10.25211529
+    ]
   },
   {
     "name": "FC Bøgeskov",
@@ -6696,7 +7965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.12635244,
+      10.13778473
+    ]
   },
   {
     "name": "FC Campus",
@@ -6717,7 +7990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.37859541,
+      10.4114235
+    ]
   },
   {
     "name": "FC Culpa",
@@ -6738,7 +8015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "FC Damsø",
@@ -6759,7 +8040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1547.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6883311,
+      12.48194421
+    ]
   },
   {
     "name": "FC Dansom",
@@ -6780,7 +8065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.08119416,
+      9.92809079
+    ]
   },
   {
     "name": "FC Dunav",
@@ -6801,7 +8090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92123871,
+      12.28696917
+    ]
   },
   {
     "name": "FC Fredericia (professional)",
@@ -6822,7 +8115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.57103757,
+      9.66918005
+    ]
   },
   {
     "name": "FC Faaborg",
@@ -6843,7 +8140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1399.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.11203154,
+      10.30952407
+    ]
   },
   {
     "name": "FC Galaksi",
@@ -6864,7 +8165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92959715,
+      12.51321363
+    ]
   },
   {
     "name": "FC Glesborg",
@@ -6885,7 +8190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.58757292,
+      10.64766235
+    ]
   },
   {
     "name": "FC Helsingør",
@@ -6906,7 +8215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.03943161,
+      12.61245096
+    ]
   },
   {
     "name": "FC Helsingør (professional)",
@@ -6927,7 +8240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.03943161,
+      12.61245096
+    ]
   },
   {
     "name": "FC Hjallese",
@@ -6948,7 +8265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.403021,
+      10.39174411
+    ]
   },
   {
     "name": "FC Holte",
@@ -6969,7 +8290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1764.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.81684549,
+      12.48640452
+    ]
   },
   {
     "name": "FC Hornstrup",
@@ -6990,7 +8315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "FC Horsens",
@@ -7011,7 +8340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86597915,
+      9.89301425
+    ]
   },
   {
     "name": "FC Hvidovre",
@@ -7032,7 +8365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.58934868,
+      12.46097002
+    ]
   },
   {
     "name": "FC Ishøj",
@@ -7053,7 +8390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.58776321,
+      12.39483896
+    ]
   },
   {
     "name": "FC Jonstrup",
@@ -7074,7 +8415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/977.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.77912974,
+      12.35591788
+    ]
   },
   {
     "name": "FC Jura",
@@ -7095,7 +8440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15051496,
+      10.27802097
+    ]
   },
   {
     "name": "FC King George",
@@ -7116,7 +8465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/791.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.49118916,
+      8.50670194
+    ]
   },
   {
     "name": "FC Knöedel",
@@ -7137,7 +8490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64077611,
+      12.52309722
+    ]
   },
   {
     "name": "FC Kurant",
@@ -7158,7 +8515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.01443666,
+      10.59802878
+    ]
   },
   {
     "name": "FC København (professional)",
@@ -7179,7 +8540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7109795,
+      12.57364633
+    ]
   },
   {
     "name": "FC Lejre",
@@ -7200,7 +8565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.59456942,
+      11.95696429
+    ]
   },
   {
     "name": "FC Ljiljan, Aalborg",
@@ -7221,7 +8590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.05171431,
+      9.8350492
+    ]
   },
   {
     "name": "FC Midtjylland (professional)",
@@ -7242,7 +8615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.11911505,
+      8.98775376
+    ]
   },
   {
     "name": "FC Nakskov",
@@ -7263,7 +8640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.75748092,
+      10.98835691
+    ]
   },
   {
     "name": "FC Nanoq",
@@ -7284,7 +8665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.68037643,
+      12.57705358
+    ]
   },
   {
     "name": "FC Nordsjælland (professional)",
@@ -7305,7 +8690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.81981968,
+      12.35067108
+    ]
   },
   {
     "name": "FC Nyhavn",
@@ -7326,7 +8715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "FC Odense",
@@ -7347,7 +8740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.35251254,
+      10.29791607
+    ]
   },
   {
     "name": "FC Olympiakos København",
@@ -7368,7 +8765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64077611,
+      12.52309722
+    ]
   },
   {
     "name": "FC Rangers",
@@ -7389,7 +8790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20167527,
+      10.15922351
+    ]
   },
   {
     "name": "FC Roskilde (professional)",
@@ -7410,7 +8815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65647451,
+      12.06373356
+    ]
   },
   {
     "name": "FC Royal",
@@ -7431,7 +8840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20167527,
+      10.15922351
+    ]
   },
   {
     "name": "FC Ryparken",
@@ -7452,7 +8865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7109795,
+      12.57364633
+    ]
   },
   {
     "name": "FC Sabur",
@@ -7473,7 +8890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.48050883,
+      9.88044731
+    ]
   },
   {
     "name": "FC SevenOaks",
@@ -7494,7 +8915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "FC Skanderborg",
@@ -7515,7 +8940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/555.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.02388208,
+      9.89235588
+    ]
   },
   {
     "name": "FC Soccersisters",
@@ -7536,7 +8965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6940569,
+      12.54914572
+    ]
   },
   {
     "name": "FC Stalden",
@@ -7557,7 +8990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.49118916,
+      8.50670194
+    ]
   },
   {
     "name": "FC Storebælt",
@@ -7578,7 +9015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2031.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.34799675,
+      11.02962796
+    ]
   },
   {
     "name": "FC Sydfyn",
@@ -7599,7 +9040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.01443666,
+      10.59802878
+    ]
   },
   {
     "name": "FC Sydvest 05 Tønder (professional)",
@@ -7620,7 +9065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.95248429,
+      8.89453488
+    ]
   },
   {
     "name": "FC Udfordringen",
@@ -7641,7 +9090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.68174413,
+      12.57365135
+    ]
   },
   {
     "name": "FC Udvikling",
@@ -7662,7 +9115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65647451,
+      12.06373356
+    ]
   },
   {
     "name": "FC Ypsilon",
@@ -7683,7 +9140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6579409,
+      12.28083382
+    ]
   },
   {
     "name": "FC Åben Modus",
@@ -7704,7 +9165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20167527,
+      10.15922351
+    ]
   },
   {
     "name": "FCH 6100",
@@ -7725,7 +9190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.24177268,
+      9.61886938
+    ]
   },
   {
     "name": "Feldborg/Haderup IF",
@@ -7746,7 +9215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.32444075,
+      8.9740962
+    ]
   },
   {
     "name": "Felsted IF",
@@ -7767,7 +9240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.02899493,
+      9.49975045
+    ]
   },
   {
     "name": "FF Klettar",
@@ -7788,7 +9265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20167527,
+      10.15922351
+    ]
   },
   {
     "name": "FFD Kralupy",
@@ -7809,7 +9290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.09903701,
+      10.28961018
+    ]
   },
   {
     "name": "FIF, Hillerød",
@@ -7830,7 +9315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1015.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92123871,
+      12.28696917
+    ]
   },
   {
     "name": "Fiktiv",
@@ -7851,7 +9340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65647451,
+      12.06373356
+    ]
   },
   {
     "name": "Filskov IF",
@@ -7872,7 +9365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.75986358,
+      8.89887879
+    ]
   },
   {
     "name": "FIUK, Odense",
@@ -7893,7 +9390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.42123207,
+      10.44332209
+    ]
   },
   {
     "name": "Fjelsted/Harndrup IF",
@@ -7914,7 +9415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.45477943,
+      10.02916475
+    ]
   },
   {
     "name": "Fjelstervang IF",
@@ -7935,7 +9440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.94883412,
+      8.92947696
+    ]
   },
   {
     "name": "Fjelstrup IF",
@@ -7956,7 +9465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.24177268,
+      9.61886938
+    ]
   },
   {
     "name": "Fjelsø Gedsted FF",
@@ -7977,7 +9490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.69297871,
+      9.4967184
+    ]
   },
   {
     "name": "Fjerritslev IF",
@@ -7998,7 +9515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.12742277,
+      9.20878724
+    ]
   },
   {
     "name": "Fjordager IF",
@@ -8019,7 +9540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.42123207,
+      10.44332209
+    ]
   },
   {
     "name": "Fjorden IF",
@@ -8040,7 +9565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.6517573,
+      10.26167957
+    ]
   },
   {
     "name": "FK 73",
@@ -8061,7 +9590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "FK Odsherred",
@@ -8082,7 +9615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.84646728,
+      11.56036901
+    ]
   },
   {
     "name": "FK Sydsjælland 05",
@@ -8103,7 +9640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.19504272,
+      11.77357353
+    ]
   },
   {
     "name": "FK Utopia",
@@ -8124,7 +9665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.403021,
+      10.39174411
+    ]
   },
   {
     "name": "Flamengo Garrinchas",
@@ -8145,7 +9690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17162148,
+      10.15819911
+    ]
   },
   {
     "name": "Flauenskjold IF",
@@ -8166,7 +9715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.21127809,
+      10.31020366
+    ]
   },
   {
     "name": "Flemløse BK",
@@ -8187,7 +9740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.27213799,
+      10.10343663
+    ]
   },
   {
     "name": "Flemming Efterskole",
@@ -8208,7 +9765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.89442946,
+      9.66642959
+    ]
   },
   {
     "name": "FLUIF-MORS",
@@ -8229,7 +9790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.90798948,
+      8.88457349
+    ]
   },
   {
     "name": "Fløng-Hedehusene Fodbold",
@@ -8250,7 +9815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.66357137,
+      12.19945854
+    ]
   },
   {
     "name": "FodboldHoldet Herning",
@@ -8271,7 +9840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.11911505,
+      8.98775376
+    ]
   },
   {
     "name": "Fodboldklubben Prespa",
@@ -8292,7 +9865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6883311,
+      12.48194421
+    ]
   },
   {
     "name": "Fodboldklubben Sorø Freja",
@@ -8313,7 +9890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.40880423,
+      11.55727004
+    ]
   },
   {
     "name": "Fole IF",
@@ -8334,7 +9915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.27645397,
+      9.01601909
+    ]
   },
   {
     "name": "Football Club Vietnam",
@@ -8355,7 +9940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.18928869,
+      10.09750556
+    ]
   },
   {
     "name": "Football Festival Denmark",
@@ -8376,7 +9965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.09423322,
+      10.13924601
+    ]
   },
   {
     "name": "Fortuna 74",
@@ -8397,7 +9990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20167527,
+      10.15922351
+    ]
   },
   {
     "name": "Fortuna Hjørring",
@@ -8418,7 +10015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/47.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.70230652,
+      9.2956345
+    ]
   },
   {
     "name": "Fortuna Hjørring (professional)",
@@ -8439,7 +10040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3738.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.70230652,
+      9.2956345
+    ]
   },
   {
     "name": "Fortuna Svendborg",
@@ -8460,7 +10065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.01443666,
+      10.59802878
+    ]
   },
   {
     "name": "Forza FC",
@@ -8481,7 +10090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15051496,
+      10.27802097
+    ]
   },
   {
     "name": "Foulum IF",
@@ -8502,7 +10115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.49762699,
+      9.60208409
+    ]
   },
   {
     "name": "Fr.holm Sydhavnen",
@@ -8523,7 +10140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64077611,
+      12.52309722
+    ]
   },
   {
     "name": "Fraugde G & IF",
@@ -8544,7 +10165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.34929575,
+      10.49825565
+    ]
   },
   {
     "name": "Fredensborg BI",
@@ -8565,7 +10190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1021.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.97086354,
+      12.40200836
+    ]
   },
   {
     "name": "Fredericia fF",
@@ -8586,7 +10215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/494.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.57103757,
+      9.66918005
+    ]
   },
   {
     "name": "Fredericia KFUM",
@@ -8607,7 +10240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.57103757,
+      9.66918005
+    ]
   },
   {
     "name": "Frederiksberg Boldklub",
@@ -8628,7 +10265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1549.png",
-    "kaldenavn": "FB"
+    "kaldenavn": "FB",
+    "coords": [
+      55.67945641,
+      12.51562935
+    ]
   },
   {
     "name": "Frederiksborg Amts",
@@ -8649,7 +10290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.91992432,
+      12.45605071
+    ]
   },
   {
     "name": "Frederikshavn fI",
@@ -8670,7 +10315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.52270103,
+      10.72500277
+    ]
   },
   {
     "name": "Frederikssund IK",
@@ -8691,7 +10340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.85479562,
+      12.07923445
+    ]
   },
   {
     "name": "Frederiksværk Fodbold Klub",
@@ -8712,7 +10365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.97774198,
+      12.05634805
+    ]
   },
   {
     "name": "Freja’s Old Boys",
@@ -8733,7 +10390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.48050883,
+      9.88044731
+    ]
   },
   {
     "name": "Frem Hellebæk",
@@ -8754,7 +10415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1061.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.09086037,
+      12.5430865
+    ]
   },
   {
     "name": "Fremad Amager Elite (professional)",
@@ -8775,7 +10440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3743.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Fremad Forsing",
@@ -8796,7 +10465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Frifelt SF",
@@ -8817,7 +10490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.17738587,
+      8.79091021
+    ]
   },
   {
     "name": "Frydensberg Efterskole",
@@ -8838,7 +10515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.63765951,
+      10.0220988
+    ]
   },
   {
     "name": "Frøstruphave Efterskole",
@@ -8859,7 +10540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3445.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7873441,
+      8.22547945
+    ]
   },
   {
     "name": "Fuglebakken KFUM Århus",
@@ -8880,7 +10565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/427.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17162148,
+      10.15819911
+    ]
   },
   {
     "name": "Fuglebjerg IF",
@@ -8901,7 +10590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.31864081,
+      11.55229442
+    ]
   },
   {
     "name": "Fuglsang IF",
@@ -8922,7 +10615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.49118916,
+      8.50670194
+    ]
   },
   {
     "name": "Funder GF",
@@ -8943,7 +10640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Fursund IF",
@@ -8964,7 +10665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.72437033,
+      9.04159313
+    ]
   },
   {
     "name": "Futsal Club Fjordbold",
@@ -8985,7 +10690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86932225,
+      11.91680034
+    ]
   },
   {
     "name": "Fynslund B",
@@ -9006,7 +10715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.55380577,
+      9.3183142
+    ]
   },
   {
     "name": "Føllenslev-Særslev IF",
@@ -9027,7 +10740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.79702076,
+      11.27498796
+    ]
   },
   {
     "name": "Førslev IF",
@@ -9048,7 +10765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.32031014,
+      11.95519764
+    ]
   },
   {
     "name": "Føvling/Stenderup UI",
@@ -9069,7 +10790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.43560842,
+      8.91001913
+    ]
   },
   {
     "name": "Faaborg/Vrenderup IF",
@@ -9090,7 +10815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.57689258,
+      8.71515262
+    ]
   },
   {
     "name": "Fårevejle BK",
@@ -9111,7 +10840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.85310811,
+      11.37403038
+    ]
   },
   {
     "name": "Fårvang IF",
@@ -9132,7 +10865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.27196318,
+      9.70492587
+    ]
   },
   {
     "name": "Gadevang IF",
@@ -9153,7 +10890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92123871,
+      12.28696917
+    ]
   },
   {
     "name": "Galten FS",
@@ -9174,7 +10915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17800104,
+      9.91179535
+    ]
   },
   {
     "name": "Galtrup Efterskole",
@@ -9195,7 +10940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.8517685,
+      8.69843044
+    ]
   },
   {
     "name": "Gandrup SK",
@@ -9216,7 +10965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/49.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.05355839,
+      10.1977671
+    ]
   },
   {
     "name": "Gauerslund IF",
@@ -9237,7 +10990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/503.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65719788,
+      9.67048857
+    ]
   },
   {
     "name": "Gedved IF",
@@ -9258,7 +11015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.93439431,
+      9.86197889
+    ]
   },
   {
     "name": "Gelsted G & IF",
@@ -9279,7 +11040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.39954114,
+      9.96614107
+    ]
   },
   {
     "name": "Genner IF",
@@ -9300,7 +11065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.07437317,
+      9.28037618
+    ]
   },
   {
     "name": "Gentofte Fodboldklub",
@@ -9321,7 +11090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.75145806,
+      12.53343057
+    ]
   },
   {
     "name": "Gentofte-Vangede Idrætsforening",
@@ -9342,7 +11115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1556.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.75145806,
+      12.53343057
+    ]
   },
   {
     "name": "Gesten IF",
@@ -9363,7 +11140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.53607493,
+      9.1837296
+    ]
   },
   {
     "name": "Gevninge IF",
@@ -9384,7 +11165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65647451,
+      12.06373356
+    ]
   },
   {
     "name": "GFG Voel",
@@ -9405,7 +11190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "GIF-Gram",
@@ -9426,7 +11215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.27645397,
+      9.01601909
+    ]
   },
   {
     "name": "Gilleleje FK",
@@ -9447,7 +11240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1033.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.16514414,
+      12.29353244
+    ]
   },
   {
     "name": "Giovani Hajduk",
@@ -9468,7 +11265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.71256101,
+      12.52876704
+    ]
   },
   {
     "name": "Gislev IF",
@@ -9489,7 +11290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2122797,
+      10.60886979
+    ]
   },
   {
     "name": "Gislinge BK",
@@ -9510,7 +11315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73610011,
+      11.56410432
+    ]
   },
   {
     "name": "Give Fremad",
@@ -9531,7 +11340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/505.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.85744681,
+      9.2710166
+    ]
   },
   {
     "name": "Givskud GUF",
@@ -9552,7 +11365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.85744681,
+      9.2710166
+    ]
   },
   {
     "name": "Gjern IF",
@@ -9573,7 +11390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.22223999,
+      9.73984728
+    ]
   },
   {
     "name": "Gjessø UF",
@@ -9594,7 +11415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Gjøl B",
@@ -9615,7 +11440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.16282327,
+      9.76743314
+    ]
   },
   {
     "name": "Gl. Rye IF",
@@ -9636,7 +11465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7109795,
+      12.57364633
+    ]
   },
   {
     "name": "Gladsaxe-Hero BK",
@@ -9657,7 +11490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1035.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73800813,
+      12.48425242
+    ]
   },
   {
     "name": "Glamsbjerg IF",
@@ -9678,7 +11515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1402.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.27213799,
+      10.10343663
+    ]
   },
   {
     "name": "Glejbjerg Firmaidræt",
@@ -9699,7 +11540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.55973335,
+      8.83181793
+    ]
   },
   {
     "name": "Glejbjerg SF",
@@ -9720,7 +11565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.55973335,
+      8.83181793
+    ]
   },
   {
     "name": "Glostrup 95",
@@ -9741,7 +11590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6741838,
+      12.39697754
+    ]
   },
   {
     "name": "Glostrup FK - IF 32",
@@ -9762,7 +11615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6741838,
+      12.39697754
+    ]
   },
   {
     "name": "Gludsted GIF",
@@ -9783,7 +11640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.02375436,
+      9.24826265
+    ]
   },
   {
     "name": "Glumsø",
@@ -9804,7 +11665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.36237671,
+      11.67300466
+    ]
   },
   {
     "name": "Gram Efterskole",
@@ -9825,7 +11690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.27645397,
+      9.01601909
+    ]
   },
   {
     "name": "Grantoften IF",
@@ -9846,7 +11715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73668449,
+      12.3638449
+    ]
   },
   {
     "name": "Grasshopperne",
@@ -9867,7 +11740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.3806496,
+      9.90941177
+    ]
   },
   {
     "name": "Grauballe UGF",
@@ -9888,7 +11765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Gredstedbro B",
@@ -9909,7 +11790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.37115323,
+      8.60307494
+    ]
   },
   {
     "name": "Grejs-Dalen Idrætsklub",
@@ -9930,7 +11815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "Grejsdalens Efterskole",
@@ -9951,7 +11840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "Grenaa IF",
@@ -9972,7 +11865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.43069147,
+      11.08217337
+    ]
   },
   {
     "name": "Greve Fodbold",
@@ -9993,7 +11890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.54103195,
+      12.3529229
+    ]
   },
   {
     "name": "Grindsted GIF",
@@ -10014,7 +11915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/806.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.75986358,
+      8.89887879
+    ]
   },
   {
     "name": "Grindsted Uggerhalne IF",
@@ -10035,7 +11940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.09538719,
+      10.09257652
+    ]
   },
   {
     "name": "Grundfør UI",
@@ -10056,7 +11965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.25949156,
+      10.06719333
+    ]
   },
   {
     "name": "Græsted IF",
@@ -10077,7 +11990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1043.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.22745639,
+      12.06980339
+    ]
   },
   {
     "name": "Grønbjerg Aktiv Fritid For Alle",
@@ -10098,7 +12015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15361133,
+      8.50600358
+    ]
   },
   {
     "name": "Grønbjerg/Langelund IF",
@@ -10119,7 +12040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.85744681,
+      9.2710166
+    ]
   },
   {
     "name": "Grønne Stjerne",
@@ -10140,7 +12065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64503648,
+      12.40439537
+    ]
   },
   {
     "name": "Gråsten B",
@@ -10161,7 +12090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.91730187,
+      9.55791076
+    ]
   },
   {
     "name": "Gudenaadalens Efterskole",
@@ -10182,7 +12115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.3800683,
+      9.78710533
+    ]
   },
   {
     "name": "Gudum IF",
@@ -10203,7 +12140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.54580784,
+      8.33453584
+    ]
   },
   {
     "name": "Gudum Nissum IF",
@@ -10224,7 +12165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.54580784,
+      8.33453584
+    ]
   },
   {
     "name": "Gudumholm IF",
@@ -10245,7 +12190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.91678716,
+      10.27569023
+    ]
   },
   {
     "name": "Gug B",
@@ -10266,7 +12215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.9991663,
+      9.93295578
+    ]
   },
   {
     "name": "Guldborg IF",
@@ -10287,7 +12240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.90483893,
+      11.62528305
+    ]
   },
   {
     "name": "Gullestrup IF",
@@ -10308,7 +12265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.11911505,
+      8.98775376
+    ]
   },
   {
     "name": "Gundersted IF",
@@ -10329,7 +12290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.94881207,
+      9.57985536
+    ]
   },
   {
     "name": "Gundsølille SGIF",
@@ -10350,7 +12315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65647451,
+      12.06373356
+    ]
   },
   {
     "name": "Gundsømagle IF",
@@ -10371,7 +12340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65647451,
+      12.06373356
+    ]
   },
   {
     "name": "GVL Løkken",
@@ -10392,7 +12365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.38233116,
+      9.65510765
+    ]
   },
   {
     "name": "Gylling B",
@@ -10413,7 +12390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92457284,
+      10.24464778
+    ]
   },
   {
     "name": "Gylling Efterskole",
@@ -10434,7 +12415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92457284,
+      10.24464778
+    ]
   },
   {
     "name": "Gærum IF",
@@ -10455,7 +12440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.52270103,
+      10.72500277
+    ]
   },
   {
     "name": "Gødvad Efterskole",
@@ -10476,7 +12465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Gødvad GIF",
@@ -10497,7 +12490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Gørding/Lourup IF",
@@ -10518,7 +12515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.4813413,
+      8.82201058
+    ]
   },
   {
     "name": "Gørlev Idrætsefterskole",
@@ -10539,7 +12540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1351.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.51887316,
+      11.04711131
+    ]
   },
   {
     "name": "Gørlev IF",
@@ -10560,7 +12565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.51887316,
+      11.04711131
+    ]
   },
   {
     "name": "Gørløse SI",
@@ -10581,7 +12590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.8837888,
+      12.2099944
+    ]
   },
   {
     "name": "Gørslev IF",
@@ -10602,7 +12615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.43053197,
+      11.82805925
+    ]
   },
   {
     "name": "Gaarslev GF",
@@ -10623,7 +12640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65719788,
+      9.67048857
+    ]
   },
   {
     "name": "HA85",
@@ -10644,7 +12665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Haderslev FK",
@@ -10665,7 +12690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/808.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.24177268,
+      9.61886938
+    ]
   },
   {
     "name": "Hadsten Sports Klub",
@@ -10686,7 +12715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.33866468,
+      10.0289852
+    ]
   },
   {
     "name": "Hadsund B",
@@ -10707,7 +12740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/57.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.77688954,
+      10.41645939
+    ]
   },
   {
     "name": "Hagested IF",
@@ -10728,7 +12765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73825064,
+      11.69985606
+    ]
   },
   {
     "name": "Hald Ege Efterskole",
@@ -10749,7 +12790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41681148,
+      9.36897659
+    ]
   },
   {
     "name": "Hals FS",
@@ -10770,7 +12815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.96384115,
+      10.65368838
+    ]
   },
   {
     "name": "Halstedhus Efterskole",
@@ -10791,7 +12840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.75748092,
+      10.98835691
+    ]
   },
   {
     "name": "Halstedhus IF",
@@ -10812,7 +12865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.75748092,
+      10.98835691
+    ]
   },
   {
     "name": "Hammel GF",
@@ -10833,7 +12890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/523.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.26356721,
+      9.8817943
+    ]
   },
   {
     "name": "Hammelev IF (G)",
@@ -10854,7 +12915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.43069147,
+      11.08217337
+    ]
   },
   {
     "name": "Hammelev SUF",
@@ -10875,7 +12940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2436827,
+      9.31835235
+    ]
   },
   {
     "name": "Hammerum Fri- og Efterskole",
@@ -10896,7 +12965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.11911505,
+      8.98775376
+    ]
   },
   {
     "name": "Hammerum IF",
@@ -10917,7 +12990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.11911505,
+      8.98775376
+    ]
   },
   {
     "name": "Hampen IF",
@@ -10938,7 +13015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.06515415,
+      9.38166979
+    ]
   },
   {
     "name": "Han Herred Efterskoles Fodboldforening",
@@ -10959,7 +13040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.12742277,
+      9.20878724
+    ]
   },
   {
     "name": "Handelsstandens Boldklub",
@@ -10980,7 +13065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1558.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7109795,
+      12.57364633
+    ]
   },
   {
     "name": "Hanning B",
@@ -11001,7 +13090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.99089664,
+      8.53885308
+    ]
   },
   {
     "name": "Hannæs Sport og Fritid",
@@ -11022,7 +13115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.00570708,
+      9.03058677
+    ]
   },
   {
     "name": "Hanstholm IF",
@@ -11043,7 +13140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.44347291,
+      8.33928238
+    ]
   },
   {
     "name": "Harboøre IF",
@@ -11064,7 +13165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.62870473,
+      8.06400269
+    ]
   },
   {
     "name": "Hardsyssel Efterskole",
@@ -11085,7 +13190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.43288826,
+      8.64900967
+    ]
   },
   {
     "name": "Hareskov IF",
@@ -11106,7 +13215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.77912974,
+      12.35591788
+    ]
   },
   {
     "name": "Harlev IK",
@@ -11127,7 +13240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/527.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.14059283,
+      9.99991491
+    ]
   },
   {
     "name": "Harte G & IF",
@@ -11148,7 +13265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50221297,
+      9.46847631
+    ]
   },
   {
     "name": "Hashøj IF",
@@ -11169,7 +13290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.40887345,
+      11.37134678
+    ]
   },
   {
     "name": "Hasle B",
@@ -11190,7 +13315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17162148,
+      10.15819911
+    ]
   },
   {
     "name": "Hasle IF",
@@ -11211,7 +13340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2284316,
+      14.52165638
+    ]
   },
   {
     "name": "Haslev FC",
@@ -11232,7 +13365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.32031014,
+      11.95519764
+    ]
   },
   {
     "name": "Haslev Idrætsefterskole",
@@ -11253,7 +13390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.32031014,
+      11.95519764
+    ]
   },
   {
     "name": "Hatting-Torsted Fodbold",
@@ -11274,7 +13415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/529.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86597915,
+      9.89301425
+    ]
   },
   {
     "name": "Haubro IF",
@@ -11295,7 +13440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.80003403,
+      9.49610809
+    ]
   },
   {
     "name": "Havdrup Fodbold",
@@ -11316,7 +13465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.54041131,
+      12.11265454
+    ]
   },
   {
     "name": "Haverslev IF",
@@ -11337,7 +13490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.74794316,
+      9.63042311
+    ]
   },
   {
     "name": "Havndal-Udbyneder IF",
@@ -11358,7 +13515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.6517573,
+      10.26167957
+    ]
   },
   {
     "name": "HB Køge (professional)",
@@ -11379,7 +13540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.45527126,
+      12.22015308
+    ]
   },
   {
     "name": "Hedemølle Efterskole",
@@ -11400,7 +13565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.36051392,
+      9.64257403
+    ]
   },
   {
     "name": "Hedensted IF",
@@ -11421,7 +13590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.76508387,
+      9.71130088
+    ]
   },
   {
     "name": "Hee SF",
@@ -11442,7 +13615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20098497,
+      4.07461311
+    ]
   },
   {
     "name": "Hejnsvig IF",
@@ -11463,7 +13640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69122218,
+      8.96462269
+    ]
   },
   {
     "name": "Hellas",
@@ -11484,7 +13665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1561.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65941452,
+      12.49869399
+    ]
   },
   {
     "name": "Hellebjerg Idrætsefterskole",
@@ -11505,7 +13690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.76046689,
+      10.02918372
+    ]
   },
   {
     "name": "Hellerup Idræts Klub",
@@ -11526,7 +13715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1562.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73442051,
+      12.56946744
+    ]
   },
   {
     "name": "Hellested IF",
@@ -11547,7 +13740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.33554618,
+      12.51110642
+    ]
   },
   {
     "name": "Hellevad IF",
@@ -11568,7 +13765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.07437317,
+      9.28037618
+    ]
   },
   {
     "name": "Helsinge Fodbold",
@@ -11589,7 +13790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.01099572,
+      12.1715219
+    ]
   },
   {
     "name": "Helsingør IF Fodbold",
@@ -11610,7 +13815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.03943161,
+      12.61245096
+    ]
   },
   {
     "name": "Helsted Fremad IF",
@@ -11631,7 +13840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/534.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.48050883,
+      9.88044731
+    ]
   },
   {
     "name": "Henne B",
@@ -11652,7 +13865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.71982269,
+      4.43594447
+    ]
   },
   {
     "name": "Herborg Ungdomsforening",
@@ -11673,7 +13890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.08052418,
+      8.66992988
+    ]
   },
   {
     "name": "Herfølge BK",
@@ -11694,7 +13915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.41715543,
+      12.14194267
+    ]
   },
   {
     "name": "Herlev IF",
@@ -11715,7 +13940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.74057031,
+      12.42581802
+    ]
   },
   {
     "name": "Herlufmagle",
@@ -11736,7 +13965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.32910688,
+      11.77284465
+    ]
   },
   {
     "name": "Herlufsholm GF",
@@ -11757,7 +13990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1070.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.19504272,
+      11.77357353
+    ]
   },
   {
     "name": "Herning Fodbolddommerklub",
@@ -11778,7 +14015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.18215286,
+      8.74507312
+    ]
   },
   {
     "name": "Herning Fremad",
@@ -11799,7 +14040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.11911505,
+      8.98775376
+    ]
   },
   {
     "name": "Herning IK",
@@ -11820,7 +14065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.11911505,
+      8.98775376
+    ]
   },
   {
     "name": "Herning KFUM",
@@ -11841,7 +14090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/247.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.11911505,
+      8.98775376
+    ]
   },
   {
     "name": "Herrested-Ørbæk Boldklub",
@@ -11862,7 +14115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2661035,
+      10.63473931
+    ]
   },
   {
     "name": "Herskind B",
@@ -11883,7 +14140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17800104,
+      9.91179535
+    ]
   },
   {
     "name": "Hersom/Bjerregrav IF",
@@ -11904,7 +14165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/250.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.6088695,
+      9.50805968
+    ]
   },
   {
     "name": "Herstedøster IC",
@@ -11925,7 +14190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6869516,
+      12.34477556
+    ]
   },
   {
     "name": "Hesselager Fodbold",
@@ -11946,7 +14215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1410.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.17539817,
+      10.79995852
+    ]
   },
   {
     "name": "Hestlund Efterskole",
@@ -11967,7 +14240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15035869,
+      9.25469883
+    ]
   },
   {
     "name": "HIK (professional)",
@@ -11988,7 +14265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3723.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73442051,
+      12.56946744
+    ]
   },
   {
     "name": "Hillerslev Sport",
@@ -12009,7 +14290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.32370377,
+      7.90681299
+    ]
   },
   {
     "name": "Hillerød Fodbold",
@@ -12030,7 +14315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1073.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92123871,
+      12.28696917
+    ]
   },
   {
     "name": "Himmelev-Veddelev BK",
@@ -12050,8 +14339,12 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
-    "kaldenavn": null
+    "logo": "assets/logos/1075.png",
+    "kaldenavn": null,
+    "coords": [
+      55.65647451,
+      12.06373356
+    ]
   },
   {
     "name": "Himmerlandscentrets Idrætsefterskole (Haverslev)",
@@ -12072,7 +14365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.74794316,
+      9.63042311
+    ]
   },
   {
     "name": "Hirtshals B",
@@ -12093,7 +14390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.94281241,
+      9.71496643
+    ]
   },
   {
     "name": "Historie Fremad",
@@ -12114,7 +14415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15051496,
+      10.27802097
+    ]
   },
   {
     "name": "Hjallerup IF",
@@ -12135,7 +14440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.17870119,
+      10.13790859
+    ]
   },
   {
     "name": "Hjembæk Efterskole",
@@ -12156,7 +14465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.61622153,
+      11.38733175
+    ]
   },
   {
     "name": "Hjemly Idrætsefterskole",
@@ -12177,7 +14490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2209888,
+      10.42313811
+    ]
   },
   {
     "name": "Hjerm FIF",
@@ -12198,7 +14515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.43288826,
+      8.64900967
+    ]
   },
   {
     "name": "Hjerting IF",
@@ -12219,7 +14540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.55262453,
+      8.34866677
+    ]
   },
   {
     "name": "Hjordkær UIF",
@@ -12240,7 +14565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/815.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.07437317,
+      9.28037618
+    ]
   },
   {
     "name": "Hjortdal Ungdoms & IF",
@@ -12261,7 +14590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.12742277,
+      9.20878724
+    ]
   },
   {
     "name": "Hjorten Fodbold, Herlev",
@@ -12282,7 +14615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.74057031,
+      12.42581802
+    ]
   },
   {
     "name": "Hjørring AIK Frem",
@@ -12303,7 +14640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.70230652,
+      9.2956345
+    ]
   },
   {
     "name": "Hjørring IF",
@@ -12324,7 +14665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.70230652,
+      9.2956345
+    ]
   },
   {
     "name": "Hjørring Ny 10. klasse",
@@ -12345,7 +14690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.70230652,
+      9.2956345
+    ]
   },
   {
     "name": "Hobro IK",
@@ -12366,7 +14715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.6528756,
+      9.77366901
+    ]
   },
   {
     "name": "Hobro IK (professional)",
@@ -12387,7 +14740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.6528756,
+      9.77366901
+    ]
   },
   {
     "name": "Hodsager UF",
@@ -12408,7 +14765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.2699576,
+      8.79948064
+    ]
   },
   {
     "name": "HOG Hinnerup",
@@ -12429,7 +14790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.25949156,
+      10.06719333
+    ]
   },
   {
     "name": "Holbæk (professional)",
@@ -12450,7 +14815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73825064,
+      11.69985606
+    ]
   },
   {
     "name": "Holbæk 10. klassecenter",
@@ -12471,7 +14840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73825064,
+      11.69985606
+    ]
   },
   {
     "name": "Holbæk B&I",
@@ -12492,7 +14865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73825064,
+      11.69985606
+    ]
   },
   {
     "name": "Holbøl IF",
@@ -12513,7 +14890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.8687306,
+      9.46328593
+    ]
   },
   {
     "name": "Holeby IF",
@@ -12534,7 +14915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.70172856,
+      11.53543477
+    ]
   },
   {
     "name": "Holluf Pile-Tornbjerg IF",
@@ -12555,7 +14940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.34929575,
+      10.49825565
+    ]
   },
   {
     "name": "Holm FK",
@@ -12576,7 +14965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.06940698,
+      9.77014411
+    ]
   },
   {
     "name": "Holme-Olstrup Fodbold",
@@ -12597,7 +14990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.25979308,
+      11.86408266
+    ]
   },
   {
     "name": "Holmegaard GB",
@@ -12618,7 +15015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.25979308,
+      11.86408266
+    ]
   },
   {
     "name": "Holmsland GU",
@@ -12639,7 +15040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20098497,
+      4.07461311
+    ]
   },
   {
     "name": "Holstebro B",
@@ -12660,7 +15065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.34794414,
+      8.58519299
+    ]
   },
   {
     "name": "Holstebro/Vestjysk Fodbolddommerklub",
@@ -12681,7 +15090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.54580784,
+      8.33453584
+    ]
   },
   {
     "name": "Holsted FB",
@@ -12702,7 +15115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.51123399,
+      8.90149179
+    ]
   },
   {
     "name": "Holte Star Club",
@@ -12723,7 +15140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.81684549,
+      12.48640452
+    ]
   },
   {
     "name": "Holte-Hus Efterskole",
@@ -12744,7 +15165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.81684549,
+      12.48640452
+    ]
   },
   {
     "name": "Holtet IF",
@@ -12765,7 +15190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.05355839,
+      10.1977671
+    ]
   },
   {
     "name": "Hoptrup/Marstrup IF",
@@ -12786,7 +15215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.24177268,
+      9.61886938
+    ]
   },
   {
     "name": "Horbelev IF",
@@ -12807,7 +15240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.69990623,
+      12.29995982
+    ]
   },
   {
     "name": "Hornbæk IF",
@@ -12828,7 +15265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.10118532,
+      12.45420474
+    ]
   },
   {
     "name": "Hornbæk SF",
@@ -12849,7 +15290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.48050883,
+      9.88044731
+    ]
   },
   {
     "name": "Horne f. Sp.",
@@ -12870,7 +15315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1412.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.11203154,
+      10.30952407
+    ]
   },
   {
     "name": "Horne IF",
@@ -12891,7 +15340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65607154,
+      8.52854473
+    ]
   },
   {
     "name": "Horne KFUM",
@@ -12912,7 +15365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.94281241,
+      9.71496643
+    ]
   },
   {
     "name": "Hornslet IF",
@@ -12933,7 +15390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.33260256,
+      10.29717181
+    ]
   },
   {
     "name": "Hornum IF",
@@ -12954,7 +15415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.80003403,
+      9.49610809
+    ]
   },
   {
     "name": "Horsens B",
@@ -12975,7 +15440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86597915,
+      9.89301425
+    ]
   },
   {
     "name": "Horsens Fodbolddommerklub",
@@ -12996,7 +15465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86597915,
+      9.89301425
+    ]
   },
   {
     "name": "Horsens Freja",
@@ -13017,7 +15490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86597915,
+      9.89301425
+    ]
   },
   {
     "name": "Horsens fS",
@@ -13038,7 +15515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86597915,
+      9.89301425
+    ]
   },
   {
     "name": "Horsens KFUM",
@@ -13059,7 +15540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/547.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86597915,
+      9.89301425
+    ]
   },
   {
     "name": "Horsens Motionsklub",
@@ -13080,7 +15565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86597915,
+      9.89301425
+    ]
   },
   {
     "name": "Horslunde BK",
@@ -13101,7 +15590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.96838447,
+      11.20918569
+    ]
   },
   {
     "name": "Hospitalets FK",
@@ -13122,7 +15615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.48934885,
+      9.78489314
+    ]
   },
   {
     "name": "Hou GI",
@@ -13143,7 +15640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.96384115,
+      10.65368838
+    ]
   },
   {
     "name": "Hou Maritime Idrætsefterskole",
@@ -13164,7 +15665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92457284,
+      10.24464778
+    ]
   },
   {
     "name": "Hou Og Omegns IF",
@@ -13185,7 +15690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92457284,
+      10.24464778
+    ]
   },
   {
     "name": "Houlbjerg/Laurbjerg IF",
@@ -13206,7 +15715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.3806496,
+      9.90941177
+    ]
   },
   {
     "name": "Houlkær Fodboldklub",
@@ -13227,7 +15740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41681148,
+      9.36897659
+    ]
   },
   {
     "name": "Hovborg/Lindknud FA",
@@ -13248,7 +15765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.60367953,
+      8.94671137
+    ]
   },
   {
     "name": "Hovedgård IF",
@@ -13269,7 +15790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.95626604,
+      9.98616441
+    ]
   },
   {
     "name": "Hover IF",
@@ -13290,7 +15815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "Hover UIF",
@@ -13311,7 +15840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15361133,
+      8.50600358
+    ]
   },
   {
     "name": "Hovslund GF",
@@ -13332,7 +15865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.07437317,
+      9.28037618
+    ]
   },
   {
     "name": "Humble BK",
@@ -13353,7 +15890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.81821541,
+      10.63436277
+    ]
   },
   {
     "name": "Humlebæk BK",
@@ -13374,7 +15915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.9604599,
+      12.53687938
+    ]
   },
   {
     "name": "Hundborg B",
@@ -13395,7 +15940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.32370377,
+      7.90681299
+    ]
   },
   {
     "name": "Hundelev B",
@@ -13416,7 +15965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.70230652,
+      9.2956345
+    ]
   },
   {
     "name": "Hunderup/Sejstrup UG",
@@ -13437,7 +15990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.46065157,
+      8.70168486
+    ]
   },
   {
     "name": "Hundested IK",
@@ -13458,7 +16015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1086.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.26445585,
+      11.6705916
+    ]
   },
   {
     "name": "Hundige BK",
@@ -13479,7 +16040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.54103195,
+      12.3529229
+    ]
   },
   {
     "name": "Hune B",
@@ -13500,7 +16065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.16282327,
+      9.76743314
+    ]
   },
   {
     "name": "Hurup IF",
@@ -13521,7 +16090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.72425361,
+      8.42909599
+    ]
   },
   {
     "name": "Husum Boldklub",
@@ -13542,7 +16115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.70964347,
+      12.48463422
+    ]
   },
   {
     "name": "Hvalsø IF",
@@ -13563,7 +16140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.58583604,
+      11.86940589
+    ]
   },
   {
     "name": "Hvidebæk IF",
@@ -13584,7 +16165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.61730235,
+      11.23183281
+    ]
   },
   {
     "name": "Hviding IF",
@@ -13605,7 +16190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.31137673,
+      8.76358629
+    ]
   },
   {
     "name": "Hvidovre Idrætsforening",
@@ -13626,7 +16215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.58934868,
+      12.46097002
+    ]
   },
   {
     "name": "Hvidovre IF (professional)",
@@ -13647,7 +16240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.58934868,
+      12.46097002
+    ]
   },
   {
     "name": "Hylke Fodboldklub",
@@ -13668,7 +16265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.02388208,
+      9.89235588
+    ]
   },
   {
     "name": "Højby IF",
@@ -13689,7 +16290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.90779403,
+      11.55659445
+    ]
   },
   {
     "name": "Højby S & G",
@@ -13710,7 +16315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.34939755,
+      10.39917484
+    ]
   },
   {
     "name": "Høje Gladsaxe IF",
@@ -13731,7 +16340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73800813,
+      12.48425242
+    ]
   },
   {
     "name": "Høje Kolstrup B 81",
@@ -13752,7 +16365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.02899493,
+      9.49975045
+    ]
   },
   {
     "name": "Høje-Taastrup Linie 10",
@@ -13773,7 +16390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6579409,
+      12.28083382
+    ]
   },
   {
     "name": "Højen G&U",
@@ -13794,7 +16415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "Højer Efterskole",
@@ -13815,7 +16440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.97473424,
+      8.65269961
+    ]
   },
   {
     "name": "Højer IF",
@@ -13836,7 +16465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.97473424,
+      8.65269961
+    ]
   },
   {
     "name": "Højslev Station IF",
@@ -13857,7 +16490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.59677993,
+      9.16509632
+    ]
   },
   {
     "name": "Høm/Seem UIF",
@@ -13878,7 +16515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.31137673,
+      8.76358629
+    ]
   },
   {
     "name": "Høng  Efterskole",
@@ -13899,7 +16540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50308551,
+      11.30548124
+    ]
   },
   {
     "name": "Høng GF",
@@ -13920,7 +16565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50308551,
+      11.30548124
+    ]
   },
   {
     "name": "Hørby Efterskoles IF",
@@ -13941,7 +16590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.2843629,
+      10.57327556
+    ]
   },
   {
     "name": "Hørby IF",
@@ -13962,7 +16615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.2843629,
+      10.57327556
+    ]
   },
   {
     "name": "Hørning GF",
@@ -13983,7 +16640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.42912946,
+      10.17671406
+    ]
   },
   {
     "name": "Hørning IF",
@@ -14004,7 +16665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.09369625,
+      10.0135704
+    ]
   },
   {
     "name": "Hørsholm-Usserød IK",
@@ -14025,7 +16690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.88693173,
+      12.54954886
+    ]
   },
   {
     "name": "Hørup UI",
@@ -14046,7 +16715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.87308589,
+      10.03587811
+    ]
   },
   {
     "name": "Hørve IF",
@@ -14067,7 +16740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.76162863,
+      11.40509
+    ]
   },
   {
     "name": "HØST IF",
@@ -14088,7 +16765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.33866468,
+      10.0289852
+    ]
   },
   {
     "name": "Høsterkøb Fodboldklub 2000",
@@ -14109,7 +16790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.88126308,
+      12.43890506
+    ]
   },
   {
     "name": "Haarby Efterskole",
@@ -14130,7 +16815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.18924968,
+      10.07032627
+    ]
   },
   {
     "name": "Haarby IF",
@@ -14151,7 +16840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.18924968,
+      10.07032627
+    ]
   },
   {
     "name": "Hårslev BK",
@@ -14172,7 +16865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1419.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.48691259,
+      10.08371535
+    ]
   },
   {
     "name": "Hårslev Efterskole",
@@ -14193,7 +16890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.25079677,
+      11.528121
+    ]
   },
   {
     "name": "Idom IF",
@@ -14214,7 +16915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.34794414,
+      8.58519299
+    ]
   },
   {
     "name": "Idræt og Venskab Foreningen, Århus",
@@ -14235,7 +16940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15788265,
+      10.06788413
+    ]
   },
   {
     "name": "Idrætsefterskolen Klintsøgaard",
@@ -14256,7 +16965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.9928841,
+      11.56343652
+    ]
   },
   {
     "name": "Idrætsefterskolen Lægården",
@@ -14277,7 +16990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.34794414,
+      8.58519299
+    ]
   },
   {
     "name": "Idrætsforeningen Dannebrog, Astrup",
@@ -14298,7 +17015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.76264148,
+      9.94260419
+    ]
   },
   {
     "name": "Idrætsklubben Vest af 1971",
@@ -14319,7 +17040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.89861349,
+      9.12839085
+    ]
   },
   {
     "name": "IF Bytoften",
@@ -14340,7 +17065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73800813,
+      12.48425242
+    ]
   },
   {
     "name": "IF Frem Bjæverskov Fodbold",
@@ -14361,7 +17090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.44838852,
+      12.02691725
+    ]
   },
   {
     "name": "IF Fremad Nørhalne",
@@ -14382,7 +17115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.11542161,
+      9.8563612
+    ]
   },
   {
     "name": "IF Føroyar",
@@ -14403,7 +17140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "IF Haurum/Sall",
@@ -14424,7 +17165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.26356721,
+      9.8817943
+    ]
   },
   {
     "name": "IF Haabet, Øster Uttrup",
@@ -14445,7 +17190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.05425152,
+      10.00949733
+    ]
   },
   {
     "name": "IF Lyseng",
@@ -14466,7 +17215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.09903701,
+      10.28961018
+    ]
   },
   {
     "name": "IF Midtdjurs",
@@ -14487,7 +17240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.38481233,
+      10.50027849
+    ]
   },
   {
     "name": "IF Mols",
@@ -14508,7 +17265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15222183,
+      10.45208963
+    ]
   },
   {
     "name": "IF Nordmors",
@@ -14529,7 +17290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.90798948,
+      8.88457349
+    ]
   },
   {
     "name": "IF Nordthy",
@@ -14550,7 +17315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.32370377,
+      7.90681299
+    ]
   },
   {
     "name": "IF Skjold Birkerød",
@@ -14571,7 +17340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.84270608,
+      12.41757019
+    ]
   },
   {
     "name": "IF Skjold Sæby",
@@ -14592,7 +17365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.2843629,
+      10.57327556
+    ]
   },
   {
     "name": "IF Svend Gønge",
@@ -14613,7 +17390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.10685595,
+      11.78064612
+    ]
   },
   {
     "name": "IF Trojka",
@@ -14634,7 +17415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.49762699,
+      9.60208409
+    ]
   },
   {
     "name": "IF Viking Pindstrup",
@@ -14655,7 +17440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.38481233,
+      10.50027849
+    ]
   },
   {
     "name": "IK Sylvia Ravnkilde",
@@ -14676,7 +17465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.74794316,
+      9.63042311
+    ]
   },
   {
     "name": "Ikast FS Fodbold",
@@ -14697,7 +17490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.09377094,
+      9.1925469
+    ]
   },
   {
     "name": "Ingstrup Efterskoles IF",
@@ -14718,7 +17515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.38233116,
+      9.65510765
+    ]
   },
   {
     "name": "Ingstrup SF",
@@ -14739,7 +17540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.38233116,
+      9.65510765
+    ]
   },
   {
     "name": "Institut Sankt Joseph",
@@ -14760,7 +17565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7109795,
+      12.57364633
+    ]
   },
   {
     "name": "Iqbal International School",
@@ -14781,7 +17590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.71256101,
+      12.52876704
+    ]
   },
   {
     "name": "IS Skævinge",
@@ -14802,7 +17615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.93559156,
+      12.15008815
+    ]
   },
   {
     "name": "Isbryderen",
@@ -14823,7 +17640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Isenvad Borger- og Idrætsforening",
@@ -14844,7 +17665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.09377094,
+      9.1925469
+    ]
   },
   {
     "name": "ISI Idrætsefterskole",
@@ -14865,7 +17690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.09377094,
+      9.1925469
+    ]
   },
   {
     "name": "Islev BK",
@@ -14886,7 +17715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.68182922,
+      12.44863533
+    ]
   },
   {
     "name": "Isterød Efterskole",
@@ -14907,7 +17740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.88126308,
+      12.43890506
+    ]
   },
   {
     "name": "JAI, Aarhus",
@@ -14928,7 +17765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.12635244,
+      10.13778473
+    ]
   },
   {
     "name": "Janderup FS",
@@ -14949,7 +17790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.63374455,
+      8.38971082
+    ]
   },
   {
     "name": "Janderup IF",
@@ -14970,7 +17815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.63374455,
+      8.38971082
+    ]
   },
   {
     "name": "Jejsing IF",
@@ -14991,7 +17840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.95248429,
+      8.89453488
+    ]
   },
   {
     "name": "Jelling fS",
@@ -15012,7 +17865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.76853547,
+      9.43589642
+    ]
   },
   {
     "name": "Jels IF",
@@ -15033,7 +17890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.38472069,
+      9.14057169
+    ]
   },
   {
     "name": "Jerne IF",
@@ -15054,7 +17915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.49118916,
+      8.50670194
+    ]
   },
   {
     "name": "Jernløse BK",
@@ -15075,7 +17940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.66048124,
+      11.60711139
+    ]
   },
   {
     "name": "Jernved IF",
@@ -15096,7 +17965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.37115323,
+      8.60307494
+    ]
   },
   {
     "name": "Jerslev/Sterup IF",
@@ -15117,7 +17990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.29699349,
+      10.11084423
+    ]
   },
   {
     "name": "Jetsmark Idrætscenter",
@@ -15138,7 +18015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.20322545,
+      9.65450533
+    ]
   },
   {
     "name": "Jetsmark IF",
@@ -15159,7 +18040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/84.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.20322545,
+      9.65450533
+    ]
   },
   {
     "name": "JIK-Esbjerg",
@@ -15180,7 +18065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.45935717,
+      8.46174114
+    ]
   },
   {
     "name": "Jinnah International School",
@@ -15201,7 +18090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6883311,
+      12.48194421
+    ]
   },
   {
     "name": "Juelsminde IF",
@@ -15222,7 +18115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.76046689,
+      10.02918372
+    ]
   },
   {
     "name": "Jyderup BK",
@@ -15243,7 +18140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1107.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.61622153,
+      11.38733175
+    ]
   },
   {
     "name": "Jyllinge FC",
@@ -15264,7 +18165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.75603087,
+      12.10404063
+    ]
   },
   {
     "name": "Jystrup IF",
@@ -15285,7 +18190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.52537395,
+      11.85552289
+    ]
   },
   {
     "name": "Jægersborg Boldklub",
@@ -15306,7 +18215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1565.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.75145806,
+      12.53343057
+    ]
   },
   {
     "name": "Jægerspris IK",
@@ -15327,7 +18240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86932225,
+      11.91680034
+    ]
   },
   {
     "name": "Jødisk Idrætsforening Hakoah",
@@ -15348,7 +18265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.68095745,
+      12.5736165
+    ]
   },
   {
     "name": "Kalundborg GB",
@@ -15369,7 +18290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1111.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.70601705,
+      10.97431629
+    ]
   },
   {
     "name": "Karise IK",
@@ -15390,7 +18315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.29633252,
+      12.21696415
+    ]
   },
   {
     "name": "Karlslunde IF",
@@ -15411,7 +18340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.5692769,
+      12.21374503
+    ]
   },
   {
     "name": "Karrebæk IF",
@@ -15432,7 +18365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.15521424,
+      11.6361743
+    ]
   },
   {
     "name": "Karstoft IF",
@@ -15453,7 +18390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.94883412,
+      8.92947696
+    ]
   },
   {
     "name": "Karup/Kølvrå 07",
@@ -15474,7 +18415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.32799021,
+      9.17419358
+    ]
   },
   {
     "name": "Kastrup Boldklub",
@@ -15495,7 +18440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1566.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.63352245,
+      12.78698239
+    ]
   },
   {
     "name": "Katrinebjergs Atletikforening",
@@ -15516,7 +18465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20167527,
+      10.15922351
+    ]
   },
   {
     "name": "Kauslunde IF",
@@ -15537,7 +18490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1422.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.48934885,
+      9.78489314
+    ]
   },
   {
     "name": "KB 92, Karlslunde",
@@ -15558,7 +18515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.54103195,
+      12.3529229
+    ]
   },
   {
     "name": "KB81 Aalborg",
@@ -15579,7 +18540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/186.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.05425152,
+      10.00949733
+    ]
   },
   {
     "name": "KBK Hillerød",
@@ -15600,7 +18565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92123871,
+      12.28696917
+    ]
   },
   {
     "name": "Kerte GF",
@@ -15621,7 +18590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.37369367,
+      10.03851749
+    ]
   },
   {
     "name": "Kerteminde BK",
@@ -15642,7 +18615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1424.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.49807432,
+      10.8508032
+    ]
   },
   {
     "name": "Kerteminde Efterskole",
@@ -15663,7 +18640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.49807432,
+      10.8508032
+    ]
   },
   {
     "name": "KFUM BK, Roskilde",
@@ -15684,7 +18665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65647451,
+      12.06373356
+    ]
   },
   {
     "name": "KFUM.s BK Odense",
@@ -15705,7 +18690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1425.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.39401435,
+      10.32843174
+    ]
   },
   {
     "name": "KFUMs Boldklub",
@@ -15726,7 +18715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1569.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.71256101,
+      12.52876704
+    ]
   },
   {
     "name": "Kibæk IF",
@@ -15747,7 +18740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.94883412,
+      8.92947696
+    ]
   },
   {
     "name": "Kildemosens BK",
@@ -15768,7 +18765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.403021,
+      10.39174411
+    ]
   },
   {
     "name": "Kildevæld Efterskole",
@@ -15789,7 +18790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50221297,
+      9.46847631
+    ]
   },
   {
     "name": "Kirke Helsinge IF",
@@ -15810,7 +18815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.51887316,
+      11.04711131
+    ]
   },
   {
     "name": "Kirke Hyllinge IF",
@@ -15831,7 +18840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.70417096,
+      11.92418149
+    ]
   },
   {
     "name": "Kirkeby IF",
@@ -15852,7 +18865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.12556284,
+      10.52352287
+    ]
   },
   {
     "name": "Kirkeholdet Vrå",
@@ -15873,7 +18890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.70230652,
+      9.2956345
+    ]
   },
   {
     "name": "Kjeldbjerg UIF",
@@ -15894,7 +18915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.46317549,
+      8.99505562
+    ]
   },
   {
     "name": "Kjellerup IF",
@@ -15915,7 +18940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.2882506,
+      9.39095532
+    ]
   },
   {
     "name": "Kjøbenhavns Boldklub",
@@ -15936,7 +18965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1567.png",
-    "kaldenavn": "KB"
+    "kaldenavn": "KB",
+    "coords": [
+      55.67945641,
+      12.51562935
+    ]
   },
   {
     "name": "Klank Efterskole (fodbold)",
@@ -15957,7 +18990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17800104,
+      9.91179535
+    ]
   },
   {
     "name": "Klejtrup B",
@@ -15978,7 +19015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.6528756,
+      9.77366901
+    ]
   },
   {
     "name": "Klemensker IF",
@@ -15999,7 +19040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.19264146,
+      14.81018781
+    ]
   },
   {
     "name": "Klinkby B",
@@ -16020,7 +19065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.54580784,
+      8.33453584
+    ]
   },
   {
     "name": "Klinte Grindløse IF",
@@ -16041,7 +19090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6129967,
+      10.15483531
+    ]
   },
   {
     "name": "Klitmøller IF",
@@ -16062,7 +19115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.32370377,
+      7.90681299
+    ]
   },
   {
     "name": "Klokkerholm IF",
@@ -16083,7 +19140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.17870119,
+      10.13790859
+    ]
   },
   {
     "name": "Klosterhallen",
@@ -16104,7 +19165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.06237954,
+      8.96415413
+    ]
   },
   {
     "name": "Klovborg UF",
@@ -16125,7 +19190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92463273,
+      9.48555987
+    ]
   },
   {
     "name": "Klub 14",
@@ -16146,7 +19215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65941452,
+      12.49869399
+    ]
   },
   {
     "name": "Klubrådgiverklubben",
@@ -16167,7 +19240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64503648,
+      12.40439537
+    ]
   },
   {
     "name": "Kløvermarkens Forenede Boldklubber",
@@ -16188,7 +19265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Knudsker IF",
@@ -16209,7 +19290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.98495945,
+      14.40163467
+    ]
   },
   {
     "name": "Kokkedal BK",
@@ -16230,7 +19315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.91992432,
+      12.45605071
+    ]
   },
   {
     "name": "Koldby/Hørdum IF",
@@ -16251,7 +19340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.2597249,
+      7.47858654
+    ]
   },
   {
     "name": "Kolding B",
@@ -16272,7 +19365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/566.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50221297,
+      9.46847631
+    ]
   },
   {
     "name": "Kolding IF",
@@ -16293,7 +19390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50221297,
+      9.46847631
+    ]
   },
   {
     "name": "Koldingegnens Idrætsefterskole",
@@ -16314,7 +19415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50221297,
+      9.46847631
+    ]
   },
   {
     "name": "Kolind/Perstrup IF",
@@ -16335,7 +19440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.34682936,
+      10.61106988
+    ]
   },
   {
     "name": "Kolt/Hasselager IF",
@@ -16356,7 +19465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.10123046,
+      10.08245179
+    ]
   },
   {
     "name": "Kongenshus Efterskole",
@@ -16377,7 +19490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.32799021,
+      9.17419358
+    ]
   },
   {
     "name": "Kongerslev IF",
@@ -16398,7 +19515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.89578273,
+      10.1135906
+    ]
   },
   {
     "name": "Korinth IF",
@@ -16419,7 +19540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.11203154,
+      10.30952407
+    ]
   },
   {
     "name": "Korning IF",
@@ -16440,7 +19565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86597915,
+      9.89301425
+    ]
   },
   {
     "name": "Korsholm IF",
@@ -16461,7 +19590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.25949156,
+      10.06719333
+    ]
   },
   {
     "name": "KP Zebras",
@@ -16482,7 +19615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64077611,
+      12.52309722
+    ]
   },
   {
     "name": "KR 70",
@@ -16503,7 +19640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.49807432,
+      10.8508032
+    ]
   },
   {
     "name": "Kr. Værløse IF",
@@ -16524,7 +19665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.77912974,
+      12.35591788
+    ]
   },
   {
     "name": "Kragelund Efterskole",
@@ -16545,7 +19690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.81385497,
+      9.69416947
+    ]
   },
   {
     "name": "Krarup Espe Fodbold",
@@ -16566,7 +19715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2209888,
+      10.42313811
+    ]
   },
   {
     "name": "Kristrup B",
@@ -16587,7 +19740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.42912946,
+      10.17671406
+    ]
   },
   {
     "name": "Krogager B",
@@ -16608,7 +19765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.75986358,
+      8.89887879
+    ]
   },
   {
     "name": "Krusbjerg IF",
@@ -16629,7 +19790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.79347704,
+      8.61815877
+    ]
   },
   {
     "name": "KSI - KU Studenteridræt",
@@ -16650,7 +19815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6940569,
+      12.54914572
+    ]
   },
   {
     "name": "KU BK",
@@ -16671,7 +19840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1430.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.41754658,
+      10.30695242
+    ]
   },
   {
     "name": "Kundby IF",
@@ -16692,7 +19865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.71737311,
+      11.48951817
+    ]
   },
   {
     "name": "Kvaglund IF",
@@ -16713,7 +19890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.49118916,
+      8.50670194
+    ]
   },
   {
     "name": "Kvik 70",
@@ -16734,7 +19915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.31137673,
+      8.76358629
+    ]
   },
   {
     "name": "Kvik IF",
@@ -16755,7 +19940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.69297871,
+      9.4967184
+    ]
   },
   {
     "name": "Kvindedivisionsforeningen",
@@ -16776,7 +19965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "Kvissel-Ravnshøj IF",
@@ -16797,7 +19990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.52270103,
+      10.72500277
+    ]
   },
   {
     "name": "Kvistgård IF",
@@ -16818,7 +20015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.99928886,
+      12.49542003
+    ]
   },
   {
     "name": "Kvong IF",
@@ -16839,7 +20040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65607154,
+      8.52854473
+    ]
   },
   {
     "name": "Kværkeby IF",
@@ -16860,7 +20065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.43053197,
+      11.82805925
+    ]
   },
   {
     "name": "Kværndrup BK",
@@ -16881,7 +20090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1437.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.18424637,
+      10.54250568
+    ]
   },
   {
     "name": "Kværs B",
@@ -16902,7 +20115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.91730187,
+      9.55791076
+    ]
   },
   {
     "name": "Kærby IF",
@@ -16923,7 +20140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.58244324,
+      10.10165114
+    ]
   },
   {
     "name": "Kærbysport",
@@ -16944,7 +20165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.05171431,
+      9.8350492
+    ]
   },
   {
     "name": "København Futsal",
@@ -16965,7 +20190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67945641,
+      12.51562935
+    ]
   },
   {
     "name": "Københavns Amts",
@@ -16986,7 +20215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73668449,
+      12.3638449
+    ]
   },
   {
     "name": "Køge BK",
@@ -17007,7 +20240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.45527126,
+      12.22015308
+    ]
   },
   {
     "name": "Køge FC",
@@ -17028,7 +20265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.45527126,
+      12.22015308
+    ]
   },
   {
     "name": "Køge Nord FC",
@@ -17049,7 +20290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1194.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.45527126,
+      12.22015308
+    ]
   },
   {
     "name": "Køge Union",
@@ -17070,7 +20315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.45527126,
+      12.22015308
+    ]
   },
   {
     "name": "Kølkær/Fasterholt IF",
@@ -17091,7 +20340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.11911505,
+      8.98775376
+    ]
   },
   {
     "name": "Langebæk Alliancen",
@@ -17112,7 +20365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.97060588,
+      12.03439585
+    ]
   },
   {
     "name": "Langeskov IF",
@@ -17133,7 +20390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.36672658,
+      10.58946818
+    ]
   },
   {
     "name": "Langholt Sports Klub",
@@ -17154,7 +20415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.09538719,
+      10.09257652
+    ]
   },
   {
     "name": "Langtved SG  &  IF",
@@ -17175,7 +20440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.38540272,
+      10.67264084
+    ]
   },
   {
     "name": "Langaa IK",
@@ -17196,7 +20465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.3806496,
+      9.90941177
+    ]
   },
   {
     "name": "Ledøje-Smørum Fodbold",
@@ -17217,7 +20490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1135.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.72556424,
+      12.28121197
+    ]
   },
   {
     "name": "Lejerbo BK",
@@ -17238,7 +20515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.58934868,
+      12.46097002
+    ]
   },
   {
     "name": "Lejre IF",
@@ -17259,7 +20540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.59456942,
+      11.95696429
+    ]
   },
   {
     "name": "Lellinge IF",
@@ -17280,7 +20565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.45527126,
+      12.22015308
+    ]
   },
   {
     "name": "Lem B",
@@ -17301,7 +20590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.05110041,
+      8.42316735
+    ]
   },
   {
     "name": "Lemming IF",
@@ -17322,7 +20615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.24319222,
+      9.55711799
+    ]
   },
   {
     "name": "Lemvig GF",
@@ -17343,7 +20640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.54580784,
+      8.33453584
+    ]
   },
   {
     "name": "Lendum UGI",
@@ -17364,7 +20665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.4674892,
+      10.24075136
+    ]
   },
   {
     "name": "Levring Efterskole",
@@ -17385,7 +20690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.2882506,
+      9.39095532
+    ]
   },
   {
     "name": "Lidenlund B",
@@ -17406,7 +20715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.54580784,
+      8.33453584
+    ]
   },
   {
     "name": "Lind/Kollund (KLG)",
@@ -17427,7 +20740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.11911505,
+      8.98775376
+    ]
   },
   {
     "name": "Linde B",
@@ -17448,7 +20765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.52775554,
+      8.60339354
+    ]
   },
   {
     "name": "Lindved GF",
@@ -17469,7 +20790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "Lintrup UG",
@@ -17490,7 +20815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.41777362,
+      8.99575864
+    ]
   },
   {
     "name": "Liria FK",
@@ -17511,7 +20840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.74057031,
+      12.42581802
+    ]
   },
   {
     "name": "Lisbjerg FC",
@@ -17532,7 +20865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20167527,
+      10.15922351
+    ]
   },
   {
     "name": "Listrup U&IF",
@@ -17553,7 +20890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1640.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.7930621,
+      11.90198993
+    ]
   },
   {
     "name": "Ljørslev/Ørding IF",
@@ -17574,7 +20915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.68763915,
+      8.70032858
+    ]
   },
   {
     "name": "LKB/Gistrup",
@@ -17595,7 +20940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.93195612,
+      10.01379029
+    ]
   },
   {
     "name": "Lomborg Gymnastik- og Idrætsefterskole",
@@ -17616,7 +20965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.54580784,
+      8.33453584
+    ]
   },
   {
     "name": "Longelse Sp.",
@@ -17637,7 +20990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.88518842,
+      10.80968538
+    ]
   },
   {
     "name": "Los Amigos",
@@ -17658,7 +21015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.72556424,
+      12.28121197
+    ]
   },
   {
     "name": "Lumby IF 88",
@@ -17679,7 +21040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1442.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.44966319,
+      10.35714765
+    ]
   },
   {
     "name": "Lund IF",
@@ -17700,7 +21065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86597915,
+      9.89301425
+    ]
   },
   {
     "name": "Lundby Efterskole",
@@ -17721,7 +21090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.10685595,
+      11.78064612
+    ]
   },
   {
     "name": "Lunde B",
@@ -17742,7 +21115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7873441,
+      8.22547945
+    ]
   },
   {
     "name": "Lundergård IU",
@@ -17763,7 +21140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.70230652,
+      9.2956345
+    ]
   },
   {
     "name": "Lunderskov B",
@@ -17784,7 +21165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/583.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.4763505,
+      9.32882435
+    ]
   },
   {
     "name": "Lunderskov Efterskole",
@@ -17805,7 +21190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.4763505,
+      9.32882435
+    ]
   },
   {
     "name": "Lundtoft IF",
@@ -17826,7 +21215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.02899493,
+      9.49975045
+    ]
   },
   {
     "name": "Lundtofte Boldklub",
@@ -17847,7 +21240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.78572204,
+      12.52083673
+    ]
   },
   {
     "name": "Lyngby (professional)",
@@ -17868,7 +21265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.78572204,
+      12.52083673
+    ]
   },
   {
     "name": "Lyngby Boldklub 1921",
@@ -17889,7 +21290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.78572204,
+      12.52083673
+    ]
   },
   {
     "name": "Lynge-Broby IF",
@@ -17910,7 +21315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.40880423,
+      11.55727004
+    ]
   },
   {
     "name": "Lynge-Uggeløse IF",
@@ -17931,7 +21340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.8397364,
+      12.28059858
+    ]
   },
   {
     "name": "Lyngs Idrætsefterskole",
@@ -17952,7 +21365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.62765212,
+      8.51363052
+    ]
   },
   {
     "name": "Lyngsaa B",
@@ -17973,7 +21390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.2843629,
+      10.57327556
+    ]
   },
   {
     "name": "Lysabild SG",
@@ -17994,7 +21415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/847.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.87308589,
+      10.03587811
+    ]
   },
   {
     "name": "Lystrup IF",
@@ -18015,7 +21440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/587.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.24438884,
+      10.22716475
+    ]
   },
   {
     "name": "Læborg GF",
@@ -18036,7 +21465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.4784284,
+      9.11204215
+    ]
   },
   {
     "name": "Læringshuset",
@@ -18057,7 +21490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.66357137,
+      12.19945854
+    ]
   },
   {
     "name": "Løgstrup G&IF",
@@ -18078,7 +21515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.51759246,
+      9.32656972
+    ]
   },
   {
     "name": "Løgstør IF",
@@ -18099,7 +21540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.95819912,
+      9.30949603
+    ]
   },
   {
     "name": "Løgum IF",
@@ -18120,7 +21565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.06237954,
+      8.96415413
+    ]
   },
   {
     "name": "Løgumkloster Efterskole",
@@ -18141,7 +21590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.06237954,
+      8.96415413
+    ]
   },
   {
     "name": "Løjt IF",
@@ -18162,7 +21615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.02899493,
+      9.49975045
+    ]
   },
   {
     "name": "Løsning IF",
@@ -18183,7 +21640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/588.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.81385497,
+      9.69416947
+    ]
   },
   {
     "name": "Løve IF",
@@ -18204,7 +21665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50308551,
+      11.30548124
+    ]
   },
   {
     "name": "Løvel IF",
@@ -18225,7 +21690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.49762699,
+      9.60208409
+    ]
   },
   {
     "name": "Låsby B",
@@ -18246,7 +21715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.14838747,
+      9.79899795
+    ]
   },
   {
     "name": "Mammen IF",
@@ -18267,7 +21740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.36051392,
+      9.64257403
+    ]
   },
   {
     "name": "Mariager Efterskole",
@@ -18288,7 +21765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.63765951,
+      10.0220988
+    ]
   },
   {
     "name": "Mariager IK",
@@ -18309,7 +21790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.63765951,
+      10.0220988
+    ]
   },
   {
     "name": "Maribo BK",
@@ -18330,7 +21815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1641.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.76659931,
+      11.49815546
+    ]
   },
   {
     "name": "Mariehøj Kammeraterne Silkeborg",
@@ -18351,7 +21840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Marslev G & IF",
@@ -18372,7 +21865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.396433,
+      10.53251585
+    ]
   },
   {
     "name": "Marstal IF",
@@ -18393,7 +21890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1446.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.85672022,
+      10.51672958
+    ]
   },
   {
     "name": "Mejdal-Halgård Fodbold",
@@ -18414,7 +21915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.34794414,
+      8.58519299
+    ]
   },
   {
     "name": "Mejlby Efterskole",
@@ -18435,7 +21940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.74794316,
+      9.63042311
+    ]
   },
   {
     "name": "Mejrup GU",
@@ -18456,7 +21965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.34794414,
+      8.58519299
+    ]
   },
   {
     "name": "Melby-Liseleje IF",
@@ -18477,7 +21990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.99124483,
+      11.97025413
+    ]
   },
   {
     "name": "Mellerup Efterskole",
@@ -18498,7 +22015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.50265825,
+      10.1724293
+    ]
   },
   {
     "name": "Mern UIF",
@@ -18519,7 +22040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.04277496,
+      12.06283657
+    ]
   },
   {
     "name": "MG & BK",
@@ -18540,7 +22065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1447.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.48934885,
+      9.78489314
+    ]
   },
   {
     "name": "Midtals IF",
@@ -18561,7 +22090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.98937381,
+      10.00776445
+    ]
   },
   {
     "name": "Midtjysk Efterskole",
@@ -18582,7 +22115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.02375436,
+      9.24826265
+    ]
   },
   {
     "name": "Midtjysk Fodbolddommerklub",
@@ -18603,7 +22140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.59677993,
+      9.16509632
+    ]
   },
   {
     "name": "Mina Hindholm Efterskole",
@@ -18624,7 +22165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.31864081,
+      11.55229442
+    ]
   },
   {
     "name": "Mladost IF",
@@ -18645,7 +22190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73668449,
+      12.3638449
+    ]
   },
   {
     "name": "Moltrup IF",
@@ -18666,7 +22215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.24177268,
+      9.61886938
+    ]
   },
   {
     "name": "Morud IF",
@@ -18687,7 +22240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.43415758,
+      10.19234031
+    ]
   },
   {
     "name": "Moseby B",
@@ -18708,7 +22265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.20322545,
+      9.65450533
+    ]
   },
   {
     "name": "Mosede BK",
@@ -18729,7 +22290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.54103195,
+      12.3529229
+    ]
   },
   {
     "name": "Mot G & U",
@@ -18750,7 +22315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65607154,
+      8.52854473
+    ]
   },
   {
     "name": "Mou IF",
@@ -18771,7 +22340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.91678716,
+      10.27569023
+    ]
   },
   {
     "name": "Munkebo BK",
@@ -18792,7 +22365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1449.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.46833207,
+      10.53070411
+    ]
   },
   {
     "name": "Munkevængets Fritids- og IF",
@@ -18813,7 +22390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50221297,
+      9.46847631
+    ]
   },
   {
     "name": "Møgeltønder UIF",
@@ -18834,7 +22415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.95248429,
+      8.89453488
+    ]
   },
   {
     "name": "Møldrup/Tostrup IF",
@@ -18855,7 +22440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.6088695,
+      9.50805968
+    ]
   },
   {
     "name": "Møns FK",
@@ -18876,7 +22465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1158.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.9362949,
+      12.31627561
+    ]
   },
   {
     "name": "Mønsted IF",
@@ -18897,7 +22490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41681148,
+      9.36897659
+    ]
   },
   {
     "name": "Mørke IF",
@@ -18918,7 +22515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.35508218,
+      10.38246065
+    ]
   },
   {
     "name": "Mørkhøj Sportsklub",
@@ -18939,7 +22540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1276.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73800813,
+      12.48425242
+    ]
   },
   {
     "name": "Mørkøv IF",
@@ -18960,7 +22565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1159.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.62211279,
+      11.49619782
+    ]
   },
   {
     "name": "Måbjerg IF",
@@ -18981,7 +22590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.34794414,
+      8.58519299
+    ]
   },
   {
     "name": "Måløv BK",
@@ -19002,7 +22615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.75323652,
+      12.32084626
+    ]
   },
   {
     "name": "Mårum IF",
@@ -19023,7 +22640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.01099572,
+      12.1715219
+    ]
   },
   {
     "name": "Naur-Sir-Krunderup",
@@ -19044,7 +22665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.34794414,
+      8.58519299
+    ]
   },
   {
     "name": "NB 93, Aarhus",
@@ -19065,7 +22690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20167527,
+      10.15922351
+    ]
   },
   {
     "name": "Nerashté, Ballerup",
@@ -19086,7 +22715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73668449,
+      12.3638449
+    ]
   },
   {
     "name": "New City",
@@ -19107,7 +22740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.58934868,
+      12.46097002
+    ]
   },
   {
     "name": "Nexø B.",
@@ -19128,7 +22765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.87126103,
+      15.39301087
+    ]
   },
   {
     "name": "NFS - Nørremarkens forenede Sportsklubber",
@@ -19149,7 +22790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "Nibe B",
@@ -19170,7 +22815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/97.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.94881207,
+      9.57985536
+    ]
   },
   {
     "name": "Nielstrup/Voldum UI",
@@ -19191,7 +22840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.33866468,
+      10.0289852
+    ]
   },
   {
     "name": "Nim IF",
@@ -19212,7 +22865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.96052136,
+      9.59236493
+    ]
   },
   {
     "name": "Nislevgård Efterskole",
@@ -19233,7 +22890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.56662852,
+      10.41038685
+    ]
   },
   {
     "name": "Nivå-Kokkedal FK",
@@ -19254,7 +22915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92959715,
+      12.51321363
+    ]
   },
   {
     "name": "Nord-Als B",
@@ -19275,7 +22940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.06940698,
+      9.77014411
+    ]
   },
   {
     "name": "Nordborg Slots Efterskole",
@@ -19296,7 +22965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.06940698,
+      9.77014411
+    ]
   },
   {
     "name": "Nordbyens Boldklub",
@@ -19317,7 +22990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.50265825,
+      10.1724293
+    ]
   },
   {
     "name": "Nordenskov IF",
@@ -19338,7 +23015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65607154,
+      8.52854473
+    ]
   },
   {
     "name": "Nordfalster FB",
@@ -19359,7 +23040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.93527293,
+      11.78722678
+    ]
   },
   {
     "name": "Nordsjællands Efterskole",
@@ -19380,7 +23065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.01099572,
+      12.1715219
+    ]
   },
   {
     "name": "Nordvestjysk Fodbolddommerklub",
@@ -19401,7 +23090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.8517685,
+      8.69843044
+    ]
   },
   {
     "name": "Nordvestmors BK",
@@ -19422,7 +23115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.8517685,
+      8.69843044
+    ]
   },
   {
     "name": "Nors B",
@@ -19443,7 +23140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.32370377,
+      7.90681299
+    ]
   },
   {
     "name": "Notmark SU",
@@ -19464,7 +23165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.98937381,
+      10.00776445
+    ]
   },
   {
     "name": "Nr. Bjært/Strandhuse IF",
@@ -19485,7 +23190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50221297,
+      9.46847631
+    ]
   },
   {
     "name": "Nr. Felding GIF",
@@ -19506,7 +23215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.34794414,
+      8.58519299
+    ]
   },
   {
     "name": "Nr. Kongerslev IF",
@@ -19527,7 +23240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.89578273,
+      10.1135906
+    ]
   },
   {
     "name": "Nr. Lyndelse / Søby F.C.",
@@ -19548,7 +23265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1452.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2906707,
+      10.3936597
+    ]
   },
   {
     "name": "Nr. Nebel IF",
@@ -19569,7 +23290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7873441,
+      8.22547945
+    ]
   },
   {
     "name": "Nr. Nissum Efterskole",
@@ -19590,7 +23315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.54580784,
+      8.33453584
+    ]
   },
   {
     "name": "Nr. Søby BK",
@@ -19611,7 +23340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2906707,
+      10.3936597
+    ]
   },
   {
     "name": "Nr. Vium GF",
@@ -19632,7 +23365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.08052418,
+      8.66992988
+    ]
   },
   {
     "name": "Nr. Aaby IK",
@@ -19653,7 +23390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1454.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.41549178,
+      9.77417672
+    ]
   },
   {
     "name": "NUGF Viborg",
@@ -19674,7 +23415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41681148,
+      9.36897659
+    ]
   },
   {
     "name": "Nustrup UF",
@@ -19695,7 +23440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2436827,
+      9.31835235
+    ]
   },
   {
     "name": "Ny Kappel Boldklub 07",
@@ -19716,7 +23465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.75748092,
+      10.98835691
+    ]
   },
   {
     "name": "Nyborg G & IF",
@@ -19737,7 +23490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1456.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.35301317,
+      10.79790443
+    ]
   },
   {
     "name": "Nyker IF",
@@ -19758,7 +23515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.98495945,
+      14.40163467
+    ]
   },
   {
     "name": "Nykøbing FC",
@@ -19779,7 +23540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.7930621,
+      11.90198993
+    ]
   },
   {
     "name": "Nykøbing FC (professional)",
@@ -19800,7 +23565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.7930621,
+      11.90198993
+    ]
   },
   {
     "name": "Nykøbing IF",
@@ -19821,7 +23590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1167.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.9928841,
+      11.56343652
+    ]
   },
   {
     "name": "Nyråd IF",
@@ -19842,7 +23615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.02464842,
+      11.8960716
+    ]
   },
   {
     "name": "Nysted Efterskole",
@@ -19863,7 +23640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.62941506,
+      11.74490279
+    ]
   },
   {
     "name": "Næsbjerg/Rousthøje UI",
@@ -19884,7 +23665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65607154,
+      8.52854473
+    ]
   },
   {
     "name": "Næsby (professional)",
@@ -19905,7 +23690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.44966319,
+      10.35714765
+    ]
   },
   {
     "name": "Næsby BK",
@@ -19926,7 +23715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.44966319,
+      10.35714765
+    ]
   },
   {
     "name": "Næstved BK (professional)",
@@ -19947,7 +23740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.19504272,
+      11.77357353
+    ]
   },
   {
     "name": "Næstved FC 77",
@@ -19968,7 +23765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.19504272,
+      11.77357353
+    ]
   },
   {
     "name": "Næstved I.F.",
@@ -19989,7 +23790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.19504272,
+      11.77357353
+    ]
   },
   {
     "name": "Nøddealliancen",
@@ -20010,7 +23815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65941452,
+      12.49869399
+    ]
   },
   {
     "name": "Nødebo IF",
@@ -20031,7 +23840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.97086354,
+      12.40200836
+    ]
   },
   {
     "name": "Nørager B",
@@ -20052,7 +23865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.49705855,
+      10.49037138
+    ]
   },
   {
     "name": "Nørager IF",
@@ -20073,7 +23890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.74794316,
+      9.63042311
+    ]
   },
   {
     "name": "Nørbæk Efterskole",
@@ -20094,7 +23915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.55632319,
+      9.84538694
+    ]
   },
   {
     "name": "Nørre Alslev BK",
@@ -20115,7 +23940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.93527293,
+      11.78722678
+    ]
   },
   {
     "name": "Nørre Snede GF",
@@ -20136,7 +23965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.96381394,
+      9.41496508
+    ]
   },
   {
     "name": "Nørre Åby Efterskole",
@@ -20157,7 +23990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.41549178,
+      9.77417672
+    ]
   },
   {
     "name": "Nørrebro Boldklub",
@@ -20178,7 +24015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7109795,
+      12.57364633
+    ]
   },
   {
     "name": "Nørrebro United",
@@ -20199,7 +24040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1987.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6940569,
+      12.54914572
+    ]
   },
   {
     "name": "Nørresundby Forenede Boldklubber",
@@ -20220,7 +24065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.08119416,
+      9.92809079
+    ]
   },
   {
     "name": "Nøvling FK",
@@ -20241,7 +24090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.93195612,
+      10.01379029
+    ]
   },
   {
     "name": "Nøvlingskov Efterskole",
@@ -20262,7 +24115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.18215286,
+      8.74507312
+    ]
   },
   {
     "name": "OB (professional)",
@@ -20283,7 +24140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3706.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.39401435,
+      10.32843174
+    ]
   },
   {
     "name": "OB Q",
@@ -20304,7 +24165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.403021,
+      10.39174411
+    ]
   },
   {
     "name": "OB Turnering Næstved",
@@ -20325,7 +24190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.19504272,
+      11.77357353
+    ]
   },
   {
     "name": "Oddense-Otting UGF",
@@ -20346,7 +24215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.62419195,
+      8.82098992
+    ]
   },
   {
     "name": "Odder Fodbold",
@@ -20367,7 +24240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92457284,
+      10.24464778
+    ]
   },
   {
     "name": "Odense Boldklub",
@@ -20388,7 +24265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1458.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.403021,
+      10.39174411
+    ]
   },
   {
     "name": "Odsherreds Efterskole",
@@ -20409,7 +24290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.85310811,
+      11.37403038
+    ]
   },
   {
     "name": "OK 89",
@@ -20430,7 +24315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.31137673,
+      8.76358629
+    ]
   },
   {
     "name": "Old Boys 1945",
@@ -20451,7 +24340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.48050883,
+      9.88044731
+    ]
   },
   {
     "name": "Old Boys Cup 77",
@@ -20472,7 +24365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.9362949,
+      12.31627561
+    ]
   },
   {
     "name": "Olympia Øster Hurup IF",
@@ -20493,7 +24390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.77688954,
+      10.41645939
+    ]
   },
   {
     "name": "Olympic Amager KIF - Afventer",
@@ -20514,7 +24415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Ommel BK",
@@ -20535,7 +24440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.85672022,
+      10.51672958
+    ]
   },
   {
     "name": "Onsild IF",
@@ -20556,7 +24465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.6528756,
+      9.77366901
+    ]
   },
   {
     "name": "Ordblindeinstituttet",
@@ -20577,7 +24490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73668449,
+      12.3638449
+    ]
   },
   {
     "name": "Ore Sogns GF",
@@ -20598,7 +24515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6129967,
+      10.15483531
+    ]
   },
   {
     "name": "ORI-Fodbold",
@@ -20619,7 +24540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.85479562,
+      12.07923445
+    ]
   },
   {
     "name": "Orient GI",
@@ -20640,7 +24565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1178.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.68182922,
+      12.44863533
+    ]
   },
   {
     "name": "Osted Fri- og Efterskole",
@@ -20661,7 +24590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.59456942,
+      11.95696429
+    ]
   },
   {
     "name": "Osted IF",
@@ -20682,7 +24615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.59456942,
+      11.95696429
+    ]
   },
   {
     "name": "Otterup Bold- og Idrætsklub",
@@ -20703,7 +24640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.56662852,
+      10.41038685
+    ]
   },
   {
     "name": "Oure Fodbold Akademi",
@@ -20724,7 +24665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.11784585,
+      10.77337328
+    ]
   },
   {
     "name": "Outrup B",
@@ -20745,7 +24690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.70803366,
+      8.37405373
+    ]
   },
   {
     "name": "Ove Lyhne",
@@ -20766,7 +24715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.11911505,
+      8.98775376
+    ]
   },
   {
     "name": "Over Jerstal Fodboldklub",
@@ -20787,7 +24740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2436827,
+      9.31835235
+    ]
   },
   {
     "name": "Overlund GF",
@@ -20808,7 +24765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41681148,
+      9.36897659
+    ]
   },
   {
     "name": "Overvindinge",
@@ -20829,7 +24790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.02464842,
+      11.8960716
+    ]
   },
   {
     "name": "Pan Fodbold",
@@ -20850,7 +24815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67264298,
+      12.55913327
+    ]
   },
   {
     "name": "Pedersker IF",
@@ -20871,7 +24840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.6920138,
+      14.7409871
+    ]
   },
   {
     "name": "Pederstrup Efterskole",
@@ -20892,7 +24865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.05662783,
+      11.36808859
+    ]
   },
   {
     "name": "Phønix Efterskole",
@@ -20913,7 +24890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.76046689,
+      10.02918372
+    ]
   },
   {
     "name": "Politiets Idrætsforening",
@@ -20934,7 +24915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64077611,
+      12.52309722
+    ]
   },
   {
     "name": "Poulsker IF",
@@ -20955,7 +24940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.87126103,
+      15.39301087
+    ]
   },
   {
     "name": "Poulstrup Vrejlev 81",
@@ -20976,7 +24965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.37190853,
+      9.87742317
+    ]
   },
   {
     "name": "Prügelknabe IK",
@@ -20997,7 +24990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.12635244,
+      10.13778473
+    ]
   },
   {
     "name": "Præstø IF",
@@ -21018,7 +25015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1185.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.12208613,
+      12.19166049
+    ]
   },
   {
     "name": "PSI/Serritslev",
@@ -21039,7 +25040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.28432949,
+      9.88277134
+    ]
   },
   {
     "name": "Purhus IF",
@@ -21060,7 +25065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.55632319,
+      9.84538694
+    ]
   },
   {
     "name": "Radsted IF",
@@ -21081,7 +25090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.8143415,
+      11.63568865
+    ]
   },
   {
     "name": "Raklev GI",
@@ -21102,7 +25115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.70601705,
+      10.97431629
+    ]
   },
   {
     "name": "Ramløse Fodbold IF",
@@ -21123,7 +25140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1187.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.01099572,
+      12.1715219
+    ]
   },
   {
     "name": "Ramme-Lomborg IF",
@@ -21144,7 +25165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.54580784,
+      8.33453584
+    ]
   },
   {
     "name": "Randers ElitesportsCollege",
@@ -21165,7 +25190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.46401254,
+      10.0331817
+    ]
   },
   {
     "name": "Randers FC (professional)",
@@ -21186,7 +25215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.48050883,
+      9.88044731
+    ]
   },
   {
     "name": "Randers Fodbolddommerklub",
@@ -21207,7 +25240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.48050883,
+      9.88044731
+    ]
   },
   {
     "name": "Randers Freja",
@@ -21228,7 +25265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.48050883,
+      9.88044731
+    ]
   },
   {
     "name": "Randers KFUM Fodbold",
@@ -21249,7 +25290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.48050883,
+      9.88044731
+    ]
   },
   {
     "name": "Randlev/Boulstrup IF",
@@ -21270,7 +25315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92457284,
+      10.24464778
+    ]
   },
   {
     "name": "Ranum Efterskole",
@@ -21291,7 +25340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.89861349,
+      9.12839085
+    ]
   },
   {
     "name": "Rask Mølle & Omegns IF",
@@ -21312,7 +25365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.87835123,
+      9.6137501
+    ]
   },
   {
     "name": "Ravnsbjerg IF",
@@ -21333,7 +25390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41681148,
+      9.36897659
+    ]
   },
   {
     "name": "Ravsted UI",
@@ -21354,7 +25415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.01708464,
+      9.14165594
+    ]
   },
   {
     "name": "Rebild Efterskole",
@@ -21375,7 +25440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.84944104,
+      9.92696601
+    ]
   },
   {
     "name": "Rebæk IF",
@@ -21396,7 +25465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1188.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.58934868,
+      12.46097002
+    ]
   },
   {
     "name": "Reerslev IF",
@@ -21417,7 +25490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.66357137,
+      12.19945854
+    ]
   },
   {
     "name": "Rejsby Europæiske Efterskole",
@@ -21438,7 +25515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.17738587,
+      8.79091021
+    ]
   },
   {
     "name": "Resen/Humlum IF",
@@ -21459,7 +25540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.52775554,
+      8.60339354
+    ]
   },
   {
     "name": "Resenbro UIF",
@@ -21480,7 +25565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Ribe BK",
@@ -21501,7 +25590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/869.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.31137673,
+      8.76358629
+    ]
   },
   {
     "name": "Riis Tebstrup IF",
@@ -21522,7 +25615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.02388208,
+      9.89235588
+    ]
   },
   {
     "name": "Rikken Fodbold Club",
@@ -21543,7 +25640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65941452,
+      12.49869399
+    ]
   },
   {
     "name": "Rindum SU",
@@ -21564,7 +25665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20098497,
+      4.07461311
+    ]
   },
   {
     "name": "Ringe BK",
@@ -21585,7 +25690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1472.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2209888,
+      10.42313811
+    ]
   },
   {
     "name": "Ringe Efterskole",
@@ -21606,7 +25715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2209888,
+      10.42313811
+    ]
   },
   {
     "name": "Ringkøbing IF",
@@ -21627,7 +25740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20098497,
+      4.07461311
+    ]
   },
   {
     "name": "Ringsted IF",
@@ -21648,7 +25765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.43053197,
+      11.82805925
+    ]
   },
   {
     "name": "Ringsted Pigefodbold",
@@ -21669,7 +25790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1191.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.43053197,
+      11.82805925
+    ]
   },
   {
     "name": "Rinkenæs Efterskole",
@@ -21690,7 +25815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.91730187,
+      9.55791076
+    ]
   },
   {
     "name": "Rise S & IF",
@@ -21711,7 +25840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.79716403,
+      10.33601694
+    ]
   },
   {
     "name": "RKG Fodbold",
@@ -21732,7 +25865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.01911272,
+      10.05559807
+    ]
   },
   {
     "name": "Roholte BK",
@@ -21753,7 +25890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2685839,
+      12.12411652
+    ]
   },
   {
     "name": "Rolfsted IF",
@@ -21774,7 +25915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.31045491,
+      10.58601195
+    ]
   },
   {
     "name": "Romalt IF",
@@ -21795,7 +25940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/727.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.42912946,
+      10.17671406
+    ]
   },
   {
     "name": "Rosendal IK",
@@ -21816,7 +25965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.6528756,
+      9.77366901
+    ]
   },
   {
     "name": "Rosenhøj BK",
@@ -21837,7 +25990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1196.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.58934868,
+      12.46097002
+    ]
   },
   {
     "name": "Roskilde Boldklub",
@@ -21858,7 +26015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65647451,
+      12.06373356
+    ]
   },
   {
     "name": "Roskilde Pigefodbold",
@@ -21879,7 +26040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65647451,
+      12.06373356
+    ]
   },
   {
     "name": "Roslev IK",
@@ -21900,7 +26065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.72437033,
+      9.04159313
+    ]
   },
   {
     "name": "Rudbjerg FB",
@@ -21921,7 +26090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.71726169,
+      11.17254811
+    ]
   },
   {
     "name": "Rudkøbing BK",
@@ -21942,7 +26115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1478.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.88518842,
+      10.80968538
+    ]
   },
   {
     "name": "Ruds Vedby IF",
@@ -21963,7 +26140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.55253436,
+      11.38504044
+    ]
   },
   {
     "name": "Ry Fodbold",
@@ -21984,7 +26165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.02388208,
+      9.89235588
+    ]
   },
   {
     "name": "Ryde/Handbjerg UF",
@@ -22005,7 +26190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.47769058,
+      8.80020865
+    ]
   },
   {
     "name": "Ryslinge BK",
@@ -22026,7 +26215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.23725238,
+      10.54368086
+    ]
   },
   {
     "name": "Rødby BK",
@@ -22047,7 +26240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.53635729,
+      11.57693074
+    ]
   },
   {
     "name": "Rødding IF",
@@ -22068,7 +26265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.38472069,
+      9.14057169
+    ]
   },
   {
     "name": "Rødding UIF",
@@ -22089,7 +26290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.49762699,
+      9.60208409
+    ]
   },
   {
     "name": "Røde Fane IF",
@@ -22110,7 +26315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.18928869,
+      10.09750556
+    ]
   },
   {
     "name": "Røde Stjerne",
@@ -22131,7 +26340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.403021,
+      10.39174411
+    ]
   },
   {
     "name": "Røde Stjerne BK",
@@ -22152,7 +26365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65647451,
+      12.06373356
+    ]
   },
   {
     "name": "Røde Stjerne FC, Skive",
@@ -22173,7 +26390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.46317549,
+      8.99505562
+    ]
   },
   {
     "name": "Rødekro IF",
@@ -22194,7 +26415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/871.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.07437317,
+      9.28037618
+    ]
   },
   {
     "name": "Rødkærsbroegnens IF",
@@ -22215,7 +26440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.35360504,
+      9.50444327
+    ]
   },
   {
     "name": "Rødvig G&I",
@@ -22236,7 +26465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.20085779,
+      12.38750748
+    ]
   },
   {
     "name": "Rønbjerg IF",
@@ -22257,7 +26490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.46317549,
+      8.99505562
+    ]
   },
   {
     "name": "Rønde Efterskole",
@@ -22278,7 +26515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.30328793,
+      10.48173371
+    ]
   },
   {
     "name": "Rønne f.B.",
@@ -22299,7 +26540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.98495945,
+      14.40163467
+    ]
   },
   {
     "name": "Rønne IK",
@@ -22320,7 +26565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.98495945,
+      14.40163467
+    ]
   },
   {
     "name": "Rønnebæk IF",
@@ -22341,7 +26590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.19504272,
+      11.77357353
+    ]
   },
   {
     "name": "Rønnede IF",
@@ -22362,7 +26615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.23758668,
+      12.02277028
+    ]
   },
   {
     "name": "Rønneholtparkens BK",
@@ -22383,7 +26640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86605512,
+      12.33661891
+    ]
   },
   {
     "name": "Rørby-Værslev IF",
@@ -22404,7 +26665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.70601705,
+      10.97431629
+    ]
   },
   {
     "name": "Rørbæk IF",
@@ -22425,7 +26690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.6528756,
+      9.77366901
+    ]
   },
   {
     "name": "Rørvig IF",
@@ -22446,7 +26715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.01043371,
+      11.71725292
+    ]
   },
   {
     "name": "Rågelund Efterskole",
@@ -22467,7 +26740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.42123207,
+      10.44332209
+    ]
   },
   {
     "name": "S.K.F.I.F.",
@@ -22488,7 +26765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.34939755,
+      10.39917484
+    ]
   },
   {
     "name": "Sabro IF",
@@ -22509,7 +26790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.21127538,
+      10.01547147
+    ]
   },
   {
     "name": "Sall IF",
@@ -22530,7 +26815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.26356721,
+      9.8817943
+    ]
   },
   {
     "name": "Salling Efterskole",
@@ -22551,7 +26840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.72437033,
+      9.04159313
+    ]
   },
   {
     "name": "Sallingsund FC",
@@ -22572,7 +26865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.72437033,
+      9.04159313
+    ]
   },
   {
     "name": "Saltum IF",
@@ -22593,7 +26890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.26602114,
+      9.69608315
+    ]
   },
   {
     "name": "Samsø Efterskole",
@@ -22614,7 +26915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.91180366,
+      10.68434089
+    ]
   },
   {
     "name": "Samsø Idræt & Kultur",
@@ -22635,7 +26940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.91180366,
+      10.68434089
+    ]
   },
   {
     "name": "Sandby  GF",
@@ -22656,7 +26965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.75748092,
+      10.98835691
+    ]
   },
   {
     "name": "Sanderum BK",
@@ -22677,7 +26990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.35251254,
+      10.29791607
+    ]
   },
   {
     "name": "Sandved-Tornemark IF",
@@ -22698,7 +27015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.25079677,
+      11.528121
+    ]
   },
   {
     "name": "Saxild IF",
@@ -22719,7 +27040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92457284,
+      10.24464778
+    ]
   },
   {
     "name": "SBV 09",
@@ -22740,7 +27065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.58934868,
+      12.46097002
+    ]
   },
   {
     "name": "SC Amager",
@@ -22761,7 +27090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Sct. Jørgens IF",
@@ -22782,7 +27115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.19504272,
+      11.77357353
+    ]
   },
   {
     "name": "Sdr. Bork Efterskole",
@@ -22803,7 +27140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.85259869,
+      8.33561789
+    ]
   },
   {
     "name": "Sdr. Felding Efterskole",
@@ -22824,7 +27165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.94233943,
+      8.80469301
+    ]
   },
   {
     "name": "Sdr. Felding GIF",
@@ -22845,7 +27190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.94233943,
+      8.80469301
+    ]
   },
   {
     "name": "Sdr. Hygum B",
@@ -22866,7 +27215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.38472069,
+      9.14057169
+    ]
   },
   {
     "name": "Sdr. Nærå Fri- og Efterskole",
@@ -22887,7 +27240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2906707,
+      10.3936597
+    ]
   },
   {
     "name": "Sdr. Omme IF",
@@ -22908,7 +27265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.85051521,
+      8.89341393
+    ]
   },
   {
     "name": "Sdr. Rind/Vinkel IF",
@@ -22929,7 +27290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41681148,
+      9.36897659
+    ]
   },
   {
     "name": "Sebber IF",
@@ -22950,7 +27315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.94881207,
+      9.57985536
+    ]
   },
   {
     "name": "Seest B",
@@ -22971,7 +27340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50221297,
+      9.46847631
+    ]
   },
   {
     "name": "Sejerø IF",
@@ -22992,7 +27365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92069678,
+      11.03916639
+    ]
   },
   {
     "name": "Sejs Svejbæk IF",
@@ -23013,7 +27390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Sengeløse GI",
@@ -23034,7 +27415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6579409,
+      12.28083382
+    ]
   },
   {
     "name": "Sevel/Mogenstrup IF",
@@ -23055,7 +27440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.46317549,
+      8.99505562
+    ]
   },
   {
     "name": "SfB",
@@ -23076,7 +27465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.01443666,
+      10.59802878
+    ]
   },
   {
     "name": "SHN/Ulfborg",
@@ -23097,7 +27490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.3042395,
+      8.0070526
+    ]
   },
   {
     "name": "Sierslev FC",
@@ -23118,7 +27515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.36245892,
+      12.22317915
+    ]
   },
   {
     "name": "SIF Assentoft",
@@ -23139,7 +27540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.42912946,
+      10.17671406
+    ]
   },
   {
     "name": "SIF Holbæk IF",
@@ -23160,7 +27565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73825064,
+      11.69985606
+    ]
   },
   {
     "name": "Sig/Thorstrup IF",
@@ -23181,7 +27590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65607154,
+      8.52854473
+    ]
   },
   {
     "name": "Sigerslevøster IF",
@@ -23202,7 +27615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.85479562,
+      12.07923445
+    ]
   },
   {
     "name": "SIK Viborg, fodbold",
@@ -23223,7 +27640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/377.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41681148,
+      9.36897659
+    ]
   },
   {
     "name": "Silkeborg (professional)",
@@ -23244,7 +27665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Silkeborg B",
@@ -23265,7 +27690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Silkeborg Efterskole",
@@ -23286,7 +27715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Silkeborg Fodbolddommerklub",
@@ -23307,7 +27740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.2882506,
+      9.39095532
+    ]
   },
   {
     "name": "Silkeborg IF",
@@ -23328,7 +27765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/632.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Silkeborg IF Q",
@@ -23349,7 +27790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Silkeborg KFUM",
@@ -23370,7 +27815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Sindal IF",
@@ -23391,7 +27840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.4674892,
+      10.24075136
+    ]
   },
   {
     "name": "Sinding GIF",
@@ -23412,7 +27865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.11911505,
+      8.98775376
+    ]
   },
   {
     "name": "SINE Sportsefterskole",
@@ -23433,7 +27890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.06237954,
+      8.96415413
+    ]
   },
   {
     "name": "SISU MBK Fodbold",
@@ -23454,7 +27915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15051496,
+      10.27802097
+    ]
   },
   {
     "name": "Sjællands",
@@ -23475,7 +27940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.43053197,
+      11.82805925
+    ]
   },
   {
     "name": "Sjølund IF",
@@ -23496,7 +27965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.4068472,
+      9.53828204
+    ]
   },
   {
     "name": "Sjørring B",
@@ -23517,7 +27990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.32370377,
+      7.90681299
+    ]
   },
   {
     "name": "Sjørslev/Demstrup IF",
@@ -23538,7 +28015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.2882506,
+      9.39095532
+    ]
   },
   {
     "name": "Skagen IK",
@@ -23559,7 +28040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.85540126,
+      10.48570715
+    ]
   },
   {
     "name": "Skalbjerg BK",
@@ -23580,7 +28065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.39228422,
+      10.13229762
+    ]
   },
   {
     "name": "Skalborg SK",
@@ -23601,7 +28090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.00928951,
+      9.86220561
+    ]
   },
   {
     "name": "Skallebølle Sportsklub",
@@ -23622,7 +28115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.39228422,
+      10.13229762
+    ]
   },
   {
     "name": "Skallerup/Vennebjerg IF",
@@ -23643,7 +28140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.70230652,
+      9.2956345
+    ]
   },
   {
     "name": "Skals Efterskole",
@@ -23664,7 +28165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.59071095,
+      9.35963562
+    ]
   },
   {
     "name": "Skals FF",
@@ -23685,7 +28190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.59071095,
+      9.35963562
+    ]
   },
   {
     "name": "Skamby BK",
@@ -23706,7 +28215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.51969426,
+      10.26859858
+    ]
   },
   {
     "name": "Skanderup Efterskole",
@@ -23727,7 +28240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.4763505,
+      9.32882435
+    ]
   },
   {
     "name": "Skanderup Hjarup IF",
@@ -23748,7 +28265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.4763505,
+      9.32882435
+    ]
   },
   {
     "name": "Skeby GF",
@@ -23769,7 +28290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1485.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.56662852,
+      10.41038685
+    ]
   },
   {
     "name": "Skelde GF",
@@ -23790,7 +28315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.8713804,
+      9.68079394
+    ]
   },
   {
     "name": "Skelund IF",
@@ -23811,7 +28340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.77688954,
+      10.41645939
+    ]
   },
   {
     "name": "Skensved IF",
@@ -23832,7 +28365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50779016,
+      12.08511883
+    ]
   },
   {
     "name": "Skibbild-Nøvling Idræt og Motion",
@@ -23853,7 +28390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.18215286,
+      8.74507312
+    ]
   },
   {
     "name": "Skibby IK",
@@ -23874,7 +28415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.75873813,
+      12.01351904
+    ]
   },
   {
     "name": "Skibelund Gymnastik- og Idrætsefterskole",
@@ -23895,7 +28440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.4784284,
+      9.11204215
+    ]
   },
   {
     "name": "Skibet IF",
@@ -23916,7 +28465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "Skibsby-Højene IF",
@@ -23937,7 +28490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.70230652,
+      9.2956345
+    ]
   },
   {
     "name": "Skive IK",
@@ -23958,7 +28515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/328.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.46317549,
+      8.99505562
+    ]
   },
   {
     "name": "Skive IK (professional)",
@@ -23979,7 +28540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3732.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.46317549,
+      8.99505562
+    ]
   },
   {
     "name": "Skjern GF",
@@ -24000,7 +28565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.99089664,
+      8.53885308
+    ]
   },
   {
     "name": "Skjern Kulturcenter",
@@ -24021,7 +28590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.99089664,
+      8.53885308
+    ]
   },
   {
     "name": "Skjød IF",
@@ -24042,7 +28615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.26356721,
+      9.8817943
+    ]
   },
   {
     "name": "Skodborg IF",
@@ -24063,7 +28640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.38472069,
+      9.14057169
+    ]
   },
   {
     "name": "Skovbakken IK OB",
@@ -24084,7 +28665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.18719668,
+      10.24680782
+    ]
   },
   {
     "name": "Skovbo Efterskole",
@@ -24105,7 +28690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.43053197,
+      11.82805925
+    ]
   },
   {
     "name": "Skovby GF",
@@ -24126,7 +28715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1487.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6129967,
+      10.15483531
+    ]
   },
   {
     "name": "Skovlund Efterskole",
@@ -24147,7 +28740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.72123589,
+      8.75126746
+    ]
   },
   {
     "name": "Skovlund IF",
@@ -24168,7 +28765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.72123589,
+      8.75126746
+    ]
   },
   {
     "name": "Skovlunde IF Oldboys/Girls",
@@ -24189,7 +28790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.71528471,
+      12.39724634
+    ]
   },
   {
     "name": "Skovsgaard B",
@@ -24210,7 +28815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.10716869,
+      9.5353613
+    ]
   },
   {
     "name": "Skovshoved Idrætsforening",
@@ -24231,7 +28840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.79609961,
+      12.62132919
+    ]
   },
   {
     "name": "Skyum Idrætsefterskole",
@@ -24252,7 +28865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.2597249,
+      7.47858654
+    ]
   },
   {
     "name": "Skægkær IF Centrum",
@@ -24273,7 +28890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Skælskør Boldklub og Idrætsforening",
@@ -24294,7 +28915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.17717085,
+      11.34912168
+    ]
   },
   {
     "name": "Skærbæk Boldklub",
@@ -24315,7 +28940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.17738587,
+      8.79091021
+    ]
   },
   {
     "name": "Skærbæk Fritidscenter",
@@ -24336,7 +28965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.17738587,
+      8.79091021
+    ]
   },
   {
     "name": "Skødstrup SF",
@@ -24357,7 +28990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/642.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.26151082,
+      10.36793908
+    ]
   },
   {
     "name": "Skørping IF Frem",
@@ -24378,7 +29015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.84944104,
+      9.92696601
+    ]
   },
   {
     "name": "Skårup IF",
@@ -24399,7 +29040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.06735111,
+      10.76263715
+    ]
   },
   {
     "name": "Slagelse B&I",
@@ -24420,7 +29065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.40887345,
+      11.37134678
+    ]
   },
   {
     "name": "Slaglille-Bjernede GI",
@@ -24441,7 +29090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1232.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.40880423,
+      11.55727004
+    ]
   },
   {
     "name": "Slagslunde-Ganløse IF",
@@ -24462,7 +29115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.80077298,
+      12.27836793
+    ]
   },
   {
     "name": "Slangerup & Omegn IF",
@@ -24483,7 +29140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.85027208,
+      12.17447416
+    ]
   },
   {
     "name": "Smidstrup/Skærup IF",
@@ -24504,7 +29165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.57103757,
+      9.66918005
+    ]
   },
   {
     "name": "SMIFF09",
@@ -24525,7 +29190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.50265825,
+      10.1724293
+    ]
   },
   {
     "name": "Snedsted GIF",
@@ -24546,7 +29215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.2597249,
+      7.47858654
+    ]
   },
   {
     "name": "Snejbjerg SG&I",
@@ -24567,7 +29240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.11911505,
+      8.98775376
+    ]
   },
   {
     "name": "Snekkersten IF",
@@ -24588,7 +29265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1235.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.00467892,
+      12.59499744
+    ]
   },
   {
     "name": "Solbjerg IF",
@@ -24609,7 +29290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.03661436,
+      10.0866212
+    ]
   },
   {
     "name": "Sole IF",
@@ -24630,7 +29315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.81385497,
+      9.69416947
+    ]
   },
   {
     "name": "Solrød FC",
@@ -24651,7 +29340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.5150734,
+      12.26072581
+    ]
   },
   {
     "name": "Sommersted Efterskole",
@@ -24672,7 +29365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.32447339,
+      9.26072776
+    ]
   },
   {
     "name": "Sommersted IF",
@@ -24693,7 +29390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.32447339,
+      9.26072776
+    ]
   },
   {
     "name": "Sorring/Toustrup IF",
@@ -24714,7 +29415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17906349,
+      9.77449496
+    ]
   },
   {
     "name": "Sorø Gymnastikefterskole",
@@ -24735,7 +29440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.40880423,
+      11.55727004
+    ]
   },
   {
     "name": "Spangsbjerg IF",
@@ -24756,7 +29465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.55332885,
+      8.5093547
+    ]
   },
   {
     "name": "Sparkær IF",
@@ -24777,7 +29490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41681148,
+      9.36897659
+    ]
   },
   {
     "name": "Spentrup IF",
@@ -24798,7 +29515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.54082727,
+      10.0192493
+    ]
   },
   {
     "name": "Spir Efterskole",
@@ -24819,7 +29540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.76046689,
+      10.02918372
+    ]
   },
   {
     "name": "Spjald Fritidscenter",
@@ -24840,7 +29565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15361133,
+      8.50600358
+    ]
   },
   {
     "name": "Spjald IF",
@@ -24861,7 +29590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15361133,
+      8.50600358
+    ]
   },
   {
     "name": "Sportsefterskolen Sjælsølund",
@@ -24882,7 +29615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.88126308,
+      12.43890506
+    ]
   },
   {
     "name": "Sportsefterskolen Aabybro",
@@ -24903,7 +29640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.16282327,
+      9.76743314
+    ]
   },
   {
     "name": "Spøttrup Motion & Sport",
@@ -24924,7 +29665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.62419195,
+      8.82098992
+    ]
   },
   {
     "name": "SS Skjold",
@@ -24945,7 +29690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.76046689,
+      10.02918372
+    ]
   },
   {
     "name": "ST 70",
@@ -24966,7 +29715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.27022295,
+      10.16086107
+    ]
   },
   {
     "name": "ST Oldboys, Trige",
@@ -24987,7 +29740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.27022295,
+      10.16086107
+    ]
   },
   {
     "name": "St. Restrup IF",
@@ -25008,7 +29765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.00928951,
+      9.86220561
+    ]
   },
   {
     "name": "Starup IF",
@@ -25029,7 +29790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.75986358,
+      8.89887879
+    ]
   },
   {
     "name": "Starup UIF",
@@ -25050,7 +29815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.24177268,
+      9.61886938
+    ]
   },
   {
     "name": "Stauning/Dejbjerg UI",
@@ -25071,7 +29840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.99089664,
+      8.53885308
+    ]
   },
   {
     "name": "Stavtrup IF Fodbold",
@@ -25092,7 +29865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.12635244,
+      10.13778473
+    ]
   },
   {
     "name": "Stenlille IF",
@@ -25113,7 +29890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.55246779,
+      11.57749201
+    ]
   },
   {
     "name": "Stenløse BK",
@@ -25134,7 +29915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.80077298,
+      12.27836793
+    ]
   },
   {
     "name": "Stensballe IK",
@@ -25155,7 +29940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86597915,
+      9.89301425
+    ]
   },
   {
     "name": "Stenstrup IF",
@@ -25176,7 +29965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.12556284,
+      10.52352287
+    ]
   },
   {
     "name": "Stepping IF",
@@ -25197,7 +29990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.35487274,
+      9.44750863
+    ]
   },
   {
     "name": "Stidsholt IF (Efterskole)",
@@ -25218,7 +30015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.2843629,
+      10.57327556
+    ]
   },
   {
     "name": "Stilling IF",
@@ -25239,7 +30040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.02388208,
+      9.89235588
+    ]
   },
   {
     "name": "Stillinge IF",
@@ -25260,7 +30065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.40887345,
+      11.37134678
+    ]
   },
   {
     "name": "Stjær B",
@@ -25281,7 +30090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17800104,
+      9.91179535
+    ]
   },
   {
     "name": "Stoholm IF",
@@ -25302,7 +30115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.48444375,
+      9.12847686
+    ]
   },
   {
     "name": "Stokkemarke",
@@ -25323,7 +30140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.84533107,
+      11.37909951
+    ]
   },
   {
     "name": "Store Heddinge BK",
@@ -25344,7 +30165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.33554618,
+      12.51110642
+    ]
   },
   {
     "name": "Store Lyngby IF",
@@ -25365,7 +30190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.93559156,
+      12.15008815
+    ]
   },
   {
     "name": "Store Merløse IF",
@@ -25386,7 +30215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.54054576,
+      11.7241173
+    ]
   },
   {
     "name": "Storvorde/Sejlflod B",
@@ -25407,7 +30240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/127.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.91678716,
+      10.27569023
+    ]
   },
   {
     "name": "Strandby IF Farsø",
@@ -25428,7 +30265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.77310507,
+      9.27748567
+    ]
   },
   {
     "name": "Strandby-Elling-Nielstrup IF Fodbold",
@@ -25449,7 +30290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.51074154,
+      10.52915912
+    ]
   },
   {
     "name": "Strellev/Lyne GU",
@@ -25470,7 +30315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.89016003,
+      8.54104706
+    ]
   },
   {
     "name": "Strib Idrætsefterskole",
@@ -25491,7 +30340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.48934885,
+      9.78489314
+    ]
   },
   {
     "name": "Strib IF",
@@ -25512,7 +30365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1494.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.48934885,
+      9.78489314
+    ]
   },
   {
     "name": "Struer B",
@@ -25533,7 +30390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.52775554,
+      8.60339354
+    ]
   },
   {
     "name": "Stubbekøbing BK",
@@ -25554,7 +30415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1658.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.71290684,
+      12.41175242
+    ]
   },
   {
     "name": "Studenter Settlementets Boldklub",
@@ -25575,7 +30440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67082135,
+      12.54858405
+    ]
   },
   {
     "name": "Studsgård Sport & Kultur",
@@ -25596,7 +30465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.11911505,
+      8.98775376
+    ]
   },
   {
     "name": "STUK Overbygning",
@@ -25617,7 +30490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.18306206,
+      9.0451996
+    ]
   },
   {
     "name": "Støvring IF Fodbold",
@@ -25638,7 +30515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.89267972,
+      9.80945918
+    ]
   },
   {
     "name": "SUB Ullerslev",
@@ -25659,7 +30540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1496.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.38540272,
+      10.67264084
+    ]
   },
   {
     "name": "Sulsted IF",
@@ -25680,7 +30565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/131.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.16265215,
+      9.99174315
+    ]
   },
   {
     "name": "Sundby Boldklub",
@@ -25701,7 +30590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1583.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Sundby Mors IF",
@@ -25722,7 +30615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.8517685,
+      8.69843044
+    ]
   },
   {
     "name": "Sundby Thy IK",
@@ -25743,7 +30640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.2597249,
+      7.47858654
+    ]
   },
   {
     "name": "Sundeved Efterskoles IF",
@@ -25764,7 +30665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.02899493,
+      9.49975045
+    ]
   },
   {
     "name": "Sunds IF",
@@ -25785,7 +30690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/343.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.22960774,
+      9.02585964
+    ]
   },
   {
     "name": "Suså IF",
@@ -25806,7 +30715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1252.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.32910688,
+      11.77284465
+    ]
   },
   {
     "name": "Svaneke Idræts Klub",
@@ -25827,7 +30740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.30340399,
+      15.67679007
+    ]
   },
   {
     "name": "Svankjær B",
@@ -25848,7 +30765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.17740891,
+      7.21613935
+    ]
   },
   {
     "name": "Svendborg Efterskole",
@@ -25869,7 +30790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.01443666,
+      10.59802878
+    ]
   },
   {
     "name": "Svenstrup UF",
@@ -25890,7 +30815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.06940698,
+      9.77014411
+    ]
   },
   {
     "name": "Svenstrup-Godthåb IF",
@@ -25911,7 +30840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/132.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.9647583,
+      9.86815189
+    ]
   },
   {
     "name": "Svinninge IF",
@@ -25932,7 +30865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.71737311,
+      11.48951817
+    ]
   },
   {
     "name": "Svogerslev BK",
@@ -25953,7 +30890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65647451,
+      12.06373356
+    ]
   },
   {
     "name": "Syd- & Østsjællands",
@@ -25974,7 +30915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.12208613,
+      12.19166049
+    ]
   },
   {
     "name": "Sydmors IF",
@@ -25995,7 +30940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.68763915,
+      8.70032858
+    ]
   },
   {
     "name": "Sydthy B",
@@ -26016,7 +30965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.72425361,
+      8.42909599
+    ]
   },
   {
     "name": "Sydvestjyllands Efterskole Fodbold",
@@ -26037,7 +30990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.46065157,
+      8.70168486
+    ]
   },
   {
     "name": "Sydvestjysk Fodbolddommerklub",
@@ -26058,7 +31015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.75986358,
+      8.89887879
+    ]
   },
   {
     "name": "Sydøstjysk Fodbolddommerklub",
@@ -26079,7 +31040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.61664144,
+      9.29089234
+    ]
   },
   {
     "name": "Systofte BK",
@@ -26100,7 +31065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.7930621,
+      11.90198993
+    ]
   },
   {
     "name": "Syvsten IF",
@@ -26121,7 +31090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.2843629,
+      10.57327556
+    ]
   },
   {
     "name": "Sædder IF",
@@ -26142,7 +31115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.38830546,
+      12.08719823
+    ]
   },
   {
     "name": "Sædding Efterskole",
@@ -26163,7 +31140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.99089664,
+      8.53885308
+    ]
   },
   {
     "name": "Sædding/G IF",
@@ -26184,7 +31165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.55262453,
+      8.34866677
+    ]
   },
   {
     "name": "Særslev BK",
@@ -26205,7 +31190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.48691259,
+      10.08371535
+    ]
   },
   {
     "name": "Søften GF",
@@ -26226,7 +31215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.25949156,
+      10.06719333
+    ]
   },
   {
     "name": "Søhus IF",
@@ -26247,7 +31240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2070.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.44966319,
+      10.35714765
+    ]
   },
   {
     "name": "Søllested IF",
@@ -26268,7 +31265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.79935911,
+      11.29197531
+    ]
   },
   {
     "name": "Søllinge Sport og Fritid",
@@ -26289,7 +31290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2209888,
+      10.42313811
+    ]
   },
   {
     "name": "Sønderborg Boldklub",
@@ -26310,7 +31315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.9528525,
+      9.71079556
+    ]
   },
   {
     "name": "Sønderborg Fremad",
@@ -26331,7 +31340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.9528525,
+      9.71079556
+    ]
   },
   {
     "name": "Sønderbro Fight",
@@ -26352,7 +31365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Sønderjydsk Fodbolddommerklub",
@@ -26373,7 +31390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.02899493,
+      9.49975045
+    ]
   },
   {
     "name": "SønderjyskE (professional)",
@@ -26394,7 +31415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.24177268,
+      9.61886938
+    ]
   },
   {
     "name": "Sønderris SK",
@@ -26415,7 +31440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.55262453,
+      8.34866677
+    ]
   },
   {
     "name": "Søndersø BK",
@@ -26436,7 +31465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1502.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.48691259,
+      10.08371535
+    ]
   },
   {
     "name": "Sønderup/Suldrup IK Frem",
@@ -26457,7 +31490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.84292865,
+      9.68119202
+    ]
   },
   {
     "name": "Sørup IF",
@@ -26478,7 +31515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.89267972,
+      9.80945918
+    ]
   },
   {
     "name": "SØS - Sydøstsjællands Idrætsefterskole",
@@ -26499,7 +31540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.32031014,
+      11.95519764
+    ]
   },
   {
     "name": "Søvind GIF",
@@ -26520,7 +31565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86597915,
+      9.89301425
+    ]
   },
   {
     "name": "Såby Fodbold",
@@ -26541,7 +31590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1266.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65437818,
+      11.87375746
+    ]
   },
   {
     "name": "Tangsø fS",
@@ -26562,7 +31615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41551889,
+      8.33184097
+    ]
   },
   {
     "name": "Taps.dk - By- og IF",
@@ -26583,7 +31640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.35487274,
+      9.44750863
+    ]
   },
   {
     "name": "Tarm IF",
@@ -26604,7 +31665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.89016003,
+      8.54104706
+    ]
   },
   {
     "name": "Tarp B",
@@ -26625,7 +31690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.55332885,
+      8.5093547
+    ]
   },
   {
     "name": "Tarup/Paarup IF",
@@ -26646,7 +31715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1503.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.41754658,
+      10.30695242
+    ]
   },
   {
     "name": "Taulov/Skærbæk IF",
@@ -26667,7 +31740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.57103757,
+      9.66918005
+    ]
   },
   {
     "name": "Team 2. Sal",
@@ -26688,7 +31765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64077611,
+      12.52309722
+    ]
   },
   {
     "name": "Team InterRos",
@@ -26709,7 +31790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65647451,
+      12.06373356
+    ]
   },
   {
     "name": "Team Leo IF",
@@ -26730,7 +31815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15051496,
+      10.27802097
+    ]
   },
   {
     "name": "Team Nørreå",
@@ -26751,7 +31840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.36051392,
+      9.64257403
+    ]
   },
   {
     "name": "Team Viborg",
@@ -26772,7 +31865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3850.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41681148,
+      9.36897659
+    ]
   },
   {
     "name": "Tejn IF",
@@ -26793,7 +31890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.36353136,
+      14.76377199
+    ]
   },
   {
     "name": "Terndrup IF",
@@ -26814,7 +31915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.81450196,
+      10.04422607
+    ]
   },
   {
     "name": "Terslev G&IF",
@@ -26835,7 +31940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.32031014,
+      11.95519764
+    ]
   },
   {
     "name": "Them GF",
@@ -26856,7 +31965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.08668443,
+      9.55044283
+    ]
   },
   {
     "name": "Thise IF",
@@ -26877,7 +31990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.28432949,
+      9.88277134
+    ]
   },
   {
     "name": "Thisted FC",
@@ -26898,7 +32015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.32370377,
+      7.90681299
+    ]
   },
   {
     "name": "Thisted FC (professional)",
@@ -26919,7 +32040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.32370377,
+      7.90681299
+    ]
   },
   {
     "name": "Thorning IF",
@@ -26940,7 +32065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.2882506,
+      9.39095532
+    ]
   },
   {
     "name": "Thorsø OB",
@@ -26961,7 +32090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.3103006,
+      9.79439741
+    ]
   },
   {
     "name": "Thorsø/Tungelund IF",
@@ -26982,7 +32115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.3103006,
+      9.79439741
+    ]
   },
   {
     "name": "Thorup/Klim B",
@@ -27003,7 +32140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.12742277,
+      9.20878724
+    ]
   },
   {
     "name": "Thurø BK af 1920",
@@ -27024,7 +32165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.01443666,
+      10.59802878
+    ]
   },
   {
     "name": "Thyborøn Fritid",
@@ -27045,7 +32190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.86776362,
+      6.26580665
+    ]
   },
   {
     "name": "Thyholm IF",
@@ -27066,7 +32215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.62765212,
+      8.51363052
+    ]
   },
   {
     "name": "Thyland idrætsefterskole",
@@ -27087,7 +32240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.32370377,
+      7.90681299
+    ]
   },
   {
     "name": "Thyregod SF Frem",
@@ -27108,7 +32265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.85744681,
+      9.2710166
+    ]
   },
   {
     "name": "Tikøb IF",
@@ -27129,7 +32290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.02560338,
+      12.45560033
+    ]
   },
   {
     "name": "Tilsted IK",
@@ -27150,7 +32315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.32370377,
+      7.90681299
+    ]
   },
   {
     "name": "Tim GIF",
@@ -27171,7 +32340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.18956069,
+      8.19684723
+    ]
   },
   {
     "name": "Tinglev IF",
@@ -27192,7 +32365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.90310802,
+      9.20354055
+    ]
   },
   {
     "name": "Tingsted BK",
@@ -27213,7 +32390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.7930621,
+      11.90198993
+    ]
   },
   {
     "name": "Tirstrup Idrætsefterskole",
@@ -27234,7 +32415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.14931257,
+      10.82632626
+    ]
   },
   {
     "name": "Tirstrup-Balle IF",
@@ -27255,7 +32440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.14931257,
+      10.82632626
+    ]
   },
   {
     "name": "Tistrup B",
@@ -27276,7 +32465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.71896752,
+      8.63263378
+    ]
   },
   {
     "name": "Tisvildeleje GF",
@@ -27297,7 +32490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.12775807,
+      11.95917304
+    ]
   },
   {
     "name": "Tjele Efterskole",
@@ -27318,7 +32515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.49762699,
+      9.60208409
+    ]
   },
   {
     "name": "Tjæreborg IF",
@@ -27339,7 +32540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.46029975,
+      8.59046906
+    ]
   },
   {
     "name": "Tjørring IF",
@@ -27360,7 +32565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/359.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.11911505,
+      8.98775376
+    ]
   },
   {
     "name": "Todbjerg/Mejlby IF",
@@ -27381,7 +32590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.29464717,
+      10.20502083
+    ]
   },
   {
     "name": "Toftlund IF",
@@ -27402,7 +32615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.18306206,
+      9.0451996
+    ]
   },
   {
     "name": "Toksværd Olstrup Fodbold",
@@ -27423,7 +32640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.25979308,
+      11.86408266
+    ]
   },
   {
     "name": "Tommerup BK",
@@ -27444,7 +32665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1507.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.3195544,
+      10.19834407
+    ]
   },
   {
     "name": "Tornby IF",
@@ -27465,7 +32690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.94281241,
+      9.71496643
+    ]
   },
   {
     "name": "Torpedo AT",
@@ -27486,7 +32715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15051496,
+      10.27802097
+    ]
   },
   {
     "name": "Torslunde-Ishøj IF",
@@ -27507,7 +32740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.58776321,
+      12.39483896
+    ]
   },
   {
     "name": "Tranekær/Tullebølle IF",
@@ -27528,7 +32765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.88518842,
+      10.80968538
+    ]
   },
   {
     "name": "Tranum GF",
@@ -27549,7 +32790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.10716869,
+      9.5353613
+    ]
   },
   {
     "name": "Trekroner IF 98",
@@ -27570,7 +32815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.12742277,
+      9.20878724
+    ]
   },
   {
     "name": "Trelde GIF",
@@ -27591,7 +32840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.57103757,
+      9.66918005
+    ]
   },
   {
     "name": "Troldhede GIF",
@@ -27612,7 +32865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.08052418,
+      8.66992988
+    ]
   },
   {
     "name": "Trustrup-Ålsrode IF",
@@ -27633,7 +32890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.36287517,
+      10.74217288
+    ]
   },
   {
     "name": "Try/Thorshøj B",
@@ -27654,7 +32915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.34034984,
+      10.27081316
+    ]
   },
   {
     "name": "TSI/Stenum",
@@ -27675,7 +32940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.28432949,
+      9.88277134
+    ]
   },
   {
     "name": "tst Fodbold",
@@ -27696,7 +32965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/671.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.18928869,
+      10.09750556
+    ]
   },
   {
     "name": "TST Kunstgræsanlæg",
@@ -27717,7 +32990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.18928869,
+      10.09750556
+    ]
   },
   {
     "name": "Tulstrup-Faurholt IK",
@@ -27738,7 +33015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.09377094,
+      9.1925469
+    ]
   },
   {
     "name": "Tune IF",
@@ -27759,7 +33040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.59602755,
+      12.16990416
+    ]
   },
   {
     "name": "Tuse IF",
@@ -27780,7 +33065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73825064,
+      11.69985606
+    ]
   },
   {
     "name": "Tuse Næs BK",
@@ -27801,7 +33090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.73825064,
+      11.69985606
+    ]
   },
   {
     "name": "Tved BK",
@@ -27822,7 +33115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.01443666,
+      10.59802878
+    ]
   },
   {
     "name": "Tvis KFUM & IF",
@@ -27843,7 +33140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.34794414,
+      8.58519299
+    ]
   },
   {
     "name": "Tylstrup IF",
@@ -27864,7 +33165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.20308117,
+      9.9350316
+    ]
   },
   {
     "name": "Tølløse BK",
@@ -27885,7 +33190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1284.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.61818163,
+      11.74532267
+    ]
   },
   {
     "name": "Tølløse Privat- og Efterskole",
@@ -27906,7 +33215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.61818163,
+      11.74532267
+    ]
   },
   {
     "name": "Tømmerup Fri- og Efterskole",
@@ -27927,7 +33240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.70601705,
+      10.97431629
+    ]
   },
   {
     "name": "Tømmerup GU",
@@ -27948,7 +33265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.70601705,
+      10.97431629
+    ]
   },
   {
     "name": "Tønder SF",
@@ -27969,7 +33290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.95248429,
+      8.89453488
+    ]
   },
   {
     "name": "Tørring IF",
@@ -27990,7 +33315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.87483844,
+      9.50220604
+    ]
   },
   {
     "name": "Taarbæk IF",
@@ -28011,7 +33340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.79609961,
+      12.62132919
+    ]
   },
   {
     "name": "Tårnby FF",
@@ -28032,7 +33365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1766.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.63352245,
+      12.78698239
+    ]
   },
   {
     "name": "Tårs/Ugilt IF",
@@ -28053,7 +33390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.37825187,
+      10.14317436
+    ]
   },
   {
     "name": "Tårup IF",
@@ -28074,7 +33415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.23864739,
+      10.81307692
+    ]
   },
   {
     "name": "Tåsinge f. B.",
@@ -28095,7 +33440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1513.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.01443666,
+      10.59802878
+    ]
   },
   {
     "name": "Taastrup FC",
@@ -28116,7 +33465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6579409,
+      12.28083382
+    ]
   },
   {
     "name": "Ubberud IF",
@@ -28137,7 +33490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1514.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.38883518,
+      10.22531693
+    ]
   },
   {
     "name": "Ubby Fri- og Efterskole",
@@ -28158,7 +33515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.61730235,
+      11.23183281
+    ]
   },
   {
     "name": "Uganda Danish Cranes FC",
@@ -28179,7 +33540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64077611,
+      12.52309722
+    ]
   },
   {
     "name": "Ugelbølle IF",
@@ -28200,7 +33565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.30328793,
+      10.48173371
+    ]
   },
   {
     "name": "Uggerby Idrætsforening",
@@ -28221,7 +33590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.70230652,
+      9.2956345
+    ]
   },
   {
     "name": "Uhre GIF",
@@ -28242,7 +33615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/364.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.93341595,
+      9.0912202
+    ]
   },
   {
     "name": "Ulbjerg IF",
@@ -28263,7 +33640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.59071095,
+      9.35963562
+    ]
   },
   {
     "name": "Uldum IF",
@@ -28284,7 +33665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.8358153,
+      9.59518771
+    ]
   },
   {
     "name": "Ulsted B",
@@ -28305,7 +33690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.96384115,
+      10.65368838
+    ]
   },
   {
     "name": "Ulstrup IF",
@@ -28326,7 +33715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.3800683,
+      9.78710533
+    ]
   },
   {
     "name": "Understed IF",
@@ -28347,7 +33740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.2843629,
+      10.57327556
+    ]
   },
   {
     "name": "Undløse BK",
@@ -28368,7 +33765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.61818163,
+      11.74532267
+    ]
   },
   {
     "name": "Unge Hjems Efterskole",
@@ -28389,7 +33790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.09903701,
+      10.28961018
+    ]
   },
   {
     "name": "Ungeuniverset-Vojens",
@@ -28410,7 +33815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2436827,
+      9.31835235
+    ]
   },
   {
     "name": "Unionshold",
@@ -28431,7 +33840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.7930621,
+      11.90198993
+    ]
   },
   {
     "name": "University College Lillebælt Football Club",
@@ -28452,7 +33865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.34939755,
+      10.39917484
+    ]
   },
   {
     "name": "US10 Tårnby",
@@ -28473,7 +33890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.63352245,
+      12.78698239
+    ]
   },
   {
     "name": "Uvelse IF",
@@ -28494,7 +33915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.85027208,
+      12.17447416
+    ]
   },
   {
     "name": "Vadum IF",
@@ -28515,7 +33940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.11542161,
+      9.8563612
+    ]
   },
   {
     "name": "Valby Boldklub",
@@ -28536,7 +33965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64077611,
+      12.52309722
+    ]
   },
   {
     "name": "Vallensbæk IF",
@@ -28557,7 +33990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1292.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.63922355,
+      12.36481979
+    ]
   },
   {
     "name": "Vallensved",
@@ -28578,7 +34015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.19504272,
+      11.77357353
+    ]
   },
   {
     "name": "Valsgård IF 83",
@@ -28599,7 +34040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.6528756,
+      9.77366901
+    ]
   },
   {
     "name": "Vamdrup IF",
@@ -28620,7 +34065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.41366579,
+      9.34398711
+    ]
   },
   {
     "name": "Vammen IF",
@@ -28641,7 +34090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.49762699,
+      9.60208409
+    ]
   },
   {
     "name": "Vandel Efterskole",
@@ -28662,7 +34115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.71507833,
+      9.19531768
+    ]
   },
   {
     "name": "Vanløse Idræts Forening",
@@ -28683,7 +34140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1588.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.6883311,
+      12.48194421
+    ]
   },
   {
     "name": "Vapnagård FK 72",
@@ -28704,7 +34165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.00467892,
+      12.59499744
+    ]
   },
   {
     "name": "Varde IF",
@@ -28725,7 +34190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65607154,
+      8.52854473
+    ]
   },
   {
     "name": "Varnæs/Bovrup IF",
@@ -28746,7 +34215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.02899493,
+      9.49975045
+    ]
   },
   {
     "name": "Vatanspor",
@@ -28767,7 +34240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15788265,
+      10.06788413
+    ]
   },
   {
     "name": "Veddum IF",
@@ -28788,7 +34265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.77688954,
+      10.41645939
+    ]
   },
   {
     "name": "Vedersø Efterskole",
@@ -28809,7 +34290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.3042395,
+      8.0070526
+    ]
   },
   {
     "name": "Vedsted UF",
@@ -28830,7 +34315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2436827,
+      9.31835235
+    ]
   },
   {
     "name": "Veflinge G &  IF",
@@ -28851,7 +34340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.46255574,
+      10.14425746
+    ]
   },
   {
     "name": "Vegger IF",
@@ -28872,7 +34365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.94881207,
+      9.57985536
+    ]
   },
   {
     "name": "Vejby IF",
@@ -28893,7 +34390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.09457775,
+      12.13066388
+    ]
   },
   {
     "name": "Vejen 10.",
@@ -28914,7 +34415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.4784284,
+      9.11204215
+    ]
   },
   {
     "name": "Vejen SF",
@@ -28935,7 +34440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.4784284,
+      9.11204215
+    ]
   },
   {
     "name": "Vejgaard B",
@@ -28956,7 +34465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.05171431,
+      9.8350492
+    ]
   },
   {
     "name": "Vejlby Skovbakken Aarhus",
@@ -28977,7 +34490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.18719668,
+      10.24680782
+    ]
   },
   {
     "name": "Vejle B",
@@ -28998,7 +34515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/681.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "Vejle Boldklub (professional)",
@@ -29019,7 +34540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "Vejle FC",
@@ -29040,7 +34565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "Vejle Fodbolddommerklub",
@@ -29061,7 +34590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7220274,
+      9.63873738
+    ]
   },
   {
     "name": "Vejle Idrætsefterskole",
@@ -29082,7 +34615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "Vejle Kammeraterne",
@@ -29103,7 +34640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/686.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "Vejlefjord IF",
@@ -29124,7 +34665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.72499013,
+      9.70789065
+    ]
   },
   {
     "name": "Vejrumbro Boldklub",
@@ -29145,7 +34690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.49762699,
+      9.60208409
+    ]
   },
   {
     "name": "Vejrup IF",
@@ -29166,7 +34715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.46065157,
+      8.70168486
+    ]
   },
   {
     "name": "Veksø IF",
@@ -29187,7 +34740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.75497247,
+      12.23729507
+    ]
   },
   {
     "name": "Vellev IF",
@@ -29208,7 +34765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.3800683,
+      9.78710533
+    ]
   },
   {
     "name": "Velling UIF",
@@ -29229,7 +34790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20098497,
+      4.07461311
+    ]
   },
   {
     "name": "Vemb FS",
@@ -29250,7 +34815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.35236537,
+      8.27244636
+    ]
   },
   {
     "name": "Vemmelev BK",
@@ -29271,7 +34840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1303.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.36414208,
+      11.26373834
+    ]
   },
   {
     "name": "Vendsyssel FF (professional)",
@@ -29292,7 +34865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.70230652,
+      9.2956345
+    ]
   },
   {
     "name": "Vendsyssel Fodbolddommerklub",
@@ -29313,7 +34890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.28432949,
+      9.88277134
+    ]
   },
   {
     "name": "Verninge IF",
@@ -29334,7 +34915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.3195544,
+      10.19834407
+    ]
   },
   {
     "name": "Vestbirk Musik- & Sportsefterskole",
@@ -29355,7 +34940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.96885636,
+      9.75712583
+    ]
   },
   {
     "name": "Vestbjerg IF",
@@ -29376,7 +34965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.12732919,
+      9.97550463
+    ]
   },
   {
     "name": "Vester Hassing GF",
@@ -29397,7 +34990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.09538719,
+      10.09257652
+    ]
   },
   {
     "name": "Vester Hjermitslev B",
@@ -29418,7 +35015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.28432949,
+      9.88277134
+    ]
   },
   {
     "name": "Vester Hornum IF",
@@ -29439,7 +35040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.77310507,
+      9.27748567
+    ]
   },
   {
     "name": "Vester Nebel IF",
@@ -29460,7 +35065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.55332885,
+      8.5093547
+    ]
   },
   {
     "name": "Vesterborg Efterskole",
@@ -29481,7 +35090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.863378,
+      11.28637518
+    ]
   },
   {
     "name": "Vesterbro Alliancen",
@@ -29502,7 +35115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.68208169,
+      12.56444325
+    ]
   },
   {
     "name": "Vesterlund Efterskole",
@@ -29523,7 +35140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.85744681,
+      9.2710166
+    ]
   },
   {
     "name": "Vestervig/Agger IF",
@@ -29544,7 +35165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.02202911,
+      6.93927002
+    ]
   },
   {
     "name": "Vesterø B",
@@ -29565,7 +35190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.18887848,
+      11.14575743
+    ]
   },
   {
     "name": "Vestsjællands Amts",
@@ -29586,7 +35215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.43053197,
+      11.82805925
+    ]
   },
   {
     "name": "Vestsjællands idrætsefterskole",
@@ -29607,7 +35240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.51887316,
+      11.04711131
+    ]
   },
   {
     "name": "Veteranturneringen Sydsjælland-Møn",
@@ -29628,7 +35265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.00889353,
+      12.15645358
+    ]
   },
   {
     "name": "Vetterslev-Høm GF",
@@ -29649,7 +35290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.43053197,
+      11.82805925
+    ]
   },
   {
     "name": "Viborg (professional)",
@@ -29670,7 +35315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41681148,
+      9.36897659
+    ]
   },
   {
     "name": "Viborg B67",
@@ -29691,7 +35340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41681148,
+      9.36897659
+    ]
   },
   {
     "name": "Viborg FF",
@@ -29712,7 +35365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/376.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41681148,
+      9.36897659
+    ]
   },
   {
     "name": "Viborg FF Oldboys 2003",
@@ -29733,7 +35390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41681148,
+      9.36897659
+    ]
   },
   {
     "name": "Viborg Vestermarken",
@@ -29754,7 +35415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41681148,
+      9.36897659
+    ]
   },
   {
     "name": "Viby IF",
@@ -29775,7 +35440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/691.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.12635244,
+      10.13778473
+    ]
   },
   {
     "name": "Videbæk IF",
@@ -29796,7 +35465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.08052418,
+      8.66992988
+    ]
   },
   {
     "name": "VIF, Mors",
@@ -29817,7 +35490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.76132134,
+      8.56443606
+    ]
   },
   {
     "name": "Vigerslev Boldklub",
@@ -29838,7 +35515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.64077611,
+      12.52309722
+    ]
   },
   {
     "name": "Viking Fodbold",
@@ -29859,7 +35540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.98495945,
+      14.40163467
+    ]
   },
   {
     "name": "Vildbjerg SF",
@@ -29880,7 +35565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.18215286,
+      8.74507312
+    ]
   },
   {
     "name": "Vildbjerg Sports- & Kulturcenter",
@@ -29901,7 +35590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.18215286,
+      8.74507312
+    ]
   },
   {
     "name": "Vilstrup UIF",
@@ -29922,7 +35615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.24177268,
+      9.61886938
+    ]
   },
   {
     "name": "Vindblæs B",
@@ -29943,7 +35640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.95819912,
+      9.30949603
+    ]
   },
   {
     "name": "Vinderslev IF",
@@ -29964,7 +35665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.2882506,
+      9.39095532
+    ]
   },
   {
     "name": "Vinderup IK",
@@ -29985,7 +35690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.47769058,
+      8.80020865
+    ]
   },
   {
     "name": "Vinding SF",
@@ -30006,7 +35715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69052913,
+      9.5066267
+    ]
   },
   {
     "name": "Vinding UIF",
@@ -30027,7 +35740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.25194401,
+      8.66525292
+    ]
   },
   {
     "name": "Vindinge BK",
@@ -30048,7 +35765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1523.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.35301317,
+      10.79790443
+    ]
   },
   {
     "name": "Vindinge IF",
@@ -30069,7 +35790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65647451,
+      12.06373356
+    ]
   },
   {
     "name": "Vipperød BK",
@@ -30090,7 +35815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1311.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.66270448,
+      11.74969494
+    ]
   },
   {
     "name": "Virklund B",
@@ -30111,7 +35840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Virring Fodbold",
@@ -30132,7 +35865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/694.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.02388208,
+      9.89235588
+    ]
   },
   {
     "name": "Virum-Sorgenfri BK",
@@ -30153,7 +35890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.78962271,
+      12.46836985
+    ]
   },
   {
     "name": "Virup IF",
@@ -30174,7 +35915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.29464717,
+      10.20502083
+    ]
   },
   {
     "name": "Visborg IF",
@@ -30195,7 +35940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.77688954,
+      10.41645939
+    ]
   },
   {
     "name": "Visby IF",
@@ -30216,7 +35965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.07311357,
+      8.68091354
+    ]
   },
   {
     "name": "Vissenbjerg G & IF",
@@ -30237,7 +35990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.39228422,
+      10.13229762
+    ]
   },
   {
     "name": "Vittrup Efterskole - Lukket ??",
@@ -30258,7 +36015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.38233116,
+      9.65510765
+    ]
   },
   {
     "name": "Vive IF",
@@ -30279,7 +36040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.77688954,
+      10.41645939
+    ]
   },
   {
     "name": "Vivild Gymnastik- og Idrætsefterskole",
@@ -30300,7 +36065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.49705855,
+      10.49037138
+    ]
   },
   {
     "name": "Vivild IF",
@@ -30321,7 +36090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.49705855,
+      10.49037138
+    ]
   },
   {
     "name": "Vodskov IF",
@@ -30342,7 +36115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.09538719,
+      10.09257652
+    ]
   },
   {
     "name": "Voerladegaard IF",
@@ -30363,7 +36140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.02388208,
+      9.89235588
+    ]
   },
   {
     "name": "Voersaa IF",
@@ -30384,7 +36165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.2843629,
+      10.57327556
+    ]
   },
   {
     "name": "Vojens BI",
@@ -30405,7 +36190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2436827,
+      9.31835235
+    ]
   },
   {
     "name": "Vojens Gymnastik- & Idrætsefterskole",
@@ -30426,7 +36215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2436827,
+      9.31835235
+    ]
   },
   {
     "name": "Vonsild FK",
@@ -30447,7 +36240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.50221297,
+      9.46847631
+    ]
   },
   {
     "name": "Vor Frue IF",
@@ -30468,7 +36265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.65647451,
+      12.06373356
+    ]
   },
   {
     "name": "Vorbasse Boldklub af 1912",
@@ -30489,7 +36290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/911.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.63499139,
+      9.09958348
+    ]
   },
   {
     "name": "Vordingborg IF",
@@ -30510,7 +36315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.02464842,
+      11.8960716
+    ]
   },
   {
     "name": "Vorgod-Barde Motion og fritid",
@@ -30531,7 +36340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/386.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.08052418,
+      8.66992988
+    ]
   },
   {
     "name": "Vorup FB",
@@ -30552,7 +36365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/700.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41476356,
+      10.01231946
+    ]
   },
   {
     "name": "Vorupør B",
@@ -30573,7 +36390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.2597249,
+      7.47858654
+    ]
   },
   {
     "name": "Vridsted IF",
@@ -30594,7 +36415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.46317549,
+      8.99505562
+    ]
   },
   {
     "name": "Vrigsted Efterskole",
@@ -30615,7 +36440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.69215915,
+      9.78417201
+    ]
   },
   {
     "name": "Vrå Undervisningscenter",
@@ -30636,7 +36465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.37190853,
+      9.87742317
+    ]
   },
   {
     "name": "Vrå/Børglum IF",
@@ -30657,7 +36490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.37190853,
+      9.87742317
+    ]
   },
   {
     "name": "Væggerløse BK",
@@ -30678,7 +36515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.66359732,
+      11.98479974
+    ]
   },
   {
     "name": "Værløse BK",
@@ -30699,7 +36540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.77912974,
+      12.35591788
+    ]
   },
   {
     "name": "Værum GF",
@@ -30720,7 +36565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.41476356,
+      10.01231946
+    ]
   },
   {
     "name": "Vaarst/Fjellerad B",
@@ -30741,7 +36590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.93195612,
+      10.01379029
+    ]
   },
   {
     "name": "Walther F.C.",
@@ -30762,7 +36615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.02388208,
+      9.89235588
+    ]
   },
   {
     "name": "ØBG Silkeborg",
@@ -30783,7 +36640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17147071,
+      9.4900253
+    ]
   },
   {
     "name": "Ødis IF",
@@ -30804,7 +36665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.41366579,
+      9.34398711
+    ]
   },
   {
     "name": "ØKF",
@@ -30825,7 +36690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Øland/Halvrimmen IK",
@@ -30846,7 +36715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.10716869,
+      9.5353613
+    ]
   },
   {
     "name": "Ølgod Efterskole",
@@ -30867,7 +36740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.79347704,
+      8.61815877
+    ]
   },
   {
     "name": "Ølgod IF",
@@ -30888,7 +36765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.79347704,
+      8.61815877
+    ]
   },
   {
     "name": "Ølholm B",
@@ -30909,7 +36790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.87483844,
+      9.50220604
+    ]
   },
   {
     "name": "Ølsted IF",
@@ -30930,7 +36815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.91156813,
+      12.06925064
+    ]
   },
   {
     "name": "Ølsted UGF",
@@ -30951,7 +36840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.81385497,
+      9.69416947
+    ]
   },
   {
     "name": "Ølstrup GU",
@@ -30972,7 +36865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20098497,
+      4.07461311
+    ]
   },
   {
     "name": "Ølstykke FC",
@@ -30993,7 +36890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.78991195,
+      12.1609202
+    ]
   },
   {
     "name": "Ørebro B",
@@ -31014,7 +36915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.12742277,
+      9.20878724
+    ]
   },
   {
     "name": "Ørestad IF",
@@ -31035,7 +36940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.67362511,
+      12.6554181
+    ]
   },
   {
     "name": "Ørnhøj/Abildå B 1986",
@@ -31056,7 +36965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.21518023,
+      8.52448598
+    ]
   },
   {
     "name": "Ørslev GIF (V)",
@@ -31077,7 +36990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.02464842,
+      11.8960716
+    ]
   },
   {
     "name": "Ørslev-Bjerge IF",
@@ -31098,7 +37015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.22423719,
+      11.46287897
+    ]
   },
   {
     "name": "Ørslev-Solbjerg IF",
@@ -31119,7 +37040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.40887345,
+      11.37134678
+    ]
   },
   {
     "name": "Ørslevkloster IF",
@@ -31140,7 +37065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.59677993,
+      9.16509632
+    ]
   },
   {
     "name": "Ørsted IF",
@@ -31161,7 +37090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.53413791,
+      10.32882868
+    ]
   },
   {
     "name": "Øsby IF",
@@ -31182,7 +37115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.24177268,
+      9.61886938
+    ]
   },
   {
     "name": "Østbirk IF",
@@ -31203,7 +37140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.96885636,
+      9.75712583
+    ]
   },
   {
     "name": "Øster Brønderslev IF",
@@ -31224,7 +37165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.28432949,
+      9.88277134
+    ]
   },
   {
     "name": "Øster Hornum IF",
@@ -31245,7 +37190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.89267972,
+      9.80945918
+    ]
   },
   {
     "name": "Øster Højst UIF",
@@ -31266,7 +37215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.06237954,
+      8.96415413
+    ]
   },
   {
     "name": "Øster Lindet IF",
@@ -31287,7 +37240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.38472069,
+      9.14057169
+    ]
   },
   {
     "name": "Øster Nykirke IF",
@@ -31308,7 +37265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.86467774,
+      9.42328648
+    ]
   },
   {
     "name": "Øster Starup/Vester Nebel IF",
@@ -31329,7 +37290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.61664144,
+      9.29089234
+    ]
   },
   {
     "name": "Øster Sundby B32",
@@ -31350,7 +37315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/174.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.05425152,
+      10.00949733
+    ]
   },
   {
     "name": "Øster Ulslev BK",
@@ -31371,7 +37340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.68554952,
+      11.60726017
+    ]
   },
   {
     "name": "Øster Vedsted IF",
@@ -31392,7 +37365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.31137673,
+      8.76358629
+    ]
   },
   {
     "name": "Østerbro Idræts Forening",
@@ -31413,7 +37390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1595.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.7109795,
+      12.57364633
+    ]
   },
   {
     "name": "Østerby Sportsforening",
@@ -31434,7 +37415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.18887848,
+      11.14575743
+    ]
   },
   {
     "name": "Østerlars B.",
@@ -31455,7 +37440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.51191781,
+      15.21574747
+    ]
   },
   {
     "name": "Østermarie IF",
@@ -31476,7 +37465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.1396331,
+      15.02005943
+    ]
   },
   {
     "name": "Østervraa IF",
@@ -31497,7 +37490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.34034984,
+      10.27081316
+    ]
   },
   {
     "name": "Østmøn SGI",
@@ -31518,7 +37515,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1328.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.9362949,
+      12.31627561
+    ]
   },
   {
     "name": "Østofte GIF (PASSIV)",
@@ -31539,7 +37540,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.81506841,
+      11.4281128
+    ]
   },
   {
     "name": "AaB",
@@ -31560,7 +37565,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.05425152,
+      10.00949733
+    ]
   },
   {
     "name": "AaB (professional)",
@@ -31581,7 +37590,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3698.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.05425152,
+      10.00949733
+    ]
   },
   {
     "name": "Aabenraa BK",
@@ -31602,7 +37615,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.02899493,
+      9.49975045
+    ]
   },
   {
     "name": "Aabybro IF",
@@ -31623,7 +37640,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.16282327,
+      9.76743314
+    ]
   },
   {
     "name": "Aabyhøj IF",
@@ -31644,7 +37665,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15196052,
+      10.1605019
+    ]
   },
   {
     "name": "Ådalen IF",
@@ -31665,7 +37690,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.35508218,
+      10.38246065
+    ]
   },
   {
     "name": "Aadum IU",
@@ -31686,7 +37715,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.89016003,
+      8.54104706
+    ]
   },
   {
     "name": "Ågård Efterskole",
@@ -31707,7 +37740,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.61664144,
+      9.29089234
+    ]
   },
   {
     "name": "Aakanden GF",
@@ -31728,7 +37765,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.75754187,
+      12.6282041
+    ]
   },
   {
     "name": "Åkirkeby IF",
@@ -31749,7 +37790,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.6920138,
+      14.7409871
+    ]
   },
   {
     "name": "Aalborg Chang",
@@ -31770,7 +37815,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.05171431,
+      9.8350492
+    ]
   },
   {
     "name": "Aalborg Firmaidræt",
@@ -31791,7 +37840,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.08119416,
+      9.92809079
+    ]
   },
   {
     "name": "Aalborg Fodbolddommerklub",
@@ -31812,7 +37865,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.89267972,
+      9.80945918
+    ]
   },
   {
     "name": "Aalborg Freja",
@@ -31833,7 +37890,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/6.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.05171431,
+      9.8350492
+    ]
   },
   {
     "name": "Aalborg Fremad",
@@ -31854,7 +37915,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.05425152,
+      10.00949733
+    ]
   },
   {
     "name": "Aalborg Futsal Klub",
@@ -31875,7 +37940,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.05171431,
+      9.8350492
+    ]
   },
   {
     "name": "Aalborg KFUM Fodbold",
@@ -31896,7 +37965,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/5.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.05171431,
+      9.8350492
+    ]
   },
   {
     "name": "Aalborg Studenternes IF",
@@ -31917,7 +37990,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.05425152,
+      10.00949733
+    ]
   },
   {
     "name": "Aalbæk Stations IF",
@@ -31938,7 +38015,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      57.60572774,
+      10.40473272
+    ]
   },
   {
     "name": "Aale UI",
@@ -31959,7 +38040,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.87483844,
+      9.50220604
+    ]
   },
   {
     "name": "Aalestrup IF",
@@ -31980,7 +38065,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.69297871,
+      9.4967184
+    ]
   },
   {
     "name": "Ålholm IF",
@@ -32001,7 +38090,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.92123871,
+      12.28696917
+    ]
   },
   {
     "name": "Ålum IF",
@@ -32022,7 +38115,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.46401254,
+      10.0331817
+    ]
   },
   {
     "name": "Årby GI",
@@ -32043,7 +38140,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.70601705,
+      10.97431629
+    ]
   },
   {
     "name": "Aarhus 1900",
@@ -32064,7 +38165,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.15051496,
+      10.27802097
+    ]
   },
   {
     "name": "Aarhus Black Vipers",
@@ -32085,7 +38190,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.12635244,
+      10.13778473
+    ]
   },
   {
     "name": "Århus Expats",
@@ -32106,7 +38215,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.26151082,
+      10.36793908
+    ]
   },
   {
     "name": "Aarhus Fodbolddommerklub",
@@ -32127,7 +38240,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.02388208,
+      9.89235588
+    ]
   },
   {
     "name": "Aarhus Fremad",
@@ -32148,7 +38265,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/425.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20167527,
+      10.15922351
+    ]
   },
   {
     "name": "Aarhus Fremad (professional)",
@@ -32169,7 +38290,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.20167527,
+      10.15922351
+    ]
   },
   {
     "name": "Aarhus Posten",
@@ -32190,7 +38315,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.17162148,
+      10.15819911
+    ]
   },
   {
     "name": "Årre B",
@@ -32211,7 +38340,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.57689258,
+      8.71515262
+    ]
   },
   {
     "name": "Aars IK",
@@ -32232,7 +38365,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/9.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.80003403,
+      9.49610809
+    ]
   },
   {
     "name": "Aarsballe B.",
@@ -32253,7 +38390,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      54.98495945,
+      14.40163467
+    ]
   },
   {
     "name": "Aarslev BK",
@@ -32274,7 +38415,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1528.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.2906707,
+      10.3936597
+    ]
   },
   {
     "name": "Aarup BK",
@@ -32295,7 +38440,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1354.png",
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.37369367,
+      10.03851749
+    ]
   },
   {
     "name": "Aastrup IF",
@@ -32316,7 +38465,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      56.43069147,
+      11.08217337
+    ]
   },
   {
     "name": "Aasum IF",
@@ -32337,7 +38490,11 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
-    "kaldenavn": null
+    "kaldenavn": null,
+    "coords": [
+      55.42123207,
+      10.44332209
+    ]
   }
 ];
 
@@ -32429,4 +38586,19 @@ export function getMatchFormat(birthYear) {
   if (age <= 10) return '5v5';
   if (age <= 12) return '8v8';
   return '11v11';
+}
+
+function haversineKm([lat1, lon1], [lat2, lon2]) {
+  const R = 6371;
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  const a = Math.sin(dLat / 2) ** 2
+    + Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * Math.sin(dLon / 2) ** 2;
+  return R * 2 * Math.asin(Math.sqrt(a));
+}
+
+export function distanceBetweenClubs(nameA, nameB) {
+  const a = getClub(nameA), b = getClub(nameB);
+  if (!a?.coords || !b?.coords) return null;
+  return haversineKm(a.coords, b.coords);
 }

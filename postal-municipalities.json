@@ -70,7 +70,7 @@
     ]
   },
   "2000": {
-    "municipality": "København",
+    "municipality": "Frederiksberg",
     "coords": [
       55.67945641,
       12.51562935
@@ -119,7 +119,7 @@
     ]
   },
   "2600": {
-    "municipality": "Brøndby",
+    "municipality": "Glostrup",
     "coords": [
       55.6741838,
       12.39697754
@@ -133,14 +133,14 @@
     ]
   },
   "2610": {
-    "municipality": "København",
+    "municipality": "Rødovre",
     "coords": [
       55.68182922,
       12.44863533
     ]
   },
   "2620": {
-    "municipality": "Brøndby",
+    "municipality": "Albertslund",
     "coords": [
       55.6869516,
       12.34477556
@@ -154,7 +154,7 @@
     ]
   },
   "2630": {
-    "municipality": "Albertslund",
+    "municipality": "Høje-Taastrup",
     "coords": [
       55.6579409,
       12.28083382
@@ -175,7 +175,7 @@
     ]
   },
   "2650": {
-    "municipality": "Brøndby",
+    "municipality": "Hvidovre",
     "coords": [
       55.58934868,
       12.46097002
@@ -224,7 +224,7 @@
     ]
   },
   "2730": {
-    "municipality": "Ballerup",
+    "municipality": "Herlev",
     "coords": [
       55.74057031,
       12.42581802
@@ -273,7 +273,7 @@
     ]
   },
   "2800": {
-    "municipality": "Gentofte",
+    "municipality": "Lyngby-Taarbæk",
     "coords": [
       55.78572204,
       12.52083673
@@ -294,14 +294,14 @@
     ]
   },
   "2840": {
-    "municipality": "Lyngby-Taarbæk",
+    "municipality": "Rudersdal",
     "coords": [
       55.81684549,
       12.48640452
     ]
   },
   "2860": {
-    "municipality": "København",
+    "municipality": "Gladsaxe",
     "coords": [
       55.73800813,
       12.48425242
@@ -315,7 +315,7 @@
     ]
   },
   "2900": {
-    "municipality": "København",
+    "municipality": "Gentofte",
     "coords": [
       55.73442051,
       12.56946744
@@ -343,7 +343,7 @@
     ]
   },
   "2970": {
-    "municipality": "Allerød",
+    "municipality": "Hørsholm",
     "coords": [
       55.88126308,
       12.43890506
@@ -378,7 +378,7 @@
     ]
   },
   "3060": {
-    "municipality": "Fredensborg",
+    "municipality": "Helsingør",
     "coords": [
       55.99425687,
       12.54283631
@@ -413,7 +413,7 @@
     ]
   },
   "3200": {
-    "municipality": "Hillerød",
+    "municipality": "Gribskov",
     "coords": [
       56.01099572,
       12.1715219
@@ -455,7 +455,7 @@
     ]
   },
   "3310": {
-    "municipality": "Hillerød",
+    "municipality": "Halsnæs",
     "coords": [
       55.91156813,
       12.06925064
@@ -490,7 +490,7 @@
     ]
   },
   "3400": {
-    "municipality": "Allerød",
+    "municipality": "Hillerød",
     "coords": [
       55.92123871,
       12.28696917
@@ -504,7 +504,7 @@
     ]
   },
   "3460": {
-    "municipality": "Furesø",
+    "municipality": "Rudersdal",
     "coords": [
       55.84270608,
       12.41757019
@@ -518,14 +518,14 @@
     ]
   },
   "3490": {
-    "municipality": "Fredensborg",
+    "municipality": "Helsingør",
     "coords": [
       55.99928886,
       12.49542003
     ]
   },
   "3500": {
-    "municipality": "Ballerup",
+    "municipality": "Furesø",
     "coords": [
       55.77912974,
       12.35591788
@@ -539,21 +539,21 @@
     ]
   },
   "3540": {
-    "municipality": "Furesø",
+    "municipality": "Allerød",
     "coords": [
       55.8397364,
       12.28059858
     ]
   },
   "3550": {
-    "municipality": "Allerød",
+    "municipality": "Frederikssund",
     "coords": [
       55.85027208,
       12.17447416
     ]
   },
   "3600": {
-    "municipality": "Hillerød",
+    "municipality": "Frederikssund",
     "coords": [
       55.85479562,
       12.07923445
@@ -651,7 +651,7 @@
     ]
   },
   "4000": {
-    "municipality": "Høje-Taastrup",
+    "municipality": "Roskilde",
     "coords": [
       55.65647451,
       12.06373356
@@ -693,7 +693,7 @@
     ]
   },
   "4100": {
-    "municipality": "Køge",
+    "municipality": "Ringsted",
     "coords": [
       55.43053197,
       11.82805925
@@ -707,7 +707,7 @@
     ]
   },
   "4160": {
-    "municipality": "Faxe",
+    "municipality": "Næstved",
     "coords": [
       55.32910688,
       11.77284465
@@ -721,21 +721,21 @@
     ]
   },
   "4174": {
-    "municipality": "Køge",
+    "municipality": "Ringsted",
     "coords": [
       55.52537395,
       11.85552289
     ]
   },
   "4180": {
-    "municipality": "Ringsted",
+    "municipality": "Sorø",
     "coords": [
       55.40880423,
       11.55727004
     ]
   },
   "4200": {
-    "municipality": "Kalundborg",
+    "municipality": "Slagelse",
     "coords": [
       55.40887345,
       11.37134678
@@ -777,14 +777,14 @@
     ]
   },
   "4250": {
-    "municipality": "Slagelse",
+    "municipality": "Næstved",
     "coords": [
       55.31864081,
       11.55229442
     ]
   },
   "4262": {
-    "municipality": "Slagelse",
+    "municipality": "Næstved",
     "coords": [
       55.25079677,
       11.528121
@@ -812,14 +812,14 @@
     ]
   },
   "4293": {
-    "municipality": "Kalundborg",
+    "municipality": "Sorø",
     "coords": [
       55.53579978,
       11.48228398
     ]
   },
   "4295": {
-    "municipality": "Holbæk",
+    "municipality": "Sorø",
     "coords": [
       55.55246779,
       11.57749201
@@ -833,14 +833,14 @@
     ]
   },
   "4320": {
-    "municipality": "Køge",
+    "municipality": "Lejre",
     "coords": [
       55.59456942,
       11.95696429
     ]
   },
   "4330": {
-    "municipality": "Holbæk",
+    "municipality": "Lejre",
     "coords": [
       55.58583604,
       11.86940589
@@ -987,7 +987,7 @@
     ]
   },
   "4622": {
-    "municipality": "Roskilde",
+    "municipality": "Solrød",
     "coords": [
       55.54041131,
       12.11265454
@@ -1015,14 +1015,14 @@
     ]
   },
   "4652": {
-    "municipality": "Faxe",
+    "municipality": "Stevns",
     "coords": [
       55.36245892,
       12.22317915
     ]
   },
   "4653": {
-    "municipality": "Faxe",
+    "municipality": "Stevns",
     "coords": [
       55.29633252,
       12.21696415
@@ -1078,7 +1078,7 @@
     ]
   },
   "4684": {
-    "municipality": "Faxe",
+    "municipality": "Næstved",
     "coords": [
       55.25979308,
       11.86408266
@@ -1106,7 +1106,7 @@
     ]
   },
   "4733": {
-    "municipality": "Faxe",
+    "municipality": "Næstved",
     "coords": [
       55.18127292,
       11.98569733
@@ -1127,7 +1127,7 @@
     ]
   },
   "4750": {
-    "municipality": "Næstved",
+    "municipality": "Vordingborg",
     "coords": [
       55.10685595,
       11.78064612
@@ -1232,7 +1232,7 @@
     ]
   },
   "4894": {
-    "municipality": "Lolland",
+    "municipality": "Guldborgsund",
     "coords": [
       54.68554952,
       11.60726017
@@ -1512,21 +1512,21 @@
     ]
   },
   "5540": {
-    "municipality": "Kerteminde",
+    "municipality": "Nyborg",
     "coords": [
       55.38540272,
       10.67264084
     ]
   },
   "5550": {
-    "municipality": "Faaborg-Midtfyn",
+    "municipality": "Kerteminde",
     "coords": [
       55.36672658,
       10.58946818
     ]
   },
   "5560": {
-    "municipality": "Middelfart",
+    "municipality": "Assens",
     "coords": [
       55.37369367,
       10.03851749
@@ -1561,7 +1561,7 @@
     ]
   },
   "5610": {
-    "municipality": "Middelfart",
+    "municipality": "Assens",
     "coords": [
       55.29165859,
       9.8932785
@@ -1624,14 +1624,14 @@
     ]
   },
   "5762": {
-    "municipality": "Faaborg-Midtfyn",
+    "municipality": "Svendborg",
     "coords": [
       55.06342876,
       10.45011017
     ]
   },
   "5771": {
-    "municipality": "Faaborg-Midtfyn",
+    "municipality": "Svendborg",
     "coords": [
       55.12556284,
       10.52352287
@@ -1659,7 +1659,7 @@
     ]
   },
   "5853": {
-    "municipality": "Faaborg-Midtfyn",
+    "municipality": "Nyborg",
     "coords": [
       55.2661035,
       10.63473931
@@ -1694,7 +1694,7 @@
     ]
   },
   "5874": {
-    "municipality": "Nyborg",
+    "municipality": "Svendborg",
     "coords": [
       55.17539817,
       10.79995852
@@ -1750,7 +1750,7 @@
     ]
   },
   "6040": {
-    "municipality": "Kolding",
+    "municipality": "Vejle",
     "coords": [
       55.61664144,
       9.29089234
@@ -1771,7 +1771,7 @@
     ]
   },
   "6070": {
-    "municipality": "Haderslev",
+    "municipality": "Kolding",
     "coords": [
       55.35487274,
       9.44750863
@@ -1918,14 +1918,14 @@
     ]
   },
   "6520": {
-    "municipality": "Haderslev",
+    "municipality": "Tønder",
     "coords": [
       55.18306206,
       9.0451996
     ]
   },
   "6534": {
-    "municipality": "Haderslev",
+    "municipality": "Tønder",
     "coords": [
       55.12832485,
       9.15854853
@@ -1981,7 +1981,7 @@
     ]
   },
   "6630": {
-    "municipality": "Haderslev",
+    "municipality": "Vejen",
     "coords": [
       55.38472069,
       9.14057169
@@ -2009,21 +2009,21 @@
     ]
   },
   "6670": {
-    "municipality": "Esbjerg",
+    "municipality": "Vejen",
     "coords": [
       55.51123399,
       8.90149179
     ]
   },
   "6682": {
-    "municipality": "Billund",
+    "municipality": "Vejen",
     "coords": [
       55.60367953,
       8.94671137
     ]
   },
   "6683": {
-    "municipality": "Esbjerg",
+    "municipality": "Vejen",
     "coords": [
       55.43560842,
       8.91001913
@@ -2128,14 +2128,14 @@
     ]
   },
   "6818": {
-    "municipality": "Esbjerg",
+    "municipality": "Varde",
     "coords": [
       55.57689258,
       8.71515262
     ]
   },
   "6823": {
-    "municipality": "Billund",
+    "municipality": "Varde",
     "coords": [
       55.72123589,
       8.75126746
@@ -2198,7 +2198,7 @@
     ]
   },
   "6880": {
-    "municipality": "Varde",
+    "municipality": "Ringkøbing-Skjern",
     "coords": [
       55.89016003,
       8.54104706
@@ -2331,7 +2331,7 @@
     ]
   },
   "7160": {
-    "municipality": "Vejle",
+    "municipality": "Hedensted",
     "coords": [
       55.87483844,
       9.50220604
@@ -2415,14 +2415,14 @@
     ]
   },
   "7330": {
-    "municipality": "Vejle",
+    "municipality": "Ikast-Brande",
     "coords": [
       55.93341595,
       9.0912202
     ]
   },
   "7361": {
-    "municipality": "Vejle",
+    "municipality": "Ikast-Brande",
     "coords": [
       56.02375436,
       9.24826265
@@ -2450,7 +2450,7 @@
     ]
   },
   "7441": {
-    "municipality": "Silkeborg",
+    "municipality": "Ikast-Brande",
     "coords": [
       56.15035869,
       9.25469883
@@ -2471,7 +2471,7 @@
     ]
   },
   "7470": {
-    "municipality": "Herning",
+    "municipality": "Viborg",
     "coords": [
       56.32799021,
       9.17419358
@@ -2492,7 +2492,7 @@
     ]
   },
   "7500": {
-    "municipality": "Herning",
+    "municipality": "Holstebro",
     "coords": [
       56.34794414,
       8.58519299
@@ -2513,21 +2513,21 @@
     ]
   },
   "7560": {
-    "municipality": "Holstebro",
+    "municipality": "Struer",
     "coords": [
       56.43288826,
       8.64900967
     ]
   },
   "7570": {
-    "municipality": "Holstebro",
+    "municipality": "Lemvig",
     "coords": [
       56.35236537,
       8.27244636
     ]
   },
   "7600": {
-    "municipality": "Holstebro",
+    "municipality": "Struer",
     "coords": [
       56.52775554,
       8.60339354
@@ -2604,7 +2604,7 @@
     ]
   },
   "7760": {
-    "municipality": "Struer",
+    "municipality": "Thisted",
     "coords": [
       56.72425361,
       8.42909599
@@ -2625,14 +2625,14 @@
     ]
   },
   "7800": {
-    "municipality": "Holstebro",
+    "municipality": "Viborg",
     "coords": [
       56.46317549,
       8.99505562
     ]
   },
   "7830": {
-    "municipality": "Herning",
+    "municipality": "Holstebro",
     "coords": [
       56.47769058,
       8.80020865
@@ -2814,7 +2814,7 @@
     ]
   },
   "8380": {
-    "municipality": "Favrskov",
+    "municipality": "Aarhus",
     "coords": [
       56.27022295,
       10.16086107
@@ -2877,7 +2877,7 @@
     ]
   },
   "8471": {
-    "municipality": "Favrskov",
+    "municipality": "Aarhus",
     "coords": [
       56.21127538,
       10.01547147
@@ -2940,7 +2940,7 @@
     ]
   },
   "8570": {
-    "municipality": "Syddjurs",
+    "municipality": "Norddjurs",
     "coords": [
       56.36287517,
       10.74217288
@@ -2982,7 +2982,7 @@
     ]
   },
   "8641": {
-    "municipality": "Favrskov",
+    "municipality": "Silkeborg",
     "coords": [
       56.17906349,
       9.77449496
@@ -3003,14 +3003,14 @@
     ]
   },
   "8654": {
-    "municipality": "Horsens",
+    "municipality": "Silkeborg",
     "coords": [
       56.02488921,
       9.47060993
     ]
   },
   "8660": {
-    "municipality": "Horsens",
+    "municipality": "Skanderborg",
     "coords": [
       56.02388208,
       9.89235588
@@ -3031,7 +3031,7 @@
     ]
   },
   "8721": {
-    "municipality": "Vejle",
+    "municipality": "Hedensted",
     "coords": [
       55.72499013,
       9.70789065
@@ -3080,7 +3080,7 @@
     ]
   },
   "8762": {
-    "municipality": "Horsens",
+    "municipality": "Hedensted",
     "coords": [
       55.89442946,
       9.66642959
@@ -3094,7 +3094,7 @@
     ]
   },
   "8765": {
-    "municipality": "Horsens",
+    "municipality": "Ikast-Brande",
     "coords": [
       55.92463273,
       9.48555987
@@ -3108,14 +3108,14 @@
     ]
   },
   "8783": {
-    "municipality": "Horsens",
+    "municipality": "Hedensted",
     "coords": [
       55.76234096,
       9.85180061
     ]
   },
   "8800": {
-    "municipality": "Silkeborg",
+    "municipality": "Viborg",
     "coords": [
       56.41681148,
       9.36897659
@@ -3143,14 +3143,14 @@
     ]
   },
   "8840": {
-    "municipality": "Silkeborg",
+    "municipality": "Viborg",
     "coords": [
       56.35360504,
       9.50444327
     ]
   },
   "8850": {
-    "municipality": "Favrskov",
+    "municipality": "Viborg",
     "coords": [
       56.36051392,
       9.64257403
@@ -3178,7 +3178,7 @@
     ]
   },
   "8882": {
-    "municipality": "Favrskov",
+    "municipality": "Silkeborg",
     "coords": [
       56.27196318,
       9.70492587
@@ -3213,7 +3213,7 @@
     ]
   },
   "8940": {
-    "municipality": "Favrskov",
+    "municipality": "Randers",
     "coords": [
       56.41476356,
       10.01231946
@@ -3227,7 +3227,7 @@
     ]
   },
   "8960": {
-    "municipality": "Favrskov",
+    "municipality": "Randers",
     "coords": [
       56.42912946,
       10.17671406
@@ -3241,7 +3241,7 @@
     ]
   },
   "8963": {
-    "municipality": "Syddjurs",
+    "municipality": "Norddjurs",
     "coords": [
       56.42921057,
       10.38424574
@@ -3269,7 +3269,7 @@
     ]
   },
   "8990": {
-    "municipality": "Randers",
+    "municipality": "Mariagerfjord",
     "coords": [
       56.55632319,
       9.84538694
@@ -3304,21 +3304,21 @@
     ]
   },
   "9230": {
-    "municipality": "Rebild",
+    "municipality": "Aalborg",
     "coords": [
       56.9647583,
       9.86815189
     ]
   },
   "9240": {
-    "municipality": "Vesthimmerlands",
+    "municipality": "Aalborg",
     "coords": [
       56.94881207,
       9.57985536
     ]
   },
   "9260": {
-    "municipality": "Rebild",
+    "municipality": "Aalborg",
     "coords": [
       56.93195612,
       10.01379029
@@ -3339,7 +3339,7 @@
     ]
   },
   "9293": {
-    "municipality": "Rebild",
+    "municipality": "Aalborg",
     "coords": [
       56.89578273,
       10.1135906
@@ -3381,7 +3381,7 @@
     ]
   },
   "9352": {
-    "municipality": "Brønderslev",
+    "municipality": "Frederikshavn",
     "coords": [
       57.28497909,
       10.32334518
@@ -3409,14 +3409,14 @@
     ]
   },
   "9381": {
-    "municipality": "Jammerbugt",
+    "municipality": "Aalborg",
     "coords": [
       57.16265215,
       9.99174315
     ]
   },
   "9382": {
-    "municipality": "Brønderslev",
+    "municipality": "Aalborg",
     "coords": [
       57.20308117,
       9.9350316
@@ -3430,14 +3430,14 @@
     ]
   },
   "9430": {
-    "municipality": "Jammerbugt",
+    "municipality": "Aalborg",
     "coords": [
       57.11542161,
       9.8563612
     ]
   },
   "9440": {
-    "municipality": "Brønderslev",
+    "municipality": "Jammerbugt",
     "coords": [
       57.16282327,
       9.76743314
@@ -3472,14 +3472,14 @@
     ]
   },
   "9500": {
-    "municipality": "Viborg",
+    "municipality": "Mariagerfjord",
     "coords": [
       56.6528756,
       9.77366901
     ]
   },
   "9510": {
-    "municipality": "Rebild",
+    "municipality": "Mariagerfjord",
     "coords": [
       56.76264148,
       9.94260419
@@ -3500,14 +3500,14 @@
     ]
   },
   "9541": {
-    "municipality": "Vesthimmerlands",
+    "municipality": "Rebild",
     "coords": [
       56.84292865,
       9.68119202
     ]
   },
   "9550": {
-    "municipality": "Randers",
+    "municipality": "Mariagerfjord",
     "coords": [
       56.63765951,
       10.0220988
@@ -3542,14 +3542,14 @@
     ]
   },
   "9610": {
-    "municipality": "Vesthimmerlands",
+    "municipality": "Rebild",
     "coords": [
       56.74794316,
       9.63042311
     ]
   },
   "9620": {
-    "municipality": "Viborg",
+    "municipality": "Vesthimmerlands",
     "coords": [
       56.69297871,
       9.4967184
@@ -3605,14 +3605,14 @@
     ]
   },
   "9750": {
-    "municipality": "Brønderslev",
+    "municipality": "Frederikshavn",
     "coords": [
       57.34034984,
       10.27081316
     ]
   },
   "9760": {
-    "municipality": "Brønderslev",
+    "municipality": "Hjørring",
     "coords": [
       57.37190853,
       9.87742317
@@ -3626,7 +3626,7 @@
     ]
   },
   "9830": {
-    "municipality": "Frederikshavn",
+    "municipality": "Hjørring",
     "coords": [
       57.37825187,
       10.14317436
@@ -3640,14 +3640,14 @@
     ]
   },
   "9870": {
-    "municipality": "Frederikshavn",
+    "municipality": "Hjørring",
     "coords": [
       57.4674892,
       10.24075136
     ]
   },
   "9881": {
-    "municipality": "Frederikshavn",
+    "municipality": "Hjørring",
     "coords": [
       57.57139797,
       10.23668023
