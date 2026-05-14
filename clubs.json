@@ -3036,7 +3036,7 @@
     "primaryColor": "#cc0000",
     "secondaryColor": "#ffffff",
     "kitStyle": "plain",
-    "logo": null,
+    "logo": "assets/logos/1599.png",
     "email": "formand@boldklubbenfix.dk",
     "website": "http://www.boldklubbenfix.dk/",
     "phone": null,
@@ -3353,7 +3353,7 @@
     "primaryColor": "#cf2e2e",
     "secondaryColor": "#000000",
     "kitStyle": "stripes-v",
-    "logo": null,
+    "logo": "assets/logos/1590.png",
     "abbreviation": "BKV",
     "email": "info@vestia.dk",
     "website": "http://www.vestia.dk/",
@@ -20648,8 +20648,8 @@
     "dbuId": 1178,
     "primaryColor": "#ffffff",
     "secondaryColor": "#cc0000",
-    "kitStyle": null,
-    "logo": null,
+    "kitStyle": "plain",
+    "logo": "assets/logos/1178.png",
     "email": "fu@orientexpressen.dk",
     "website": "http://www.orientexpressen.dk/",
     "phone": "4168 6860",
@@ -20659,7 +20659,8 @@
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "municipality": "København"
+    "municipality": "København",
+    "abbreviation": "O"
   },
   {
     "name": "Osted Fri- og Efterskole",
