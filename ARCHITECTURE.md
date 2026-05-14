@@ -17,22 +17,32 @@ A static dataset and utility library of Danish football clubs. Provides club dat
 
 ```
 danish-football-clubs/
-  index.js              # ESM entry — club data + all exports (generated, do not edit)
+  index.js              # Core slice — club data + utilities (generated, do not edit)
+  bydel.js              # Copenhagen bydel slice (generated, do not edit)
+  teams.js              # Team listings slice (generated, do not edit)
   global.js             # window.DanishFootballClubs shim for non-module contexts
   clubs.json            # Source of truth for club data — edit this, then run build
+  bydel.json            # Raw bydel scrape output — source for bydel.js
+  teams.json            # Raw teams scrape output — source for teams.js
   demo.html             # Browser demo (club picker + DBU lookup)
   package.json
   ARCHITECTURE.md       # This file
   SCRAPING.md           # How to re-scrape and update the dataset
+  VERSIONING.md         # How to release updates and how consumers update
 
   assets/
     logos/              # Club logo images, named by dbuId (e.g. 1567.png)
 
   scripts/
     scrapeClubs.js      # Scrapes dbu.dk → writes clubs.json
-    buildIndex.js       # Reads clubs.json → writes index.js
+    scrapeTeams.js      # Scrapes DBU team pages → writes teams.json
+    scrapeBydel.js      # Scrapes DBU København → writes bydel.json
+    buildIndex.js       # clubs.json → index.js
+    buildTeams.js       # teams.json → teams.js
+    buildBydel.js       # bydel.json → bydel.js
     mergeLogos.js       # Scans assets/logos/ → updates logo fields in clubs.json
     buildFigmaPlugin.js # Generates figma-plugin/code.js from clubs.json
+    editor-server.js    # Visual editor — runs at localhost:3737
 
   figma-plugin/
     manifest.json       # Figma plugin metadata
@@ -150,13 +160,40 @@ Match format from birth year: `"3v3"`, `"5v5"`, `"8v8"`, `"11v11"`.
 ## Scripts
 
 ```bash
-npm run scrape   # Fetch all clubs from dbu.dk → clubs.json  (~60–90 min)
-npm run build    # clubs.json → index.js
-npm run logos    # Scan assets/logos/ → update clubs.json + rebuild index.js
-npm run figma    # Generate figma-plugin/code.js for the badge artboard generator
+npm run editor        # Start the visual club editor at localhost:3737 (primary workflow)
+
+npm run scrape        # Fetch all clubs from dbu.dk → clubs.json  (~60–90 min)
+npm run build         # clubs.json → index.js
+npm run logos         # Scan assets/logos/ → update clubs.json + rebuild index.js
+npm run figma         # Generate figma-plugin/code.js for the badge artboard generator
+
+npm run scrape-bydel  # Scrape Copenhagen bydel groupings → bydel.json
+npm run build-bydel   # bydel.json → bydel.js
+npm run scrape-teams  # Scrape DBU team pages for all clubs → teams.json
+npm run build-teams   # teams.json → teams.js
+npm run build-all     # Build index.js + bydel.js + teams.js in one step
 ```
 
-See `SCRAPING.md` for the full update workflow.
+See `SCRAPING.md` for the full update workflow and `VERSIONING.md` for the release process.
+
+---
+
+## Visual editor (`npm run editor`)
+
+A browser-based UI at `localhost:3737` for maintaining club data without touching JSON directly.
+
+**What it does:**
+
+- **Club search** — autocomplete across all clubs in `clubs.json`
+- **Edit colours** — colour pickers for `primaryColor` and `secondaryColor` with live preview
+- **Kit pattern** — segmented control for `kitStyle` (plain, vertical stripes, horizontal stripes)
+- **Abbreviation** — override the auto-generated badge abbreviation
+- **Live preview** — shows the fallback badge SVG, the club logo (if present), and a shirt rendering
+- **Gem** — saves changes directly to `clubs.json`
+- **Scan logoer** — scans `assets/logos/` and links any new logo files into `clubs.json` by `dbuId`
+- **Udgiv** — runs the full release pipeline (see VERSIONING.md)
+
+The editor is a local dev tool only — it runs a small Node.js HTTP server that writes to local files. It is not deployed anywhere.
 
 ### Playwright (scraping only)
 

@@ -489,6 +489,11 @@ const HTML = /* html */`<!DOCTYPE html>
           </div>
 
           <div class="field">
+            <label>Kaldenavn</label>
+            <input type="text" id="kaldenavn" placeholder="Fx FA 2000, KB, …" autocomplete="off">
+          </div>
+
+          <div class="field">
             <label>Forkortelse (fallback-avatar)</label>
             <input type="text" id="abbreviation" maxlength="3" placeholder="Auto-genereret" autocomplete="off">
           </div>
@@ -539,12 +544,12 @@ const HTML = /* html */`<!DOCTYPE html>
             <input type="text" id="venteliste-url" placeholder="https://…">
           </div>
 
-          <div class="profil-advanced" hidden>
-            <div class="field">
-              <label>Prøvetræning</label>
-              <input type="text" id="proevetraening-url" placeholder="https://…">
-            </div>
+          <div class="field">
+            <label>Prøvetræning</label>
+            <input type="text" id="proevetraening-url" placeholder="https://…">
+          </div>
 
+          <div class="profil-advanced" hidden>
             <div class="field">
               <label>Kontaktpunkt</label>
               <input type="text" id="profil-kontaktpunkt" placeholder="Fx: Mail til U11-træneren eller ring til kontoret">
@@ -808,6 +813,7 @@ function selectClub(club) {
   si('si-email',   club.email);
   si('si-website', club.website);
 
+  document.getElementById('kaldenavn').value  = club.kaldenavn ?? '';
   const abbrInput = document.getElementById('abbreviation');
   abbrInput.value = club.abbreviation ?? '';
   abbrInput.placeholder = autoAbbr(club.name);
@@ -885,7 +891,7 @@ document.getElementById('save-btn').addEventListener('click', async () => {
     const res = await fetch('/save', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ name: selectedClub.name, primaryColor: primary, secondaryColor: secondary, kitStyle, abbreviation }),
+      body: JSON.stringify({ name: selectedClub.name, primaryColor: primary, secondaryColor: secondary, kitStyle, abbreviation, kaldenavn: document.getElementById('kaldenavn').value.trim() || null }),
     });
     if (!res.ok) throw new Error(await res.text());
     showToast('Gemt ✓');
@@ -1205,7 +1211,7 @@ const server = http.createServer((req, res) => {
     req.on('data', chunk => body += chunk);
     req.on('end', () => {
       try {
-        const { name, primaryColor, secondaryColor, kitStyle, abbreviation } = JSON.parse(body);
+        const { name, primaryColor, secondaryColor, kitStyle, abbreviation, kaldenavn } = JSON.parse(body);
         const clubs = JSON.parse(fs.readFileSync(CLUBS_PATH, 'utf8'));
         const club = clubs.find(c => c.name === name);
         if (!club) { res.writeHead(404); res.end('Club not found'); return; }
@@ -1214,6 +1220,8 @@ const server = http.createServer((req, res) => {
         club.kitStyle       = kitStyle;
         if (abbreviation) club.abbreviation = abbreviation;
         else delete club.abbreviation;
+        if (kaldenavn) club.kaldenavn = kaldenavn;
+        else delete club.kaldenavn;
         fs.writeFileSync(CLUBS_PATH, JSON.stringify(clubs, null, 2));
         res.writeHead(200);
         res.end('ok');
@@ -1304,7 +1312,7 @@ const server = http.createServer((req, res) => {
       },
       {
         label: 'Opdater CDN-version i opstillingen',
-        cmd:   `node -e "const fs=require('fs'),v=require('${PKG_PATH}').version,f='${COMBOBOX_PATH}';fs.writeFileSync(f,fs.readFileSync(f,'utf8').replace(/danish-football-clubs@v[\\d.]+/,'danish-football-clubs@v'+v));console.log('CDN bumped to v'+v)"`,
+        cmd:   `node -e "const fs=require('fs'),v=require('${PKG_PATH}').version,f='${COMBOBOX_PATH}';let c=fs.readFileSync(f,'utf8');const m=c.match(/const _CLUBS_CDN\\s*=\\s*'(https:[^']+)'/);if(m)c=c.replace(/const _CLUBS_CDN_PREV\\s*=\\s*'https:[^']+'/, \\"const _CLUBS_CDN_PREV = '\\"+m[1]+\\"'\\");c=c.replace(/danish-football-clubs@v[\\d.]+/,'danish-football-clubs@v'+v);fs.writeFileSync(f,c);console.log('CDN bumped to v'+v)"`,
         cwd:   ROOT,
       },
       {
@@ -1319,7 +1327,7 @@ const server = http.createServer((req, res) => {
       steps.push(
         {
           label: 'Opdater CDN-version i findenklub',
-          cmd:   `node -e "const fs=require('fs'),v=require('${PKG_PATH}').version,f='${FINDENKLUB_APP_PATH}';fs.writeFileSync(f,fs.readFileSync(f,'utf8').replace(/danish-football-clubs@v[\\d.]+/,'danish-football-clubs@v'+v));console.log('CDN bumped to v'+v)"`,
+          cmd:   `node -e "const fs=require('fs'),v=require('${PKG_PATH}').version,f='${FINDENKLUB_APP_PATH}';let c=fs.readFileSync(f,'utf8');const m=c.match(/const _CLUBS_CDN\\s*=\\s*'(https:[^']+)'/);if(m)c=c.replace(/const _CLUBS_CDN_PREV\\s*=\\s*'https:[^']+'/, \\"const _CLUBS_CDN_PREV = '\\"+m[1]+\\"'\\");c=c.replace(/danish-football-clubs@v[\\d.]+/,'danish-football-clubs@v'+v);fs.writeFileSync(f,c);console.log('CDN bumped to v'+v)"`,
           cwd:   ROOT,
         },
         {

@@ -11,6 +11,7 @@ import { readFileSync, writeFileSync } from 'fs';
 
 const DELAY_MS  = 150;
 const DAWA_BASE = 'https://api.dataforsyningen.dk/postnumre';
+const REVERSE_BASE = 'https://api.dataforsyningen.dk/kommuner/reverse';
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
@@ -19,12 +20,30 @@ async function dataForPostal(postal) {
   const res  = await fetch(url, { signal: AbortSignal.timeout(8000) });
   if (!res.ok) return null;
   const data = await res.json();
-  // A postal code can span multiple municipalities — pick the one with the
-  // largest area overlap (first in the DAWA response, already sorted by share).
-  const municipality = data.kommuner?.[0]?.navn ?? null;
   // visueltcenter is GeoJSON [lng, lat] — store as [lat, lng]
   const vc = data.visueltcenter;
   const coords = vc ? [vc[1], vc[0]] : null;
+
+  // Reverse-geocode the visual center to get the municipality that actually
+  // contains that point — more reliable than kommuner[0] which is unordered.
+  let municipality = null;
+  if (vc) {
+    const revRes = await fetch(`${REVERSE_BASE}?x=${vc[0]}&y=${vc[1]}`, { signal: AbortSignal.timeout(8000) });
+    if (revRes.ok && revRes.status !== 404) {
+      const revData = await revRes.json();
+      if (!revData.type?.includes('Error')) municipality = revData.navn ?? null;
+    }
+  }
+
+  if (!municipality) {
+    // Visual center may be in water — use the postal code's own name (e.g. "Roskilde")
+    // to find the matching entry in kommuner, then fall back to kommuner[0].
+    const postalName = data.navn ?? null;
+    const kommuner   = data.kommuner ?? [];
+    const byName = postalName ? kommuner.find(k => k.navn === postalName) : null;
+    municipality = (byName ?? kommuner[0])?.navn ?? null;
+  }
+
   return { municipality, coords };
 }
 
@@ -70,6 +89,7 @@ async function main() {
     const muni  = entry?.municipality ?? null;
     if (muni) { club.municipality = muni; enriched++; }
     else delete club.municipality;
+    club.coords = entry?.coords ?? null;
   }
 
   writeFileSync('clubs.json', JSON.stringify(clubs, null, 2));

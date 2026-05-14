@@ -11,7 +11,12 @@ import { readFileSync, writeFileSync } from 'fs';
 const raw = JSON.parse(readFileSync('clubs.json', 'utf8'));
 
 // Strip scraper-internal fields; preserve schema used by consuming apps
-const clubs = raw.map(({ name, city, postal, region, dbuId, primaryColor, secondaryColor, kitStyle, logo }) => ({
+const clubs = raw.map(({ name, city, postal, region, dbuId,
+  primaryColor, secondaryColor, kitStyle,
+  email, website, phone,
+  kitHomeJersey, kitHomeShorts, kitHomeSocks,
+  kitAwayJersey, kitAwayShorts, kitAwaySocks,
+  logo, kaldenavn, coords }) => ({
   name,
   city,
   postal,
@@ -20,7 +25,18 @@ const clubs = raw.map(({ name, city, postal, region, dbuId, primaryColor, second
   primaryColor:   primaryColor   ?? null,
   secondaryColor: secondaryColor ?? null,
   kitStyle:       kitStyle       ?? null,
+  email:          email          ?? null,
+  website:        website        ?? null,
+  phone:          phone          ?? null,
+  kitHomeJersey:  kitHomeJersey  ?? null,
+  kitHomeShorts:  kitHomeShorts  ?? null,
+  kitHomeSocks:   kitHomeSocks   ?? null,
+  kitAwayJersey:  kitAwayJersey  ?? null,
+  kitAwayShorts:  kitAwayShorts  ?? null,
+  kitAwaySocks:   kitAwaySocks   ?? null,
   logo:           logo           ?? null,
+  kaldenavn:      kaldenavn      ?? null,
+  coords:         coords         ?? null,
 }));
 
 const clubsJs = JSON.stringify(clubs, null, 2);
@@ -115,6 +131,21 @@ export function getMatchFormat(birthYear) {
   if (age <= 10) return '5v5';
   if (age <= 12) return '8v8';
   return '11v11';
+}
+
+function haversineKm([lat1, lon1], [lat2, lon2]) {
+  const R = 6371;
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  const a = Math.sin(dLat / 2) ** 2
+    + Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * Math.sin(dLon / 2) ** 2;
+  return R * 2 * Math.asin(Math.sqrt(a));
+}
+
+export function distanceBetweenClubs(nameA, nameB) {
+  const a = getClub(nameA), b = getClub(nameB);
+  if (!a?.coords || !b?.coords) return null;
+  return haversineKm(a.coords, b.coords);
 }
 `;
 
