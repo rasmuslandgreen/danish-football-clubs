@@ -3041,7 +3041,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1599.png",
     "kaldenavn": null
   },
   {
@@ -3356,7 +3356,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1590.png",
     "kaldenavn": null
   },
   {
@@ -20629,7 +20629,7 @@ export const clubs = [
     "dbuId": 1178,
     "primaryColor": "#ffffff",
     "secondaryColor": "#cc0000",
-    "kitStyle": null,
+    "kitStyle": "plain",
     "email": "fu@orientexpressen.dk",
     "website": "http://www.orientexpressen.dk/",
     "phone": "4168 6860",
@@ -20639,7 +20639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1178.png",
     "kaldenavn": null
   },
   {
