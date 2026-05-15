@@ -47,12 +47,21 @@ async function dataForPostal(postal) {
   return { municipality, name: data.navn ?? null, coords };
 }
 
+async function allDanishPostalCodes() {
+  const res = await fetch(DAWA_BASE, { signal: AbortSignal.timeout(15000) });
+  if (!res.ok) throw new Error(`DAWA list failed: ${res.status}`);
+  const data = await res.json();
+  return data.map(p => p.nr);
+}
+
 async function main() {
   const clubs = JSON.parse(readFileSync('clubs.json', 'utf8'));
 
-  // Collect unique postal codes
-  const postalCodes = [...new Set(clubs.map(c => c.postal).filter(Boolean))];
-  console.log(`Unique postal codes: ${postalCodes.length}\n`);
+  // Collect postal codes: all Danish postal codes from DAWA + any in clubs.json
+  const dawaPostals  = await allDanishPostalCodes();
+  const clubPostals  = clubs.map(c => c.postal).filter(Boolean);
+  const postalCodes  = [...new Set([...dawaPostals, ...clubPostals])].sort();
+  console.log(`Postal codes to resolve: ${postalCodes.length} (${dawaPostals.length} from DAWA + club-only extras)\n`);
 
   // Build postal → municipality map, calling DAWA once per unique postal
   const postalMap = {};

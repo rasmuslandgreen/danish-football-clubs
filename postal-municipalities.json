@@ -1,10 +1,610 @@
 {
+  "1050": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68065246,
+      12.58600133
+    ]
+  },
+  "1051": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6798377,
+      12.59022696
+    ]
+  },
+  "1052": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67906706,
+      12.58954953
+    ]
+  },
+  "1053": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67798554,
+      12.59073024
+    ]
+  },
+  "1054": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67763459,
+      12.58906639
+    ]
+  },
+  "1055": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67723256,
+      12.58807383
+    ]
+  },
+  "1056": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67946993,
+      12.58793902
+    ]
+  },
+  "1057": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67833309,
+      12.58959143
+    ]
+  },
+  "1058": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67595336,
+      12.58792693
+    ]
+  },
+  "1059": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67675239,
+      12.58672365
+    ]
+  },
+  "1060": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67651434,
+      12.5837984
+    ]
+  },
+  "1061": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67749602,
+      12.5810871
+    ]
+  },
+  "1062": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67745504,
+      12.5820684
+    ]
+  },
+  "1063": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67812648,
+      12.58481601
+    ]
+  },
+  "1064": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67855701,
+      12.58421619
+    ]
+  },
+  "1065": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67792419,
+      12.58120927
+    ]
+  },
+  "1066": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67738024,
+      12.58283658
+    ]
+  },
+  "1067": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67872776,
+      12.58180816
+    ]
+  },
+  "1068": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67746813,
+      12.58355191
+    ]
+  },
+  "1069": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67777633,
+      12.58417532
+    ]
+  },
+  "1070": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67881568,
+      12.58352498
+    ]
+  },
+  "1071": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67826694,
+      12.58375053
+    ]
+  },
+  "1072": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67845615,
+      12.58065996
+    ]
+  },
+  "1073": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67878677,
+      12.58060115
+    ]
+  },
+  "1074": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67941235,
+      12.5835962
+    ]
+  },
+  "1100": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67989336,
+      12.58283276
+    ]
+  },
+  "1101": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68044771,
+      12.5831775
+    ]
+  },
+  "1102": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68084435,
+      12.58279789
+    ]
+  },
+  "1103": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68076455,
+      12.58412972
+    ]
+  },
+  "1104": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68124172,
+      12.58393567
+    ]
+  },
+  "1105": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68003329,
+      12.58212355
+    ]
+  },
+  "1106": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68045276,
+      12.58120094
+    ]
+  },
+  "1107": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68161934,
+      12.58319268
+    ]
+  },
+  "1110": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68146481,
+      12.5818153
+    ]
+  },
+  "1111": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68219996,
+      12.58080608
+    ]
+  },
+  "1112": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68123981,
+      12.57974966
+    ]
+  },
+  "1113": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68001592,
+      12.58017369
+    ]
+  },
+  "1114": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68069802,
+      12.57891556
+    ]
+  },
+  "1115": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68103123,
+      12.5782846
+    ]
+  },
+  "1116": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68222456,
+      12.58005882
+    ]
+  },
+  "1117": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6810324,
+      12.58157142
+    ]
+  },
+  "1118": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68104247,
+      12.58080964
+    ]
+  },
+  "1119": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6823894,
+      12.57714609
+    ]
+  },
+  "1120": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68236562,
+      12.57870875
+    ]
+  },
+  "1121": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68277836,
+      12.57891573
+    ]
+  },
+  "1122": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68253368,
+      12.57978841
+    ]
+  },
+  "1123": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68426232,
+      12.57745579
+    ]
+  },
+  "1124": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68303024,
+      12.57689183
+    ]
+  },
+  "1125": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6824351,
+      12.5763264
+    ]
+  },
+  "1126": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68230152,
+      12.57516001
+    ]
+  },
+  "1127": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68291443,
+      12.57557089
+    ]
+  },
+  "1128": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68282201,
+      12.57473787
+    ]
+  },
+  "1129": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68317382,
+      12.57433901
+    ]
+  },
+  "1130": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68337542,
+      12.57364349
+    ]
+  },
+  "1131": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68385549,
+      12.5738097
+    ]
+  },
+  "1150": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68116195,
+      12.57713782
+    ]
+  },
+  "1151": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67925834,
+      12.57640167
+    ]
+  },
   "1152": {
     "municipality": "København",
     "name": "København K",
     "coords": [
       55.68037643,
       12.57705358
+    ]
+  },
+  "1153": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67913736,
+      12.57741313
+    ]
+  },
+  "1154": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67961793,
+      12.5758435
+    ]
+  },
+  "1155": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68007367,
+      12.57544104
+    ]
+  },
+  "1156": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67957221,
+      12.57530761
+    ]
+  },
+  "1157": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67907168,
+      12.57544281
+    ]
+  },
+  "1158": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67861951,
+      12.57361214
+    ]
+  },
+  "1159": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68077513,
+      12.57608635
+    ]
+  },
+  "1160": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67891577,
+      12.57872573
+    ]
+  },
+  "1161": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67849122,
+      12.57562704
+    ]
+  },
+  "1162": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67892784,
+      12.57424006
+    ]
+  },
+  "1164": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67826381,
+      12.57338344
+    ]
+  },
+  "1165": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68076308,
+      12.57068192
+    ]
+  },
+  "1166": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67899335,
+      12.57281215
+    ]
+  },
+  "1167": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6791299,
+      12.57155172
+    ]
+  },
+  "1168": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67990118,
+      12.57235905
+    ]
+  },
+  "1169": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.680565,
+      12.57454621
+    ]
+  },
+  "1170": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68008905,
+      12.57446263
+    ]
+  },
+  "1171": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68176293,
+      12.57230844
     ]
   },
   "1172": {
@@ -23,6 +623,678 @@
       12.57365135
     ]
   },
+  "1174": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68241134,
+      12.5724811
+    ]
+  },
+  "1175": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68255536,
+      12.57414508
+    ]
+  },
+  "1200": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67820341,
+      12.5798222
+    ]
+  },
+  "1201": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67813397,
+      12.57787668
+    ]
+  },
+  "1202": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6777881,
+      12.57894282
+    ]
+  },
+  "1203": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6765462,
+      12.57680004
+    ]
+  },
+  "1204": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67653214,
+      12.57548042
+    ]
+  },
+  "1205": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67723642,
+      12.57678089
+    ]
+  },
+  "1206": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67754793,
+      12.57706457
+    ]
+  },
+  "1207": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67810969,
+      12.57661838
+    ]
+  },
+  "1208": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6769724,
+      12.57500757
+    ]
+  },
+  "1209": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67789078,
+      12.57572903
+    ]
+  },
+  "1210": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67809804,
+      12.57425967
+    ]
+  },
+  "1211": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67751052,
+      12.57421763
+    ]
+  },
+  "1212": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6770308,
+      12.57874486
+    ]
+  },
+  "1213": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67665117,
+      12.57779783
+    ]
+  },
+  "1214": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67457161,
+      12.57975543
+    ]
+  },
+  "1215": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67544188,
+      12.58576691
+    ]
+  },
+  "1216": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67524053,
+      12.58304021
+    ]
+  },
+  "1218": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67606465,
+      12.58039426
+    ]
+  },
+  "1219": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67370675,
+      12.58340336
+    ]
+  },
+  "1220": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67358331,
+      12.57862049
+    ]
+  },
+  "1221": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67283897,
+      12.58192337
+    ]
+  },
+  "1250": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68202801,
+      12.58975823
+    ]
+  },
+  "1251": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67960602,
+      12.59498748
+    ]
+  },
+  "1252": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68145466,
+      12.59617117
+    ]
+  },
+  "1253": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6847672,
+      12.59699341
+    ]
+  },
+  "1254": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68100155,
+      12.59034599
+    ]
+  },
+  "1255": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68116853,
+      12.58863161
+    ]
+  },
+  "1256": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68579757,
+      12.59417151
+    ]
+  },
+  "1257": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68446372,
+      12.59278982
+    ]
+  },
+  "1259": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.70489621,
+      12.6154165
+    ]
+  },
+  "1260": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68378904,
+      12.59008573
+    ]
+  },
+  "1261": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68191836,
+      12.58694628
+    ]
+  },
+  "1263": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68876737,
+      12.59622407
+    ]
+  },
+  "1264": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68424184,
+      12.58756966
+    ]
+  },
+  "1265": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68485743,
+      12.58943983
+    ]
+  },
+  "1266": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68789729,
+      12.59098837
+    ]
+  },
+  "1267": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68828183,
+      12.5903806
+    ]
+  },
+  "1268": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68881006,
+      12.59030867
+    ]
+  },
+  "1270": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68984032,
+      12.5908799
+    ]
+  },
+  "1271": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68924322,
+      12.58981807
+    ]
+  },
+  "1300": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68266571,
+      12.58427444
+    ]
+  },
+  "1301": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68334448,
+      12.58587955
+    ]
+  },
+  "1302": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68448319,
+      12.58409674
+    ]
+  },
+  "1303": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68594749,
+      12.58837636
+    ]
+  },
+  "1304": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68333481,
+      12.58306965
+    ]
+  },
+  "1306": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68430724,
+      12.58135321
+    ]
+  },
+  "1307": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68643425,
+      12.57998797
+    ]
+  },
+  "1308": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6865329,
+      12.58479357
+    ]
+  },
+  "1309": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68721135,
+      12.58342163
+    ]
+  },
+  "1310": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68593955,
+      12.59029867
+    ]
+  },
+  "1311": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68811515,
+      12.58380631
+    ]
+  },
+  "1312": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68763774,
+      12.58583966
+    ]
+  },
+  "1313": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68703948,
+      12.58894598
+    ]
+  },
+  "1314": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68750826,
+      12.58633595
+    ]
+  },
+  "1315": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68763127,
+      12.58791833
+    ]
+  },
+  "1316": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68830711,
+      12.58282835
+    ]
+  },
+  "1317": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68896717,
+      12.58191343
+    ]
+  },
+  "1318": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68846582,
+      12.58478262
+    ]
+  },
+  "1319": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68802871,
+      12.58712218
+    ]
+  },
+  "1320": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68846691,
+      12.58748743
+    ]
+  },
+  "1321": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68791672,
+      12.5895451
+    ]
+  },
+  "1322": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68835925,
+      12.58942362
+    ]
+  },
+  "1323": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68966625,
+      12.58573703
+    ]
+  },
+  "1324": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68930756,
+      12.58712585
+    ]
+  },
+  "1325": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68932439,
+      12.58847527
+    ]
+  },
+  "1326": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68962824,
+      12.58839238
+    ]
+  },
+  "1327": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.69037471,
+      12.58723576
+    ]
+  },
+  "1328": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68991619,
+      12.58836924
+    ]
+  },
+  "1329": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68914774,
+      12.58464108
+    ]
+  },
+  "1350": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68659617,
+      12.57590522
+    ]
+  },
+  "1352": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68939296,
+      12.57310725
+    ]
+  },
+  "1353": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68704697,
+      12.57119575
+    ]
+  },
+  "1354": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68980117,
+      12.57096165
+    ]
+  },
+  "1355": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68871643,
+      12.5712291
+    ]
+  },
+  "1356": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6871711,
+      12.56804206
+    ]
+  },
+  "1357": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68858347,
+      12.56795624
+    ]
+  },
+  "1358": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68056747,
+      12.56695637
+    ]
+  },
+  "1359": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68365009,
+      12.56421074
+    ]
+  },
+  "1360": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6856827,
+      12.56656367
+    ]
+  },
+  "1361": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68296065,
+      12.56876693
+    ]
+  },
+  "1362": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68488443,
+      12.56993139
+    ]
+  },
+  "1363": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68513437,
+      12.56557099
+    ]
+  },
   "1364": {
     "municipality": "København",
     "name": "København K",
@@ -39,12 +1311,836 @@
       12.56444325
     ]
   },
+  "1366": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68207959,
+      12.56325243
+    ]
+  },
+  "1367": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68310746,
+      12.56359571
+    ]
+  },
+  "1368": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68138249,
+      12.56378826
+    ]
+  },
+  "1369": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68214443,
+      12.55953017
+    ]
+  },
+  "1370": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68484818,
+      12.56346092
+    ]
+  },
+  "1371": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68594651,
+      12.56404534
+    ]
+  },
+  "1400": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67038519,
+      12.59681168
+    ]
+  },
+  "1401": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67729107,
+      12.59566443
+    ]
+  },
+  "1402": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67280147,
+      12.58542262
+    ]
+  },
+  "1403": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67539344,
+      12.5941033
+    ]
+  },
+  "1406": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67493602,
+      12.59344137
+    ]
+  },
   "1407": {
     "municipality": "København",
     "name": "København K",
     "coords": [
       55.67360101,
       12.59549054
+    ]
+  },
+  "1408": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67363421,
+      12.59088619
+    ]
+  },
+  "1409": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67355505,
+      12.58767981
+    ]
+  },
+  "1410": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67196294,
+      12.59114295
+    ]
+  },
+  "1411": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6706881,
+      12.58304583
+    ]
+  },
+  "1412": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67059202,
+      12.58609487
+    ]
+  },
+  "1413": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67064899,
+      12.58669684
+    ]
+  },
+  "1414": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67225731,
+      12.58974986
+    ]
+  },
+  "1415": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67444226,
+      12.59499761
+    ]
+  },
+  "1416": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67286214,
+      12.59424032
+    ]
+  },
+  "1417": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67274948,
+      12.59236256
+    ]
+  },
+  "1418": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67133117,
+      12.59016855
+    ]
+  },
+  "1419": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67053449,
+      12.58895097
+    ]
+  },
+  "1420": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67073872,
+      12.59000159
+    ]
+  },
+  "1421": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67028252,
+      12.58811181
+    ]
+  },
+  "1422": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67583778,
+      12.60083
+    ]
+  },
+  "1423": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67073581,
+      12.59282667
+    ]
+  },
+  "1424": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.66931315,
+      12.59220558
+    ]
+  },
+  "1425": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67184012,
+      12.59425877
+    ]
+  },
+  "1426": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67223173,
+      12.59670167
+    ]
+  },
+  "1427": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67501129,
+      12.59740604
+    ]
+  },
+  "1428": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67551144,
+      12.59745699
+    ]
+  },
+  "1429": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67527963,
+      12.59825398
+    ]
+  },
+  "1430": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67701184,
+      12.59864182
+    ]
+  },
+  "1432": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.69425974,
+      12.61655877
+    ]
+  },
+  "1433": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.72946145,
+      12.72430087
+    ]
+  },
+  "1434": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68032633,
+      12.60345664
+    ]
+  },
+  "1435": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6803494,
+      12.60607236
+    ]
+  },
+  "1436": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6760139,
+      12.6035624
+    ]
+  },
+  "1437": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6822005,
+      12.60755523
+    ]
+  },
+  "1438": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68254869,
+      12.60018111
+    ]
+  },
+  "1439": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.68671916,
+      12.60639558
+    ]
+  },
+  "1440": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67308696,
+      12.60137342
+    ]
+  },
+  "1441": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67992992,
+      12.6128732
+    ]
+  },
+  "1450": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67728132,
+      12.57305928
+    ]
+  },
+  "1451": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6800785,
+      12.56919359
+    ]
+  },
+  "1452": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67954104,
+      12.56829492
+    ]
+  },
+  "1453": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67990502,
+      12.57080331
+    ]
+  },
+  "1454": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67806442,
+      12.56955821
+    ]
+  },
+  "1455": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67883409,
+      12.57032224
+    ]
+  },
+  "1456": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67731979,
+      12.56925402
+    ]
+  },
+  "1457": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67821919,
+      12.57191269
+    ]
+  },
+  "1458": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67697626,
+      12.57201105
+    ]
+  },
+  "1459": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67753312,
+      12.57180355
+    ]
+  },
+  "1460": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67662509,
+      12.57083548
+    ]
+  },
+  "1461": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67681948,
+      12.57298975
+    ]
+  },
+  "1462": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.6762414,
+      12.57177767
+    ]
+  },
+  "1463": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67572208,
+      12.57219443
+    ]
+  },
+  "1464": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67644962,
+      12.5726221
+    ]
+  },
+  "1465": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67606578,
+      12.57342745
+    ]
+  },
+  "1466": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67686347,
+      12.57412316
+    ]
+  },
+  "1467": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67607304,
+      12.57413846
+    ]
+  },
+  "1468": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67552423,
+      12.57336739
+    ]
+  },
+  "1470": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67506238,
+      12.57386014
+    ]
+  },
+  "1471": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67431551,
+      12.57499967
+    ]
+  },
+  "1472": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67368537,
+      12.57632308
+    ]
+  },
+  "1473": {
+    "municipality": "København",
+    "name": "København K",
+    "coords": [
+      55.67232734,
+      12.57834447
+    ]
+  },
+  "1550": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67630637,
+      12.56794358
+    ]
+  },
+  "1551": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67922359,
+      12.56484383
+    ]
+  },
+  "1552": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67433051,
+      12.57367758
+    ]
+  },
+  "1553": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67455675,
+      12.56908785
+    ]
+  },
+  "1554": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67705334,
+      12.56487951
+    ]
+  },
+  "1555": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.674964,
+      12.57512169
+    ]
+  },
+  "1556": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67354201,
+      12.5735107
+    ]
+  },
+  "1557": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.6731643,
+      12.57487219
+    ]
+  },
+  "1558": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67189966,
+      12.57714319
+    ]
+  },
+  "1559": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67150035,
+      12.57764517
+    ]
+  },
+  "1560": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66666733,
+      12.57076138
+    ]
+  },
+  "1561": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66088444,
+      12.56237688
+    ]
+  },
+  "1562": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67042671,
+      12.57484744
+    ]
+  },
+  "1563": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67081742,
+      12.57359465
+    ]
+  },
+  "1564": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67242943,
+      12.57621894
+    ]
+  },
+  "1567": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67019634,
+      12.57132645
+    ]
+  },
+  "1568": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66908712,
+      12.57277693
+    ]
+  },
+  "1569": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67128988,
+      12.57067539
+    ]
+  },
+  "1570": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67358392,
+      12.56449889
+    ]
+  },
+  "1571": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67075323,
+      12.57232129
+    ]
+  },
+  "1572": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.671606,
+      12.5730003
+    ]
+  },
+  "1573": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67173669,
+      12.57409664
+    ]
+  },
+  "1574": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67158961,
+      12.57217128
+    ]
+  },
+  "1575": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67200881,
+      12.57057649
+    ]
+  },
+  "1576": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67113694,
+      12.56944432
+    ]
+  },
+  "1577": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66901439,
+      12.56800721
+    ]
+  },
+  "1600": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67988681,
+      12.56258051
+    ]
+  },
+  "1601": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67877817,
+      12.55937917
+    ]
+  },
+  "1602": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67873082,
+      12.5612736
+    ]
+  },
+  "1603": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67925094,
+      12.56222843
+    ]
+  },
+  "1604": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67743294,
+      12.5613943
+    ]
+  },
+  "1605": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67602364,
+      12.56106245
+    ]
+  },
+  "1606": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67806697,
+      12.56232778
+    ]
+  },
+  "1607": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67858553,
+      12.56377805
+    ]
+  },
+  "1608": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67611495,
+      12.56532316
+    ]
+  },
+  "1609": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67579789,
+      12.56377996
     ]
   },
   "1610": {
@@ -55,12 +2151,276 @@
       12.55768339
     ]
   },
+  "1611": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67518232,
+      12.56362751
+    ]
+  },
+  "1612": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67560841,
+      12.56267131
+    ]
+  },
+  "1613": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67452629,
+      12.56162653
+    ]
+  },
+  "1614": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67414128,
+      12.56065848
+    ]
+  },
+  "1615": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67390932,
+      12.55909001
+    ]
+  },
+  "1616": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67309834,
+      12.55710699
+    ]
+  },
+  "1617": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67294594,
+      12.55457903
+    ]
+  },
+  "1618": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67382242,
+      12.55126144
+    ]
+  },
+  "1619": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67376086,
+      12.55017806
+    ]
+  },
   "1620": {
     "municipality": "København",
     "name": "København V",
     "coords": [
       55.67264298,
       12.55913327
+    ]
+  },
+  "1621": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67293333,
+      12.54769433
+    ]
+  },
+  "1622": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67245693,
+      12.54658832
+    ]
+  },
+  "1623": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67193979,
+      12.54526736
+    ]
+  },
+  "1624": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67212888,
+      12.54598034
+    ]
+  },
+  "1631": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.6825235,
+      12.55548923
+    ]
+  },
+  "1632": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.68343153,
+      12.55545314
+    ]
+  },
+  "1633": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.68231545,
+      12.5564173
+    ]
+  },
+  "1634": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.68187637,
+      12.55549264
+    ]
+  },
+  "1635": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.68284156,
+      12.55627711
+    ]
+  },
+  "1650": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66872787,
+      12.55197362
+    ]
+  },
+  "1651": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67129215,
+      12.56525239
+    ]
+  },
+  "1652": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67242389,
+      12.56197922
+    ]
+  },
+  "1653": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67234568,
+      12.5609699
+    ]
+  },
+  "1654": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67158989,
+      12.55933466
+    ]
+  },
+  "1655": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67121581,
+      12.55816022
+    ]
+  },
+  "1656": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67137912,
+      12.55631521
+    ]
+  },
+  "1657": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67050611,
+      12.55581577
+    ]
+  },
+  "1658": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67049852,
+      12.55413977
+    ]
+  },
+  "1659": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67182348,
+      12.55451216
+    ]
+  },
+  "1660": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67089792,
+      12.55264927
+    ]
+  },
+  "1661": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67164674,
+      12.55188166
+    ]
+  },
+  "1662": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67152277,
+      12.55084057
+    ]
+  },
+  "1663": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67061559,
+      12.54995271
+    ]
+  },
+  "1664": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67191845,
+      12.54919832
     ]
   },
   "1665": {
@@ -71,12 +2431,1468 @@
       12.54858405
     ]
   },
+  "1666": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66979331,
+      12.54734503
+    ]
+  },
+  "1667": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66906572,
+      12.54621289
+    ]
+  },
+  "1668": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66882907,
+      12.54794234
+    ]
+  },
+  "1669": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66573477,
+      12.54769264
+    ]
+  },
+  "1670": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66709135,
+      12.54504302
+    ]
+  },
+  "1671": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66825809,
+      12.54566781
+    ]
+  },
+  "1672": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.6685544,
+      12.54639085
+    ]
+  },
+  "1673": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66799575,
+      12.5465375
+    ]
+  },
+  "1674": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66560968,
+      12.54312615
+    ]
+  },
+  "1675": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66647464,
+      12.54685256
+    ]
+  },
+  "1676": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66619152,
+      12.54842401
+    ]
+  },
+  "1677": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66602386,
+      12.54700046
+    ]
+  },
+  "1699": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66810542,
+      12.56294693
+    ]
+  },
+  "1700": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66964694,
+      12.56228976
+    ]
+  },
+  "1701": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67179515,
+      12.56331688
+    ]
+  },
+  "1702": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67134085,
+      12.5637674
+    ]
+  },
+  "1703": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67056976,
+      12.56292145
+    ]
+  },
+  "1704": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67305739,
+      12.5699623
+    ]
+  },
+  "1705": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66349423,
+      12.54517056
+    ]
+  },
+  "1706": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67074811,
+      12.55994889
+    ]
+  },
+  "1707": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.6718825,
+      12.56062207
+    ]
+  },
+  "1708": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.6696213,
+      12.55745219
+    ]
+  },
+  "1709": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66829956,
+      12.55436089
+    ]
+  },
+  "1710": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67015852,
+      12.56287023
+    ]
+  },
+  "1711": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66770326,
+      12.5594416
+    ]
+  },
+  "1712": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66837077,
+      12.55783183
+    ]
+  },
+  "1714": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66603571,
+      12.5584376
+    ]
+  },
+  "1715": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66870393,
+      12.56063662
+    ]
+  },
+  "1716": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66884414,
+      12.55886941
+    ]
+  },
+  "1717": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.6670686,
+      12.55732037
+    ]
+  },
+  "1718": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66711053,
+      12.55560361
+    ]
+  },
+  "1719": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66698025,
+      12.55476615
+    ]
+  },
+  "1720": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66359129,
+      12.54064325
+    ]
+  },
+  "1721": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66624074,
+      12.55326244
+    ]
+  },
+  "1722": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66657955,
+      12.55418453
+    ]
+  },
+  "1723": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66726948,
+      12.5522664
+    ]
+  },
+  "1724": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66809061,
+      12.55200311
+    ]
+  },
+  "1725": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66565101,
+      12.55379172
+    ]
+  },
+  "1726": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66564743,
+      12.55256569
+    ]
+  },
+  "1727": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66529918,
+      12.55157104
+    ]
+  },
+  "1728": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66481971,
+      12.55064723
+    ]
+  },
+  "1729": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66458741,
+      12.54915072
+    ]
+  },
+  "1730": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66439813,
+      12.54822289
+    ]
+  },
+  "1731": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66411741,
+      12.54688486
+    ]
+  },
+  "1732": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66393593,
+      12.54573859
+    ]
+  },
+  "1733": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66368886,
+      12.54431734
+    ]
+  },
+  "1734": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66523209,
+      12.54568262
+    ]
+  },
+  "1735": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66479718,
+      12.54537668
+    ]
+  },
+  "1736": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66524968,
+      12.54364271
+    ]
+  },
+  "1737": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66484287,
+      12.54447071
+    ]
+  },
+  "1738": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66449069,
+      12.54375074
+    ]
+  },
+  "1739": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.664438,
+      12.54299209
+    ]
+  },
+  "1749": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66952602,
+      12.53704741
+    ]
+  },
+  "1750": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66769158,
+      12.5398063
+    ]
+  },
+  "1751": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67008603,
+      12.54477144
+    ]
+  },
+  "1752": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.67003659,
+      12.54294527
+    ]
+  },
+  "1753": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66961867,
+      12.54335814
+    ]
+  },
+  "1754": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66925047,
+      12.54411696
+    ]
+  },
+  "1755": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66967755,
+      12.54272296
+    ]
+  },
+  "1756": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66900959,
+      12.54203009
+    ]
+  },
+  "1757": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66915035,
+      12.54082339
+    ]
+  },
+  "1758": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66758517,
+      12.54297343
+    ]
+  },
+  "1759": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66851692,
+      12.5432819
+    ]
+  },
+  "1760": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66571623,
+      12.54546668
+    ]
+  },
+  "1761": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66772397,
+      12.54124611
+    ]
+  },
+  "1762": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66555484,
+      12.54086863
+    ]
+  },
+  "1763": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.6656842,
+      12.54207733
+    ]
+  },
+  "1764": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66497095,
+      12.53940436
+    ]
+  },
+  "1765": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66440364,
+      12.53905783
+    ]
+  },
+  "1766": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66414411,
+      12.54067769
+    ]
+  },
+  "1770": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66822916,
+      12.5365578
+    ]
+  },
+  "1771": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66852133,
+      12.53917356
+    ]
+  },
+  "1772": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.6682938,
+      12.53864545
+    ]
+  },
+  "1773": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66818798,
+      12.53801681
+    ]
+  },
+  "1774": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66797162,
+      12.53904722
+    ]
+  },
+  "1775": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66788031,
+      12.53683801
+    ]
+  },
+  "1777": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66702322,
+      12.53764622
+    ]
+  },
+  "1799": {
+    "municipality": "København",
+    "name": "København V",
+    "coords": [
+      55.66585361,
+      12.53344813
+    ]
+  },
+  "1800": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67047098,
+      12.53600765
+    ]
+  },
+  "1801": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.6690663,
+      12.53414281
+    ]
+  },
+  "1802": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67007767,
+      12.53457921
+    ]
+  },
+  "1803": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.66997053,
+      12.53340416
+    ]
+  },
+  "1804": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67003692,
+      12.53225891
+    ]
+  },
+  "1805": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.66804842,
+      12.5311529
+    ]
+  },
+  "1806": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.6721564,
+      12.53424914
+    ]
+  },
+  "1807": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67115759,
+      12.53331808
+    ]
+  },
+  "1808": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67159046,
+      12.53426314
+    ]
+  },
+  "1809": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.6716243,
+      12.53554461
+    ]
+  },
+  "1810": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67146453,
+      12.53960125
+    ]
+  },
+  "1811": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.6725422,
+      12.53677431
+    ]
+  },
+  "1812": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67120846,
+      12.53698945
+    ]
+  },
+  "1813": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67238106,
+      12.53865345
+    ]
+  },
+  "1814": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67153382,
+      12.54130724
+    ]
+  },
+  "1815": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.6727428,
+      12.54237549
+    ]
+  },
+  "1816": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67280184,
+      12.54338951
+    ]
+  },
+  "1817": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.6720535,
+      12.54298543
+    ]
+  },
+  "1818": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67247144,
+      12.54488147
+    ]
+  },
+  "1819": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67398318,
+      12.54936765
+    ]
+  },
+  "1820": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67407429,
+      12.53462279
+    ]
+  },
+  "1822": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67268282,
+      12.54608419
+    ]
+  },
+  "1823": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67285485,
+      12.54538991
+    ]
+  },
+  "1824": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67414951,
+      12.54712394
+    ]
+  },
+  "1825": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67422815,
+      12.5454441
+    ]
+  },
+  "1826": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67479317,
+      12.54450577
+    ]
+  },
+  "1827": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67472699,
+      12.54312856
+    ]
+  },
+  "1828": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67482887,
+      12.5419349
+    ]
+  },
+  "1829": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67594343,
+      12.54143187
+    ]
+  },
+  "1850": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67774692,
+      12.5362512
+    ]
+  },
+  "1851": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67572373,
+      12.53965438
+    ]
+  },
+  "1852": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67648934,
+      12.53849568
+    ]
+  },
+  "1853": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67529526,
+      12.53701022
+    ]
+  },
+  "1854": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67515529,
+      12.53452691
+    ]
+  },
+  "1855": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67620071,
+      12.53573489
+    ]
+  },
+  "1856": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67661415,
+      12.53738999
+    ]
+  },
+  "1857": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67693751,
+      12.53561489
+    ]
+  },
+  "1860": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68109331,
+      12.53719762
+    ]
+  },
+  "1861": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67979174,
+      12.53508153
+    ]
+  },
+  "1862": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68004417,
+      12.53618519
+    ]
+  },
+  "1863": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67918107,
+      12.53725843
+    ]
+  },
+  "1864": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.6783961,
+      12.53709225
+    ]
+  },
+  "1865": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67906052,
+      12.53840772
+    ]
+  },
+  "1866": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67777926,
+      12.53802154
+    ]
+  },
+  "1867": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67856694,
+      12.53980769
+    ]
+  },
+  "1868": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67769198,
+      12.54048726
+    ]
+  },
+  "1870": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68052551,
+      12.54099176
+    ]
+  },
+  "1871": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68208484,
+      12.54271496
+    ]
+  },
+  "1872": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68027144,
+      12.54486513
+    ]
+  },
+  "1873": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67981424,
+      12.54531212
+    ]
+  },
+  "1874": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.6794665,
+      12.546312
+    ]
+  },
+  "1875": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67914852,
+      12.54439633
+    ]
+  },
+  "1876": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67796084,
+      12.54513765
+    ]
+  },
+  "1877": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.676822,
+      12.54314122
+    ]
+  },
+  "1878": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67659707,
+      12.54447671
+    ]
+  },
+  "1879": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67944885,
+      12.54791386
+    ]
+  },
+  "1900": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67568449,
+      12.55571599
+    ]
+  },
+  "1901": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67596832,
+      12.54638197
+    ]
+  },
+  "1902": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67688481,
+      12.54764912
+    ]
+  },
+  "1903": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67760453,
+      12.54962625
+    ]
+  },
+  "1904": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67662945,
+      12.5503761
+    ]
+  },
+  "1905": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67515882,
+      12.55050195
+    ]
+  },
+  "1906": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67534886,
+      12.55138892
+    ]
+  },
+  "1908": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67446845,
+      12.55353922
+    ]
+  },
+  "1909": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67558015,
+      12.55272852
+    ]
+  },
+  "1910": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67957423,
+      12.55012682
+    ]
+  },
+  "1911": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67759267,
+      12.55287463
+    ]
+  },
+  "1912": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67947352,
+      12.55170183
+    ]
+  },
+  "1913": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67825536,
+      12.55215583
+    ]
+  },
+  "1914": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67839105,
+      12.55360844
+    ]
+  },
+  "1915": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67886014,
+      12.55191481
+    ]
+  },
+  "1916": {
+    "municipality": "København",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67755331,
+      12.55696888
+    ]
+  },
+  "1917": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67684523,
+      12.55519671
+    ]
+  },
+  "1920": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68036477,
+      12.54975215
+    ]
+  },
+  "1921": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67989699,
+      12.55335595
+    ]
+  },
+  "1922": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68060854,
+      12.55207833
+    ]
+  },
+  "1923": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.6811586,
+      12.55021079
+    ]
+  },
+  "1924": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68134585,
+      12.55169309
+    ]
+  },
+  "1925": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68101368,
+      12.55346186
+    ]
+  },
+  "1926": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68001631,
+      12.5563497
+    ]
+  },
+  "1927": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67936955,
+      12.55644595
+    ]
+  },
+  "1928": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.67873506,
+      12.55637458
+    ]
+  },
   "1950": {
     "municipality": "Frederiksberg",
     "name": "Frederiksberg C",
     "coords": [
       55.68169351,
       12.53569241
+    ]
+  },
+  "1951": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68207494,
+      12.53659621
+    ]
+  },
+  "1952": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68244847,
+      12.53583526
+    ]
+  },
+  "1953": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68293731,
+      12.53719507
+    ]
+  },
+  "1954": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68414812,
+      12.5391162
+    ]
+  },
+  "1955": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.6836199,
+      12.54040474
+    ]
+  },
+  "1956": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.6833691,
+      12.54129064
+    ]
+  },
+  "1957": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68329671,
+      12.54256238
+    ]
+  },
+  "1958": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68501919,
+      12.54339865
+    ]
+  },
+  "1959": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68571394,
+      12.54131491
+    ]
+  },
+  "1960": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68501875,
+      12.54803396
+    ]
+  },
+  "1961": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.6819061,
+      12.54710267
+    ]
+  },
+  "1962": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68262187,
+      12.54653218
+    ]
+  },
+  "1963": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68129366,
+      12.54809396
+    ]
+  },
+  "1964": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68439097,
+      12.54841915
+    ]
+  },
+  "1965": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68343992,
+      12.54828201
+    ]
+  },
+  "1966": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68336984,
+      12.54945981
+    ]
+  },
+  "1967": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68419509,
+      12.54978855
+    ]
+  },
+  "1970": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68275244,
+      12.54880394
+    ]
+  },
+  "1971": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68421574,
+      12.55227545
+    ]
+  },
+  "1972": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68366621,
+      12.55268155
+    ]
+  },
+  "1973": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.68367036,
+      12.55429159
+    ]
+  },
+  "1974": {
+    "municipality": "Frederiksberg",
+    "name": "Frederiksberg C",
+    "coords": [
+      55.6822106,
+      12.55381232
     ]
   },
   "2000": {
@@ -93,6 +3909,14 @@
     "coords": [
       55.7109795,
       12.57364633
+    ]
+  },
+  "2150": {
+    "municipality": "København",
+    "name": "Nordhavn",
+    "coords": [
+      55.72293927,
+      12.61612961
     ]
   },
   "2200": {
@@ -213,6 +4037,14 @@
     "coords": [
       55.61998785,
       12.42233883
+    ]
+  },
+  "2665": {
+    "municipality": "Vallensbæk",
+    "name": "Vallensbæk Strand",
+    "coords": [
+      55.61964832,
+      12.38841202
     ]
   },
   "2670": {
@@ -343,12 +4175,28 @@
       12.48640452
     ]
   },
+  "2850": {
+    "municipality": "Rudersdal",
+    "name": "Nærum",
+    "coords": [
+      55.81751707,
+      12.54388723
+    ]
+  },
   "2860": {
     "municipality": "Gladsaxe",
     "name": "Søborg",
     "coords": [
       55.73800813,
       12.48425242
+    ]
+  },
+  "2870": {
+    "municipality": "Gentofte",
+    "name": "Dyssegård",
+    "coords": [
+      55.73206179,
+      12.527951
     ]
   },
   "2880": {
@@ -381,6 +4229,22 @@
     "coords": [
       55.79609961,
       12.62132919
+    ]
+  },
+  "2942": {
+    "municipality": "Rudersdal",
+    "name": "Skodsborg",
+    "coords": [
+      55.82842884,
+      12.59260158
+    ]
+  },
+  "2950": {
+    "municipality": "Hørsholm",
+    "name": "Vedbæk",
+    "coords": [
+      55.86532817,
+      12.64375317
     ]
   },
   "2960": {
@@ -463,12 +4327,28 @@
       12.45420474
     ]
   },
+  "3120": {
+    "municipality": "Gribskov",
+    "name": "Dronningmølle",
+    "coords": [
+      56.10714196,
+      12.38687452
+    ]
+  },
   "3140": {
     "municipality": "Helsingør",
     "name": "Ålsgårde",
     "coords": [
       56.09086037,
       12.5430865
+    ]
+  },
+  "3150": {
+    "municipality": "Helsingør",
+    "name": "Hellebæk",
+    "coords": [
+      56.06020462,
+      12.5478008
     ]
   },
   "3200": {
@@ -541,6 +4421,14 @@
     "coords": [
       55.8837888,
       12.2099944
+    ]
+  },
+  "3360": {
+    "municipality": "Halsnæs",
+    "name": "Liseleje",
+    "coords": [
+      56.09213437,
+      11.87609952
     ]
   },
   "3370": {
@@ -775,6 +4663,14 @@
       12.01351904
     ]
   },
+  "4060": {
+    "municipality": "Lejre",
+    "name": "Kirke Såby",
+    "coords": [
+      55.65437818,
+      11.87375746
+    ]
+  },
   "4070": {
     "municipality": "Lejre",
     "name": "Kirke Hyllinge",
@@ -789,6 +4685,14 @@
     "coords": [
       55.43053197,
       11.82805925
+    ]
+  },
+  "4130": {
+    "municipality": "Roskilde",
+    "name": "Viby Sjælland",
+    "coords": [
+      55.55011926,
+      12.00904287
     ]
   },
   "4140": {
@@ -815,6 +4719,14 @@
       11.67300466
     ]
   },
+  "4173": {
+    "municipality": "Sorø",
+    "name": "Fjenneslev",
+    "coords": [
+      55.43261731,
+      11.66419067
+    ]
+  },
   "4174": {
     "municipality": "Ringsted",
     "name": "Jystrup Midtsj",
@@ -829,6 +4741,14 @@
     "coords": [
       55.40880423,
       11.55727004
+    ]
+  },
+  "4190": {
+    "municipality": "Sorø",
+    "name": "Munke Bjergby",
+    "coords": [
+      55.50160113,
+      11.52243487
     ]
   },
   "4200": {
@@ -879,12 +4799,36 @@
       11.46287897
     ]
   },
+  "4244": {
+    "municipality": "Slagelse",
+    "name": "Agersø",
+    "coords": [
+      55.22799697,
+      11.12804101
+    ]
+  },
+  "4245": {
+    "municipality": "Slagelse",
+    "name": "Omø",
+    "coords": [
+      55.1182759,
+      11.15794643
+    ]
+  },
   "4250": {
     "municipality": "Næstved",
     "name": "Fuglebjerg",
     "coords": [
       55.31864081,
       11.55229442
+    ]
+  },
+  "4261": {
+    "municipality": "Slagelse",
+    "name": "Dalmose",
+    "coords": [
+      55.28221993,
+      11.42947642
     ]
   },
   "4262": {
@@ -935,12 +4879,28 @@
       11.57749201
     ]
   },
+  "4296": {
+    "municipality": "Sorø",
+    "name": "Nyrup",
+    "coords": [
+      55.54056312,
+      11.6485466
+    ]
+  },
   "4300": {
     "municipality": "Holbæk",
     "name": "Holbæk",
     "coords": [
       55.73825064,
       11.69985606
+    ]
+  },
+  "4305": {
+    "municipality": "Holbæk",
+    "name": "Orø",
+    "coords": [
+      55.78240201,
+      11.80968567
     ]
   },
   "4320": {
@@ -965,6 +4925,22 @@
     "coords": [
       55.61818163,
       11.74532267
+    ]
+  },
+  "4350": {
+    "municipality": "Holbæk",
+    "name": "Ugerløse",
+    "coords": [
+      55.59017034,
+      11.64996808
+    ]
+  },
+  "4360": {
+    "municipality": "Holbæk",
+    "name": "Kirke Eskilstrup",
+    "coords": [
+      55.56442046,
+      11.78695601
     ]
   },
   "4370": {
@@ -1013,6 +4989,30 @@
     "coords": [
       55.61622153,
       11.38733175
+    ]
+  },
+  "4460": {
+    "municipality": "Kalundborg",
+    "name": "Snertinge",
+    "coords": [
+      55.6969919,
+      11.37072627
+    ]
+  },
+  "4470": {
+    "municipality": "Kalundborg",
+    "name": "Svebølle",
+    "coords": [
+      55.65722471,
+      11.29429706
+    ]
+  },
+  "4480": {
+    "municipality": "Kalundborg",
+    "name": "Store Fuglede",
+    "coords": [
+      55.5741086,
+      11.15168308
     ]
   },
   "4490": {
@@ -1079,6 +5079,22 @@
       11.56036901
     ]
   },
+  "4571": {
+    "municipality": "Odsherred",
+    "name": "Grevinge",
+    "coords": [
+      55.79587455,
+      11.58697448
+    ]
+  },
+  "4572": {
+    "municipality": "Odsherred",
+    "name": "Nørre Asmindrup",
+    "coords": [
+      55.88038731,
+      11.62326767
+    ]
+  },
   "4573": {
     "municipality": "Odsherred",
     "name": "Højby",
@@ -1093,6 +5109,14 @@
     "coords": [
       56.01043371,
       11.71725292
+    ]
+  },
+  "4583": {
+    "municipality": "Odsherred",
+    "name": "Sjællands Odde",
+    "coords": [
+      56.08627395,
+      11.26204837
     ]
   },
   "4591": {
@@ -1111,12 +5135,28 @@
       11.03916639
     ]
   },
+  "4593": {
+    "municipality": "Kalundborg",
+    "name": "Eskebjerg",
+    "coords": [
+      55.7277303,
+      11.23692126
+    ]
+  },
   "4600": {
     "municipality": "Køge",
     "name": "Køge",
     "coords": [
       55.45527126,
       12.22015308
+    ]
+  },
+  "4621": {
+    "municipality": "Roskilde",
+    "name": "Gadstrup",
+    "coords": [
+      55.5745913,
+      12.08017443
     ]
   },
   "4622": {
@@ -1189,6 +5229,14 @@
     "coords": [
       55.42088958,
       12.31112895
+    ]
+  },
+  "4672": {
+    "municipality": "Stevns",
+    "name": "Klippinge",
+    "coords": [
+      55.44595315,
+      12.4342892
     ]
   },
   "4673": {
@@ -1303,6 +5351,14 @@
       12.15645358
     ]
   },
+  "4772": {
+    "municipality": "Vordingborg",
+    "name": "Langebæk",
+    "coords": [
+      54.99961116,
+      12.08817698
+    ]
+  },
   "4773": {
     "municipality": "Vordingborg",
     "name": "Stensved",
@@ -1317,6 +5373,22 @@
     "coords": [
       54.9362949,
       12.31627561
+    ]
+  },
+  "4791": {
+    "municipality": "Vordingborg",
+    "name": "Borre",
+    "coords": [
+      54.97429881,
+      12.7284169
+    ]
+  },
+  "4792": {
+    "municipality": "Vordingborg",
+    "name": "Askeby",
+    "coords": [
+      54.7375487,
+      12.52545007
     ]
   },
   "4793": {
@@ -1391,12 +5463,36 @@
       11.98479974
     ]
   },
+  "4874": {
+    "municipality": "Guldborgsund",
+    "name": "Gedser",
+    "coords": [
+      54.49608541,
+      11.9502463
+    ]
+  },
   "4880": {
     "municipality": "Guldborgsund",
     "name": "Nysted",
     "coords": [
       54.62941506,
       11.74490279
+    ]
+  },
+  "4891": {
+    "municipality": "Guldborgsund",
+    "name": "Toreby L",
+    "coords": [
+      54.7578349,
+      11.77556621
+    ]
+  },
+  "4892": {
+    "municipality": "Guldborgsund",
+    "name": "Kettinge",
+    "coords": [
+      54.70725618,
+      11.74606046
     ]
   },
   "4894": {
@@ -1423,6 +5519,14 @@
       10.98835691
     ]
   },
+  "4912": {
+    "municipality": "Lolland",
+    "name": "Harpelunde",
+    "coords": [
+      54.90510445,
+      10.98695965
+    ]
+  },
   "4913": {
     "municipality": "Lolland",
     "name": "Horslunde",
@@ -1447,12 +5551,44 @@
       11.49815546
     ]
   },
+  "4941": {
+    "municipality": "Lolland",
+    "name": "Bandholm",
+    "coords": [
+      54.83767284,
+      11.49059609
+    ]
+  },
+  "4942": {
+    "municipality": "Lolland",
+    "name": "Askø",
+    "coords": [
+      54.89908661,
+      11.5111678
+    ]
+  },
   "4943": {
     "municipality": "Lolland",
     "name": "Torrig L",
     "coords": [
       55.05662783,
       11.36808859
+    ]
+  },
+  "4944": {
+    "municipality": "Lolland",
+    "name": "Fejø",
+    "coords": [
+      54.95857211,
+      11.4069268
+    ]
+  },
+  "4945": {
+    "municipality": "Lolland",
+    "name": "Femø",
+    "coords": [
+      54.9844243,
+      11.56847203
     ]
   },
   "4951": {
@@ -1615,12 +5751,36 @@
       10.53070411
     ]
   },
+  "5350": {
+    "municipality": "Kerteminde",
+    "name": "Rynkeby",
+    "coords": [
+      55.40654304,
+      10.62525952
+    ]
+  },
+  "5370": {
+    "municipality": "Kerteminde",
+    "name": "Mesinge",
+    "coords": [
+      55.48986232,
+      10.64470255
+    ]
+  },
   "5380": {
     "municipality": "Kerteminde",
     "name": "Dalby",
     "coords": [
       55.51715531,
       10.7017613
+    ]
+  },
+  "5390": {
+    "municipality": "Kerteminde",
+    "name": "Martofte",
+    "coords": [
+      55.61575822,
+      10.65770823
     ]
   },
   "5400": {
@@ -1773,6 +5933,30 @@
     "coords": [
       55.11203154,
       10.30952407
+    ]
+  },
+  "5601": {
+    "municipality": "Faaborg-Midtfyn",
+    "name": "Lyø",
+    "coords": [
+      55.02895047,
+      10.1289297
+    ]
+  },
+  "5602": {
+    "municipality": "Faaborg-Midtfyn",
+    "name": "Avernakø",
+    "coords": [
+      55.00930386,
+      10.2827681
+    ]
+  },
+  "5603": {
+    "municipality": "Faaborg-Midtfyn",
+    "name": "Bjørnø",
+    "coords": [
+      55.06201633,
+      10.25360285
     ]
   },
   "5610": {
@@ -1943,12 +6127,36 @@
       10.76263715
     ]
   },
+  "5882": {
+    "municipality": "Svendborg",
+    "name": "Vejstrup",
+    "coords": [
+      55.09510217,
+      10.79980106
+    ]
+  },
   "5883": {
     "municipality": "Svendborg",
     "name": "Oure",
     "coords": [
       55.11784585,
       10.77337328
+    ]
+  },
+  "5884": {
+    "municipality": "Svendborg",
+    "name": "Gudme",
+    "coords": [
+      55.1496317,
+      10.7120614
+    ]
+  },
+  "5892": {
+    "municipality": "Svendborg",
+    "name": "Gudbjerg Sydfyn",
+    "coords": [
+      55.15512414,
+      10.63638217
     ]
   },
   "5900": {
@@ -1967,6 +6175,30 @@
       10.63436277
     ]
   },
+  "5935": {
+    "municipality": "Langeland",
+    "name": "Bagenkop",
+    "coords": [
+      54.65753168,
+      10.66497262
+    ]
+  },
+  "5943": {
+    "municipality": "Langeland",
+    "name": "Strynø",
+    "coords": [
+      54.90089651,
+      10.58807706
+    ]
+  },
+  "5953": {
+    "municipality": "Langeland",
+    "name": "Tranekær",
+    "coords": [
+      55.06361655,
+      10.94268354
+    ]
+  },
   "5960": {
     "municipality": "Ærø",
     "name": "Marstal",
@@ -1975,12 +6207,28 @@
       10.51672958
     ]
   },
+  "5965": {
+    "municipality": "Ærø",
+    "name": "Birkholm",
+    "coords": [
+      54.9345412,
+      10.50923834
+    ]
+  },
   "5970": {
     "municipality": "Ærø",
     "name": "Ærøskøbing",
     "coords": [
       54.79716403,
       10.33601694
+    ]
+  },
+  "5985": {
+    "municipality": "Ærø",
+    "name": "Søby Ærø",
+    "coords": [
+      54.94375791,
+      10.21809442
     ]
   },
   "6000": {
@@ -2007,6 +6255,14 @@
       9.46401838
     ]
   },
+  "6052": {
+    "municipality": "Kolding",
+    "name": "Viuf",
+    "coords": [
+      55.58677181,
+      9.49835852
+    ]
+  },
   "6064": {
     "municipality": "Kolding",
     "name": "Jordrup",
@@ -2031,12 +6287,28 @@
       9.55990342
     ]
   },
+  "6092": {
+    "municipality": "Kolding",
+    "name": "Sønder Stenderup",
+    "coords": [
+      55.44711912,
+      9.65720072
+    ]
+  },
   "6093": {
     "municipality": "Kolding",
     "name": "Sjølund",
     "coords": [
       55.4068472,
       9.53828204
+    ]
+  },
+  "6094": {
+    "municipality": "Kolding",
+    "name": "Hejls",
+    "coords": [
+      55.38893478,
+      9.62026417
     ]
   },
   "6100": {
@@ -2053,6 +6325,14 @@
     "coords": [
       55.02899493,
       9.49975045
+    ]
+  },
+  "6210": {
+    "municipality": "Aabenraa",
+    "name": "Barsø",
+    "coords": [
+      55.1226369,
+      9.58941416
     ]
   },
   "6230": {
@@ -2111,6 +6391,22 @@
       9.68079394
     ]
   },
+  "6320": {
+    "municipality": "Sønderborg",
+    "name": "Egernsund",
+    "coords": [
+      54.90003298,
+      9.61059297
+    ]
+  },
+  "6330": {
+    "municipality": "Aabenraa",
+    "name": "Padborg",
+    "coords": [
+      54.84549059,
+      9.30983473
+    ]
+  },
   "6340": {
     "municipality": "Aabenraa",
     "name": "Kruså",
@@ -2135,6 +6431,14 @@
       9.14165594
     ]
   },
+  "6392": {
+    "municipality": "Aabenraa",
+    "name": "Bolderslev",
+    "coords": [
+      54.9843364,
+      9.20811159
+    ]
+  },
   "6400": {
     "municipality": "Sønderborg",
     "name": "Sønderborg",
@@ -2157,6 +6461,14 @@
     "coords": [
       54.98937381,
       10.00776445
+    ]
+  },
+  "6470": {
+    "municipality": "Sønderborg",
+    "name": "Sydals",
+    "coords": [
+      54.87308589,
+      10.03587811
     ]
   },
   "6500": {
@@ -2189,6 +6501,14 @@
     "coords": [
       55.12832485,
       9.15854853
+    ]
+  },
+  "6535": {
+    "municipality": "Tønder",
+    "name": "Branderup J",
+    "coords": [
+      55.12085206,
+      9.05916508
     ]
   },
   "6541": {
@@ -2407,6 +6727,14 @@
       8.79091021
     ]
   },
+  "6792": {
+    "municipality": "Tønder",
+    "name": "Rømø",
+    "coords": [
+      55.14881868,
+      8.29013955
+    ]
+  },
   "6800": {
     "municipality": "Varde",
     "name": "Varde",
@@ -2463,6 +6791,14 @@
       8.306516
     ]
   },
+  "6853": {
+    "municipality": "Varde",
+    "name": "Vejers Strand",
+    "coords": [
+      55.43289751,
+      5.24215492
+    ]
+  },
   "6854": {
     "municipality": "Varde",
     "name": "Henne",
@@ -2477,6 +6813,14 @@
     "coords": [
       55.70803366,
       8.37405373
+    ]
+  },
+  "6857": {
+    "municipality": "Varde",
+    "name": "Blåvand",
+    "coords": [
+      55.45206547,
+      6.6069035
     ]
   },
   "6862": {
@@ -2679,6 +7023,14 @@
       9.36512374
     ]
   },
+  "7183": {
+    "municipality": "Vejle",
+    "name": "Randbøl",
+    "coords": [
+      55.67810764,
+      9.26919785
+    ]
+  },
   "7184": {
     "municipality": "Vejle",
     "name": "Vandel",
@@ -2719,6 +7071,14 @@
       8.89341393
     ]
   },
+  "7270": {
+    "municipality": "Herning",
+    "name": "Stakroge",
+    "coords": [
+      55.89268974,
+      8.82814289
+    ]
+  },
   "7280": {
     "municipality": "Herning",
     "name": "Sønder Felding",
@@ -2733,6 +7093,14 @@
     "coords": [
       55.76853547,
       9.43589642
+    ]
+  },
+  "7321": {
+    "municipality": "Vejle",
+    "name": "Gadbjerg",
+    "coords": [
+      55.77031641,
+      9.31066038
     ]
   },
   "7323": {
@@ -2935,6 +7303,14 @@
       8.33928238
     ]
   },
+  "7741": {
+    "municipality": "Thisted",
+    "name": "Frøstrup",
+    "coords": [
+      57.39912576,
+      8.9170332
+    ]
+  },
   "7742": {
     "municipality": "Thisted",
     "name": "Vesløs",
@@ -3031,6 +7407,14 @@
       9.04159313
     ]
   },
+  "7884": {
+    "municipality": "Skive",
+    "name": "Fur",
+    "coords": [
+      56.84193567,
+      9.00553893
+    ]
+  },
   "7900": {
     "municipality": "Morsø",
     "name": "Nykøbing M",
@@ -3053,6 +7437,22 @@
     "coords": [
       56.76132134,
       8.56443606
+    ]
+  },
+  "7970": {
+    "municipality": "Morsø",
+    "name": "Redsted M",
+    "coords": [
+      56.73993747,
+      8.63946767
+    ]
+  },
+  "7980": {
+    "municipality": "Morsø",
+    "name": "Vils",
+    "coords": [
+      56.74842812,
+      8.72666914
     ]
   },
   "7990": {
@@ -3159,12 +7559,36 @@
       10.13924601
     ]
   },
+  "8320": {
+    "municipality": "Aarhus",
+    "name": "Mårslet",
+    "coords": [
+      56.0658713,
+      10.15312251
+    ]
+  },
   "8330": {
     "municipality": "Aarhus",
     "name": "Beder",
     "coords": [
       56.06302044,
       10.24584275
+    ]
+  },
+  "8340": {
+    "municipality": "Aarhus",
+    "name": "Malling",
+    "coords": [
+      56.02634501,
+      10.2151148
+    ]
+  },
+  "8350": {
+    "municipality": "Odder",
+    "name": "Hundslund",
+    "coords": [
+      55.90552571,
+      10.05739341
     ]
   },
   "8355": {
@@ -3247,6 +7671,14 @@
       10.45208963
     ]
   },
+  "8444": {
+    "municipality": "Syddjurs",
+    "name": "Balle",
+    "coords": [
+      56.20496905,
+      11.11035786
+    ]
+  },
   "8450": {
     "municipality": "Favrskov",
     "name": "Hammel",
@@ -3277,6 +7709,14 @@
     "coords": [
       56.21127538,
       10.01547147
+    ]
+  },
+  "8472": {
+    "municipality": "Favrskov",
+    "name": "Sporup",
+    "coords": [
+      56.20907595,
+      9.83610781
     ]
   },
   "8500": {
@@ -3351,6 +7791,14 @@
       10.74217288
     ]
   },
+  "8581": {
+    "municipality": "Syddjurs",
+    "name": "Nimtofte",
+    "coords": [
+      56.42793946,
+      10.53988094
+    ]
+  },
   "8585": {
     "municipality": "Norddjurs",
     "name": "Glesborg",
@@ -3365,6 +7813,14 @@
     "coords": [
       56.44956016,
       10.62703709
+    ]
+  },
+  "8592": {
+    "municipality": "Norddjurs",
+    "name": "Anholt",
+    "coords": [
+      56.77566641,
+      11.49010919
     ]
   },
   "8600": {
@@ -3437,6 +7893,14 @@
     "coords": [
       56.14838747,
       9.79899795
+    ]
+  },
+  "8680": {
+    "municipality": "Skanderborg",
+    "name": "Ry",
+    "coords": [
+      56.08481116,
+      9.71786836
     ]
   },
   "8700": {
@@ -3535,12 +7999,36 @@
       9.41496508
     ]
   },
+  "8781": {
+    "municipality": "Hedensted",
+    "name": "Stenderup",
+    "coords": [
+      55.79039351,
+      9.80232769
+    ]
+  },
   "8783": {
     "municipality": "Hedensted",
     "name": "Hornsyld",
     "coords": [
       55.76234096,
       9.85180061
+    ]
+  },
+  "8789": {
+    "municipality": "Horsens",
+    "name": "Endelave",
+    "coords": [
+      55.75329623,
+      10.30820541
+    ]
+  },
+  "8799": {
+    "municipality": "Odder",
+    "name": "Tunø",
+    "coords": [
+      55.9486075,
+      10.44454187
     ]
   },
   "8800": {
@@ -3943,6 +8431,14 @@
       9.65450533
     ]
   },
+  "9492": {
+    "municipality": "Jammerbugt",
+    "name": "Blokhus",
+    "coords": [
+      57.25739854,
+      9.57722094
+    ]
+  },
   "9493": {
     "municipality": "Jammerbugt",
     "name": "Saltum",
@@ -4045,6 +8541,14 @@
     "coords": [
       56.69297871,
       9.4967184
+    ]
+  },
+  "9631": {
+    "municipality": "Vesthimmerlands",
+    "name": "Gedsted",
+    "coords": [
+      56.69090841,
+      9.36542938
     ]
   },
   "9632": {
@@ -4181,6 +8685,14 @@
     "coords": [
       57.51074154,
       10.52915912
+    ]
+  },
+  "9981": {
+    "municipality": "Frederikshavn",
+    "name": "Jerup",
+    "coords": [
+      57.53549926,
+      10.43874206
     ]
   },
   "9982": {

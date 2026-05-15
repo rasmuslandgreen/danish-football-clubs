@@ -16716,7 +16716,10 @@ export const clubs = [
     "kitAwaySocks": null,
     "logo": null,
     "kaldenavn": null,
-    "coords": null
+    "coords": [
+      54.87308589,
+      10.03587811
+    ]
   },
   {
     "name": "Hørve IF",
@@ -21413,7 +21416,10 @@ export const clubs = [
     "kitAwaySocks": null,
     "logo": "assets/logos/847.png",
     "kaldenavn": null,
-    "coords": null
+    "coords": [
+      54.87308589,
+      10.03587811
+    ]
   },
   {
     "name": "Lystrup IF",
@@ -24246,9 +24252,9 @@ export const clubs = [
     "postal": "5000",
     "region": "Fyn",
     "dbuId": 1458,
-    "primaryColor": null,
-    "secondaryColor": "#0055a4",
-    "kitStyle": null,
+    "primaryColor": "#0055a4",
+    "secondaryColor": "#ffffff",
+    "kitStyle": "stripes-v",
     "email": "je@obfodbold.dk",
     "website": "http://www.obfodbold.dk/",
     "phone": "2062 2658",
@@ -31585,7 +31591,10 @@ export const clubs = [
     "kitAwaySocks": null,
     "logo": "assets/logos/1266.png",
     "kaldenavn": null,
-    "coords": null
+    "coords": [
+      55.65437818,
+      11.87375746
+    ]
   },
   {
     "name": "Tangsø fS",
