@@ -7739,10 +7739,10 @@
     "postal": "3520",
     "region": "Sjælland",
     "dbuId": 1008,
-    "primaryColor": null,
-    "secondaryColor": "#001f5b",
-    "kitStyle": null,
-    "logo": null,
+    "primaryColor": "#fecb3e",
+    "secondaryColor": "#b51a00",
+    "kitStyle": "stripes-v",
+    "logo": "assets/logos/1008.png",
     "email": "post@farum-boldklub.dk",
     "website": "http://www.farum-boldklub.dk/",
     "phone": null,
@@ -8217,7 +8217,7 @@
     "primaryColor": "#6ab4f5",
     "secondaryColor": "#ffffff",
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/1781.png",
     "email": "kr@fchtalent.dk",
     "website": "http://www.fchtalent.dk/",
     "phone": "6131 7685",
@@ -13219,10 +13219,10 @@
     "postal": "3500",
     "region": "Sjælland",
     "dbuId": 1054,
-    "primaryColor": null,
+    "primaryColor": "#ffffff",
     "secondaryColor": "#0055a4",
-    "kitStyle": null,
-    "logo": null,
+    "kitStyle": "stripes-v",
+    "logo": "assets/logos/1054.png",
     "email": "info@hareskovif.dk",
     "website": "http://www.hareskovif.dk/",
     "phone": null,
@@ -13236,7 +13236,8 @@
     "coords": [
       55.77912974,
       12.35591788
-    ]
+    ],
+    "abbreviation": "HIF"
   },
   {
     "name": "Harlev IK",
@@ -13272,7 +13273,7 @@
     "primaryColor": "#008000",
     "secondaryColor": "#008000",
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/721.png",
     "email": "Jimmikjeldsen@live.dk",
     "website": "http://www.hartegif.dk/",
     "phone": "7553 1322",
@@ -13947,7 +13948,7 @@
     "primaryColor": "#ffffff",
     "secondaryColor": "#0055a4",
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/1068.png",
     "email": "hi@hifodbold.dk",
     "website": "http://www.herlevif.dk/",
     "phone": "2856 5628",
@@ -15396,8 +15397,8 @@
     "dbuId": 541,
     "primaryColor": "#ffffff",
     "secondaryColor": "#cc0000",
-    "kitStyle": null,
-    "logo": null,
+    "kitStyle": "plain",
+    "logo": "assets/logos/541.png",
     "email": "formand@hornsletfodbold.dk",
     "website": "http://www.hornslet-if-fodbold.dk/",
     "phone": "+4520816565",
@@ -17072,7 +17073,7 @@
     "primaryColor": "#0055a4",
     "secondaryColor": "#000000",
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/986.png",
     "email": "dreyer.thomas@yahoo.dk",
     "website": "http://www.if-bytoften.dk/",
     "phone": "5211 9075",
@@ -19400,7 +19401,7 @@
     "primaryColor": "#ffffff",
     "secondaryColor": "#0055a4",
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/567.png",
     "email": "fl@kolding-if.dk",
     "website": "http://www.kif-fodbold.dk/",
     "phone": "2166 6003",
@@ -26027,8 +26028,8 @@
     "dbuId": 1197,
     "primaryColor": "#ffffff",
     "secondaryColor": "#0055a4",
-    "kitStyle": null,
-    "logo": null,
+    "kitStyle": "plain",
+    "logo": "assets/logos/1197.png",
     "email": "rb1906@rb1906.dk",
     "website": "http://www.rb1906.dk/",
     "phone": "4635 1906",
@@ -34503,8 +34504,8 @@
     "dbuId": 431,
     "primaryColor": "#0055a4",
     "secondaryColor": "#0055a4",
-    "kitStyle": null,
-    "logo": null,
+    "kitStyle": "plain",
+    "logo": "assets/logos/431.png",
     "email": "vskaarhus@vskaarhus.dk",
     "website": "http://www.vskaarhus.dk/",
     "phone": "2096 0339 (Formand)",
@@ -34518,7 +34519,8 @@
     "coords": [
       56.18719668,
       10.24680782
-    ]
+    ],
+    "abbreviation": "VSK"
   },
   {
     "name": "Vejle B",
@@ -36553,7 +36555,7 @@
     "dbuId": 1317,
     "primaryColor": "#0055a4",
     "secondaryColor": "#ffffff",
-    "kitStyle": null,
+    "kitStyle": "plain",
     "logo": null,
     "email": "info@vbold.dk",
     "website": "http://www.vbold.dk/",
@@ -36568,7 +36570,8 @@
     "coords": [
       55.77912974,
       12.35591788
-    ]
+    ],
+    "abbreviation": "VBK"
   },
   {
     "name": "Værum GF",
