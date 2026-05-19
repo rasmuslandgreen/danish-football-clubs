@@ -1957,7 +1957,7 @@ export const clubs = [
     "dbuId": 1069,
     "primaryColor": "#6ab4f5",
     "secondaryColor": "#003399",
-    "kitStyle": null,
+    "kitStyle": "plain",
     "email": "b1973@b1973.dk",
     "website": "http://www.b1973.dk/",
     "phone": "4453 1973",
@@ -1967,7 +1967,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1069.png",
     "kaldenavn": null,
     "coords": [
       55.74057031,
