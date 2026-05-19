@@ -1961,8 +1961,8 @@
     "dbuId": 1069,
     "primaryColor": "#6ab4f5",
     "secondaryColor": "#003399",
-    "kitStyle": null,
-    "logo": null,
+    "kitStyle": "plain",
+    "logo": "assets/logos/1069.png",
     "email": "b1973@b1973.dk",
     "website": "http://www.b1973.dk/",
     "phone": "4453 1973",
@@ -1976,7 +1976,8 @@
     "coords": [
       55.74057031,
       12.42581802
-    ]
+    ],
+    "kitLocked": true
   },
   {
     "name": "B. 73, Slagelse",
@@ -4006,7 +4007,8 @@
     "coords": [
       55.64077611,
       12.52309722
-    ]
+    ],
+    "kitLocked": true
   },
   {
     "name": "Boldklubben Vestkysten",
