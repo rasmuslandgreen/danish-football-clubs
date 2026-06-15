@@ -9377,9 +9377,9 @@ export const clubs = [
     "postal": "5240",
     "region": "Fyn",
     "dbuId": 3155,
-    "primaryColor": "#000000",
-    "secondaryColor": "#000000",
-    "kitStyle": null,
+    "primaryColor": "#0056d6",
+    "secondaryColor": "#ffffff",
+    "kitStyle": "plain",
     "email": "fiukungdomsklubben@gmail.com",
     "website": null,
     "phone": "5181 4456",
@@ -9389,8 +9389,8 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
-    "kaldenavn": null,
+    "logo": "assets/logos/3155.png",
+    "kaldenavn": "FIUK",
     "coords": [
       55.42123207,
       10.44332209
@@ -22689,7 +22689,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/593.png",
     "kaldenavn": null,
     "coords": [
       56.20167527,
