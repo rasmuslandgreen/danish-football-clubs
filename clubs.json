@@ -9393,10 +9393,10 @@
     "postal": "5240",
     "region": "Fyn",
     "dbuId": 3155,
-    "primaryColor": "#000000",
-    "secondaryColor": "#000000",
-    "kitStyle": null,
-    "logo": null,
+    "primaryColor": "#0056d6",
+    "secondaryColor": "#ffffff",
+    "kitStyle": "plain",
+    "logo": "assets/logos/3155.png",
     "email": "fiukungdomsklubben@gmail.com",
     "website": null,
     "phone": "5181 4456",
@@ -9410,7 +9410,9 @@
     "coords": [
       55.42123207,
       10.44332209
-    ]
+    ],
+    "abbreviation": "FI",
+    "kaldenavn": "FIUK"
   },
   {
     "name": "Fjelsted/Harndrup IF",
@@ -22703,7 +22705,7 @@
     "primaryColor": null,
     "secondaryColor": "#000000",
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/593.png",
     "email": "nikolaj.thomas.zinner@gmail.com",
     "website": "http://www.nb93.dk/",
     "phone": null,
