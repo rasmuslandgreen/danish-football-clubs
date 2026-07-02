@@ -1,6 +1,6 @@
 {
   "name": "danish-football-clubs",
-  "version": "1.2.12",
+  "version": "1.2.13",
   "description": "Club data and DBU utilities for Danish youth football",
   "type": "module",
   "main": "index.js",
@@ -41,5 +41,8 @@
     "editor": "node scripts/editor-server.js",
     "sync-kits": "node scripts/syncKitContributions.js && node scripts/buildIndex.js",
     "release": "git push origin main && git push origin v$npm_package_version"
+  },
+  "dependencies": {
+    "google-play-scraper": "^10.1.3"
   }
 }

@@ -29339,7 +29339,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1238.png",
     "kaldenavn": null,
     "coords": [
       55.5150734,
