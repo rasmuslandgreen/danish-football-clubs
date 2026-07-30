@@ -1332,7 +1332,7 @@ export const clubs = [
     "dbuId": 439,
     "primaryColor": "#ffffff",
     "secondaryColor": "#0055a4",
-    "kitStyle": null,
+    "kitStyle": "plain",
     "email": "Lenemw.henriksen1967@gmail.com",
     "website": "http://www.as-if.dk/",
     "phone": null,
@@ -1342,7 +1342,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/439.png",
     "kaldenavn": null,
     "coords": [
       55.76046689,
