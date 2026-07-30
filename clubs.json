@@ -1337,8 +1337,8 @@
     "dbuId": 439,
     "primaryColor": "#ffffff",
     "secondaryColor": "#0055a4",
-    "kitStyle": null,
-    "logo": null,
+    "kitStyle": "plain",
+    "logo": "assets/logos/439.png",
     "email": "Lenemw.henriksen1967@gmail.com",
     "website": "http://www.as-if.dk/",
     "phone": null,
@@ -1352,7 +1352,8 @@
     "coords": [
       55.76046689,
       10.02918372
-    ]
+    ],
+    "abbreviation": "AIF"
   },
   {
     "name": "ASA, Aarhus",
