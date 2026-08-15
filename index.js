@@ -17214,7 +17214,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/586.png",
     "kaldenavn": null,
     "coords": [
       56.09903701,
@@ -18414,7 +18414,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1955.png",
     "kaldenavn": null,
     "coords": [
       56.32799021,
@@ -27464,7 +27464,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1497.png",
     "kaldenavn": null,
     "coords": [
       55.01443666,
