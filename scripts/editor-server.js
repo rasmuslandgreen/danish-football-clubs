@@ -1337,7 +1337,7 @@ async function applyConflictChoice(clubName, opt) {
         kitStyle:       opt.kit_style ?? 'plain',
         abbreviation:   null,
         kaldenavn:      null,
-        kitLocked:      false,
+        kitLocked:      true,
       }),
     });
     if (!res.ok) throw new Error(await res.text());
