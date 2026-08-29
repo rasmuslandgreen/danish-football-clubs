@@ -1,0 +1,304 @@
+[
+  {
+    "dbuId": 1537,
+    "name": "AB Tårnby",
+    "bydel": "Amager",
+    "indmeldelse-url": "https://www.abtaarnby.dk/medlemskab/indmeldelse/",
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1542,
+    "name": "Bispebjerg Boldklub",
+    "bydel": "Nørrebro/Bispebjerg og Nordvest",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 3742,
+    "name": "BK Frem (professional)",
+    "bydel": "Vesterbro/Valby",
+    "manual": true,
+    "note": "Professionel klub — sandsynligvis ikke relevant for børnefodbold"
+  },
+  {
+    "dbuId": 1533,
+    "name": "Boldklubben 1903",
+    "bydel": "Gentofte",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1534,
+    "name": "Boldklubben 1908",
+    "bydel": "Amager",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1532,
+    "name": "Boldklubben af 1893",
+    "bydel": "Indre by og Østerbro",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1599,
+    "name": "Boldklubben Fix",
+    "bydel": "Brønshøj/Vanløse",
+    "indmeldelse-url": "https://www.boldklubbenfix.dk/klubben/medlemskab-og-kontingent/",
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1553,
+    "name": "Boldklubben Fremad Amager",
+    "bydel": "Amager",
+    "indmeldelse-url": "https://www.fremad-amager.dk/fremad-amager/indmeldelse/",
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1554,
+    "name": "Boldklubben Fremad Valby",
+    "bydel": "Vesterbro/Valby",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1560,
+    "name": "Boldklubben Hekla",
+    "bydel": "Amager",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1578,
+    "name": "Boldklubben Rødovre",
+    "bydel": "Rødovre",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1581,
+    "name": "Boldklubben Skjold",
+    "bydel": "Indre by og Østerbro",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1582,
+    "name": "Boldklubben Stefan",
+    "bydel": "Brønshøj/Vanløse",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1586,
+    "name": "Boldklubben Union",
+    "bydel": "Nørrebro/Bispebjerg og Nordvest",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1590,
+    "name": "Boldklubben Vestia",
+    "bydel": "Vesterbro/Valby",
+    "manual": true,
+    "note": "Bespoke hold-finder: https://www.vestia.dk/find-hold/ — kræver manuel indtastning"
+  },
+  {
+    "dbuId": 1543,
+    "name": "Brønshøj Boldklub",
+    "bydel": "Brønshøj/Vanløse",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1544,
+    "name": "Christianshavns Idræts Klub",
+    "bydel": "Amager",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1548,
+    "name": "Dragør Boldklub",
+    "bydel": "Amager",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1546,
+    "name": "FA 2000",
+    "bydel": "Frederiksberg",
+    "indmeldelse-url": "https://www.frederiksbergalliancen.dk/medlemskab/meld-dig-ind-i-fa-2000/",
+    "venteliste-url": "https://www.frederiksbergalliancen.dk/medlemskab/opskrivning-til-venteliste/",
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1547,
+    "name": "FC Damsø",
+    "bydel": "Brønshøj/Vanløse",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1549,
+    "name": "Frederiksberg Boldklub",
+    "bydel": "Frederiksberg",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1556,
+    "name": "Gentofte-Vangede Idrætsforening",
+    "bydel": "Gentofte",
+    "indmeldelse-url": "https://www.gvi-fodbold.dk/om-gvi/medlemskab/indmeldelse/",
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1558,
+    "name": "Handelsstandens Boldklub",
+    "bydel": "Indre by og Østerbro",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1561,
+    "name": "Hellas",
+    "bydel": "Vesterbro/Valby",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1562,
+    "name": "Hellerup Idræts Klub",
+    "bydel": "Gentofte",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1563,
+    "name": "Husum Boldklub",
+    "bydel": "Brønshøj/Vanløse",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1564,
+    "name": "Hvidovre Idrætsforening",
+    "bydel": "Hvidovre",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1565,
+    "name": "Jægersborg Boldklub",
+    "bydel": "Gentofte",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1566,
+    "name": "Kastrup Boldklub",
+    "bydel": "Amager",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1569,
+    "name": "KFUMs Boldklub",
+    "bydel": "Nørrebro/Bispebjerg og Nordvest",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1567,
+    "name": "Kjøbenhavns Boldklub",
+    "bydel": "Frederiksberg",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1987,
+    "name": "Nørrebro United",
+    "bydel": "Nørrebro/Bispebjerg og Nordvest",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1579,
+    "name": "Skovshoved Idrætsforening",
+    "bydel": "Gentofte",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1583,
+    "name": "Sundby Boldklub",
+    "bydel": "Amager",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1587,
+    "name": "Valby Boldklub",
+    "bydel": "Vesterbro/Valby",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1588,
+    "name": "Vanløse Idræts Forening",
+    "bydel": "Brønshøj/Vanløse",
+    "indmeldelse-url": "https://www.vanloeseif.dk/medlemskab/indmeldelse/",
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 1595,
+    "name": "Østerbro Idræts Forening",
+    "bydel": "Indre by og Østerbro",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  },
+  {
+    "dbuId": 3358,
+    "name": "Aakanden GF",
+    "bydel": "Gentofte",
+    "indmeldelse-url": null,
+    "venteliste-url": null,
+    "proevetraening-url": null
+  }
+]

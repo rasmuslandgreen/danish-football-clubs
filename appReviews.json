@@ -1,0 +1,5378 @@
+{
+  "summary": {
+    "total": 532,
+    "gennemsnit": 2.82,
+    "fordeling": {
+      "1": 172,
+      "2": 89,
+      "3": 64,
+      "4": 75,
+      "5": 132
+    },
+    "andel1_2stjerner": 49.1,
+    "kategorier": {
+      "ros": 41,
+      "nedbrud_fejl": 108,
+      "login_adgang": 68,
+      "notifikationer": 28,
+      "ux_findbarhed": 29,
+      "sprog": 3
+    },
+    "topVersioner": [
+      [
+        "1.0.1",
+        31
+      ],
+      [
+        "3.28.4",
+        13
+      ],
+      [
+        "3.7.2",
+        11
+      ],
+      [
+        "2.7.4",
+        10
+      ],
+      [
+        "2.1.3.5",
+        10
+      ],
+      [
+        "2.1",
+        9
+      ],
+      [
+        "1.2.5",
+        9
+      ],
+      [
+        "6.2",
+        7
+      ]
+    ]
+  },
+  "reviews": [
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 5,
+      "version": "6.14.3",
+      "title": "Good",
+      "text": "I Think there is no problem but maybe it could get a little better\n\nSub to Stokbros",
+      "author": "Doulingo is ok",
+      "updated": "2026-06-15T11:16:36-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 5,
+      "version": "6.14.2",
+      "title": "god👍",
+      "text": "mega god app👍",
+      "author": "DeleteRthro",
+      "updated": "2026-05-11T09:32:30-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 3,
+      "version": "6.14.2",
+      "title": "Fin app",
+      "text": "Egentlig en meget fin app til fodbold osv. Men hold op hvor er jeg træt af alle de opdateringer. Der er en opdatering mindst 1 gang om måneden. Nogle gange flere. Stop nu. Der er ikke noget som helst der ændre sig. Det er så sjældent det er en opdatering hvor noget visuelt ændre sig. Lad nu vær med at lave så mange opdateringer",
+      "author": "OlleHD2007",
+      "updated": "2026-05-11T08:56:57-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 5,
+      "version": "6.14",
+      "title": "En god app",
+      "text": "Det er en rigtig god app som viser at hvad du har brug for i dit fodbold liv",
+      "author": "Ennis Farizi klare",
+      "updated": "2026-05-06T04:25:32-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 2,
+      "version": "6.12",
+      "title": "Data kan ikke hentes",
+      "text": "Jeg oplever ca hver anden gang af appen ikke kan hente data, den lukker ned. Som admin af et fodboldhold er det ret træls. Der bør virkelig arbejdes på stabiliteten.",
+      "author": "Kezia Nyrup",
+      "updated": "2026-04-25T21:15:42-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 5,
+      "version": "6.12",
+      "title": "Virkelig god",
+      "text": "Alt fungerer fint fedt man kan se hvornår man skal træne og alt det der super god kvalitet",
+      "author": "Jsjbdv",
+      "updated": "2026-04-22T10:09:08-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.9.1",
+      "title": "Næsten lige så dårlig som Aula",
+      "text": "Det er ikke en app men en hjemmeside der er proppet ind i en app. Alt for mange mærkelige funktioner og underlig UX.",
+      "author": "tobias_85",
+      "updated": "2026-01-07T07:49:36-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 5,
+      "version": "6.9.1",
+      "title": "FIN APP",
+      "text": "DEN ER GOD MEN REKALMERNE ØDELÆGGER DET",
+      "author": "DBULOVER",
+      "updated": "2026-01-06T22:39:44-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 2,
+      "version": "6.9",
+      "title": "Kontaktpersoner og børn ???",
+      "text": "Prøver at sætte app op men det med at få Sine børn ind er super u-intuitivt! Min kone er derinde og børn men jeg har fået app op at køre efterfølgende . Har fået min kone over som kontaktperson, men hvorfor følger børnene ikke med ???",
+      "author": "jasdk83",
+      "updated": "2025-11-29T23:21:55-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 4,
+      "version": "6.8",
+      "title": "God",
+      "text": "Den er god men for at komme på 5 skal den registrere med det samme når man trykker",
+      "author": "Jenendkf",
+      "updated": "2025-10-16T05:35:30-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 2,
+      "version": "6.8",
+      "title": "2 på samme tid",
+      "text": "Kan det ikke blive lavet sådan at man kan have begge sine børn logget på app på samme tid så jeg ikke skal logge ud vær gang jeg skal se hvad deres træner skriver til os.",
+      "author": "Mjoer",
+      "updated": "2025-10-14T06:56:36-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 4,
+      "version": "6.7.1",
+      "title": "Den er rigtig god⚽️⚽️",
+      "text": "Men min app opdaterer ikke så meget så jeg ville bare lige hører hvordan jeg kan opdatere den. Men den er rigtig god. Også som mig selv (en spiller) er den god. Jeg kan fx se hvem der skal have snacks med og (mig som dommer ) hvem der skal dømme kampen. Men den opdaterer desværre ikke. Men jeg vil andbefale den her app til alle fodbold tosser⚽️",
+      "author": "Lubimo1234",
+      "updated": "2025-09-08T06:51:20-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 5,
+      "version": "6.7.1",
+      "title": "Super app",
+      "text": "Nem at bruge",
+      "author": "Signsen",
+      "updated": "2025-08-30T04:25:45-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 2,
+      "version": "6.7.1",
+      "title": "Lukker ned",
+      "text": "Når man prøver at oprette træningskamp - lukker appen ned \nDet er sk*de irriterende… det her ellers virket tidligere men nu kan jeg ikke længere oprette trænings kampe via appen",
+      "author": "Camilla Boxer",
+      "updated": "2025-08-29T05:15:32-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 5,
+      "version": "6.6.1",
+      "title": "Det er en simple app",
+      "text": "Til dem der ikke kan finde ud af at bruge den burde i nok bare spørge nogle fordi den er simple og nem mens du kan tilmelde din børn til kampe",
+      "author": "Andreas_Pedersen",
+      "updated": "2025-08-14T06:10:45-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.6",
+      "title": "Appen lukker konstant",
+      "text": "Appen lukker konstant",
+      "author": "Jens Nørager Larsen",
+      "updated": "2025-08-10T10:30:44-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.6",
+      "title": "Øv",
+      "text": "Så er den gal igen. Den går konstant ned i dag når man går ind på live.",
+      "author": "Vestergaard 15",
+      "updated": "2025-08-08T10:10:21-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.5.1",
+      "title": "Log ind",
+      "text": "Hvis du bliver logget ud kan du ikke blive logget ind igen, så siger den at du bare kan lave en ny adgangskode men det virker ikke så jeg kan ikke blive logget ind igen",
+      "author": "Marley 98",
+      "updated": "2025-07-02T02:33:09-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 5,
+      "version": "6.5",
+      "title": "Nice app",
+      "text": "Brug den her app",
+      "author": "ssssdsssš",
+      "updated": "2025-06-25T09:26:07-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.5",
+      "title": "Opdatering",
+      "text": "App lukker ned",
+      "author": "HansHytteballe",
+      "updated": "2025-06-19T10:26:33-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 5,
+      "version": "6.4.2",
+      "title": "Dejlig nem at bruge",
+      "text": "Appen er god og nem at bruge og den virker godt",
+      "author": "sakser",
+      "updated": "2025-04-16T06:21:31-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 4,
+      "version": "6.4.2",
+      "title": "Fin app",
+      "text": "Fin app men den hagger lidt for tit og går bare ud af appen nogen gange",
+      "author": "1hjaltep",
+      "updated": "2025-04-16T01:45:30-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.4.1",
+      "title": "Crashout",
+      "text": "Den her er app er så ødelagt. Den logger mig ud hele tiden, den kan åbenbart ikke huske mit log-in og den er så langsom, og til sidst smider den mig ud af appen.",
+      "author": "xbfbr f fj jfbbfnf",
+      "updated": "2025-04-02T14:03:01-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 5,
+      "version": "6.4.1",
+      "title": "Perfekt app",
+      "text": "Perfekt app fordi det er meget nemt at finde rundt i systemet",
+      "author": "Lavet af Gabriel",
+      "updated": "2025-04-02T12:23:23-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 3,
+      "version": "6.4",
+      "title": "Very good very nice",
+      "text": "Very good very nice",
+      "author": "Jeppe_max",
+      "updated": "2025-04-01T09:38:53-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 3,
+      "version": "6.2",
+      "title": "Beskeder",
+      "text": "I bør sørge for, at man også kan slette sendte beskeder. \nDet giver ingen mening at de ikke kan slettes.",
+      "author": "Lauge88",
+      "updated": "2025-03-16T02:21:15-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 2,
+      "version": "6.2",
+      "title": "Ok - but not great",
+      "text": "It’s not intuitive when using it for group messages or trying to find information that isn’t just your average overview of trainings and matches",
+      "author": "Ronronronron23",
+      "updated": "2025-03-14T00:33:20-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.2",
+      "title": "Ikke tilgængelig",
+      "text": "Overholder ikke tilgængelighedskrav. Tag et kig på WCAG overhold loven!\n\nEr totalt umulig og meget forvirrende at navigere rundt i.",
+      "author": "Nicolai Henriksen",
+      "updated": "2025-03-02T00:19:59-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 2,
+      "version": "6.2",
+      "title": "Rodet og forvirrende",
+      "text": "Jeg skal alene bruge app’en til at holde styr på min søns fodboldtræning og -kamp. Men app’en kræver at man nærmest er højtengageret  fodboldtosse. Brugervenligheden og overskueligheden er et sted i Rusland!",
+      "author": "Lytter1919",
+      "updated": "2025-02-25T22:38:56-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.2",
+      "title": "Ikke intuitivt app",
+      "text": "kan ikke finde ud af det med kontaktperson eller kampklar. Det er en ekstrem dårlig og u-intuitiv app.  \nDer burde være to knapper. Tilføj barn. Og indmeld på hold. Færdigt. Artikler og videoer om hvordan og hvorledes. Jeg kan ik mere.",
+      "author": "crityson",
+      "updated": "2025-02-06T08:15:48-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 4,
+      "version": "6.1",
+      "title": "Læst alle beskeder",
+      "text": "Hey. Kunne i ikke lige sætte funktionen på igen som hedder markere alle beskeder som læst. Den er forsvundet i jeres opdatering.",
+      "author": "Nygaard8000",
+      "updated": "2024-12-06T06:27:50-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 3,
+      "version": "6.1",
+      "title": "Kan ikke åbne app efter automatisk opdatering",
+      "text": "Kan ikke åbne app efter automatisk opdatering",
+      "author": "Løvet",
+      "updated": "2024-12-06T03:44:23-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.1",
+      "title": "Latterligt dårlig",
+      "text": "Uegnet til familier med flere forældre eller flere børn. Ubrugelig",
+      "author": "verofisher",
+      "updated": "2024-12-05T11:02:55-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 2,
+      "version": "6.0.3",
+      "title": "Ualmindeligt uoverskuelig",
+      "text": "Jeg synes at det er utrolig svært at navigere rundt i appen, og finde hold eller ligaer, samt lave favoritter. \nOg så er registreringsprocessen også super clunky, og tager flere dage.. det har jeg sørme aldrig oplevet før.",
+      "author": "Lemoso",
+      "updated": "2024-11-03T12:11:18-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 2,
+      "version": "6.0.3",
+      "title": "Ringe",
+      "text": "Det er meget vanskeligt at være forældre til flere fodboldbørn og bruge denne app. Man skal ind i en undermenu for at logge ud og når man logger ind med det andet barn, får man oftest en fejlmeddelse “Fejl i hentning af aktivitet”. \n\nMan bør lave en opdatering af appen, hvor man gør det nemmere at benytte flere brugere (da nogle har flere end et barn, der spiller fodbold og nogle også selv spiller).",
+      "author": "Umulig og ubrugelig app",
+      "updated": "2024-09-30T09:11:52-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 2,
+      "version": "6.0.3",
+      "title": "Uoverskuelig",
+      "text": "Jeg er desværre (heller) ikke fan af App’en efter sidste overhaling. Den fremstår som fodboldforældre-bruger, ikke særlig intuitiv eller smart. Kan se supporten svarer på anmeldelserne og indbyder til feedback på mail, så det gør at jeg sniger mig op på 2 stjerner. Hvis det så betyder at det faktisk bliver forbedret, så må antal stjerner selvfølgelig revurderes.",
+      "author": "Arboe",
+      "updated": "2024-09-25T08:38:13-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.0.2",
+      "title": "Dårligt system",
+      "text": "Jeg giver denne app 1 stjerne.\n\nAppen er utroligt dårligt sat op. Det virker, som om udviklerne har fokuseret på alt muligt unødvendigt i stedet for at prioritere funktionalitet og brugervenlighed. Den er rodet, svær at navigere i, og lever slet ikke op til forventningerne.",
+      "author": "HerkertmedH",
+      "updated": "2024-07-03T02:12:48-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.0",
+      "title": "Sikke en omgang l…",
+      "text": "Nu orker jeg ikke denne app mere den er blevet så besværlig og hvad ved jeg så ud med den.",
+      "author": "Ingolf 52",
+      "updated": "2024-06-17T13:00:23-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.0",
+      "title": "Crasher og ringe UX",
+      "text": "Ny opdatering har formået at gøre UX endnu værre end sidste sidste store UX opdatering. \n\nDenne gang crasher appen også når man forsøger at åbne den nye funktion “Mine stats”. \nBliver der overhovedet testet inden i lancerer opdateringer? Appen bliver kun værre hver gang der kommer noget nyt. \nSkuffende.",
+      "author": "Lieberkind333",
+      "updated": "2024-06-17T12:20:38-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 2,
+      "version": "6.0",
+      "title": "App crasher",
+      "text": "Lige opdateret app’en, som efter jeres mening skulle være fremragende. \n\nNu crasher den så bare som aldrig før :-/ \nKunne bedre lide den gamle version!",
+      "author": "Nynsen",
+      "updated": "2024-06-17T09:29:45-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 2,
+      "version": "5.4",
+      "title": "App crasher",
+      "text": "Jeg har i længere tid mødt beskeden på forsiden om, at jeg skal opdatere til den nye app. Men når jeg klikker på beskeden, crasher appen. Jeg kan heller ikke opdatere igennem AppStore, da den ikke mener der er en opdatering. Har også prøvet at slette app og installere igen. Men stadig samme problem.",
+      "author": "ronrondk",
+      "updated": "2024-04-28T04:26:45-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.3.2",
+      "title": "Dårligt",
+      "text": "Appen crasher hele tiden man kan ikke have den åbnet i mere end 40 sekunder uden at den fryser. \n\nAlt for mange reklamer det ødelægger det\n\nOg appen er rodet \nMen ellers fungerer appen som den skal",
+      "author": "Mads_Mm",
+      "updated": "2024-04-09T09:13:32-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.3",
+      "title": "Bøvl med DBU- app.",
+      "text": "Hej DAB uge. Jeg er en helt blind bror er den er fodbold app, så jeg kan følge med i min barndomsklub. Men jeg kan ikke komme ind og åbne sø, søgklub, tilføje favorit eller noget som helst der sker intet når jeg trykker på de forskellige knapper. Er der andre har dette problem? Og er det fordi at den er i karambolage med VoiceOver? jeg har prøvet at slette appen helt og installere igen. Jeg kan heller ikke opdatere den.",
+      "author": "nnmlkæk",
+      "updated": "2024-04-02T04:25:22-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.3",
+      "title": "Uoverskueligt",
+      "text": "Savner gamle app,hvor man kunne se flere dage samtidig. Kunne man lave sådan at man vælger i indstilinger om man vil se en dage eller flere dage?",
+      "author": "levirX",
+      "updated": "2024-03-23T03:57:37-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 3,
+      "version": "5.2.1",
+      "title": "En stor bøn",
+      "text": "Gør det meget gerne MEGET nemmere at skifte mellem profiler i appen. Det er møgbesværligt at skifte mellem sine fodboldspillende børns profiler",
+      "author": "BountyLalala",
+      "updated": "2024-02-28T04:24:51-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.2.1",
+      "title": "Skod app",
+      "text": "Virkelig en skod app med alt for mange ting man skal bruge en pc til",
+      "author": "Fedtøre1234",
+      "updated": "2024-02-01T13:03:38-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 3,
+      "version": "5.1.6",
+      "title": "Option to Change App Language to English",
+      "text": "Dear Team # the App must been good. Why I said must is due to the fact the app is only in Danish. Some Xpacts like us have a difficult time to copy paste from the app to Google translate which is definitely affecting our use of the app and the experience.\nMay we know if you can introduce the option to have English language for the app as well?\nThanks and Regards,\nYug",
+      "author": "Yug Krishna",
+      "updated": "2023-11-21T22:55:29-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.1.6",
+      "title": "Håbløs",
+      "text": "Der er absolut intet intuitivt over den app. Udviklerens svar på den massive kritik er at bede anmelder udpege hvor den halter. Min anbefaling er at lave en hurtig fokus gruppe og bed gruppen anvende app både fra et forældre og træner perspektiv. Så folder problematikken sig helt naturligt ud, den er gal på hele brugerfladen.",
+      "author": "Nordkap",
+      "updated": "2023-11-15T05:28:02-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.1.6",
+      "title": "Nye layout er virkelig uoverskuelig",
+      "text": "Det nye layout er virkelig blevet meget dårlig og uoverskuelig. Før kunne man komme hurtigere ind det man søgte/kiggede efter.",
+      "author": "yunus2310",
+      "updated": "2023-10-30T09:38:46-07:00"
+    },
+    {
+      "platform": "ios",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.1.2",
+      "title": "Appen 💥crasher når man vil se stilling 😳",
+      "text": "Jeg har ikke oplevet så mange crash med mine apps som jeg oplever med denne efter de seneste opdateringer. \n\nHvorfor kan man ikke længere se puljens kampprogram?\n\nEr også rimelig lang tid om at loade og især opdatere slettet beskeder. 🤔",
+      "author": "Wooddk",
+      "updated": "2023-10-02T11:16:48-07:00"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "6.14.3",
+      "title": "",
+      "text": "God, overskuelig app.",
+      "author": "Thomas Møller Hansen",
+      "updated": "2026-06-23T09:19:39.216Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "6.14.2",
+      "title": "",
+      "text": "Crasher 50 % af de gange, den åbnes. Funktionaliteten er ellers fin, når man endelig kommer ind, men den tager enormt lang tid om at kridte banen op.",
+      "author": "Kristian N",
+      "updated": "2026-05-13T23:04:51.530Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "6.11",
+      "title": "",
+      "text": "Pt (11-04-26) er der problemer med jeres ellers udmærkede app. Der popper alle mulige turneringer op fra 2012/13 og 14 og det hele sejler rundt derinde.",
+      "author": "En Google-bruger",
+      "updated": "2026-04-11T08:58:51.458Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.11",
+      "title": "",
+      "text": "Den er så uoverskueligt denne app.",
+      "author": "Michelle Skriver Klattrup",
+      "updated": "2026-04-09T17:38:54.569Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "6.9",
+      "title": "",
+      "text": "fantastisk app",
+      "author": "En Google-bruger",
+      "updated": "2026-01-07T19:03:40.943Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.8",
+      "title": "",
+      "text": "jeg får ikke nogen meddelelser.",
+      "author": "Jonas Nielsen",
+      "updated": "2025-11-11T07:45:46.299Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.7.1",
+      "title": "",
+      "text": "Jeg får ingen app notifikationer selvom det er slået til i appen.",
+      "author": "Dennis Højgaard",
+      "updated": "2025-09-25T13:55:41.134Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "6.7.1",
+      "title": "",
+      "text": "fantastisk der hjælper helt vildt meget med min fodbold træning og kampe",
+      "author": "Said",
+      "updated": "2025-09-23T13:36:54.121Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Rigtig dejlig App hvis jeg skulle sige det. den fungere godt",
+      "author": "Pierre Skipper",
+      "updated": "2025-08-31T05:10:04.673Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.6",
+      "title": "",
+      "text": "Så lusket at smide reklamer ind. Ingen respekt",
+      "author": "Mathias Kinder",
+      "updated": "2025-08-12T04:01:43.794Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.4.3",
+      "title": "",
+      "text": "det er svært at tilgå favoritter. ikke muligt at se deltagere på holdet. skal logge ind og ud før jeg kan deltage/framelde til kampen. dette er sket den sidste uges tid. der står flere gange \"menuen kan ikke hentes\"",
+      "author": "Peter Søgaard Kristensen",
+      "updated": "2025-05-13T03:52:57.574Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.4.3",
+      "title": "",
+      "text": "virker ikke optimalt..",
+      "author": "Tim Lemmon",
+      "updated": "2025-05-10T08:00:25.909Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "6.4.1",
+      "title": "",
+      "text": "dejlig app!",
+      "author": "Benjamin Petersen",
+      "updated": "2025-04-17T19:23:38.230Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.4.1",
+      "title": "",
+      "text": "appen er blevet mega irriterende og træls når man åbner den. Kommer med mulighed for \"rundtur\" i appen hver ENESTE gang den åbnes til trods for man klikke nej hertil. Virkelig pisse irriterende! Det må kunne gøres bedre .",
+      "author": "Helle F. Klarup",
+      "updated": "2025-04-05T12:38:12.861Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "6.4.1",
+      "title": "",
+      "text": "efter den nye opdatering, kan jeg ikke længere melde mit barn fra eks. træning og kamp? det er ikke længere en mulighed? hvordan kan det være?",
+      "author": "Marie Louise Farsø",
+      "updated": "2025-04-03T19:04:25.763Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "6.3.2",
+      "title": "",
+      "text": "det er godt",
+      "author": "Malik Kk",
+      "updated": "2025-04-01T13:27:10.340Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "6.2",
+      "title": "",
+      "text": "Hej igen det kan den ikke på tabletten den er låst uanset hvad",
+      "author": "John Lauridsen",
+      "updated": "2025-03-17T19:04:27.946Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "6.2",
+      "title": "",
+      "text": "Under ens pulje stilling, trykker jeg på en modstander for at se deres kampprogram men så fryser app'en og lukker ned. Har prøvet at afinstallere og installere app'en igen 😵",
+      "author": "Peter Sørensen",
+      "updated": "2025-01-19T10:12:11.966Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.0.2",
+      "title": "",
+      "text": "Mangler at kunne havde begge mine børn registreret i app. Under min profil, har begge registreret i deres egne app. Men kan ikke samle dem under min egen app./profil er der en løsning på dette. Man kan gøre i det i den app. Der hedder Holdsport i løbet af 2 min.",
+      "author": "Casper Aagaard",
+      "updated": "2024-11-23T20:09:24.303Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.0.2",
+      "title": "",
+      "text": "Det må være lavet af en abe uden logisk sans.",
+      "author": "T. Jørgensen",
+      "updated": "2024-11-22T14:47:11.279Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "6.0.2",
+      "title": "",
+      "text": "Hvem er den inkompetente idiot der har lavet denne app, jeg vil opfordre til at man fjerner den tåbe. Hvilken tosse opfinder et fodbold pas man ikke kan oprette til sit barn. Få styr på jeres elendighed",
+      "author": "Peter Hald",
+      "updated": "2024-08-04T16:28:20.165Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Det her hjælper en del",
+      "author": "Oliver Juhl-Kristensen",
+      "updated": "2024-07-20T06:33:10.765Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "5.4",
+      "title": "",
+      "text": "Er jeg den eneste der oplever appen bruger utrolig meget mobil data end f.eks. Facebook, som jeg bruger noget mere end Kampklar ? Jeg har prøvet at afinstallere appen. Hjælper ikke rigtig.",
+      "author": "Kasper Bendtsen",
+      "updated": "2024-06-07T06:52:31.821Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "5.4",
+      "title": "",
+      "text": "Spillerne er to gange på holdkortet, når jeg går i på mit kampprogram. Ellers er det en god app Henrik",
+      "author": "Henrik P Pedersen",
+      "updated": "2024-05-27T14:33:19.869Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "5.4",
+      "title": "",
+      "text": "Opdatering: Jeg må erkende at havde jeg læst guiden lidt grundigere første gang jeg læste den, så havde jeg fundet ud af det inden jeg anmeldte. Tak for svar, funktionen er der, jeg har derfor opdateret til 4 stjerner, og min irritation er væk :-) __________________________________________________________ Generelt en OK App, men det irriterer mig når der meldes en ny feature ud og så er den ikke med alligevel. I min udgave er det ikke muligt at gøre noget som helst med Spiller grupper i App.",
+      "author": "Michael Riis Ørskou",
+      "updated": "2024-05-06T07:11:36.921Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.4",
+      "title": "",
+      "text": "Det er simpelthen den dårligste app jeg nogensinde har prøvet. Det er umuligt at finde ud af hvordan man man som forældre tilmelder børn og finder hold til dem. Det er det omvendte af intuitivt. Det er en ommer!",
+      "author": "Søren Forsberg",
+      "updated": "2024-04-28T13:26:06.867Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "5.3.3",
+      "title": "",
+      "text": "Når jeg går på favoritter og vælger mit hold kommer jeg på kampprogram og så fryser den. Har prøvet at logge ud og ind igen. Afinstallere og geninstallere.. Intet hjælper. Har været sådan en uges tid. Update 1-4-24 efter svar fra DBU. Hej Grethe Den virker som før nu. Tak for det. Jeg har ændret min ene stjerne til 3. Appen er stadig meget rodet at finde rundt i sammenlignet med den gamle. Alt for tryk før man er inde ved sit favorithold. Men tak for at rette buggen så hurtigt i helligdagene",
+      "author": "Mikkel Scheufens Petersen",
+      "updated": "2024-04-01T15:07:48.827Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "5.3.3",
+      "title": "",
+      "text": "Har ikke kunne bruge app'en i flere uger. Den \"fryser\" HVER gang jeg forsøger at bruge den. Virkelig irriterende, når man som træner er blevet afhængig af app'en 👎👎👎 (Fejlen er rettet. Glimrende 👍👍👍",
+      "author": "Jesper Therkelsen",
+      "updated": "2024-04-01T11:07:06.668Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.3.3",
+      "title": "",
+      "text": "Når man går ind på en klub/søger rækker så fryser den på OnePlus 6 med version 11.1.2.2. Jeg havde ingen udfordringer før I opdateret jeres app.",
+      "author": "Thomas Amdisen",
+      "updated": "2024-04-01T06:30:34.290Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Umuligt at bruge app'en.. Skærmen fryser efter få sekunder",
+      "author": "jakob pedersen",
+      "updated": "2024-03-30T13:02:12.234Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.3.3",
+      "title": "",
+      "text": "Hvorfor kan jeg ikke se resultaterne længere",
+      "author": "Gert Nielsen",
+      "updated": "2024-03-30T12:33:18.430Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "5.3.3",
+      "title": "",
+      "text": "Hej jeg kan ikke gøre noget vis jeg går ind på en klub så går der 5 sekunder så fryser min skærm bare?",
+      "author": "Viggo Frederiksen",
+      "updated": "2024-03-28T17:40:12.631Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.3.3",
+      "title": "",
+      "text": "Virker ikke på min Nokia 6 nu går den på sort skærme efter at have opdatere. Virkerde før hilsen Henning Hansen",
+      "author": "Henning Hansen",
+      "updated": "2024-03-26T09:45:41.673Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "5.3.2",
+      "title": "",
+      "text": "Opdatering 😊 Efter længere tid med mail's, og forsøg på at løse mit problem ser det endelig ud til at være lykkedes at finde fejlen. Allerede her dagen efter ser det 👌 ud. Ingen unormal data/plads bliver brugt. Derfor også fuld plade ⭐ Har det sidste halve år haft problemer med at min mob. hele tiden meldte at hukommelsen var fuld. Jeg har slette apps, billeder, data osv. 1-2GB så var der ro en uge og så startede det forfra. Her til aften fandt jeg synderen \"DBU Fodbold\" app'en fyldte 30,4GB",
+      "author": "Johnny Pedersen",
+      "updated": "2024-03-13T12:03:13.897Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.3",
+      "title": "",
+      "text": "På dårligt jeg kan ikke come in🗿",
+      "author": "Hasan Yildirim",
+      "updated": "2024-03-10T13:34:34.410Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.3",
+      "title": "",
+      "text": "Bliver ikke logget ind med Facebook (hvorfor så tilbyde det?) - Har tjekket Facebook, tilladelsen er der, men jeg glor blot på login skærmen i app'en. Det er en ommer.",
+      "author": "Henrik Simonsen (Cybermaze)",
+      "updated": "2024-03-09T07:09:18.965Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "5.2",
+      "title": "",
+      "text": "Som træner og forældre er denne app ikke særlig brugervenlig. Simple ting som filtrering på Kamp, Træning, møde, stævne, mv. kan man ikke, og det er overbliks-killer. Sortering på meddelelser er også en by i Ukraine, for en mail om hvem, der lige melder fra til træning (ud af 50 på holdet) betyder ingenting, men det betyder alverden ved en kamp. 50 børn med tre træninger og kampe i weekenden er over 800 beskeder om måneden. Sortering i beskeder, tak. Ugens træningsprogram ikke som beskeder",
+      "author": "Mogens Andersen",
+      "updated": "2024-02-21T16:22:24.427Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "5.2",
+      "title": "",
+      "text": "Er lidt rodet og man kan ikke bruge swift keyboard i app.",
+      "author": "Bo Berglund",
+      "updated": "2024-01-18T21:24:51.490Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "5.1.7",
+      "title": "",
+      "text": "Ærgeligt at opgavefunktionen hvor man kan byde ind med f.eks. kørsel osv. er forsvundet. Den var yderst brugbar. Tilbage med den funktion. Derfor kun 2 stjerner",
+      "author": "Kaspar Fuglsang",
+      "updated": "2023-12-03T06:30:46.151Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "5.1.4",
+      "title": "",
+      "text": "Meget brugbar, men for mange fejl. Crasher flere gange under livekampe og mellem skifte i menuerne.",
+      "author": "Kasper Sandris",
+      "updated": "2023-10-26T15:19:46.963Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.1.4",
+      "title": "",
+      "text": "Før opdateringen / ny app oplevede jeg enkle udfald. Efter opdateringen virker det helt håbløst, synes ikke der går en weekend uden der er udfordringer med App'en. Det er meget skidt, når App'en er det værktøj DBU forventer vi dom træneren bruger til fx holdkort 😕",
+      "author": "Søren Lauritsen",
+      "updated": "2023-10-14T06:42:50.248Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.1.2",
+      "title": "",
+      "text": "Virkelig ringe uintuitiv app. Den er ikke blevet bedre efter opdatering vedr. layout osv.",
+      "author": "Ellen Villadsen",
+      "updated": "2023-10-11T09:23:22.351Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "5.1.2",
+      "title": "",
+      "text": "Fungerer fint og meget pænere rent grafisk end det var tidligere. Det eneste der kan irritere mig at man under \"Favoritter\" ikke bare lige kan fjerne hold igen. Så skal man ind og søge på holdet igen i søg hold/resultater, finde klubben og så scrolle ned og fjerne stjerne-markeringen.",
+      "author": "Bob Hope",
+      "updated": "2023-10-08T19:16:48.886Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "5.1.2",
+      "title": "",
+      "text": "Fantastisk app. Jeg oplever dog at træneren bruger alt for meget tid på, ikke at bryde reglerne, når han til næste kamp skal bruge spilleberettigede spillere.  Når holdkortene er udfyldt med korrekte navne, kunne det være en stor hjælp, hvis der var en farve, som indikerede hvis den enkelte ikke var spilleberettiget til næste kamp, i det tilfælde at spilleren skal spille på et andet hold i klubben. Det er især et problem med det korrekte antal af nedrykkede spillere fra et højere niveau.",
+      "author": "Jakob Horne",
+      "updated": "2023-10-07T11:36:39.739Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "5.1",
+      "title": "",
+      "text": "App'en bruger/gemmer utroligt meget data på min telefon. Pt er forbruget: App = 68 MB (OK) Data = 14,12 GB (What??) Hvordan kan det være?",
+      "author": "Carsten Just von Thun",
+      "updated": "2023-09-07T12:19:04.577Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "5.1",
+      "title": "",
+      "text": "Rigtig god app, nem at bruge. Jeg er dog lidt i tvivl hvordan jeg får to profiler oprettet? Begge mine børn går til fodbold, men jeg kan simpelthen ikke finde ud af, hvordan jeg får en ekstra profil på?",
+      "author": "Anne Sofie bkqqfqvuj7m6yluyteRasmussen",
+      "updated": "2023-09-06T12:07:50.974Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.1",
+      "title": "",
+      "text": "Efter få dages brug fylder app helt vildt på telefons lager. Så sletter vi data og telefon virker nogle dage igen.",
+      "author": "Jens Christiansen",
+      "updated": "2023-09-05T20:10:31.815Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.1",
+      "title": "",
+      "text": "Stopper konstant. Har geninstallerer mange gange. Kan ikke finde fejlen.",
+      "author": "Niklas Persson",
+      "updated": "2023-09-02T18:11:14.910Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "5.1",
+      "title": "",
+      "text": "Det er en udmærket app. Men jeg savner at min søn kan ha sit eget login med eget mobil nr. Nu kan han både lave om på profilen og det hele. Mangler en hvor barnet bare kan se hvem, hvad, hvor der spilles eller det er aflyst",
+      "author": "Bianca Clarke",
+      "updated": "2023-09-01T12:42:40.558Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.0.11",
+      "title": "",
+      "text": "kan ikke find og følge evt vejledning. fået meddelelse om ny i serien 3 senior fyn. Har først nu fundet ud af kampen evt. er aflyst pga ude ikke kan stille hold. og når man bruger livescoor bliver man usikker . og nu kan jeg ikke se hvad jeg skriver.",
+      "author": "Carl-Ove Bukhave",
+      "updated": "2023-08-19T11:59:59.842Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "5.0.11",
+      "title": "",
+      "text": "Efter opdatering kan man ikke tilmelde sig mere til kampe osv det er en ommer det virker ikke som jeres it ha tænkt det godt nok igennem",
+      "author": "Jesper Sjögren Jesper",
+      "updated": "2023-08-11T16:39:25.218Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "5.0.11",
+      "title": "",
+      "text": "Ustabil app som \"fryser\" hver gang man ville læse sin indpakke? Ellers en app med mange muligheder",
+      "author": "Ulrich Berggren Jensen",
+      "updated": "2023-07-27T08:10:17.305Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.0.11",
+      "title": "",
+      "text": "Træt af at jeg ikke kan få lov til at oprette en profil, bliver sendt tilbage til login hver gang, har nu tastet min mailadresse 5 gange.",
+      "author": "Linda E. Løvendahl Johansen",
+      "updated": "2023-07-18T13:05:14.370Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.0.11",
+      "title": "",
+      "text": "Jeg kan ikke se mine holds stillinger længere. Den er I øvrigt ikke særlig intuitiv.",
+      "author": "Nils Anders Krøyer",
+      "updated": "2023-07-02T10:44:53.779Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "5.0.9",
+      "title": "",
+      "text": "Appen bliver ved at sige at min app ikke er opdateret. Den er opdateret til nyeste version. Der er også prøvet at afinstallere og geninstallere. Intet hjælper.",
+      "author": "Jimmy Glatter",
+      "updated": "2023-06-18T11:56:46.716Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "5.0.9",
+      "title": "",
+      "text": "Den beder om opdatering men det virker ikke",
+      "author": "Marina Pedersen",
+      "updated": "2023-06-17T17:32:49.252Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "5.0.9",
+      "title": "",
+      "text": "Cool App c\",)",
+      "author": "Tommy Jørgsensen",
+      "updated": "2023-06-17T08:20:45.378Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "5.0.9",
+      "title": "",
+      "text": "Lukker hele tiden",
+      "author": "Louise Egedal Petersen",
+      "updated": "2023-06-17T07:39:21.309Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.0.9",
+      "title": "",
+      "text": "Er træt af opdateringer som ikke vil opdatere",
+      "author": "Jan Erik Helweg-Mikkelsen",
+      "updated": "2023-06-17T07:36:30.459Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "5.0.8",
+      "title": "",
+      "text": "Kan appen bruges til at \"gemme eller opbevare\" billetter til DBUs fodboldkampe som man har købt?",
+      "author": "L J",
+      "updated": "2023-06-14T16:11:45.698Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "5.0.6",
+      "title": "",
+      "text": "Fungerer igen",
+      "author": "En Google-bruger",
+      "updated": "2023-05-13T18:51:09.150Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.0.6",
+      "title": "",
+      "text": "Den nye app er nede meget af tiden, og layout mindre logisk end den gamle. Jeg er desværre ikke imponeret.",
+      "author": "Flemming Travn Rasmussen",
+      "updated": "2023-05-12T04:33:56.388Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "5.0.6",
+      "title": "",
+      "text": "Meget uoverskuelig, desværre en utrolig dårlig opdatering fra den gamle version",
+      "author": "Martin Kristensen",
+      "updated": "2023-05-06T21:16:41.590Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "5.0.5",
+      "title": "",
+      "text": "Absurd så ringe den app er blevet.. den er forvirrende. Ikke et direkte link til oprettelse af begivenhed. Den er rodet og slet ikke overskuelig. En kæmpe ommer. Nogen ting fungere fint. Derfor Får den ikke kun en stjerne.",
+      "author": "casper nancke",
+      "updated": "2023-05-01T20:58:32.576Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "5.0.5",
+      "title": "",
+      "text": "Er underligt blevet merkant dårligere for brugere da de informationer som man gerne vil have i et overskueligt layout er blevet mikset med den kommercielle del. Er blevet en meget stor reklame for OK og DBU.",
+      "author": "Tobias Birkemark Tångberg",
+      "updated": "2023-04-30T16:10:17.746Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "5.0.5",
+      "title": "",
+      "text": "Den nye version fungerer fint. Det var rart 😀",
+      "author": "Rune Bengtsson",
+      "updated": "2023-04-29T06:12:05.585Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "5.0.4",
+      "title": "",
+      "text": "Jeg havde virkelig håbet at jeg kunne styre meget mere selv efter ny app. 1) Jeg er tilknyttet et hold jeg aldrig har været spiller på. Ingen ved hvorfor jeg er der eller hvordan jeg kommer af holdet.. 2) Jeg kan ikke styre mine notifikationer på appen Hver gang en spiller ændrer status (til/framelder sig) på en aktivitet får jeg en besked på appen. Det resulterer i ca 20-30 beskeder ugentligt foruden ægte beskeder. 3) Jeg får ikke notifikationer på trods af rette indstillinger på app og tlf.",
+      "author": "Tanja Madsen",
+      "updated": "2023-04-26T06:10:02.381Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.0.4",
+      "title": "",
+      "text": "Appen bliver ved med at lukke ned.",
+      "author": "Simone Christiansen",
+      "updated": "2023-04-25T20:43:20.162Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.0.4",
+      "title": "",
+      "text": "Det må seriøst være en ommer! Hold da helt op, hvor er app'en blevet dårlig efter den er lavet om! Vil virkelig håbe, at den bliver lavet om igen, så det kan bliver nemt og overskueligt igen.. Ret ubrugelig som den er blevet lavet om til nu!",
+      "author": "K A",
+      "updated": "2023-04-23T15:14:46.887Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "",
+      "title": "",
+      "text": "Umiddelbart ikke lige så intuitiv som den tidligere udgave og oftest får man en fejl ved til/framelding - selvom knapperne er aktive.",
+      "author": "Thomas Nørgaard",
+      "updated": "2023-04-22T13:09:40.233Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.0.3",
+      "title": "",
+      "text": "Det nye design er umuligt at finde rundy i og det er ingen sammenhæng i hvordan det er sat op",
+      "author": "Jørgen Michaelsen",
+      "updated": "2023-04-20T12:32:54.452Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.0.1",
+      "title": "",
+      "text": "Går i sort når man åbner appen efter opdatering 😏",
+      "author": "Marlene Holck Rasmussen",
+      "updated": "2023-04-12T14:50:58.363Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "5.0.1",
+      "title": "",
+      "text": "Har svært ved at forstå man skal lave noget om der virker. Fair nok og gøre det bedre men hvorfor ændre design osv.??? Jeg kan ikke søge på navne eller andet når jeg forsøger at tilføje spillere til holdkort. Får bare besked på: \"ingen spillere at vise med de valgte søgekreterier\" og det er lige meget hvad jeg søger på årgang, hold, afdeling eller navn. Rimelig træls hvis man skal til en computer hver gang for at sætte hold men det må jeg jo gøre denne gang.",
+      "author": "Ole Nielsen",
+      "updated": "2023-04-12T11:38:06.918Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "5.0.1",
+      "title": "",
+      "text": "Hvor kunne det altså være fedt, hvis man kunne se stats tilbage i tiden, altså historik! I må have dataen et sted",
+      "author": "Palle Andersen",
+      "updated": "2023-04-12T09:29:37.306Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Efter opdateringen af app'en. Så lukker min telefon ned og går i stå inden den så efter 4 min igen køre. Og det samme sker bare igen når jeg trykker på app'en igen 😥",
+      "author": "Bjarne Petersen",
+      "updated": "2023-04-11T17:29:32.257Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Virker",
+      "author": "Boxer Cup Hildebrandt",
+      "updated": "2023-04-09T15:49:46.228Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.29.1",
+      "title": "",
+      "text": "Må desværre sige at der for store mangler i kampklar, hvis det skal være brugbart. Jeg har sat min op så jeg kun modtager beskeder, der er tilknyttet en kommentar til. Så får jeg godt nok også kun disse popup beskeder, men indbakken er stadig fuldt med alt mulig andet, så det er umuligt at vende tilbage til en besked. Desuden savner jeg også at hvis man har klarmeldt sig til flere hold i en spillerunde, så bliver man automatisk fjernet fra de andre kampe i samme runde.",
+      "author": "Kenneth Johansen",
+      "updated": "2023-03-23T20:05:06.928Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.29.1",
+      "title": "",
+      "text": "Jeg er kommet ind på app'en, men jeg kan ikke se min søns kampkalender og skrive beskeder til træner osv. Ved ikke rigtig hvordan jeg får ordnet det?",
+      "author": "Christina Suadicani",
+      "updated": "2023-03-21T14:58:30.267Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.29.1",
+      "title": "",
+      "text": "Er det muligt at når fx ens barn er udtaget til kamp (tilmeldt til kamp /træning) at trykke et sted så den ligger sig ind i sin Google kalender? (Det kan lade sig gøre mange andre steder i andre apps nemlig).",
+      "author": "Brian Probst",
+      "updated": "2023-02-26T20:48:33.972Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.29.1",
+      "title": "",
+      "text": "Savner at der kommer et ikon op, når der er nye beskeder i app'en.... Alle mine notifikationer er slået til - både i tlf og app... Men alligevel får jeg ikke notifikationer...",
+      "author": "Karina",
+      "updated": "2022-12-30T11:27:25.166Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Har 4 mailadresser. Den vil ikke godtage en eneste af dem som værende gyldig mailadresser. 2 Gmail konti 1 Yahoo konti og en teledk konto. Skod app",
+      "author": "Jan Sand",
+      "updated": "2022-11-15T14:12:25.820Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.28.5",
+      "title": "",
+      "text": "Rigtig god app som løser rigtig mange problemstillinger. Et minus er dog, at det ikke er muligt at sortere status ændringer fra i beskedcentret/indbakken i app'en. Jeg skal ugenligt slette 100-200 beskeder. Det er lidt ligegyldig information, da jo netop fremgår af kampklar, hvem der kommer eller ikke kommer.",
+      "author": "Casper Pedersen",
+      "updated": "2022-09-28T18:12:30.403Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.28.5",
+      "title": "",
+      "text": "Få nu lavet den app så den ikke går ud konstant.... nu har i haft lang tid til det og kan se masser der har samme problem... tak for svar. men kan fortælle det er med bpde denne ældre og også 2 nye den er gal med.. skrev keg også i andet kommentar... og vi er flere i vores klub der har problemer med jeres app.",
+      "author": "dennis larsen",
+      "updated": "2022-09-15T09:04:16.883Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.28.5",
+      "title": "",
+      "text": "Fedt at kunne holde styr på kampe/træning og andre aktiviteter",
+      "author": "Mads Nissen",
+      "updated": "2022-08-25T15:49:00.626Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.28.5",
+      "title": "",
+      "text": "Super kanon godt",
+      "author": "Brian Vejgaard",
+      "updated": "2022-08-24T06:57:16.337Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.28.5",
+      "title": "",
+      "text": "Er gået i stå, ved ikke om der er fejl eller om sæsonen ikke er startet ???",
+      "author": "Tukan Latifi",
+      "updated": "2022-08-11T22:19:00.652Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.28.5",
+      "title": "",
+      "text": "Godt",
+      "author": "Jacob Jørgensen",
+      "updated": "2022-07-06T13:49:07.875Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.28.4",
+      "title": "",
+      "text": "Den er gal med live opdateringer samt notifikationer fra samtlige beskeder fra Kampklar i hvert fald med Samsung s21 og S22 På begge telefoner kommer der ingen notifikationer, live opdateringer er alle slået til, men der kommer ingen Alt er slået til men intet sker",
+      "author": "Kenneth Colding",
+      "updated": "2022-06-19T11:38:44.497Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.28.4",
+      "title": "",
+      "text": "Den god",
+      "author": "Patrick Sørensen",
+      "updated": "2022-06-09T05:03:41.909Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.28.4",
+      "title": "",
+      "text": "Fungerer bare så godt 👍⚽",
+      "author": "Tina Persson",
+      "updated": "2022-06-06T18:04:46.456Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.28.4",
+      "title": "",
+      "text": "Hvordan kan en organisation som DBU med så mange midler ikke udvikle en nem og gratis app uden annoncer er mig en gåde. Billederne som er brugt, bruger venligheden er sket ikke hvor den skal være. Læs dog de reviews i får her og lav noget ordentligt som alle så vil bruge. Derefter kan i så bygge på af funktioner, det virker som noget lastværk man har fået lavet. Undskyld mit opkast, men når jeg tænker DBU, ser er dette under al kritik!",
+      "author": "P. J.",
+      "updated": "2022-05-21T17:23:56.362Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.19.3",
+      "title": "",
+      "text": "Man bruger mere tid på at se den loader, og ender i hvid skærm. End på at få de informationer man skal bruge. Der kommer ingen notifikationer på OnePlus 9 Android 12, selvom de er valgt til både i appen og android. Virkede fint inden opdateringen til android 12.",
+      "author": "En Google-bruger",
+      "updated": "2022-05-14T14:48:14.835Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.28.4",
+      "title": "",
+      "text": "Lorte app jeg kan måske lige få lov at trykke to gange på appen og så står den bare og søger og det er sket at jeg opdateret den den er jo total nytteløs",
+      "author": "Louie miles",
+      "updated": "2022-04-27T18:04:25.750Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.28.4",
+      "title": "",
+      "text": "Få nu fixet denne app. Den er som andre skriver. Den stå bare og søger og fryser. I påstå intet er galt. Men det er der.",
+      "author": "Brian Asmussen",
+      "updated": "2022-04-26T21:29:38.491Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.28.4",
+      "title": "",
+      "text": "Alt er langsomt og den står konstant og søger. Kamp programmet forsvinder og man kan ikke tilmelde til begivenhederne",
+      "author": "Tommy Knudsen",
+      "updated": "2022-04-26T10:55:25.191Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Er det den her app man bruger til at tilmelde sig til fodbold?",
+      "author": "Family Elden",
+      "updated": "2022-04-25T13:14:35.162Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.28.4",
+      "title": "",
+      "text": "Duer ikke 0 stjerner herfra",
+      "author": "Vedatdul Dul",
+      "updated": "2022-04-24T14:30:00.900Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.28.4",
+      "title": "",
+      "text": "Perfekt app var det inden opdatering nu står den og søger hele tiden eller fryser helt... så appen er langt fra brugbar for mig lige nu og det øv når man skal lave holdkort osv",
+      "author": "Martin Schmidt",
+      "updated": "2022-04-24T08:28:10.507Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.28.4",
+      "title": "",
+      "text": "Er jeg mon den eneste der ikke kan bruge app'en til holdkort mm????",
+      "author": "Mikael Sigaard",
+      "updated": "2022-04-22T12:53:34.435Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.28.4",
+      "title": "",
+      "text": "Super duper",
+      "author": "Michael Ruch Svendsen",
+      "updated": "2022-04-22T11:53:17.635Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.28.1",
+      "title": "",
+      "text": "Dur ikke igen",
+      "author": "Thomas Trudsø Poulsen",
+      "updated": "2022-04-21T17:09:33.134Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.28.4",
+      "title": "",
+      "text": "Oplever samme problemer som Rene, har opdateret, aginstalleret appen, opdateret telefonen samsung og haft den slukket. Den står bare og søger og så fryser den, så man skal lukke ned. Nogen gange skriver den ingen data i en pop-up. Det er kampklar, mine hold og holdkort jeg ikke kan tilgå ordentligt I browser fra telefonen virker det fint.",
+      "author": "Thomas Wolfram",
+      "updated": "2022-04-21T14:36:57.992Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.28.4",
+      "title": "",
+      "text": "Den står og søger hele tiden og kommer ikke frem med stilling, hold eller andet. Så fungere ikke så godt i øjeblikket 🤷🏻‍♂️",
+      "author": "Rene Sandberg",
+      "updated": "2022-04-21T07:33:07.700Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.28.3",
+      "title": "",
+      "text": "Hvad sker der for denne app, Den viser kampene på en meget mærkelig måde, er meget træt af denne app, skal gang på gang, gen installere",
+      "author": "carl hansen",
+      "updated": "2022-04-17T18:40:57.964Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.28.2",
+      "title": "",
+      "text": "Resultater og tidspunkter er væk ?? Og jeg skal ikke opdatere ??",
+      "author": "Charlotte Korfits Olsen",
+      "updated": "2022-04-15T12:21:37.811Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.28.2",
+      "title": "",
+      "text": "Efter seneste opdatering, er resultater forsvundet. De kommer kun frem, hvis jeg trykker ind på hver enkelte kamp?",
+      "author": "Rasmus Bjørn",
+      "updated": "2022-04-15T08:19:15.670Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.28.1",
+      "title": "",
+      "text": "Jeg kan stadig ikke tilgå Google maps via app'en sådan som jeg kunne i tidligere versioner. Hvornår bliver det rettet?",
+      "author": "Poul Tønder",
+      "updated": "2022-04-06T21:53:54.830Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.28.1",
+      "title": "",
+      "text": "Ved i hvordan jeg kan aktivere mine Stats",
+      "author": "Murat balikci",
+      "updated": "2022-04-06T18:49:09.479Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.28.1",
+      "title": "",
+      "text": "Google maps virker ikke på appen når man søger efter GPS viser ikke,men får besked om Google maps ikke er installeret eller er disabled",
+      "author": "RA Assad",
+      "updated": "2022-01-31T17:06:08.230Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.28.1",
+      "title": "",
+      "text": "På en eller anden måde har i fået slået alt stavekontrol, og tekstombrydning fra i kommentarfeltet på kampklar. Det er ret frustrerende.",
+      "author": "Jeppe Dyrby",
+      "updated": "2022-01-30T07:19:04.000Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.28",
+      "title": "",
+      "text": "Det er frækt",
+      "author": "Marcus Jensen",
+      "updated": "2021-10-31T15:15:49.827Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.28",
+      "title": "",
+      "text": "Jeg mangler en hurtig genvej til \"min klub\", hvor man får overblik over alle holdene i den klub man er indmeldt i. Den kan selvfølgelig tilgåes ved en søgning, men en hurtig adgang på forsiden ville være en lækker opdatering.",
+      "author": "Morten Andersen",
+      "updated": "2021-10-24T08:00:29.377Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "",
+      "title": "",
+      "text": "Jeg kan ikke komme ind på den",
+      "author": "Esrom Anine",
+      "updated": "2021-10-17T06:47:47.135Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.28",
+      "title": "",
+      "text": "God app, men mangler at kunne skifte mellem forskellige brugere inde i app. Nu er vi 3 der spiller fodbold i husstanden og man skal logge ud og ind hver gang man skal kigge.",
+      "author": "peter molbo",
+      "updated": "2021-10-05T13:31:37.989Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.27.2",
+      "title": "",
+      "text": "UPDATE 07.09.21 Ny telefon - nu får jeg ikke længere ikon fra appen (jo på den gamle kommer den) Forstår ikke hvad der går galt for får dem ikke på den nye😏 Får pludselig ikke længere notifikationer (lille ikon øverst på skærmen) når der er nye beskeder. Det gør at man ikke altid ser det og det gør at man kan 'glemme' at komme til et stævne - ikke særlig fedt. Så håber at det snart kommer til at fungere igen så man får besked så snart der er noget nyt Og jeg har slået alle notifikationer til!",
+      "author": "Christina Friis",
+      "updated": "2021-09-07T12:18:39.548Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.27.2",
+      "title": "",
+      "text": "God bedre bedst",
+      "author": "Peter Bach",
+      "updated": "2021-08-31T17:56:04.216Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.27.2",
+      "title": "",
+      "text": "Jeg synes at app'en er blevet rigtig god..",
+      "author": "Carsten Heiden Pedersen",
+      "updated": "2021-08-30T14:16:29.321Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.27.1",
+      "title": "",
+      "text": "Hej Igen. Det kan da ikke være meningen jeg skal gen installere min tlf?? Det jo jeres app som ikke fungere. Hvorfor kan jeg ikke se 1 pladser i puljerne mere ? Virkede for 4 dage siden. Har gen installeret den. Samme problem.",
+      "author": "Brian Levi Clemmensen",
+      "updated": "2021-08-20T12:30:09.915Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.26.1",
+      "title": "",
+      "text": "Fint",
+      "author": "Henrik Ernstsen",
+      "updated": "2021-06-24T19:03:25.255Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.9",
+      "title": "",
+      "text": "Kanon godt",
+      "author": "Henrik Boesgaard",
+      "updated": "2021-06-06T12:14:12.158Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.26",
+      "title": "",
+      "text": "Super app med alt du skal bruge",
+      "author": "Per Engelund",
+      "updated": "2021-05-28T07:43:33.854Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.25.2",
+      "title": "",
+      "text": "Kan ikke få officials på hold kortet. Fanen findes ikke.",
+      "author": "Britt Mears Petersen",
+      "updated": "2021-04-30T17:59:09.131Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.25.2",
+      "title": "",
+      "text": "Rodet, ustrukturet.",
+      "author": "Ulrik Nikolajsen",
+      "updated": "2021-04-24T16:27:16.380Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.25.2",
+      "title": "",
+      "text": "Ved tilmelding til træninger m.m.: I oversigten over træninger, kampe m.m. bør man allerede i oversigten kunne tilmelde sig aktiviteten ved en enkelt 'knap' på hver træning, kamp m.m. uden at man skal til at gå ind på hver aktivitet og der skulle trykke yderligere 2 gange for at blive tilmeldt.",
+      "author": "René H",
+      "updated": "2021-04-20T20:10:32.814Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.25.1",
+      "title": "",
+      "text": "Fed app, dog mangler kampklar delen nogen finpudsning. Hver gang jeg prøver at gå ind på kampklar så siger app'en at dataen ikke kan hentes. _______ Jeg har ikke længere problemer med at komme på kampklar",
+      "author": "Simon",
+      "updated": "2021-04-15T11:04:14.561Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.25",
+      "title": "",
+      "text": "Ok",
+      "author": "Walid Mohammd Amin Haji",
+      "updated": "2021-03-23T02:00:21.219Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.25",
+      "title": "",
+      "text": "Fungerer ikke sammen med min nye samsung s21",
+      "author": "Jørn Gudmann Nielsen",
+      "updated": "2021-03-12T16:41:45.992Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Jeg synes den her app er fantastisk app. 😀 Men jeg har ikke fået mint holdkort endnu. Mvh Solomun",
+      "author": "solomun habtom",
+      "updated": "2021-02-27T08:42:04.360Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Jeg skulle bruge 10 min på, at logge ind, også da jeg loggede ind skulle jeg logge ind igen og igen og igen og igen igen og igen og igen og igen",
+      "author": "Johannes Holmegaard",
+      "updated": "2020-11-28T10:43:39.884Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.21",
+      "title": "",
+      "text": "Mangler noget i min app. Jeg kan ikke redigere i kampfakta, når jeg forsøger bliver skærmen lidt grålig ????",
+      "author": "Michael Svenningsen",
+      "updated": "2020-10-03T04:44:46.638Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.21",
+      "title": "",
+      "text": "Er det her en beta version? Efter at have nulstillet adgangskoden utallige gange, får je stadig afvist mit login! /Claus",
+      "author": "Claus Anker",
+      "updated": "2020-09-28T16:43:06.842Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.20.3",
+      "title": "",
+      "text": "Meget dårligt app",
+      "author": "Amel Saric",
+      "updated": "2020-09-09T10:39:57.972Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.20.3",
+      "title": "",
+      "text": "Jeg bliver logget ud flere gange om dagen. Og først efter 15-20 forsøg accepteres brugernavn og password. Fix det for fanden!!!",
+      "author": "Thomas Hildebrand Christiansen",
+      "updated": "2020-09-02T15:40:54.420Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.20.2",
+      "title": "",
+      "text": "Det er ærgeligt når man sidder på tablet at man ikke kan dreje skærmen så man kan få den på det lange led :(",
+      "author": "Veysel Uslu",
+      "updated": "2020-09-01T06:55:39.470Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.20",
+      "title": "",
+      "text": "Oplever stort set hver eneste gang app'en benyttes Fejlmeddelelsen \"Fodbold er stoppet\" hvorefter app'en skal genstartes. Rimeligt irriterende under Live indberetning! 😡",
+      "author": "Morten Brix (Ducky)",
+      "updated": "2020-08-31T01:21:54.820Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.20.2",
+      "title": "",
+      "text": "Jeg bliver ved med at blive logget ud og kan ikke logge ind igen... Jeg jeg har ændret kodet mange gange og det samme sker hele tiden...",
+      "author": "Henrik Dennis Sällberg",
+      "updated": "2020-08-29T21:11:58.919Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.20.1",
+      "title": "",
+      "text": "Efter opdatering til ny version bliver jeg logge af hele tiden og kan først logge ind igen efter et stykke tid (melder forkert password)",
+      "author": "Thomas Lindboe",
+      "updated": "2020-08-26T13:53:19.760Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.20.1",
+      "title": "",
+      "text": "Har indtil for et par dage siden fungeret upåklageligt. Nu er den dog begyndt at logge mig ud hele tiden...",
+      "author": "Hen K",
+      "updated": "2020-08-24T16:19:37.497Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.20.1",
+      "title": "",
+      "text": "Ustabil \"crasher\" ofte, selvom man markere at man skal forblive logget på så skal man logge ind igen.",
+      "author": "Mikkel Brandt",
+      "updated": "2020-08-24T08:47:52.977Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.20.1",
+      "title": "",
+      "text": "Har lige oprettet en profil og man kan ikke logge ind efterfølgende selvom kode og brugernavn er korrekt.",
+      "author": "Anders Skjøde Højberg",
+      "updated": "2020-08-20T16:13:06.414Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.20",
+      "title": "",
+      "text": "Altid problemer med at indrapporterer et resultat......",
+      "author": "En Google-bruger",
+      "updated": "2020-08-13T10:51:26.118Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.20",
+      "title": "",
+      "text": "Tak for svar vedr. adgang til videoer, billeder osv. på telefonen. Jeg vil anbefale at I beder om adgangen i det øjeblik der er brug for den, samt med forklaring om hvorfor.",
+      "author": "Jacob Laursen",
+      "updated": "2020-08-10T16:29:10.390Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.19",
+      "title": "",
+      "text": "God og overskuelig",
+      "author": "En Google-bruger",
+      "updated": "2020-03-08T17:57:09.748Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.18.4",
+      "title": "",
+      "text": "App'en logger mig uden grund, prøver at ændre PW, bliver godkendt men skriver at brugernavn og PW ikke passer sammen. Kan ikke bruge app'en, heller ikke jeres hjemmeside. 🥵",
+      "author": "En Google-bruger",
+      "updated": "2020-02-26T02:40:58.634Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "",
+      "title": "",
+      "text": "Jeg kan ikke logge ind på appen, selv om jeg skriver det RIGTIGE eller laver et nyt \"log ind\":/",
+      "author": "En Google-bruger",
+      "updated": "2020-02-20T06:38:03.294Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.18.4",
+      "title": "",
+      "text": "Super",
+      "author": "En Google-bruger",
+      "updated": "2020-01-22T21:03:55.130Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.18.4",
+      "title": "",
+      "text": "Ok app, men temmelig omfattende og rodet opbygget",
+      "author": "En Google-bruger",
+      "updated": "2020-01-09T16:36:57.466Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.18.1",
+      "title": "",
+      "text": "Verdensklasse App🎅🎅🎅🎅🎅",
+      "author": "En Google-bruger",
+      "updated": "2019-12-16T13:40:42.159Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.17",
+      "title": "",
+      "text": "God app.",
+      "author": "En Google-bruger",
+      "updated": "2019-11-11T15:08:39.655Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Mega God app",
+      "author": "En Google-bruger",
+      "updated": "2019-11-02T14:03:05.736Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.17",
+      "title": "",
+      "text": "Efter opdatering d. 28. aug. lukker Appen altid igen, når den åbnes. Tilbydes at sende fejlrapport. Ved genstart af Appen åbner den fint nok. Men når jeg forsøger at scrolle ned i kampprogrammet for Mine Hold så kommer der \"hvid skærm\" og Appen lukker. Appen har fungeret fint hidtil. I England siger de: \"Don't fix it if it isn't broken.\". Nu skal I vist se på den. 2. nov. 2019: Kan se det er rettet. Super",
+      "author": "En Google-bruger",
+      "updated": "2019-11-02T11:23:04.112Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.17",
+      "title": "",
+      "text": "Ikke så funktionel beskedfunktion",
+      "author": "En Google-bruger",
+      "updated": "2019-10-31T20:42:24.325Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.16.1",
+      "title": "",
+      "text": "Generelt set har jeg været glad ved denne app. Jeg oplever desværre nu, at jeg ikke får noget frem, når jeg prøver at tilegne mig adgang, til fodboldloven samt futsalloven. Data kunne ikke læses står der. Har forsøgt at slette app'en, slukke telefonen m.m. så det er lidt en udfordring, nu hvor jeg er dommer m.m.",
+      "author": "En Google-bruger",
+      "updated": "2019-10-29T03:44:32.402Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.16.1",
+      "title": "",
+      "text": "Hej derude Er der nogen som ved hvad det er for nogen system opdateringer dbu app'en hele tiden siger. Den logger hele tiden ud pga nogen systemopdaterninger.. Er der nogen som kan hjælpe mig med det?? Mvh Christian lundgaard",
+      "author": "En Google-bruger",
+      "updated": "2019-10-19T03:03:11.756Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.16.1",
+      "title": "",
+      "text": "App'en er som sådan ok. Men hvor er der irriterende at have flere børn og skal logge ud og ind hele tiden, for at følge op på begge. Det skulle simpelthen være muligt at logge ind som forældre også skifte mellem dem",
+      "author": "En Google-bruger",
+      "updated": "2019-10-02T19:12:11.363Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.16",
+      "title": "",
+      "text": "Ok",
+      "author": "En Google-bruger",
+      "updated": "2019-09-20T16:21:37.872Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.16",
+      "title": "",
+      "text": "Mega ringe app, hvor der er slet ikke tænkt på brugere. Der er masser af information placeret helt tilfeldigt. Når man er selv spiller og skal administrere sine egne børn også får man lyst til at holde op med at spille fodbold og melde børnerne også fra. Det kan kun gøres bedre.",
+      "author": "En Google-bruger",
+      "updated": "2019-09-13T18:31:22.263Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.15.2",
+      "title": "",
+      "text": "Fyldt med fejl efter den er opdateret Huawei p smart fig-lx1 Den craser når man åbner app men starter derefter. Der er flere ting man ikke kan se når man trykker på div link da den så genstarter app",
+      "author": "En Google-bruger",
+      "updated": "2019-09-06T17:55:01.942Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.15.2",
+      "title": "",
+      "text": "Virker dårligt!!",
+      "author": "En Google-bruger",
+      "updated": "2019-08-31T20:15:54.439Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.15.1",
+      "title": "",
+      "text": "Den bedste app nogensinde lel",
+      "author": "En Google-bruger",
+      "updated": "2019-08-29T17:12:16.211Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.15.2",
+      "title": "",
+      "text": "Jeg synes app'en er fremragende. Dog er kampklar delen efter de seneste par opdateringer, blevet meget langsom og man skal trykke en del gange på aktiviteten for at den vil åbne. Derfor lander vi på kun 3 stjerner, selvom jeg meget gerne ville give mere. Mvh Claus",
+      "author": "En Google-bruger",
+      "updated": "2019-08-29T11:54:33.295Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.15.2",
+      "title": "",
+      "text": "Lige pt er der problemer med at se kampprogram for mine hold ser ud til at DBU AAP er gået på juleferie☺ derud over er der også lige et par småting mere der ikke køre....så er den oppe og køre igen",
+      "author": "En Google-bruger",
+      "updated": "2019-08-29T10:04:49.288Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.14.1",
+      "title": "",
+      "text": "den hjælper mig",
+      "author": "En Google-bruger",
+      "updated": "2019-08-07T15:27:05.602Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.14.1",
+      "title": "",
+      "text": "Nem app",
+      "author": "En Google-bruger",
+      "updated": "2019-08-06T10:29:19.655Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.14.1",
+      "title": "",
+      "text": "Kalender duer ikke med Huawei.",
+      "author": "En Google-bruger",
+      "updated": "2019-07-27T09:05:03.809Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "god",
+      "author": "En Google-bruger",
+      "updated": "2019-07-21T17:38:33.545Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.7.1",
+      "title": "",
+      "text": "Synes det er træls at ulæste beskeder om at nu kan du udfylde holdskema ikke forsvinder når kampen er spillet. Bruger aldrig de beskeder, så derfor træls at skulle ind og åbne og slette dem, for ikke at skulle se på den røde notifikation hvor tallet ellers bare stiger og stiger.",
+      "author": "En Google-bruger",
+      "updated": "2019-07-06T20:15:05.959Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.14",
+      "title": "",
+      "text": "Normalt meget glad for denne app men den fungerer ikke efter sidste opdatering? \"Vis Pulje\" er pludseligt bare en blank side? Jeg har forsøgt at af- og geninstallere uden held?",
+      "author": "En Google-bruger",
+      "updated": "2019-06-12T18:21:19.318Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.2.1",
+      "title": "",
+      "text": "Den nye version kan ikke gå i puljer når man er inde i kampprogram, og melder fejl mange gange",
+      "author": "En Google-bruger",
+      "updated": "2019-06-12T13:01:15.255Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.13.1",
+      "title": "",
+      "text": "Den går ned hele tiden",
+      "author": "En Google-bruger",
+      "updated": "2019-05-24T03:51:05.650Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.13.1",
+      "title": "",
+      "text": "Den meget fint",
+      "author": "En Google-bruger",
+      "updated": "2019-05-17T08:28:16.995Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.12.2",
+      "title": "",
+      "text": "Elendig dbu kampoversigt",
+      "author": "En Google-bruger",
+      "updated": "2019-04-27T18:55:37.310Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.12.2",
+      "title": "",
+      "text": "Der er alt for mange funktioner, der ender i fejlbeskeder. En del funktioner virker simpelthen bare ikke. Eksempelvis kan jeg ikke vælge kampens spiller. Jeg får ikke en fejl, der sker bare ikke noget. På min laptop virker det ok. Det er også sindssygt irriterende, at man skal trykke så mange gange for at finde frem til den funktion, man skal bruge. Dertil kommer at appen er utrolig langsom til at hente oplysningerne frem.",
+      "author": "En Google-bruger",
+      "updated": "2019-04-27T11:05:04.949Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Fantastisk app! 👍",
+      "author": "En Google-bruger",
+      "updated": "2019-04-07T16:36:50.900Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.12.2",
+      "title": "",
+      "text": "bliver det på et tidspunkt muligt at få kampene man følger, delt til ens kalender ?",
+      "author": "En Google-bruger",
+      "updated": "2019-04-06T13:36:02.684Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.12.2",
+      "title": "",
+      "text": "dejlig nem at finde rundt i og man har styr på hvad datteren skal. så slipper man som træner for at sende 1000 sms",
+      "author": "En Google-bruger",
+      "updated": "2019-04-04T12:10:45.855Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.12.2",
+      "title": "",
+      "text": "rigtig god , oversigten er god nem at komme rundt i.",
+      "author": "En Google-bruger",
+      "updated": "2019-04-03T12:36:20.925Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.12.1",
+      "title": "",
+      "text": "fungere fint",
+      "author": "En Google-bruger",
+      "updated": "2019-04-02T17:56:28.109Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.12.1",
+      "title": "",
+      "text": "Utrolig irriterende at man ikke får push beskeder igennem ved ændring eller beskeder i Kampsport selvom alle notifikationer slået til. Ærgerligt at jeg ikke har et andet valg.",
+      "author": "En Google-bruger",
+      "updated": "2019-03-30T05:37:25.303Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.12.1",
+      "title": "",
+      "text": "Fungerer Ikke. Kan i tide og utide ikke log ind.",
+      "author": "En Google-bruger",
+      "updated": "2019-03-28T16:50:42.375Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.12.1",
+      "title": "",
+      "text": "holdsport har bedre funktion omkring kørsel og opgaver",
+      "author": "En Google-bruger",
+      "updated": "2019-03-28T15:43:19.425Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.8.1",
+      "title": "",
+      "text": "Næsten hver gang jeg skal bruge app'en, så er jeg nød til at afinstallere den og så hente den igen, ellers kan jeg ikke se mine hold eller lave holdkort, kampfakta eller noget som helst andet. Ved ikke, hvad I har lavet om, for den fungerede fint i efterårssæsonen 2018. Få det venligst ordnet.",
+      "author": "En Google-bruger",
+      "updated": "2019-03-22T23:14:27.106Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.10.3",
+      "title": "",
+      "text": "Virker ikke",
+      "author": "En Google-bruger",
+      "updated": "2019-03-09T07:11:57.799Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.10.2",
+      "title": "",
+      "text": "lol, god app",
+      "author": "En Google-bruger",
+      "updated": "2019-03-05T15:40:31.107Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.10.2",
+      "title": "",
+      "text": "mangler at få notifikation når der kommer noget i indbakken. temnelig træls at det ikk fungere",
+      "author": "En Google-bruger",
+      "updated": "2019-02-11T12:05:17.182Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Jeg er iskold",
+      "author": "En Google-bruger",
+      "updated": "2019-02-06T20:05:06.472Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.9",
+      "title": "",
+      "text": "Jeg kan ikke få push beskeder for kampklar til at virke. De er tilvalget under besked centeret og der er tilladelse til dem på telefonen, men de kommer ikke igennem?",
+      "author": "En Google-bruger",
+      "updated": "2018-11-24T09:55:09.182Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.6.1",
+      "title": "",
+      "text": "Lorte app",
+      "author": "En Google-bruger",
+      "updated": "2018-11-23T22:07:00.669Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.8.5",
+      "title": "",
+      "text": "Den har længe virket fint, men jeg er blevet smidt af app'en og når jeg logger ind igen, beder den om billedesamtykke - dog er der bare hvid skærm og jeg kan intet trykke på. Virkelig frustrerende!!",
+      "author": "En Google-bruger",
+      "updated": "2018-11-04T15:57:36.200Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.8.4",
+      "title": "",
+      "text": "Funktionen kampprogram under mine hold er holdt op med at fungere",
+      "author": "En Google-bruger",
+      "updated": "2018-10-25T19:03:00.415Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.8.2",
+      "title": "",
+      "text": "Kan ikke finde spillesteder, den kommer op med hvid skærm",
+      "author": "En Google-bruger",
+      "updated": "2018-10-12T07:46:20.325Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.7.2",
+      "title": "",
+      "text": "Kan ikke åbne den, har ikke kunne i små 14 dage....",
+      "author": "En Google-bruger",
+      "updated": "2018-09-30T04:53:37.610Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.8",
+      "title": "",
+      "text": "Den vil ikke åbne spille sted",
+      "author": "En Google-bruger",
+      "updated": "2018-09-27T16:02:33.415Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.8",
+      "title": "",
+      "text": "Crasher ofte. Kan ikke se stilling. Mangler mulighed for at trykke sig ind på andre hold I en pulje, for at se deres kampe. Fryser ofte, bliver ved med at stå og søge. \"Indberet resultat\" har aldrig virket endnu. Ellers på rette vej.",
+      "author": "En Google-bruger",
+      "updated": "2018-09-25T17:01:40.113Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.8",
+      "title": "",
+      "text": "God",
+      "author": "En Google-bruger",
+      "updated": "2018-09-24T15:47:27.679Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.7.2",
+      "title": "",
+      "text": "Kan ikke indberette kampfakta",
+      "author": "En Google-bruger",
+      "updated": "2018-09-19T19:19:06.326Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.7.2",
+      "title": "",
+      "text": "jeg ligger nr.7😁",
+      "author": "En Google-bruger",
+      "updated": "2018-09-14T18:22:25.149Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.7.2",
+      "title": "",
+      "text": "Hvorfor skal man have et login bare for at kunne gemme et hold som en favorit? Og hvorfor kan man ikke se tidligere kampe i puljen?",
+      "author": "En Google-bruger",
+      "updated": "2018-09-13T07:35:21.438Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.7.2",
+      "title": "",
+      "text": "Jeg kan aldrig åbne denne app første gang. Den chrasher hver eneste gang.",
+      "author": "En Google-bruger",
+      "updated": "2018-09-12T20:34:00.410Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "De er godt",
+      "author": "En Google-bruger",
+      "updated": "2018-09-09T13:36:32.189Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.7.2",
+      "title": "",
+      "text": "Siden seneste opdatering kan jeg efter at være blevet smidt af ikke logge på app'en igen. Dette er temmelig frustrerende, da det er det eneste sted vi kan se kampprogrammet",
+      "author": "En Google-bruger",
+      "updated": "2018-09-07T06:55:32.717Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.0.2",
+      "title": "",
+      "text": "God app",
+      "author": "En Google-bruger",
+      "updated": "2018-09-05T19:51:16.410Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.7.2",
+      "title": "",
+      "text": "Det er en god app",
+      "author": "En Google-bruger",
+      "updated": "2018-09-03T13:27:42.780Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.7.2",
+      "title": "",
+      "text": "Virker virkelig dårligt..",
+      "author": "En Google-bruger",
+      "updated": "2018-08-27T18:57:17.458Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.7.2",
+      "title": "",
+      "text": "I den seneste version er stillingen forsvundet, når jeg går ind på livescore på en kamp. Liiiidt belastende da det jo sådan set er det vigtigste ... Jeg har en Huawei P10 Lite m. Android 8.0.0.",
+      "author": "En Google-bruger",
+      "updated": "2018-08-21T18:35:31.211Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.7.2",
+      "title": "",
+      "text": "Fungerer rigtig fint med smarte funktioner. Jeg har dog problem med at \nudvælge kampens spiller i app'en.",
+      "author": "En Google-bruger",
+      "updated": "2018-08-18T21:03:49.544Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.7.2",
+      "title": "",
+      "text": "Lort. Intet hvirker eller acceptere ens valg. 😣",
+      "author": "En Google-bruger",
+      "updated": "2018-08-12T19:01:55.359Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.7.1",
+      "title": "",
+      "text": "Seriøst....nogle spillere får oprettet pas og andre ikke.. trænere kan ikke \noprette osv osv.... I må ski stramme remmene og sætte blus på, når i selv \nlaver deadlines!!! Jeg oprettede selv login for flere uger siden. Og har \nintet hørt.... Vi må vel bare vente på flere kampe aflyses, da vi ikke har \nspillere, der er godkendt, eller ikke oprettet i jeres system. Eller får vi \nden reel deadline i 2019??",
+      "author": "En Google-bruger",
+      "updated": "2018-07-31T18:45:44.133Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.7.1",
+      "title": "",
+      "text": "Skrald",
+      "author": "En Google-bruger",
+      "updated": "2018-07-30T15:36:11.902Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.7.1",
+      "title": "",
+      "text": "\"Fejl! Øv! Der skete en fejl!\" - Citat DBU-appen hver gang jeg forsøger at \nlogge ind, lige meget hvad jeg gør",
+      "author": "En Google-bruger",
+      "updated": "2018-07-19T20:37:36.318Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.7.1",
+      "title": "",
+      "text": "Reklamerne i kamp programmet er rigtig rigtig forstyrrende. Jeg vil hellere \nbetale lidt i stedet for, selvom det burde være unødvendigt...",
+      "author": "En Google-bruger",
+      "updated": "2018-06-27T20:08:18.192Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.7.1",
+      "title": "",
+      "text": "Jeg kan pludselig ikke logge ind med app men har ingen problemer over nettet",
+      "author": "En Google-bruger",
+      "updated": "2018-06-20T17:28:39.740Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.7",
+      "title": "",
+      "text": "Kan ikke starte efter sidste opdatering",
+      "author": "En Google-bruger",
+      "updated": "2018-06-09T20:31:07.700Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.7",
+      "title": "",
+      "text": "Bruger Kampklar meget; men kan efter sidste opdatering ikke åbne på Samsung \ntelefon.",
+      "author": "En Google-bruger",
+      "updated": "2018-06-09T07:00:21.609Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Ja med nyeste opdatering åbner appen heller ikke med samsung s4 android \n4.4.2. Har afinstalleret og installeret igen men virker overhovedet ikke? \nSelvom der står den er kompatibel med enheden. Hvad sker der??",
+      "author": "En Google-bruger",
+      "updated": "2018-06-06T16:18:16.847Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Appen virker ikke - skriver den er stoppet....",
+      "author": "En Google-bruger",
+      "updated": "2018-06-03T19:17:02.641Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.6.1",
+      "title": "",
+      "text": "Den crasher alt for tit.",
+      "author": "En Google-bruger",
+      "updated": "2018-04-09T14:46:53.390Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.6.1",
+      "title": "",
+      "text": "Tanken om at samle alt der relaterer sig til ens barns fodboldhold/-klub, træning og turneringer på én platform er super god. Det vil er ærgerligt, hvis klubberne føler sig tvunget til at bede forældrene om at deltage via et socialt medie, fordi Fodbold app'en ikke har de nødvendige funktioner. Derfor er min opfordring: Lær af Facebook og pak det ind i et fodbold-univers, som er til gavn for spillere, forældre, dommere osv. I er godt på vej!",
+      "author": "En Google-bruger",
+      "updated": "2018-04-04T11:06:21.913Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.6.1",
+      "title": "",
+      "text": "Har haft brug for app'en i mange år, men jeg får ingen notifikationer længere, selvom mine valg er sat som de plejer.",
+      "author": "En Google-bruger",
+      "updated": "2018-04-03T21:03:07.314Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.6.1",
+      "title": "",
+      "text": "Sejt",
+      "author": "En Google-bruger",
+      "updated": "2018-03-28T11:54:59.254Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.6",
+      "title": "",
+      "text": "Nyder at føle hobro ik på denne app.",
+      "author": "En Google-bruger",
+      "updated": "2018-03-28T10:53:53.647Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.6",
+      "title": "",
+      "text": "Virker kun på google-android, ??????",
+      "author": "En Google-bruger",
+      "updated": "2018-01-22T19:54:33.520Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.6",
+      "title": "",
+      "text": "Man kan godt se at denne app ikke har taget lang tid at lave da den crasher 60% af tiden også bare når man åbner den Og så for det andet er den meget svær at bruge",
+      "author": "En Google-bruger",
+      "updated": "2018-01-21T10:47:08.480Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.6",
+      "title": "",
+      "text": "Har her den sidste måneds tid ikke kunne åbne \"Dommer ID kort\" hvilket jo er ret vigtigt når man ikke længere har et fysisk kort at vise.  Har prøvet at geninstallere og opdatere. Generelt er app'en meget ustabil og crasher ca 50% af de gange jeg bruger den.",
+      "author": "En Google-bruger",
+      "updated": "2017-12-06T23:13:06.409Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.5.6",
+      "title": "",
+      "text": "Fed app, men designet/UI kunne være meget bedre.",
+      "author": "En Google-bruger",
+      "updated": "2017-10-18T10:13:26.843Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.5.6",
+      "title": "",
+      "text": "Den crasher hver gang jeg prøver at oprette nyt login..",
+      "author": "En Google-bruger",
+      "updated": "2017-10-04T14:57:31.935Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Man kan se hvornår man skal spille kamp og træne",
+      "author": "En Google-bruger",
+      "updated": "2017-10-03T16:00:34.373Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.3.2",
+      "title": "",
+      "text": "God👌",
+      "author": "En Google-bruger",
+      "updated": "2017-09-23T07:21:07.965Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.5.5",
+      "title": "",
+      "text": "Kan ikke oprette mig, siger prøv igen senere....(og nej det gider man ikke i et skema, der kræver SÅ mange oplysninger..)",
+      "author": "En Google-bruger",
+      "updated": "2017-09-06T17:32:40.244Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Kan ikke oprette profil og logge på....",
+      "author": "En Google-bruger",
+      "updated": "2017-08-31T07:21:39.384Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.5.5",
+      "title": "",
+      "text": "Kan ikke logge på, da den crasher, når jeg vil oprette en ny dbu-profil...  Virkelig belastende",
+      "author": "En Google-bruger",
+      "updated": "2017-08-26T11:17:47.134Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "God at bruge",
+      "author": "En Google-bruger",
+      "updated": "2017-08-22T20:46:04.650Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Fungere ikke. Kan ikke oprette bruger.",
+      "author": "En Google-bruger",
+      "updated": "2017-08-22T17:42:12.181Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.5.4",
+      "title": "",
+      "text": "Den virker ikke på Android 4.4.4 den starter på logo skærm og går over på siden med søge funktion, der efter hurtig tilbage til logo skærmen igen og så gentager det sig igen og igen. Få det nu lavet😢",
+      "author": "En Google-bruger",
+      "updated": "2017-08-22T15:22:31.738Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Perfekt 👌",
+      "author": "En Google-bruger",
+      "updated": "2017-08-18T20:05:33.671Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.5.3",
+      "title": "",
+      "text": "Crasher nogle gange ud af det blå. Ellers rigtig fin app.",
+      "author": "En Google-bruger",
+      "updated": "2017-08-15T20:21:44.449Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Melder der er sket en fejl og jeg kan ikke logge på. Har Android 5.0.",
+      "author": "En Google-bruger",
+      "updated": "2017-08-15T19:30:29.443Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.5.3",
+      "title": "",
+      "text": "Jeg er både træner og forældre og appen fungerer rigtig godt for mig. Meget nem at anvende :-)",
+      "author": "En Google-bruger",
+      "updated": "2017-08-14T19:51:58.300Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.5.2",
+      "title": "",
+      "text": "Jeg har i lang tid brugt appendiks men nu kan jeg ikke komme ind på den. Skriver at den lukker ned og så kan jeg vælge bekræftelse eller ok.",
+      "author": "En Google-bruger",
+      "updated": "2017-08-13T14:37:09.437Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.5.2",
+      "title": "",
+      "text": "Jeg synes ikke om at det ikke virker😐",
+      "author": "En Google-bruger",
+      "updated": "2017-08-13T12:41:49.120Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Appen virker ikke",
+      "author": "En Google-bruger",
+      "updated": "2017-08-12T08:55:46.311Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.5.2",
+      "title": "",
+      "text": "Efter at have brugt og betalt for denne app gennem lang tid kan jeg pludselig ikke længere komme ind på den, jeg får besked på at den er lukket ned og så kan jeg trykke på endten \"bekræftelse\" eller \"ok\"",
+      "author": "En Google-bruger",
+      "updated": "2017-08-12T06:42:16.403Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.5.1",
+      "title": "",
+      "text": "Hej har haft appen længe, men nu kan jeg ikke komme ind på den mere. Når jeg trykker på den står der at fodbold er stoppet, og så kan jeg trykke bekræftelse eller ok......og så går den ud.......har afinstalleret og prøvet igen uden held. Vh Michael",
+      "author": "En Google-bruger",
+      "updated": "2017-08-11T07:33:16.876Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.5",
+      "title": "",
+      "text": "Kan ikke oprette en bruger profil, da jeg ikke kan \"få lov\" at vælge køn..",
+      "author": "En Google-bruger",
+      "updated": "2017-08-09T00:48:45.665Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.5",
+      "title": "",
+      "text": "God app men crasher når jeg vil se stillingen",
+      "author": "En Google-bruger",
+      "updated": "2017-08-08T20:31:05.543Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.4.1",
+      "title": "",
+      "text": "Har problemer med synkronisering af kalenderen til min egen kalender. Har Android telefon. Der sender en mail med link til ICall, men siden oplyser at.der ikke er tilgængelighed. Hvad kan jeg gøre?",
+      "author": "En Google-bruger",
+      "updated": "2017-08-03T05:40:39.270Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.4.1",
+      "title": "",
+      "text": "RETTELSE: Kanon app og nem at bruge. De hjælper hurtigt i tilfælde problemer 👍👍👍  Det er en god app. Men ringe når abonnement ikke er fjernet som lovet d.1/7  Når delen er fjernet appen er klar til brug kan den få 5 stjerner",
+      "author": "En Google-bruger",
+      "updated": "2017-07-13T16:30:16.923Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.4.1",
+      "title": "",
+      "text": "Den skriver at det skal være gratis efter 1/7 men det er det stadig ikke",
+      "author": "En Google-bruger",
+      "updated": "2017-07-11T09:19:42.418Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.3.2",
+      "title": "",
+      "text": "Det er en rigtig god App",
+      "author": "En Google-bruger",
+      "updated": "2017-07-08T16:08:35.321Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.4.1",
+      "title": "",
+      "text": "Den går meget ofte ned eller kan slet ikke komme ind. Mine hold burde være gratis nu, efter 1/7, men det er det ikke. Fin app for holdledere når det virker",
+      "author": "En Google-bruger",
+      "updated": "2017-07-07T06:36:20.613Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.4.1",
+      "title": "",
+      "text": "App har mange gode funktioner, desværre går den ofte ned. Havde der ikke været problemerne med den går ned havde jeg givet 5 stjerner.",
+      "author": "En Google-bruger",
+      "updated": "2017-06-17T04:56:50.552Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Bedste",
+      "author": "En Google-bruger",
+      "updated": "2017-06-02T20:52:47.690Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.4.1",
+      "title": "",
+      "text": "Kan ikke komme ind i appen den starter op men så går den bare i hvid skærm lidt efter hvad gør jeg",
+      "author": "En Google-bruger",
+      "updated": "2017-05-23T20:58:46.400Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Nice",
+      "author": "En Google-bruger",
+      "updated": "2017-05-13T14:38:19.574Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "3.4",
+      "title": "",
+      "text": "Den er god nok",
+      "author": "En Google-bruger",
+      "updated": "2017-05-12T22:16:34.223Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.4",
+      "title": "",
+      "text": "Super til at holde styr på boldspillet",
+      "author": "En Google-bruger",
+      "updated": "2017-05-02T08:35:18.794Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.4",
+      "title": "",
+      "text": "Genehal",
+      "author": "En Google-bruger",
+      "updated": "2017-04-30T13:42:27.530Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.4",
+      "title": "",
+      "text": "Den siger hele tiden der er en fejl når man skal logge ind",
+      "author": "En Google-bruger",
+      "updated": "2017-04-29T10:48:51.658Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.4",
+      "title": "",
+      "text": "Det er en dårlig app, der har altid problem",
+      "author": "En Google-bruger",
+      "updated": "2017-04-26T08:14:47.662Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.3.2",
+      "title": "",
+      "text": "Har ikke prøvet det endnu, da jeg aldrig kan logge ind eller oprette bruger",
+      "author": "En Google-bruger",
+      "updated": "2017-04-23T17:27:26.429Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "",
+      "title": "",
+      "text": "Der er den mærkeligste app den gider ikke login  synes det er lidt dumt lavet   Tænk lige over  hvad i laver før i sender noget  Undskyld for sproget men er meget gal     Kan bedre lide en lort spil end den her    Og hvis ikke laver en normal app så kan i lige så godt lade være med at sige vi skal betale total nederlag      Er i virkelig dårlig humør",
+      "author": "En Google-bruger",
+      "updated": "2017-04-23T15:56:23.910Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Lort",
+      "author": "En Google-bruger",
+      "updated": "2017-04-21T13:27:59.872Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Super god",
+      "author": "En Google-bruger",
+      "updated": "2017-03-31T06:01:33.460Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.3.1",
+      "title": "",
+      "text": "Kan ikke passe at man skal opgive SÅ mange oplysninger bare for at holde styr på ens børns kampprogram :-(",
+      "author": "En Google-bruger",
+      "updated": "2017-03-26T19:04:47.625Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.3",
+      "title": "",
+      "text": "Falder ofte ud",
+      "author": "En Google-bruger",
+      "updated": "2017-03-12T08:58:18.583Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.2.2",
+      "title": "",
+      "text": "Oprettelse af bruger/login fungerer virkeligt elendigt.",
+      "author": "En Google-bruger",
+      "updated": "2017-02-26T12:58:15.506Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.2",
+      "title": "",
+      "text": "Super fantastisk",
+      "author": "En Google-bruger",
+      "updated": "2017-02-20T20:20:28.450Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.2.1",
+      "title": "",
+      "text": "Savner de administrative muligheder som  Web versionen hsr",
+      "author": "En Google-bruger",
+      "updated": "2017-02-18T19:15:38.307Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "3.2.1",
+      "title": "",
+      "text": "Super brugervenlig",
+      "author": "En Google-bruger",
+      "updated": "2017-01-28T09:51:42.592Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "3.0.2",
+      "title": "",
+      "text": "Problem på Android med at åbne eks. under kampe i dommergerning. Virkede perfekt indtil opdateringen...",
+      "author": "En Google-bruger",
+      "updated": "2016-11-05T10:19:39.222Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Mindre god app.",
+      "author": "En Google-bruger",
+      "updated": "2016-10-26T08:48:39.207Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.0.2",
+      "title": "",
+      "text": "App'en virkede fint på Android indtil seneste opdatering. Nu virker intet. Utroligt at udviklerne ikke har løst problemet.",
+      "author": "En Google-bruger",
+      "updated": "2016-10-23T09:55:20.729Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.0.1",
+      "title": "",
+      "text": "Login mislykkes konstant, selv om jeg indtaster korrekte oplysninger. Reset af password hjælper ikke. App'en gemmer heller ikke brugerinfo, på trods af at jeg markerer \"husk mig\".",
+      "author": "En Google-bruger",
+      "updated": "2016-09-18T14:42:00.419Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.0.1",
+      "title": "",
+      "text": "Lort",
+      "author": "En Google-bruger",
+      "updated": "2016-09-16T21:34:15.629Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.0.1",
+      "title": "",
+      "text": "Simpelthen så ringe....",
+      "author": "En Google-bruger",
+      "updated": "2016-09-14T17:56:53.654Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.0.1",
+      "title": "",
+      "text": "Hver gang det er opdateringer er der noget andet der går galt med det som fungerede... fnys",
+      "author": "En Google-bruger",
+      "updated": "2016-09-13T19:17:46.833Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.5",
+      "title": "",
+      "text": "Er rigtigt god",
+      "author": "En Google-bruger",
+      "updated": "2016-09-09T17:42:08.458Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.0",
+      "title": "",
+      "text": "Stopper like 5 gange om dagen",
+      "author": "En Google-bruger",
+      "updated": "2016-09-09T17:08:10.474Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.0.1",
+      "title": "",
+      "text": "Eneste app jeg har betalt for, men den går ned konstant, ikke godt nok",
+      "author": "En Google-bruger",
+      "updated": "2016-09-07T16:22:29.850Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.0",
+      "title": "",
+      "text": "Når App'en virker er det en fem stjernet App. Ny version er der intet der virker. Håber på ny opdatering snart",
+      "author": "En Google-bruger",
+      "updated": "2016-09-02T19:55:17.739Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Har prøvet at afinstallere og geninstallere - samme resultat. Kan ikke melde drengen til kampe... Direkte pinligt at release noget så ringe!",
+      "author": "En Google-bruger",
+      "updated": "2016-09-02T17:57:29.550Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "3.0",
+      "title": "",
+      "text": "Afinstalleret og installeret på ny. Virker, men undvær at opdatere. OBD man tvinges nu til købe abonnement! Det en OM er",
+      "author": "En Google-bruger",
+      "updated": "2016-08-31T19:05:07.454Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.0",
+      "title": "",
+      "text": "App'en i sig har glimrende hensigter. Den virker bare ikke. Og den går konstant ned.",
+      "author": "En Google-bruger",
+      "updated": "2016-08-31T18:53:01.954Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "3.0",
+      "title": "",
+      "text": "Lad hver med at opdatere. Det duer ikke .",
+      "author": "En Google-bruger",
+      "updated": "2016-08-30T19:14:25.834Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.7.4",
+      "title": "",
+      "text": "Der kommer fejl hele tiden. Skal hente appen hele tiden😈",
+      "author": "En Google-bruger",
+      "updated": "2016-08-27T23:28:17.316Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.7.4",
+      "title": "",
+      "text": "Øv øv jeg kan ikke tilføje hold som mine favoritter. Jeg skal ind og finde holdene hver gang. Ellers synes jeg den fungerer godt.",
+      "author": "En Google-bruger",
+      "updated": "2016-08-27T06:16:12.996Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.7.4",
+      "title": "",
+      "text": "Typisk DBU kan logge på hver 3 gang jeg prøver! Det er blevet værre med årene.",
+      "author": "En Google-bruger",
+      "updated": "2016-08-23T06:38:03.658Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.7.4",
+      "title": "",
+      "text": "I denne uge har den crash'et over 20 gange - få det nu fikset! Kan simpelthen ikke være rigtigt at man ikke kan bruge andre apps på telefonen. Og telefonen rent faktisk anbefaler afinstallation fordi den crasher så meget!",
+      "author": "En Google-bruger",
+      "updated": "2016-08-21T06:35:12.713Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.7.4",
+      "title": "",
+      "text": "Jeg har lige fået oprettede en konto og kan ikke logge in log in mislykes.. o_O",
+      "author": "En Google-bruger",
+      "updated": "2016-08-18T07:32:08.975Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "2.7.4",
+      "title": "",
+      "text": "ALT FOR MANGE FEJL OG ALTID BØVL NÅR MAN SKAL LOGGE PÅ",
+      "author": "En Google-bruger",
+      "updated": "2016-08-17T07:06:07.671Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "2.7.4",
+      "title": "",
+      "text": "Super fed mulighed for at indberette livescore mm. Desværre mange fejl i app'en stadigvæk. Crash når man skifter mellem apps, tiden står stille i livescore indberetning når skærmen er slukket.",
+      "author": "En Google-bruger",
+      "updated": "2016-08-15T22:46:00.322Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.7.4",
+      "title": "",
+      "text": "Crasher konstant nu.",
+      "author": "En Google-bruger",
+      "updated": "2016-08-14T05:42:39.404Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.7.4",
+      "title": "",
+      "text": "virker aldrig når det skal",
+      "author": "En Google-bruger",
+      "updated": "2016-08-13T09:43:46.540Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.7.4",
+      "title": "",
+      "text": "Virker ikke. Kan ikke hente hold eller rækker...",
+      "author": "En Google-bruger",
+      "updated": "2016-08-08T18:09:44.765Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Mega god app",
+      "author": "En Google-bruger",
+      "updated": "2016-08-06T10:32:59.739Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "",
+      "title": "",
+      "text": "Stopper hele tiden",
+      "author": "En Google-bruger",
+      "updated": "2016-08-04T10:00:11.599Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "2.7",
+      "title": "",
+      "text": "Det er ikke smart med en opdatering der skal rette fejlene, når den ikke kan opdatere.",
+      "author": "En Google-bruger",
+      "updated": "2016-08-01T15:25:58.758Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.7.2",
+      "title": "",
+      "text": "Kan ikke hente info i kampklar og crasher konstant",
+      "author": "En Google-bruger",
+      "updated": "2016-07-29T10:16:05.661Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Lort",
+      "author": "En Google-bruger",
+      "updated": "2016-07-24T13:35:28.458Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.5.1",
+      "title": "",
+      "text": "Super app",
+      "author": "En Google-bruger",
+      "updated": "2016-07-11T22:19:38.298Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.7",
+      "title": "",
+      "text": "Ret jeres fejl. De er over alt!!!!",
+      "author": "En Google-bruger",
+      "updated": "2016-07-11T14:16:51.297Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.6.4",
+      "title": "",
+      "text": "virker fint",
+      "author": "En Google-bruger",
+      "updated": "2016-07-06T17:18:39.863Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Fem gange jeg ikke kunne komme videre.  Im out",
+      "author": "En Google-bruger",
+      "updated": "2016-07-05T15:29:27.370Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.6.4",
+      "title": "",
+      "text": "For mange fejl. Når man sætter hold viser den fejl, trykker på ok, så er holdet der, men nårmen er i live score er der ingen hold og appen ender med at den har sin egen mening stopper midt i halv leg, man kan ikke markere målscorer fordi holdkortet ikke er der. Appen er blevet elendig efter den blev opdateret. ....",
+      "author": "En Google-bruger",
+      "updated": "2016-06-07T13:30:36.271Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.6.3.1",
+      "title": "",
+      "text": "Ved brug af gratis funktioner er den for langsom og ikke optimal. Jeg nægter at betale for appens gode funktioner",
+      "author": "En Google-bruger",
+      "updated": "2016-05-21T13:10:15.463Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.6.3.1",
+      "title": "",
+      "text": "Det kan formentlig ikke lade sig gøre at oprette sig som bruger. Hvis brugernavnet er brugt bliver man smidt af og skal starte helt forfra. Det bliver man hurtigt træt af når man skal taste ALT ind igen. Hvorfor skal man i det hele taget oprette en profil for at have sine egne hold???",
+      "author": "En Google-bruger",
+      "updated": "2016-05-21T13:08:38.178Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.6.3",
+      "title": "",
+      "text": "Du kan ikke lave en bruger. Det lort",
+      "author": "En Google-bruger",
+      "updated": "2016-05-20T18:52:46.984Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "2.6.2",
+      "title": "",
+      "text": "Meget dårligt at den hele tiden går i hak når man har været ude af appen og skal ind i den igen!!!  Få det nu fixet!!!  har en Xperia Z",
+      "author": "En Google-bruger",
+      "updated": "2016-05-19T14:50:25.580Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.6.2",
+      "title": "",
+      "text": "Den crasher hver gang man skal bruge den,efter at den er blevet opdateret.  Få det nu lavet..",
+      "author": "En Google-bruger",
+      "updated": "2016-05-16T02:33:06.930Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Alt for fodbold i finger spidsen",
+      "author": "En Google-bruger",
+      "updated": "2016-05-13T17:08:09.620Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Problemer efter update 11/5-2016",
+      "author": "En Google-bruger",
+      "updated": "2016-05-13T12:18:41.393Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Lukker konstant ned. Kan ikke finde brugeren? Hvad???",
+      "author": "En Google-bruger",
+      "updated": "2016-05-12T11:30:42.722Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.6.2",
+      "title": "",
+      "text": "Efter update er appen blevet betydeligt dårligere den lukker konstant og man kan derfor ikke lave live update",
+      "author": "En Google-bruger",
+      "updated": "2016-05-11T16:24:14.660Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Man kan se stillingen i rækker og hvilket nummer man ligger i sin pulje med mange forskellige årgange og herrerne",
+      "author": "En Google-bruger",
+      "updated": "2016-05-05T10:01:30.357Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "2.6.1",
+      "title": "",
+      "text": "Ok app, men vil ikke opdatere på nexus 7. Kan se andre har samme problem. Derudover  crasher den ofte på min telefon - Samsung Galaxy S6 edge",
+      "author": "En Google-bruger",
+      "updated": "2016-04-23T16:15:33.338Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "😍",
+      "author": "En Google-bruger",
+      "updated": "2016-04-21T06:09:17.936Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.6.1",
+      "title": "",
+      "text": "SÅ fedt at I har givet mulighed for Facebook-deling. Tak for det.",
+      "author": "En Google-bruger",
+      "updated": "2016-04-04T19:33:23.276Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.6.1",
+      "title": "",
+      "text": "Har købt adgang til 'mine hold' og skal stort set logge ind hver gang jeg åbner app'en. Og en del crash - ikke okay.",
+      "author": "En Google-bruger",
+      "updated": "2016-04-03T09:59:27.557Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.6.1",
+      "title": "",
+      "text": "Denne app har altid kørt lidt dårlig, specielt på tablet. Men nu er det da hele tiden at den crasher. Det er ikke særlig godt for en fodboldtræner, der bruger denne til holdkort, hold info og vejvisning",
+      "author": "En Google-bruger",
+      "updated": "2016-03-20T19:41:43.476Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.6.1",
+      "title": "",
+      "text": "Denne aps er super god da den kan bruges af alle der dyrker sport ind for DBU og det er som spiller træner eller dommer og jeg er dommer og nyder at have denne aps :-)",
+      "author": "En Google-bruger",
+      "updated": "2016-03-19T01:28:10.828Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Der sup god",
+      "author": "En Google-bruger",
+      "updated": "2016-03-01T17:43:36.703Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.5",
+      "title": "",
+      "text": "Kan ikke opdatere",
+      "author": "En Google-bruger",
+      "updated": "2016-02-12T16:32:20.371Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "",
+      "title": "",
+      "text": "God app",
+      "author": "En Google-bruger",
+      "updated": "2016-02-05T18:42:15.929Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.5.1",
+      "title": "",
+      "text": "Først og fremmest en rigtig god app. Men nu her har jeg ikke kunne opdatere den. Den laver fejl hvergang jeg prøver at installere den.",
+      "author": "En Google-bruger",
+      "updated": "2015-12-26T19:03:48.704Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.5.1",
+      "title": "",
+      "text": "God",
+      "author": "En Google-bruger",
+      "updated": "2015-12-04T06:04:50.104Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Den gider ikke at downloade appen jeg har ventet i flere timer",
+      "author": "En Google-bruger",
+      "updated": "2015-11-10T20:39:00.311Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.5",
+      "title": "",
+      "text": "Meget nem at bruge",
+      "author": "En Google-bruger",
+      "updated": "2015-10-30T06:29:15.667Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "2.4.5",
+      "title": "",
+      "text": "Alt for ofte den melder fejl....",
+      "author": "En Google-bruger",
+      "updated": "2015-10-24T16:19:17.624Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Det er ne rigtig god app",
+      "author": "En Google-bruger",
+      "updated": "2015-10-24T06:25:19.757Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.4.5",
+      "title": "",
+      "text": "God app",
+      "author": "En Google-bruger",
+      "updated": "2015-10-24T06:12:19.274Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.4.4",
+      "title": "",
+      "text": "Nu ville det snart Være rart at i får fixet den app. ..den lukker jo ned hele tiden ?",
+      "author": "En Google-bruger",
+      "updated": "2015-10-18T06:01:47.544Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.4.4",
+      "title": "",
+      "text": "Som sådan en ok app. I øjeblikket skal den ofte genstartes, hvilket er irriterende. Synes også det er svagt at visse funktioner kun virker hvis man køber abonnement, helt ærligt DBU alle os der bruger denne app, er enten frivillige ledere, ildsjæle og aktive spillere. Vi er jo roden til fodbold - Danmark. Gør det gratis at benytte alle funktioner ⚽⚽⚽",
+      "author": "En Google-bruger",
+      "updated": "2015-10-10T16:58:48.358Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Sår kan man se om man har vundt",
+      "author": "En Google-bruger",
+      "updated": "2015-09-29T17:37:20.690Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Hvis du fx gør til fodbold i OB så kan du gå ind på en kamp og se hvem som at laver mål. Man kan også se hvis man selv laver mål !",
+      "author": "En Google-bruger",
+      "updated": "2015-09-24T19:38:03.583Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.4.4",
+      "title": "",
+      "text": "Fint værktøj. Men har oplevet adskillige gange at appen fryser.",
+      "author": "En Google-bruger",
+      "updated": "2015-09-20T17:46:40.285Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.4.4",
+      "title": "",
+      "text": "Dejligt med en app der tydeligt bæger præg at være godt gennemtænkt når det kommer til usability.",
+      "author": "En Google-bruger",
+      "updated": "2015-09-16T19:35:10.426Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.4.3.1",
+      "title": "",
+      "text": "Crasher ved startop. Har 7.9.2015 købt 6 mdr. abonnement, alligevel meddeles at abonnement er udløbet. Log på.Kan ikke logge på fordi app'en crasher. Not cool!",
+      "author": "En Google-bruger",
+      "updated": "2015-09-13T12:09:02.638Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Det er fint hvis man spiller fodbold kan man se hvilken plads man ligger på",
+      "author": "En Google-bruger",
+      "updated": "2015-09-12T15:06:39.410Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.4.3.1",
+      "title": "",
+      "text": "Cool",
+      "author": "En Google-bruger",
+      "updated": "2015-08-28T20:23:31.542Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Der er konstant fejl og den bliver ved med at lukke ned.",
+      "author": "En Google-bruger",
+      "updated": "2015-08-20T10:11:17.155Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.4.3.1",
+      "title": "",
+      "text": "Kan ikke engang logge inde på min Dbu login. Kan ikke bruge Facebook, da jeg ikke gider have det..😧 Enhed: Samsung Galaxy s4",
+      "author": "En Google-bruger",
+      "updated": "2015-08-19T09:39:32.578Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.4.3",
+      "title": "",
+      "text": "Sådan. Meget bedre nu",
+      "author": "En Google-bruger",
+      "updated": "2015-08-11T11:04:46.506Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.4.3",
+      "title": "",
+      "text": "Super nemt",
+      "author": "En Google-bruger",
+      "updated": "2015-08-10T17:53:14.900Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.4.2",
+      "title": "",
+      "text": "Har en Samsung s5. Hvorfor kan man ikke lægge kampe ind i kalenderen fra app lige som fra Iphone",
+      "author": "En Google-bruger",
+      "updated": "2015-08-03T20:16:04.565Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.4.2",
+      "title": "",
+      "text": "Meget primitiv app, Jeg skriver mit profil navn forkert under opsætning, og dereftet bliver jeg sendt tilbage til startmenuen og skal skrive det hele igen",
+      "author": "En Google-bruger",
+      "updated": "2015-07-07T11:45:52.339Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "2.4.2",
+      "title": "",
+      "text": "Fed app. Men den crasher konstant.",
+      "author": "En Google-bruger",
+      "updated": "2015-06-11T13:40:36.379Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Rigtig god app",
+      "author": "En Google-bruger",
+      "updated": "2015-05-16T12:01:03.432Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.4.2",
+      "title": "",
+      "text": "Man kan ikke se puljen man kan kun se sit ejet holds sejre men den crasher når man går ind i vis pulje",
+      "author": "En Google-bruger",
+      "updated": "2015-05-11T05:48:34.461Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Hvad hedder jeres hold?",
+      "author": "En Google-bruger",
+      "updated": "2015-05-01T21:42:34.224Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.4.1",
+      "title": "",
+      "text": "Har i en anelse om hvornår opdateringen til android kommer, så man kan logge ind med sit Facebooklogin igen?",
+      "author": "En Google-bruger",
+      "updated": "2015-04-29T09:25:31.230Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.4.1",
+      "title": "",
+      "text": "Det er en rigtig god app",
+      "author": "En Google-bruger",
+      "updated": "2015-04-19T10:24:38.572Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Kan hverken opdatere, eller installere fra ny efter afinstallation. Opdatering: jeg kan stadig ikke hente jeres app, på trods af at I har \"løst\" problemet.",
+      "author": "En Google-bruger",
+      "updated": "2015-04-15T09:20:00.671Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.4.1",
+      "title": "",
+      "text": "Det er super fedt at vi som dommere  nu har adgang til vores kampe og kan se vores dommerkollegaer. Mangler lige at kunne overføre det til kalender i Android versionen ligesom man kan i IOS. Så vil den få 5 stjerner.",
+      "author": "En Google-bruger",
+      "updated": "2015-04-14T12:30:57.235Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.4",
+      "title": "",
+      "text": "Og tak til DBU for hurtig problem løsning 😊",
+      "author": "En Google-bruger",
+      "updated": "2015-04-13T16:35:33.704Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Super",
+      "author": "En Google-bruger",
+      "updated": "2015-04-11T08:34:28.869Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.3.2",
+      "title": "",
+      "text": "God app der giver nemt overblik over kampe og hold. Jeg savner blot en mulighed for at overføre kampene til min kalender.",
+      "author": "En Google-bruger",
+      "updated": "2015-03-26T17:59:19.839Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.3.2",
+      "title": "",
+      "text": "Goood",
+      "author": "En Google-bruger",
+      "updated": "2015-03-22T21:12:19.120Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "",
+      "title": "",
+      "text": "Tak",
+      "author": "En Google-bruger",
+      "updated": "2015-03-16T06:12:32.269Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.3.2",
+      "title": "",
+      "text": "Udfyldelse af holdkort og indberetninger virker glimrende. Meget nemmere end hjemmesiden.",
+      "author": "En Google-bruger",
+      "updated": "2015-03-12T13:47:52.759Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.3.2",
+      "title": "",
+      "text": "Kanon",
+      "author": "En Google-bruger",
+      "updated": "2015-03-04T17:10:49.440Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.3.2",
+      "title": "",
+      "text": "Hvorfor skal man betale for at indrapporterer kamp resultater og holdkort.",
+      "author": "En Google-bruger",
+      "updated": "2015-01-25T08:18:46.977Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.1.6",
+      "title": "",
+      "text": "Det er et super værktøj hvis man skal sætte holdkort og indberette resultater. Simpelt og nemt",
+      "author": "En Google-bruger",
+      "updated": "2014-10-17T15:48:56.327Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.1.6",
+      "title": "",
+      "text": "Kan ikke forstå hvorfor App'n skal have adgang til mine kontakter,  billeder mm.",
+      "author": "En Google-bruger",
+      "updated": "2014-10-07T16:57:25.100Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.1.6",
+      "title": "",
+      "text": "Træner",
+      "author": "En Google-bruger",
+      "updated": "2014-10-07T09:21:05.431Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.1.6",
+      "title": "",
+      "text": "Alletiders til holdleder",
+      "author": "En Google-bruger",
+      "updated": "2014-10-04T06:46:15.938Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.1.6",
+      "title": "",
+      "text": "Denne app kræver rettigheder, bla. Adgang til filer /billede, kontakter, kamera og telefon, det virker mystisk",
+      "author": "En Google-bruger",
+      "updated": "2014-10-02T20:46:52.868Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "2.1.5",
+      "title": "",
+      "text": "Mangler funktioner når det er android , disse funktioner er der på en iPhone",
+      "author": "En Google-bruger",
+      "updated": "2014-09-24T12:26:32.100Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.1.5",
+      "title": "",
+      "text": "Det er en virkelig god app hvor man kan tjekke ens resultater og se hvor ens modstandere ligger",
+      "author": "En Google-bruger",
+      "updated": "2014-09-18T17:59:16.953Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.1.5",
+      "title": "",
+      "text": "Der er altid sort skærm, og man kan ikke opdatere den.",
+      "author": "En Google-bruger",
+      "updated": "2014-09-14T08:17:04.399Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.1.5",
+      "title": "",
+      "text": "Kan godt lide denne app. Meget praktisk.",
+      "author": "En Google-bruger",
+      "updated": "2014-09-10T18:40:23.405Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "God",
+      "author": "En Google-bruger",
+      "updated": "2014-09-08T07:23:40.764Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Jeg vil super gerne have hentet denne app men da jeg trykker på installer siger den at denne app kan ikke hentes så det er lidt nej meget irriterende sååå det vil jeg ikke anbefale.",
+      "author": "En Google-bruger",
+      "updated": "2014-08-30T15:46:08.986Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "2.1.5",
+      "title": "",
+      "text": "Fin app.. Dejligt at have dbu lige ved hånden. Dog en masse fejl der burde rettes.",
+      "author": "En Google-bruger",
+      "updated": "2014-08-29T15:26:40.263Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.1.4",
+      "title": "",
+      "text": "Man kan ikke oprette holdkort, eller indberette resultater. Bliver ved med at skulle logge ind. Det vil være rart, hvis det skulle blive fikset",
+      "author": "En Google-bruger",
+      "updated": "2014-08-28T20:06:46.139Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.1.4",
+      "title": "",
+      "text": "God app",
+      "author": "En Google-bruger",
+      "updated": "2014-08-26T20:12:07.430Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.1.3.5",
+      "title": "",
+      "text": "Virker ikke på en LG 3.",
+      "author": "En Google-bruger",
+      "updated": "2014-08-23T11:57:20.722Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.1.3.5",
+      "title": "",
+      "text": "Super godt,  kunne ikke være bedre",
+      "author": "En Google-bruger",
+      "updated": "2014-08-19T05:08:38.327Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.1.3.5",
+      "title": "",
+      "text": "Jeg er pro",
+      "author": "En Google-bruger",
+      "updated": "2014-08-18T12:01:09.861Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.1.3.5",
+      "title": "",
+      "text": "Men sort skærm Skal Så slette den og køre den ind igen mmm",
+      "author": "En Google-bruger",
+      "updated": "2014-08-16T12:16:30.908Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.1.3.5",
+      "title": "",
+      "text": "Uundværlig for fodbold folket",
+      "author": "En Google-bruger",
+      "updated": "2014-08-16T11:21:02.982Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.1.3.5",
+      "title": "",
+      "text": "Nogen som har problemer med at den ikke virker på store skærme. Det er helt klemt  sammen på min nye mobil. Det er da mega belastende.",
+      "author": "En Google-bruger",
+      "updated": "2014-08-11T19:16:56.322Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.1.3.5",
+      "title": "",
+      "text": "Kunne være rigtig godt at få tilføjet muligheden for kombineret kampprogram for sine favorit hold.",
+      "author": "En Google-bruger",
+      "updated": "2014-07-29T10:12:23.921Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.1.3.5",
+      "title": "",
+      "text": "Mangler at føje til kalender",
+      "author": "En Google-bruger",
+      "updated": "2014-06-17T15:40:56.972Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.1.3.5",
+      "title": "",
+      "text": "Virker ikke blot sort skærm",
+      "author": "En Google-bruger",
+      "updated": "2014-06-12T18:52:05.889Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.1.3.5",
+      "title": "",
+      "text": "Den er virkelig god",
+      "author": "En Google-bruger",
+      "updated": "2014-06-12T17:49:25.890Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.1.1",
+      "title": "",
+      "text": "Kan åbne den en gang efter d en er installeret , så er den bare sort resten af tiden",
+      "author": "En Google-bruger",
+      "updated": "2014-05-23T07:50:37.993Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.1.1",
+      "title": "",
+      "text": "God app så keg kan se hvilet kampe vi skal spille og hvad stilling vores hold har😱🙌😂",
+      "author": "En Google-bruger",
+      "updated": "2014-05-20T11:45:44.195Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.1.1",
+      "title": "",
+      "text": "God app",
+      "author": "En Google-bruger",
+      "updated": "2014-05-14T20:11:09.925Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.1.1",
+      "title": "",
+      "text": "Jeg kan ikke oprette en profil, da programmet ikke anerkender min mail adresse :-(",
+      "author": "En Google-bruger",
+      "updated": "2014-05-12T14:41:50.419Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.1.1",
+      "title": "",
+      "text": "Det god og kunde se kampene Jeg skal spille",
+      "author": "En Google-bruger",
+      "updated": "2014-05-08T12:47:06.579Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.1.1",
+      "title": "",
+      "text": "Den.har nogen gang med.og skal stoppe så kan.jeg ikke.komme ind på den.så må jeg slette den.igen og geninstaller den :-(",
+      "author": "En Google-bruger",
+      "updated": "2014-05-03T06:04:19.570Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.1.1",
+      "title": "",
+      "text": "Fed app man kan hurtig se stilling og kampprogrammet for sit hold. Mangler da at kunne se de andre kampe i puljen hvordan det gik. Og det med at få besked hvordan det gik for mine hold får jeg hellere ikke selvom der er sat flueben i at jeg skal..  kender flere som har fået samme problem",
+      "author": "En Google-bruger",
+      "updated": "2014-04-29T14:59:36.110Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Hvis man kunne give minus stjerner fik app'en det. Den går i sort, og bliver smidt af. Ikke optimalt når der skal udfyldes holdkort",
+      "author": "En Google-bruger",
+      "updated": "2014-04-28T20:48:07.166Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.1",
+      "title": "",
+      "text": "Virker første gang man downloader og betaler.  Derefter virker den ikke.  \"God\" måde at tjene penge på,  det har nu kostet 2*19 kr. Samsung 3S",
+      "author": "En Google-bruger",
+      "updated": "2014-04-26T16:52:02.427Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.1",
+      "title": "",
+      "text": "Kan ikke få lov til at acceptere bruger licens i live billeder. Ellers en god app. Som giver serie bold nyt liv",
+      "author": "En Google-bruger",
+      "updated": "2014-04-26T10:08:24.565Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.1",
+      "title": "",
+      "text": "Især hvis der kommer en nyhed i notifikationsbaren og man prøver at gå ind og læse den. Så giver den sort skærm og tænder og slukker for GPS hele tiden. Indtil at man dræber appen fra taskkiller.",
+      "author": "En Google-bruger",
+      "updated": "2014-04-24T21:44:25.958Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.1",
+      "title": "",
+      "text": "Virker ikke. Når jeg har været inde og derefter går ud igen bliver skærmen sort og jeg må afinstallere og geninstallere den igen for at kunne færdiggøre et holdkort. DYBT FRUSTRERENDE....... HTC one",
+      "author": "En Google-bruger",
+      "updated": "2014-04-19T05:38:58.136Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.1",
+      "title": "",
+      "text": "Denne sæson (forår 2014) er det app'en en katastrofe. Skal genstartes for at virke og notifikationer virker ikke. Nexus5.",
+      "author": "En Google-bruger",
+      "updated": "2014-04-16T19:55:30.204Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Lorte app",
+      "author": "En Google-bruger",
+      "updated": "2014-04-14T07:43:33.670Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "2.1",
+      "title": "",
+      "text": "Virker okay",
+      "author": "En Google-bruger",
+      "updated": "2014-04-13T18:35:59.713Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Sort skærm efter at have brugt den 3 gang ca. :-(.. Har installeret den 4 gang nu..Og det samme..",
+      "author": "En Google-bruger",
+      "updated": "2014-04-13T13:57:33.987Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.1",
+      "title": "",
+      "text": "Virkelig dårlig, må være ver.  1.0. Sort skærm hver anden gang, og mere eller mindre ubrugelig:O",
+      "author": "En Google-bruger",
+      "updated": "2014-04-13T13:39:30.947Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.1",
+      "title": "",
+      "text": "Logger en af hele tiden meget træls, ville ikke skade med en opdatering!",
+      "author": "En Google-bruger",
+      "updated": "2014-04-06T16:16:36.900Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.1",
+      "title": "",
+      "text": "Syntes det er for dårligt, at når man søger efter klubben FC Vestsjælland,  for at få notifikationer om, når de spiller. Findes klubben ikke. Får opdateret den app og få den ordentligt til at virke.",
+      "author": "En Google-bruger",
+      "updated": "2014-03-29T16:30:00.715Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.0.4",
+      "title": "",
+      "text": "God app",
+      "author": "En Google-bruger",
+      "updated": "2014-03-07T16:54:48.866Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.0.2",
+      "title": "",
+      "text": "God",
+      "author": "En Google-bruger",
+      "updated": "2014-02-28T09:42:30.846Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.0",
+      "title": "",
+      "text": "",
+      "author": "En Google-bruger",
+      "updated": "2014-02-21T22:53:54.343Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "2.0",
+      "title": "",
+      "text": "Fungerer virkelig upåklagelig, og så er den gratis, hvis man kun vil bruge den til at holde styr på resultater og spilletidspunkter.",
+      "author": "En Google-bruger",
+      "updated": "2014-02-20T20:33:53.262Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "2.0",
+      "title": "",
+      "text": "danm der er mange bugs kan ikke en gang se mine hold uden det går galt.... Sgs4",
+      "author": "En Google-bruger",
+      "updated": "2014-02-19T15:42:42.594Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "2.0",
+      "title": "",
+      "text": "App'en virker generelt god og gennemført, men når jeg ikke vil bruge den til andet end at holde mig løseligt ajour med et enkelt hold, så er prisen desværre langt over et rimeligt niveau. Hvis de sætter prisen ned - eller i det mindste differentierer på prisen, så man slipper for at betale fuld pris for en minimal anvendelse, vil jeg overveje at installere app'en igen... Men indtil videre ryger den ud.",
+      "author": "En Google-bruger",
+      "updated": "2014-02-19T07:06:52.275Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "2.0",
+      "title": "",
+      "text": "Virkelig god app. Dog har jeg oplevet at den reagere langsomt. Så der er nok nogle børnefejl der lige skal rettes, men kanon app, hvis man spiller fodbold, eller har sin gang i miljøet.",
+      "author": "En Google-bruger",
+      "updated": "2014-02-18T14:29:42.613Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.3.1",
+      "title": "",
+      "text": "Kommer der en opdatering, så det er muligt at lave holdkort?",
+      "author": "En Google-bruger",
+      "updated": "2014-02-03T18:30:48.570Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "1.3.1",
+      "title": "",
+      "text": "At det kostor penge er ikke får godt for der er ikke mange der køber det så det er lidt surt ØV",
+      "author": "En Google-bruger",
+      "updated": "2013-12-28T16:59:35.756Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.3.1",
+      "title": "",
+      "text": "Fremragende",
+      "author": "En Google-bruger",
+      "updated": "2013-12-27T09:09:45.755Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Man kan ikke tage penge hver måned for så dårlig en app.",
+      "author": "En Google-bruger",
+      "updated": "2013-11-10T22:32:50.982Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "1.3.1",
+      "title": "",
+      "text": "Hvorfor skal det koste penge... Øv",
+      "author": "En Google-bruger",
+      "updated": "2013-10-17T15:07:28.547Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "1.3.1",
+      "title": "",
+      "text": "Fungerer fint.",
+      "author": "En Google-bruger",
+      "updated": "2013-09-27T11:16:15.560Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.3",
+      "title": "",
+      "text": "Fantastisk nemt at indberette kampe og have puljeoversigt ved hånden. 5 store stjerner herfra. Hilsen Holdlederen",
+      "author": "En Google-bruger",
+      "updated": "2013-09-27T08:39:01.300Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "1.3",
+      "title": "",
+      "text": "Fin app.",
+      "author": "En Google-bruger",
+      "updated": "2013-09-21T16:11:49.309Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "1.2.6",
+      "title": "",
+      "text": "Denne app virker ikke på min tablet den springer tilbage til playbutik. Den virker dog på min LG telefon.\tJeg bruger app'en dagligt da jeg er træner og er glad for at der er vejviser til de forskellige spille steder. Den er til tider langsom når man indberetter resultatet.",
+      "author": "En Google-bruger",
+      "updated": "2013-09-15T10:57:46.904Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.2.5",
+      "title": "",
+      "text": "Virker perfekt.",
+      "author": "En Google-bruger",
+      "updated": "2013-09-09T18:45:52.242Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "1.2.6",
+      "title": "",
+      "text": "Skide synd at App'en ikke er gratis. Ellers er den ret handy og nem..",
+      "author": "En Google-bruger",
+      "updated": "2013-09-06T21:30:24.641Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "1.2.5",
+      "title": "",
+      "text": "Første gang jeg købte 6 mdr kørte det bare. Men nu købte jeg så igen, og under mine køb er den også registreret. Men under mine hold står der at jeg skal forny mit abonnement. Det er vel ikke meningen at jeg skal gøre det 2 gange. Og pengene er trukket fra kontoen.",
+      "author": "En Google-bruger",
+      "updated": "2013-08-25T12:34:16.542Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "1.2.5",
+      "title": "",
+      "text": "God app",
+      "author": "En Google-bruger",
+      "updated": "2013-08-22T19:37:33.319Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "1.2.5",
+      "title": "",
+      "text": "Så godt et det ikke",
+      "author": "En Google-bruger",
+      "updated": "2013-08-18T19:46:39.256Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "1.2.5",
+      "title": "",
+      "text": "Alt for mange fejl - lige nu er det data kan ikke hentes. Er meget glad for jeg ikke har abonnement",
+      "author": "En Google-bruger",
+      "updated": "2013-08-18T14:23:43.578Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "1.2.5",
+      "title": "",
+      "text": "Trist at den ikke starter app'en op... især når man kan læse at det er et problem som har eksisteret længe, og når turneringen er startet....",
+      "author": "En Google-bruger",
+      "updated": "2013-08-18T10:15:30.645Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "1.2.5",
+      "title": "",
+      "text": "Nexus 4 Android 4.3",
+      "author": "En Google-bruger",
+      "updated": "2013-08-15T11:52:38.583Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "1.2.5",
+      "title": "",
+      "text": "Data kan ikke hentes",
+      "author": "En Google-bruger",
+      "updated": "2013-08-07T14:57:55.994Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.2.5",
+      "title": "",
+      "text": "Har alt det man skal bruge. Rimelig med den meget lille egenbetaling på 19 kr for et halvt år, så man kan lave \"mine hold\". Betaling = vedligeholdelse + forbedringer",
+      "author": "En Google-bruger",
+      "updated": "2013-07-22T15:42:18.873Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Vi vandt                           3-0",
+      "author": "En Google-bruger",
+      "updated": "2013-06-05T16:16:12.434Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Virker ikke til min den vil ikke gå ind i programmet den står bare på det der fodbold ikon i starten også går den i sort og kommer ikke videre",
+      "author": "En Google-bruger",
+      "updated": "2013-05-21T14:20:33.855Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "1.2.3",
+      "title": "",
+      "text": "Synes det er mærkeligt at man skal betale for månedlig abonnement, kunne bedre forstå hvis det var et engangsbeløb for appen.",
+      "author": "En Google-bruger",
+      "updated": "2013-05-14T21:38:50.864Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "1.2.3",
+      "title": "",
+      "text": "Under karantæne info har spillere både 2 og 3 spille dage for gult kort ??? Det er kun 1 på dbu.dk",
+      "author": "En Google-bruger",
+      "updated": "2013-05-09T19:19:14.426Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.2.2",
+      "title": "",
+      "text": "Det er virkelig en god app, 3 minutter efter kamp kam di se resultatet",
+      "author": "En Google-bruger",
+      "updated": "2013-05-02T17:50:33.121Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Jeg elsker det",
+      "author": "En Google-bruger",
+      "updated": "2013-05-01T04:23:15.877Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "",
+      "title": "",
+      "text": "En række funktionsknapper er meget små og svært tilgængelige - givetvis afhængig af telefon-model, men det er i hvert fald et problem på min Xperia Z. Samtidig fyrer app'en op for GPS uden at jeg rigtig kan se hvorfor, eller i øvrigt slå det fra.",
+      "author": "En Google-bruger",
+      "updated": "2013-04-01T02:26:56.247Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "1.2",
+      "title": "",
+      "text": "Når jeg trykker på hjertet, når jeg skal tilføje mit hold gider den ikke er der nogen der kan hjælpe?",
+      "author": "En Google-bruger",
+      "updated": "2013-03-23T14:51:51.640Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "1.2",
+      "title": "",
+      "text": "Ubrugelig på grund af abonnementet",
+      "author": "En Google-bruger",
+      "updated": "2013-03-15T08:39:41.813Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "1.2",
+      "title": "",
+      "text": "Rigtig god app - så kan jeg hurtigt se hvor mit hold ligger i tabellen. Men den er dog langsom til at opdatere kamp-resultatet og nye puljer ...",
+      "author": "En Google-bruger",
+      "updated": "2013-03-06T19:29:49.610Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "",
+      "title": "",
+      "text": "Fin måde lige at følge juniors hold på, når man ikker nær en pc.",
+      "author": "En Google-bruger",
+      "updated": "2013-02-28T06:48:01.611Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "1.2",
+      "title": "",
+      "text": "Det er så dejligt at kunne finde kampe og stillinger for de hold, jeg træner, via mobilen, men hvorfor skal DBU have penge hver måned for at jeg kan gemme genveje til holdene? Jojo, jeg kan da bare klikke mig gennem menuerne - og gør det da også - men hvorfor?",
+      "author": "En Google-bruger",
+      "updated": "2013-02-27T20:24:22.193Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "",
+      "title": "",
+      "text": "Fin lille app, men jeg mangler at man kan se dommeren er, når man er inde på kampinfo. Ellers fin, uden at være helt vild.",
+      "author": "En Google-bruger",
+      "updated": "2012-11-28T12:42:20.376Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "1.0.2",
+      "title": "",
+      "text": "Fungerer Godt til folk der Har med fodboldklubber at gøre",
+      "author": "En Google-bruger",
+      "updated": "2012-11-22T15:15:17.498Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.0.2",
+      "title": "",
+      "text": "En app som vi androidbrugere får stor glæde af når først den er komplet opdateret",
+      "author": "En Google-bruger",
+      "updated": "2012-11-12T15:15:36.649Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Den er hurtig og kan det man bruger mest",
+      "author": "En Google-bruger",
+      "updated": "2012-11-09T08:47:20.547Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.0.1",
+      "title": "",
+      "text": "det virker bare......",
+      "author": "En Google-bruger",
+      "updated": "2012-11-02T18:57:10.889Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Fungerer perfekt!",
+      "author": "En Google-bruger",
+      "updated": "2012-10-25T19:03:59.402Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Fantastisk godt lavet...",
+      "author": "En Google-bruger",
+      "updated": "2012-10-23T10:43:07.809Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Ok app den kører dog ekstremt langsomt, hvis man ikke er på WiFi.",
+      "author": "En Google-bruger",
+      "updated": "2012-10-23T05:22:09.408Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Udemærket program men at man skal betale et gebyr hver måned og så oven i købet til dbu, det fatter jeg ikke. Hvis i absolut skal have betaling, fra jeres frivillige trænere som i øvrigt ikke får en skid for at træne ungerne i deres sparsomme fritid, kunne man så ikke lave et engangsbeløb som de fleste andre på ca 15-20 kr. Jeg syntes det er ulækkert.",
+      "author": "En Google-bruger",
+      "updated": "2012-10-07T18:33:56.859Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Fed app for en træner",
+      "author": "En Google-bruger",
+      "updated": "2012-10-07T08:04:02.881Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Fantastisk app, men hvorfor kan man ikke se andre resultater fra de andre hold i ens pulje?? Man kan kun se sit eget hold... ??? Please fix it ;-)",
+      "author": "En Google-bruger",
+      "updated": "2012-10-06T19:55:22.175Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "",
+      "title": "",
+      "text": "Rigtig god app Bare ærgerligt at den fryser så tit at jeg må fjerne den og så hente den igen ellers havde den fået 5 stjerner",
+      "author": "En Google-bruger",
+      "updated": "2012-10-06T15:32:34.933Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Funger perfekt.",
+      "author": "En Google-bruger",
+      "updated": "2012-10-01T13:09:45.282Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "",
+      "title": "",
+      "text": "Kan ikke finde de hold jeg søger, så synes ikke jeg vil bruge min tid på det her",
+      "author": "En Google-bruger",
+      "updated": "2012-09-26T17:49:44.310Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Tåbeligt at der skal betales for det fulde abonnement. Gratis via internet på mobil - gør dog app gratis.",
+      "author": "En Google-bruger",
+      "updated": "2012-09-22T17:35:20.741Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Fin app men den fryser ofte og så mangler den integration med kalender og mulighed for at se de øvrige hold i puljen.",
+      "author": "En Google-bruger",
+      "updated": "2012-09-14T16:22:17.825Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Cool",
+      "author": "En Google-bruger",
+      "updated": "2012-09-11T19:12:35.832Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Nice app. Men avoligt at der kommer betaling på efter 60 dage ved noget af det",
+      "author": "En Google-bruger",
+      "updated": "2012-09-05T15:08:30.550Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "1.0.1",
+      "title": "",
+      "text": "men crasher når jeg prøver på at tilføje et ekstra hold under \"mine hold\". Samsung galaxy 3",
+      "author": "En Google-bruger",
+      "updated": "2012-09-05T06:24:48.602Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Fryser dårligt telefonen skal genstartes når man vælger resultater under mine hold.",
+      "author": "En Google-bruger",
+      "updated": "2012-09-03T18:16:24.883Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "1.0.1",
+      "title": "",
+      "text": "God dog ikke helt gratis",
+      "author": "En Google-bruger",
+      "updated": "2012-08-27T13:57:04.590Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Kommer dog bag på mig at man skal købe sig til den fulde app da alle disse ting kan gøres ganske gratis på en pc. Men fed ide og super app. Genialt man kan få vist kampens spille sted på et kort.",
+      "author": "En Google-bruger",
+      "updated": "2012-08-25T18:57:31.465Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Savner virkeligt integration med kalenderen, således at kampprogram for \"mine hold\" kan indlægges/opdateres automatisk i telefonens kalender. Lignende virkede fint på Infosport med webkalender link og Google Kalender (iCal format)  Ellers fin og nyttig app",
+      "author": "En Google-bruger",
+      "updated": "2012-08-23T12:02:07.444Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Det første indtryk var godt.  Jeg tænkte yes, endelig har de skruet en ordentligt app sammen. Men på det seneste crasher den hele tiden og fryser telefonen til genstart. Ærgerligt, kom nu med en opdatering så skidtet virker.",
+      "author": "En Google-bruger",
+      "updated": "2012-08-21T18:39:40.807Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Fryser konsekvent ved opstart.",
+      "author": "En Google-bruger",
+      "updated": "2012-08-18T12:38:53.141Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 4,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Det er lidt irreterende at der ikke kommer eb meddelese når ebs hold spiller",
+      "author": "En Google-bruger",
+      "updated": "2012-08-18T10:09:20.662Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 2,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Fryser lidt for ofte. Og synes det tager lang tid at få de ønskede data frem",
+      "author": "En Google-bruger",
+      "updated": "2012-08-18T07:58:40.653Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Ærgerligt da ideen er rigtig god. Håber de  får rettet fejlene",
+      "author": "En Google-bruger",
+      "updated": "2012-08-15T19:31:57.788Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Dårlig og crasher konstant :-(  Det er en ommer DBU.",
+      "author": "En Google-bruger",
+      "updated": "2012-08-14T19:29:22.287Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Fin idé, men bliver ikke opdateret",
+      "author": "En Google-bruger",
+      "updated": "2012-08-13T13:57:05.996Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Super app",
+      "author": "En Google-bruger",
+      "updated": "2012-08-06T16:09:43.939Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "",
+      "title": "",
+      "text": "Endelig kampprogram og indberetning til mobilen :-)",
+      "author": "En Google-bruger",
+      "updated": "2012-07-18T17:43:18.951Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Den har de funktioner som forventet og glæder mig til at bruge den når sæsonen for ungdomsfodbolden starter.. Dog fryser den lige pt. når man starter app, håber det fikses snarest :)",
+      "author": "En Google-bruger",
+      "updated": "2012-07-16T16:40:23.995Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 1,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Kedeligt urealistisk",
+      "author": "En Google-bruger",
+      "updated": "2012-07-12T22:43:25.810Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 3,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Mangler dog at opdatere sig efter ny turnering",
+      "author": "En Google-bruger",
+      "updated": "2012-07-08T09:32:06.617Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Burde Være gratis",
+      "author": "En Google-bruger",
+      "updated": "2012-07-05T16:40:39.290Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Simpelthen fantastisk at kunne følge med via mobilen :-)",
+      "author": "En Google-bruger",
+      "updated": "2012-06-26T12:14:38.245Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.0.1",
+      "title": "",
+      "text": "Godt!",
+      "author": "En Google-bruger",
+      "updated": "2012-06-25T21:15:53.450Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.0.1",
+      "title": "",
+      "text": "God",
+      "author": "En Google-bruger",
+      "updated": "2012-06-24T20:52:53.310Z"
+    },
+    {
+      "platform": "android",
+      "country": "dk",
+      "rating": 5,
+      "version": "1.0",
+      "title": "",
+      "text": "Vente tiden har været lang, men det har været vente tiden værd mega fed app stor ros til jeres udvikler",
+      "author": "En Google-bruger",
+      "updated": "2012-06-15T14:52:01.954Z"
+    }
+  ]
+}

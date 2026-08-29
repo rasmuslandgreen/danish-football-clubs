@@ -2,10 +2,10 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "demo",
-      "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "3456"],
-      "port": 3456
+      "name": "klub-editor",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "editor"],
+      "port": 3737
     }
   ]
 }

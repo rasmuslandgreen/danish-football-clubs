@@ -1,0 +1,7187 @@
+{
+  "summary": {
+    "total": 1034,
+    "egenGuide": 16,
+    "egenKampklarSide": 47,
+    "kunLinkTilDbu": 24,
+    "ingenPaaForside": 859,
+    "unreachable": 88,
+    "deepVerifiedGuides": 41
+  },
+  "results": [
+    {
+      "name": "AC Norddjurs",
+      "website": "http://www.acnorddjurs.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Alhedens IF",
+      "website": "http://www.frederiks-aif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "AIK 65 Strøby Fodbold",
+      "website": "https://aik65fodbold.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar og Mit DBU",
+          "url": "https://aik65fodbold.dk/velkommen-i-aik/#kampklar"
+        },
+        {
+          "text": "Kampklar og Mit DBU",
+          "url": "https://aik65fodbold.dk/velkommen-i-aik/#kampklar"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Agerbæk SF",
+      "website": "http://www.agerbaek-sf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "AGF, Aarhus",
+      "website": "http://www.agf1880fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "AB Tårnby",
+      "website": "http://www.abtaarnby.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://mit.dbu.dk/Login.aspx?ReturnUrl=%2f"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://mit.dbu.dk/Login.aspx?ReturnUrl=%2f"
+        }
+      ]
+    },
+    {
+      "name": "Albertslund BS 72",
+      "website": "http://www.bs72.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Albertslund IF",
+      "website": "http://www.aif-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Allingåbro IF",
+      "website": "http://www.aiffodbold.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Allinge-Sandvig G.F.",
+      "website": "http://www.a-s-g.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Alsønderup SG&I",
+      "website": "http://www.asgi.dk/fodbold",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Alminde/Viuf GIF",
+      "website": "http://www.avgif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Allerød Fodbold Klub",
+      "website": "http://www.alleroedfk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "AIA-Tranbjerg",
+      "website": "http://aiatranbjerg-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Amager Fodbold Forening",
+      "website": "http://www.amagerff.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Alliancen IF",
+      "website": "http://www.ifafodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ansager IF",
+      "website": "http://www.ansagerif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Annisse IF",
+      "website": "http://www.annisse-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Arctos",
+      "website": "http://www.arctos.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Amager International School",
+      "website": "http://a-i-s.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ans IF",
+      "website": "http://www.ansif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Arrild Idrætsforening",
+      "website": "http://www.arrildif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Arnborg IF",
+      "website": "http://www.arnborgif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Allerslev UIF",
+      "website": "http://www.auif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Allested U & IF",
+      "website": "http://www.allested-ui.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Alslev Sport & Kultur",
+      "website": "http://www.alslevsk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Askov/Malt UI",
+      "website": "http://www.amui.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Assens FC",
+      "website": "http://www.assensfc.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "ASA, Aarhus",
+      "website": "http://www.asa-fodbold.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "KampKlar",
+          "url": "https://www.asa-fodbold.dk/medlemskab/dbu-appen/kampklar/"
+        },
+        {
+          "text": "KampKlar",
+          "url": "https://www.asa-fodbold.dk/medlemskab/dbu-appen/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Arden IF",
+      "website": "http://www.jarl-arden.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aulum IF",
+      "website": "http://www.aulumif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Avarta (professional)",
+      "website": "http://www.avartaelite.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Asnæs BK",
+      "website": "http://www.asnaesboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "B 1990",
+      "website": "http://www.b1990.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Andrup IF",
+      "website": "http://www.andrupif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "B 65",
+      "website": "http://www.b65.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "B 74 Silkeborg",
+      "website": "http://www.b74.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "B 1909",
+      "website": "http://www.b1909.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "B 67",
+      "website": "http://www.b67.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "B 93 (professional)",
+      "website": "http://www.b93.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "As IF",
+      "website": "http://www.as-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "B. 82, Virum",
+      "website": "http://www.b82.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "http://www.b82.dk/medlemskab/kampklar.php"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "B 1938",
+      "website": "http://www.b1938.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "B Chang",
+      "website": "http://www.bchang.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "B. 73, Slagelse",
+      "website": "http://www.b73.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "B. 77, Rødovre",
+      "website": "http://www.b77fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "B. 1973, Herlev",
+      "website": "http://www.b1973.dk/",
+      "category": "egen-guide",
+      "matches": [
+        {
+          "text": "Guide til KampKlar",
+          "url": "https://www.b1973.dk/media/3336/guide-til-hjemmesiden.pdf"
+        },
+        {
+          "text": "Guide til KampKlar",
+          "url": "https://www.b1973.dk/media/3336/guide-til-hjemmesiden.pdf"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Ballerup Boldklub",
+      "website": "http://www.ballerupboldklub.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "B52/Aalborg Fodbold Club",
+      "website": "http://www.b52.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bagterp IF",
+      "website": "http://www.bagterp.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "Spillere- og for&#230;ldrevejledning til kampklar",
+          "url": "https://klubservice.dbu.dk/kampklar/vejledning/til-spillere-og-foraeldre/"
+        },
+        {
+          "text": "Tr&#230;nervejledning til kampklar",
+          "url": "https://klubservice.dbu.dk/kampklar/vejledning/til-traenere-og-holdledere/"
+        },
+        {
+          "text": "Spillere- og for&#230;ldrevejledning til kampklar",
+          "url": "https://klubservice.dbu.dk/kampklar/vejledning/til-spillere-og-foraeldre/"
+        }
+      ]
+    },
+    {
+      "name": "B. Frem",
+      "website": "http://www.bfremsaks.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ballum IF",
+      "website": "http://www.ballumif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "B1913",
+      "website": "http://www.b1913.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ballerup-Skovlunde Fodbold",
+      "website": "http://www.bsfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bangsbo Freja",
+      "website": "http://www.bangsbofreja.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bevtoft IF",
+      "website": "http://www.buif.gominisite.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Balle Musik- og Idrætsefterskole",
+      "website": "http://www.balle-efterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Benløse IF",
+      "website": "http://www.benloseif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "BFC Lundegården",
+      "website": "http://www.bfcl.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Biersted IF",
+      "website": "http://www.bierstedif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bagsværd BK",
+      "website": "http://www.bagsvaerdboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Billund IF",
+      "website": "http://www.billundfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Birket Boldklub",
+      "website": "http://www.birketboldklub.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Birkelse IF",
+      "website": "http://www.birkelse-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Birkende BK",
+      "website": "http://www.birkendeboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bedsted UIF",
+      "website": "http://www.bedstedsogn.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bindslev/Tversted IF",
+      "website": "http://www.bti-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bjert IF",
+      "website": "http://www.bjertif.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "BGI Akademiet",
+      "website": "http://www.bgi.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bispebjerg Boldklub",
+      "website": "http://www.bispebjergboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "BK Avarta",
+      "website": "http://www.avarta.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bjerringbro IF",
+      "website": "http://www.bjerringbroif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bedsted IF",
+      "website": "http://www.bedstedif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "BK Vestfyn",
+      "website": "http://www.bkvestfyn.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "BK Friheden",
+      "website": "http://www.bkfriheden.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "BK Stjernen af 1968",
+      "website": "http://www.bkstjernen.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://mit.dbu.dk/MyTeam/MyTeam.aspx"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://mit.dbu.dk/MyTeam/MyTeam.aspx"
+        }
+      ]
+    },
+    {
+      "name": "BK Frem (professional)",
+      "website": "http://www.bkfrem.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Blenstrup IF",
+      "website": "http://www.blenstrup-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "BK Vest, Rødovre",
+      "website": "http://www.bk-vest.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boeslunde BK",
+      "website": "http://www.boeslundeboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bolbro GIF",
+      "website": "http://www.bolbrogif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben af 1893",
+      "website": "http://fodbold.b93.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bogense G & IF",
+      "website": "http://www.bgfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben 1903",
+      "website": "http://www.b1903.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bjerregrav B",
+      "website": "http://www.bjerregrav-boldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben 1908",
+      "website": "http://www.b1908.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "BK Posten",
+      "website": "http://www.bkposten.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Blovstrød IF",
+      "website": "http://www.blovstrod-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Avedøre IF",
+      "website": "http://www.avedorefodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben anno 2007",
+      "website": "http://www.facebook.com/BKanno2007",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben Heimdal",
+      "website": "https://www.holdsport.net/klub/boldklubben-heimdal",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben Enghaven",
+      "website": "http://www.bk-enghaven.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben Klitten",
+      "website": "http://boldklubbenklitten.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Boldklubben Fremad Amager",
+      "website": "http://www.fremad-amager.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben Fremad Valby",
+      "website": "http://www.fremadvalby.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "KampKlar",
+          "url": "https://www.fremadvalby.dk/fodbold/information/kampklar/"
+        },
+        {
+          "text": "KampKlar",
+          "url": "https://www.fremadvalby.dk/fodbold/information/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Boldklubben Frem",
+      "website": "http://bkfrem.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben Pioneren",
+      "website": "http://www.pioneren.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben Fix",
+      "website": "http://www.boldklubbenfix.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar - Ny spiller/for&#230;ldre",
+          "url": "https://www.boldklubbenfix.dk/boern-ungdom/info/kampklar-ny-spiller-foraeldre/"
+        },
+        {
+          "text": "Kampklar - Ny spiller/for&#230;ldre",
+          "url": "https://www.boldklubbenfix.dk/boern-ungdom/info/kampklar-ny-spiller-foraeldre/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Boldklubben Marienlyst",
+      "website": "http://www.b-marienlyst.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben Døvania",
+      "website": "http://www.dovania.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben Sundby KFUM",
+      "website": "http://www.sundby-kfum.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Boldklubben Skjold",
+      "website": "http://www.bkskjold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben Hekla",
+      "website": "http://www.bkhekla.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben Stefan",
+      "website": "http://www.bkstefan.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben Vestkysten",
+      "website": "http://www.bvoksbol.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben Rødovre",
+      "website": "http://www.bkrodovre.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar, Spillerlicens HJ&#198;LP!",
+          "url": "https://www.bkrodovre.dk/klubben/kampklar-spillerlicens-hjaelp/"
+        },
+        {
+          "text": "Kampklar, Spillerlicens HJ&#198;LP!",
+          "url": "https://www.bkrodovre.dk/klubben/kampklar-spillerlicens-hjaelp/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Boldklubben Volvox",
+      "website": "http://www.volvox.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben Olympia 1921",
+      "website": "http://www.bkolympia1921.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben Union",
+      "website": "http://www.bkunion.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Borup IF (J)",
+      "website": "http://www.borupif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bording IF",
+      "website": "http://www.bordingif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bork FK",
+      "website": "http://www.borkfk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bov IF",
+      "website": "http://fodbold.bovif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Borup IF Fodbold",
+      "website": "http://www.borupfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bramdrupdam GIF",
+      "website": "http://www.bgif.dk/",
+      "category": "egen-guide",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://bgif.dk/kampklar-guide/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Brabrand IF",
+      "website": "http://www.brabrand-fodbold.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar - DBU Appen",
+          "url": "https://www.brabrand-fodbold.dk/spiller/kampklar-dbu-appen/"
+        },
+        {
+          "text": "KampKlar og smitteopsporing",
+          "url": "https://www.brabrand-fodbold.dk/traener/praktiske-informationer/kampklar-og-smitteopsporing/"
+        },
+        {
+          "text": "Kampklar - DBU Appen",
+          "url": "https://www.brabrand-fodbold.dk/spiller/kampklar-dbu-appen/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Bramming B",
+      "website": "http://www.brammingboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Brabrand IF (professional)",
+      "website": "http://www.brabrandfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bramsnæs FB",
+      "website": "http://www.bramsnaesfb.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bredballe IF",
+      "website": "http://www.bredballe-if.dk/fodbold/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Brande IF",
+      "website": "http://www.brande-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Brovst IF",
+      "website": "http://www.brovst-if.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Brede IF",
+      "website": "http://www.brede-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Broager UI",
+      "website": "http://www.bui-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Borsholm-Skibstrup IF",
+      "website": "http://www.borsholm.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben Vestia",
+      "website": "http://www.vestia.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bryrup IF",
+      "website": "http://www.bryrupif.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Branderslev IF",
+      "website": "http://www.branderslevif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Brødeskov IF",
+      "website": "http://www.broedeskov.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Boldklubben VLI",
+      "website": "http://www.vlifodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Brylle BK",
+      "website": "http://www.bryllebk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Brædstrup IF",
+      "website": "http://braedstrupiffodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Brønderslev IF",
+      "website": "http://www.bi-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Brøndbyernes IF",
+      "website": "http://www.brondbyif.net/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bække SF",
+      "website": "http://www.baekke.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "BUF Horsens",
+      "website": "http://www.bufhorsens.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bruunshåb-Tapdrup-Arnbjerg IF",
+      "website": "http://www.bt-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bøvling UF",
+      "website": "http://www.boevlingik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Brønshøj Boldklub",
+      "website": "http://www.bronshojboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Brøndby Strand IK",
+      "website": "http://bsifodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bøvling Idrætsefterskole",
+      "website": "http://www.bi-efterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Christiania Sports Club",
+      "website": "http://www.cscfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Christiansbjerg IF",
+      "website": "http://www.cif-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "CBS Sport",
+      "website": "http://www.cbssport.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Båring GF",
+      "website": "http://båringgf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Dalby GF",
+      "website": "http://www.dalbygf.klub-modul.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Bredebro IF",
+      "website": "http://www.bredebro-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "DAI - Fodbold",
+      "website": "http://www.dai-kbh.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Brøruphus Efterskole",
+      "website": "http://www.broeruphus.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Dalby GI (H)",
+      "website": "http://www.dalbysport.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Copenhagen Celtic",
+      "website": "http://www.copenhagenceltic.com/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Christiansfeld IF",
+      "website": "http://www.christiansfeldif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Dalby IF / HFK fodbold",
+      "website": "http://dalby1901.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Dalby IF",
+      "website": "http://www.dalbyif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Christianshavns Idræts Klub",
+      "website": "http://www.cik-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Dalum IF",
+      "website": "http://www.dalumif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Dana Cup Sports Center",
+      "website": "http://www.danacupsportscenter.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Design- & Idrætsefterskolen Skamling",
+      "website": "http://www.skamling.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Dejbjerglund Efterskole",
+      "website": "http://www.dejbjerglund.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Darum IF",
+      "website": "http://www.darumif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Dianalund IF",
+      "website": "http://www.dianalundfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "DGI Midtjylland",
+      "website": "http://www.dgi.dk/fodbold/midtjylland",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Djurslands Efterskole",
+      "website": "http://www.djurslands-efterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Dansk Træner Union",
+      "website": "http://www.dtunet.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Dragør Boldklub",
+      "website": "http://www.dragoer-boldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Doense/Vebbestrup IF",
+      "website": "http://www.dvif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Dronningborg B",
+      "website": "http://www.dbfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Døllefjelde Musse IF",
+      "website": "http://www.musse.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "DGF Flensborg",
+      "website": "http://www.dgf-flensborg.de/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Dronninglund IF",
+      "website": "http://www.diffodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Egen UI",
+      "website": "http://www.eui.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Egebjerg IF",
+      "website": "http://www.egebjerg-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ebberup IF",
+      "website": "http://www.ebberup-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Egebjerg Fodbold",
+      "website": "http://www.egebjerg-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Egmont Rollators FC",
+      "website": "http://www.egmontrollatorsfc.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "De 7 Dale Idrætsforening",
+      "website": "https://de7dale-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ebeltoft IF",
+      "website": "http://www.ebeltoftfodbold.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://www.ebeltoftfodbold.dk/om-klubben/for-traenere/kampklar/"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://www.ebeltoftfodbold.dk/om-klubben/for-traenere/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Ejstrupholm IF",
+      "website": "http://www.ejstrupholmif.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Endeslev-Vråby IF",
+      "website": "http://www.evif.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Ejby IK",
+      "website": "http://www.ejbyik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Egtved IF",
+      "website": "http://www.egtvedif.dk/dk/fodbold/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Elbæk Efterskole",
+      "website": "http://www.elbaek-efterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Efterskolen Ådalen",
+      "website": "http://www.efterskolen-aadalen.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Errindlev G & I",
+      "website": "http://www.egi.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ejby IF Fodbold",
+      "website": "http://www.ejbyiffodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Esbjerg Firmaidræt",
+      "website": "http://www.esbjerg-firmaidraet.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ejby IF 1968",
+      "website": "http://www.ejbyif68.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://www.ejbyif68.dk/kampklar/"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://www.ejbyif68.dk/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Esbjerg fB",
+      "website": "http://www.efb.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Erritsø GIF",
+      "website": "http://www.egif-fodbold.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://www.egif-fodbold.dk/medlem/kampklar/"
+        },
+        {
+          "text": "S&#229;dan kommer du igang...",
+          "url": "https://www.egif-fodbold.dk/medlem/kampklar/saadan-kommer-du-igang/"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://www.egif-fodbold.dk/medlem/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Dall-Ferslev IF",
+      "website": "http://www.dallferslev-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Espergærde IF",
+      "website": "http://www.eif-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Eskilstrup BK",
+      "website": "http://www.eskilstrupboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Esbjerg IF 92",
+      "website": "http://www.if92fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Esrum IF",
+      "website": "http://www.esrumif.dk/",
+      "category": "egen-guide",
+      "matches": [
+        {
+          "text": "Guide til kampklar",
+          "url": "https://www.esrumif.dk/media/1758/informationsbrev-omkring-kampklar-ver-c.pdf"
+        },
+        {
+          "text": "Guide til kampklar",
+          "url": "https://www.esrumif.dk/media/1758/informationsbrev-omkring-kampklar-ver-c.pdf"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "FA 2000",
+      "website": "http://www.frederiksbergalliancen.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Farsø/Ullits IK",
+      "website": "http://www.fuik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Avrasya",
+      "website": "http://www.avrasya.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "F.C. Gladsaxe",
+      "website": "http://www.fcgladsaxe.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Farum BK",
+      "website": "http://www.farum-boldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Bøgeskov",
+      "website": "http://www.fcbøgeskov.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Fanø B",
+      "website": "http://www.fanøboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Faxe BK",
+      "website": "https://faxeboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Dunav",
+      "website": "http://www.fcdunav.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "F.C. Lange Bolde",
+      "website": "http://www.fclangebolde.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Culpa",
+      "website": "http://www.fcculpa.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Campus",
+      "website": "http://www.fccampus.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Glesborg",
+      "website": "http://www.fc-glesborg.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC BiH Odense",
+      "website": "http://www.facebook.dk/FcBihOdense",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Hjallese",
+      "website": "http://www.fchjallese.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Faaborg",
+      "website": "http://www.fcfaaborg.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Broby",
+      "website": "http://www.fcbroby.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "FCB er kampklar! Er du?",
+          "url": "https://www.fcbroby.dk/klubben/fcb-er-kampklar-er-du/"
+        },
+        {
+          "text": "FCB er kampklar! Er du?",
+          "url": "https://www.fcbroby.dk/klubben/fcb-er-kampklar-er-du/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "FC Hvidovre",
+      "website": "http://www.fchvidovre.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Holte",
+      "website": "http://www.fcholte.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Kurant",
+      "website": "http://www.fckurant.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Lejre",
+      "website": "http://www.fclejre.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "DBU KampKlar",
+          "url": "https://klubservice.dbu.dk/kampklar/"
+        },
+        {
+          "text": "DBU KampKlar",
+          "url": "https://klubservice.dbu.dk/kampklar/"
+        }
+      ]
+    },
+    {
+      "name": "FC Horsens",
+      "website": "http://www.fchorsens.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Jonstrup",
+      "website": "http://www.fcjonstrup.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC King George",
+      "website": "http://www.fckg.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Nanoq",
+      "website": "http://www.fcnanoq.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Nakskov",
+      "website": "http://www.fcnakskov.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Nyhavn",
+      "website": "http://www.facebook.com/FCNyhavn/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Odense",
+      "website": "http://www.fcodense.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC SevenOaks",
+      "website": "http://www.fcsevenoaks.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "FC Ryparken",
+      "website": "http://www.fcryparken.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Royal",
+      "website": "http://www.facebook.com/FC.Royal.Fodbold.Aarhus",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Damsø",
+      "website": "http://www.fcdamsoe.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Skanderborg",
+      "website": "http://www.fcskanderborg.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Sydvest 05 Tønder (professional)",
+      "website": "http://www.fcsydvest.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Udfordringen",
+      "website": "http://www.fcudfordringen.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Roskilde (professional)",
+      "website": "http://www.fc-roskilde.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Ypsilon",
+      "website": "http://www.fcy.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Rangers",
+      "website": "http://www.fcrangers.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Helsingør",
+      "website": "http://www.fchtalent.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FF Klettar",
+      "website": "http://www.ffklettar.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Felsted IF",
+      "website": "http://www.felsted-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FCH 6100",
+      "website": "http://www.fch6100.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FIF, Hillerød",
+      "website": "http://www.fif-hillerod.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FC Storebælt",
+      "website": "http://www.fcstorebaelt.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Filskov IF",
+      "website": "http://www.filskov-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fjerritslev IF",
+      "website": "http://www.fiffodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FK Odsherred",
+      "website": "http://www.fkodsherred.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fjorden IF",
+      "website": "http://www.iffjorden.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fjordager IF",
+      "website": "http://www.fjordagerfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Feldborg/Haderup IF",
+      "website": "http://www.fhif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Flemløse BK",
+      "website": "http://www.flemloese-boldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fjelsted/Harndrup IF",
+      "website": "http://www.fjelstedharndrup-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fodboldklubben Prespa",
+      "website": "http://www.fkprespa.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FK Utopia",
+      "website": "http://www.fkutopia.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FLUIF-MORS",
+      "website": "http://www.fluif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Football Club Vietnam",
+      "website": "http://www.fcvn.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "FK 73",
+      "website": "http://www.fk73.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FodboldHoldet Herning",
+      "website": "http://www.fhherning.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fortuna Hjørring",
+      "website": "http://www.fortunahjorring.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fortuna Hjørring (professional)",
+      "website": "http://www.fortunahjorring.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fodboldklubben Sorø Freja",
+      "website": "http://www.sorøfreja.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fr.holm Sydhavnen",
+      "website": "http://www.boldklubbenfrederiksholmsydhavnen.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Foulum IF",
+      "website": "http://www.foulumif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fortuna Svendborg",
+      "website": "http://www.fortuna-svendborg.dk/",
+      "category": "egen-guide",
+      "matches": [
+        {
+          "text": "Kom i gang med Kampklar",
+          "url": "https://www.fortuna-svendborg.dk/foraeldreinfo/kom-i-gang-med-kampklar/"
+        },
+        {
+          "text": "Kom i gang med Kampklar",
+          "url": "https://www.fortuna-svendborg.dk/foraeldreinfo/kom-i-gang-med-kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Frederikshavn fI",
+      "website": "http://www.ffifodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fløng-Hedehusene Fodbold",
+      "website": "http://www.fhfodbold.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "KampKlar - Styrker holdet!",
+          "url": "https://www.fhfodbold.dk/praktisk-info/kampklar-styrker-holdet/"
+        },
+        {
+          "text": "KampKlar - Styrker holdet!",
+          "url": "https://www.fhfodbold.dk/praktisk-info/kampklar-styrker-holdet/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Frederiksberg Boldklub",
+      "website": "http://www.frederiksberg-boldklub.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "Login KampKlar MitDBU",
+          "url": "https://mit.dbu.dk/MyTeam/MyTeams.aspx"
+        },
+        {
+          "text": "Login KampKlar MitDBU",
+          "url": "https://mit.dbu.dk/MyTeam/MyTeams.aspx"
+        },
+        {
+          "text": "Login KampKlar MitDBU",
+          "url": "https://mit.dbu.dk/MyTeam/MyTeams.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Fredericia KFUM",
+      "website": "http://www.fredericiakfum.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fredericia fF",
+      "website": "http://www.fredericiaff.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fredensborg BI",
+      "website": "http://fbi-bold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fremad Amager Elite (professional)",
+      "website": "http://www.fremad-amager.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fuglebakken KFUM Århus",
+      "website": "http://www.fuglebakkenkfum.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "KampKlar / Mit DBU",
+          "url": "https://mit.dbu.dk/login.aspx"
+        },
+        {
+          "text": "KampKlar / Mit DBU",
+          "url": "https://mit.dbu.dk/login.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Funder GF",
+      "website": "http://www.fundergffodbold.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Futsal Club Fjordbold",
+      "website": "http://www.fcfjordbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Frem Hellebæk",
+      "website": "http://www.ifh-fodbold.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "S&#229;dan bliver du kontaktperson for dit barn",
+          "url": "https://klubservice.dbu.dk/kampklar/saadan-kommer-du-igang/hvordan-bliver-jeg-kontaktperson-for-mit-barn/"
+        },
+        {
+          "text": "S&#229;dan bliver du kontaktperson for dit barn",
+          "url": "https://klubservice.dbu.dk/kampklar/saadan-kommer-du-igang/hvordan-bliver-jeg-kontaktperson-for-mit-barn/"
+        }
+      ]
+    },
+    {
+      "name": "Fynslund B",
+      "website": "http://www.fynslundboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Førslev IF",
+      "website": "http://www.forslevif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Frederiksværk Fodbold Klub",
+      "website": "http://www.ffk-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "FK Sydsjælland 05",
+      "website": "http://www.fk05.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Frederikssund IK",
+      "website": "http://www.fikfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Føvling/Stenderup UI",
+      "website": "http://www.fsui.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gadevang IF",
+      "website": "http://www.gadevang-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Galten FS",
+      "website": "http://galtenfsfodbold.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "DBU KampKlar",
+          "url": "http://www.dbu.dk/klubservice/it-tilbud/kampklar"
+        },
+        {
+          "text": "DBU KampKlar",
+          "url": "http://www.dbu.dk/klubservice/it-tilbud/kampklar"
+        }
+      ]
+    },
+    {
+      "name": "Gandrup SK",
+      "website": "http://www.gandrup-sportsklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gedved IF",
+      "website": "http://www.gedved-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gauerslund IF",
+      "website": "http://www.gauerslundiffodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gelsted G & IF",
+      "website": "http://www.ggif-fyn.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fårevejle BK",
+      "website": "http://www.faarevejle-bk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Føllenslev-Særslev IF",
+      "website": "http://www.fsifodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fursund IF",
+      "website": "http://www.fursundif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gesten IF",
+      "website": "http://www.gesten-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "GFG Voel",
+      "website": "http://www.gfg-voel.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gentofte-Vangede Idrætsforening",
+      "website": "http://www.gvi-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gevninge IF",
+      "website": "http://www.gevninge-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Giovani Hajduk",
+      "website": "http://www.hajduk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gilleleje FK",
+      "website": "http://www.gillelejefodboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fuglebjerg IF",
+      "website": "https://fuglebjergif.dk/afdelinger/fodbold/tilmeld",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Give Fremad",
+      "website": "http://www.givefremad.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Givskud GUF",
+      "website": "http://www.givskud.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Fårvang IF",
+      "website": "http://www.hfif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gl. Rye IF",
+      "website": "http://www.glryeif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Glostrup 95",
+      "website": "http://www.glostrup95.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Gladsaxe-Hero BK",
+      "website": "http://www.gladsaxe-hero.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gjern IF",
+      "website": "http://www.gjern-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Grantoften IF",
+      "website": "http://www.grantoften-if.klub-modul.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Glamsbjerg IF",
+      "website": "http://www.glamsbjergif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "GIF-Gram",
+      "website": "http://www.gramif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Grauballe UGF",
+      "website": "http://www.gugf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Grejs-Dalen Idrætsklub",
+      "website": "http://www.gdik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Glostrup FK - IF 32",
+      "website": "http://www.glostrupfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gredstedbro B",
+      "website": "http://www.gredstedbrob.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Grønbjerg Aktiv Fritid For Alle",
+      "website": "http://www.groenbjerg-aktiv.dk/fodbold.html",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Grindsted GIF",
+      "website": "http://www.ggif-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Grønbjerg/Langelund IF",
+      "website": "http://www.gliffodbold.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Grønne Stjerne",
+      "website": "http://www.gronnestjerne.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Græsted IF",
+      "website": "http://www.græstedif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gislinge BK",
+      "website": "http://www.gislingeboldklub.dk/",
+      "category": "egen-guide",
+      "matches": [
+        {
+          "text": "DBU Kampklar",
+          "url": "https://gislingeboldklub.dk/vejledninger/"
+        },
+        {
+          "text": "DBU Kampklar",
+          "url": "https://gislingeboldklub.dk/vejledninger/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Greve Fodbold",
+      "website": "http://www.grevefodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Grundfør UI",
+      "website": "http://www.guisport.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gug B",
+      "website": "http://www.gugboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gundsølille SGIF",
+      "website": "http://www.gundsolille.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Gråsten B",
+      "website": "http://www.ny.graasten-boldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Grenaa IF",
+      "website": "http://www.grenaaif.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "DBU KampKlar",
+          "url": "https://www.grenaaif.dk/om-klubben/for-traenere/dbu-kampklar/"
+        },
+        {
+          "text": "KampKlar Video",
+          "url": "https://www.grenaaif.dk/om-klubben/for-traenere/dbu-kampklar/kampklar-video/"
+        },
+        {
+          "text": "Fordele for tr&#230;neren",
+          "url": "https://www.grenaaif.dk/om-klubben/for-traenere/dbu-kampklar/fordele-for-traeneren/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Gudumholm IF",
+      "website": "http://www.gudumholm-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Guldborg IF",
+      "website": "http://www.guldborgif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gudum Nissum IF",
+      "website": "http://www.gnif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gørslev IF",
+      "website": "http://www.goerslev-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gaarslev GF",
+      "website": "http://www.gaarslevgf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "GVL Løkken",
+      "website": "http://www.gvlloekken.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Haderslev FK",
+      "website": "http://www.hfk-haderslev.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gørløse SI",
+      "website": "http://gorlosesi.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hadsten Sports Klub",
+      "website": "http://www.hskfodbold.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://www.hskfodbold.dk/traenere/kampklar/"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://www.hskfodbold.dk/traenere/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Gødvad GIF",
+      "website": "http://www.godvad-gif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Halstedhus Efterskole",
+      "website": "http://halstedhus.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hadsund B",
+      "website": "http://www.hadsundboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gylling Efterskole",
+      "website": "http://www.gylling-efterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hammerum Fri- og Efterskole",
+      "website": "http://www.hamme.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Faxe Ladeplads IF",
+      "website": "http://www.fli.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "timeout"
+    },
+    {
+      "name": "Hannæs Sport og Fritid",
+      "website": "http://www.fhif.eu/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Hanstholm IF",
+      "website": "http://www.hanstholm-if.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Hammel GF",
+      "website": "http://www.fodbold.hgfhammel.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "DBU KampKlar",
+          "url": "https://www.dbu.dk/klubservice/it-tilbud/kampklar-styrker-holdet/"
+        },
+        {
+          "text": "DBU KampKlar",
+          "url": "https://www.dbu.dk/klubservice/it-tilbud/kampklar-styrker-holdet/"
+        }
+      ]
+    },
+    {
+      "name": "Handelsstandens Boldklub",
+      "website": "http://www.handelsstandensboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hammerum IF",
+      "website": "http://www.hammerumif.dk/",
+      "category": "egen-guide",
+      "matches": [
+        {
+          "text": "Guide til: Benytte dit barns log ind",
+          "url": "https://www.hammerumif.dk/til-foraeldre/kampklar/guide-til-benytte-dit-barns-log-ind/"
+        },
+        {
+          "text": "Guide til: Oprette dit eget log ind",
+          "url": "https://www.hammerumif.dk/til-foraeldre/kampklar/guide-til-oprette-dit-eget-log-ind/"
+        },
+        {
+          "text": "Guide til: Benytte dit barns log ind",
+          "url": "https://www.hammerumif.dk/til-foraeldre/kampklar/guide-til-benytte-dit-barns-log-ind/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Hals FS",
+      "website": "http://www.halsfs.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hashøj IF",
+      "website": "http://www.hashøj-if.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "HA85",
+      "website": "http://www.ha85.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Harboøre IF",
+      "website": "http://www.harbooreif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Gærum IF",
+      "website": "http://www.gaerum-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hareskov IF",
+      "website": "http://www.hareskovif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Harte G & IF",
+      "website": "http://www.hartegif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hatting-Torsted Fodbold",
+      "website": "http://www.hatting-torsted.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "For&#230;ldreprofil/kontaktperson",
+          "url": "http://klubservice.dbu.dk/kampklar/vejledning/til-spillere-og-foraeldre/bliv-kontaktperson/"
+        },
+        {
+          "text": "Kampklar for spillere og for&#230;ldre",
+          "url": "https://klubservice.dbu.dk/kampklar/vejledning/til-spillere-og-foraeldre/"
+        },
+        {
+          "text": "Kampklar - Tr&#230;nere/Holdledere",
+          "url": "https://klubservice.dbu.dk/kampklar/vejledning/til-traenere-og-holdledere/"
+        }
+      ]
+    },
+    {
+      "name": "Haverslev IF",
+      "website": "http://www.haverslev-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Haslev FC",
+      "website": "http://www.haslev-fc.dk/",
+      "category": "egen-guide",
+      "matches": [
+        {
+          "text": "Kampklar guide",
+          "url": "https://www.haslev-fc.dk/om-klubben/for-traeneren/kampklar-guide/"
+        },
+        {
+          "text": "Kampklar guide",
+          "url": "https://www.haslev-fc.dk/om-klubben/for-traeneren/kampklar-guide/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Haubro IF",
+      "website": "http://www.haubroif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hasle B",
+      "website": "http://www.hasleboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Harlev IK",
+      "website": "http://www.harlevfodbold.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://www.harlevfodbold.dk/medlemsskab/kampklar/"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://www.harlevfodbold.dk/traenerhjoernet/kampklar/"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://www.harlevfodbold.dk/medlemsskab/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Havdrup Fodbold",
+      "website": "http://www.hgi-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hasle IF",
+      "website": "http://www.hasle-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hejnsvig IF",
+      "website": "http://www.hejnsvigif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hedensted IF",
+      "website": "http://www.hedenstedif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hellevad IF",
+      "website": "http://www.hellevad-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hellas",
+      "website": "http://www.bk-hellas.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hellebjerg Idrætsefterskole",
+      "website": "http://www.hellebjerg.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hellerup Idræts Klub",
+      "website": "http://www.hik.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Hj&#230;lp til KampKlar",
+          "url": "https://www.hik.dk/fodbold/om-hik-fodbold/hjaelp/hjaelp-til-kampklar/"
+        },
+        {
+          "text": "Hj&#230;lp til KampKlar",
+          "url": "https://www.hik.dk/fodbold/om-hik-fodbold/hjaelp/hjaelp-til-kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Helsingør IF Fodbold",
+      "website": "http://www.helsingorif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Helsinge Fodbold",
+      "website": "http://www.helsingefodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Herfølge BK",
+      "website": "http://www.hb.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Helsted Fremad IF",
+      "website": "http://www.helsted-fremad.dk/",
+      "category": "egen-guide",
+      "matches": [
+        {
+          "text": "For&#230;ldreguiden",
+          "url": "https://www.helsted-fremad.dk/praktisk-info/dbu-kampklar/foraeldreguiden/"
+        },
+        {
+          "text": "For&#230;ldreguiden",
+          "url": "https://www.helsted-fremad.dk/praktisk-info/dbu-kampklar/foraeldreguiden/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Hellested IF",
+      "website": "http://www.hellested-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Herlev IF",
+      "website": "http://www.herlevif.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "DBU Kampklar Login",
+          "url": "https://mit.dbu.dk/MyTeam/MyTeams.aspx#"
+        },
+        {
+          "text": "DBU Kampklar Login",
+          "url": "https://mit.dbu.dk/MyTeam/MyTeams.aspx#"
+        }
+      ]
+    },
+    {
+      "name": "Hald Ege Efterskole",
+      "website": "http://www.hald-ege-efterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Herning KFUM",
+      "website": "http://www.herningkfumfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hee SF",
+      "website": "http://www.hee.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Herrested-Ørbæk Boldklub",
+      "website": "http://www.hoeb.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Herning Fremad",
+      "website": "http://www.herningfremad.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hersom/Bjerregrav IF",
+      "website": "http://www.h-b-i.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Herlufsholm GF",
+      "website": "http://www.hgfodbold.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://live-1070-herlufsholm-gf.umbraco-proxy.com/traener/kampklar/"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://live-1070-herlufsholm-gf.umbraco-proxy.com/traener/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Hesselager Fodbold",
+      "website": "http://www.hesselagerfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "HIK (professional)",
+      "website": "http://www.hik.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Hj&#230;lp til KampKlar",
+          "url": "https://www.hik.dk/fodbold/om-hik-fodbold/hjaelp/hjaelp-til-kampklar/"
+        },
+        {
+          "text": "Hj&#230;lp til KampKlar",
+          "url": "https://www.hik.dk/fodbold/om-hik-fodbold/hjaelp/hjaelp-til-kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Herstedøster IC",
+      "website": "http://www.hic.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Himmelev-Veddelev BK",
+      "website": "http://www.hvb-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Himmerlandscentrets Idrætsefterskole (Haverslev)",
+      "website": "http://www.hci.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hirtshals B",
+      "website": "http://www.hirtshalsboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hjembæk Efterskole",
+      "website": "http://www.hjembaekefterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hillerød Fodbold",
+      "website": "http://www.hilleroedfodbold.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Brug af KampKlar",
+          "url": "https://www.hilleroedfodbold.dk/medlemsservice/brug-af-kampklar/"
+        },
+        {
+          "text": "Brug af KampKlar",
+          "url": "https://www.hilleroedfodbold.dk/medlemsservice/brug-af-kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Hjordkær UIF",
+      "website": "http://www.huiffodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hjortdal Ungdoms & IF",
+      "website": "http://www.hui-hjortdal.dk/om-fodbold/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hjørring IF",
+      "website": "http://www.hi-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hjørring AIK Frem",
+      "website": "http://www.aikfrem.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hobro IK",
+      "website": "http://www.hikfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hodsager UF",
+      "website": "http://www.hiuf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Holme-Olstrup Fodbold",
+      "website": "http://www.hofodbold.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Holluf Pile-Tornbjerg IF",
+      "website": "http://www.hpti.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hjerm FIF",
+      "website": "http://www.hjerm-fif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Holbæk B&I",
+      "website": "http://www.hbi.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Holsted FB",
+      "website": "http://www.holstedfb.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "HOG Hinnerup",
+      "website": "http://www.hog-hinnerup.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Holmegaard GB",
+      "website": "http://www.holmegaardfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Holstebro B",
+      "website": "http://www.holstebroboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Holte Star Club",
+      "website": "http://www.holtestar.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Holmsland GU",
+      "website": "http://www.h-gu.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Horbelev IF",
+      "website": "http://www.horbelevif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hillerslev Sport",
+      "website": "http://www.hillerslevsport.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hornbæk IF",
+      "website": "http://www.hornbaekif-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hjorten Fodbold, Herlev",
+      "website": "http://www.hjorten.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Horne KFUM",
+      "website": "http://www.hornekfum.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Holbæk (professional)",
+      "website": "http://www.nvfc.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hornum IF",
+      "website": "http://www.hornumif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Holtet IF",
+      "website": "http://www.holtetif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hornbæk SF",
+      "website": "http://www.hsf-randers.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Horsens fS",
+      "website": "http://www.horsensfs.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hospitalets FK",
+      "website": "http://www.hfkfyn.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Horne f. Sp.",
+      "website": "http://www.horne-fs.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Horsens Freja",
+      "website": "http://www.horsensfreja.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Horsens KFUM",
+      "website": "http://www.horsens-kfum.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hornslet IF",
+      "website": "http://www.hornslet-if-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hou Maritime Idrætsefterskole",
+      "website": "http://www.houmi.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hovedgård IF",
+      "website": "http://www.hovedgaard-if.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Holte-Hus Efterskole",
+      "website": "http://holte-hus.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hundelev B",
+      "website": "http://www.hundelevboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Houlkær Fodboldklub",
+      "website": "http://www.houlkaer-fodboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Humlebæk BK",
+      "website": "http://www.humlebold.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "KampKlar",
+          "url": "https://mit.dbu.dk/MyTeam/MyTeams.aspx#"
+        },
+        {
+          "text": "KampKlar",
+          "url": "https://mit.dbu.dk/MyTeam/MyTeams.aspx#"
+        }
+      ]
+    },
+    {
+      "name": "Hou Og Omegns IF",
+      "website": "http://www.hoif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hundested IK",
+      "website": "http://www.hundestedik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hundige BK",
+      "website": "http://www.hundigeboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hvidebæk IF",
+      "website": "http://www.hvidebaek-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hvalsø IF",
+      "website": "http://www.hvalsoeif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hvidovre Idrætsforening",
+      "website": "http://www.hif.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Hover IF",
+      "website": "http://www.hover-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Højby IF",
+      "website": "https://www.hoejbyif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hurup IF",
+      "website": "http://www.hurupif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Højer Efterskole",
+      "website": "http://www.h-us-dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Houlbjerg/Laurbjerg IF",
+      "website": "http://www.hlif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Husum Boldklub",
+      "website": "http://www.husumboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Høm/Seem UIF",
+      "website": "http://hom-seem.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Højer IF",
+      "website": "http://www.højerif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hørby Efterskoles IF",
+      "website": "http://www.hu-ungdom.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Højby S & G",
+      "website": "http://www.hojbyfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Højslev Station IF",
+      "website": "http://www.højslev-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Høng GF",
+      "website": "http://hong-gf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Horsens B",
+      "website": "http://www.horsensboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Højen G&U",
+      "website": "http://www.hgu.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hørsholm-Usserød IK",
+      "website": "http://www.hui-fodbold.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "KampKlar",
+          "url": "https://www.hui-fodbold.dk/medlemskab/kampklar"
+        },
+        {
+          "text": "KampKlar",
+          "url": "https://www.hui-fodbold.dk/medlemskab/kampklar"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Hørup UI",
+      "website": "http://www.hui.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Høsterkøb Fodboldklub 2000",
+      "website": "http://www.hf2000.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Høje Gladsaxe IF",
+      "website": "http://www.facebook.com/HGIiGladsaxe",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hørning IF",
+      "website": "http://www.teamhif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hørning GF",
+      "website": "http://www.hgf-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Idrætsefterskolen Lægården",
+      "website": "http://www.optur.nu/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "HØST IF",
+      "website": "http://www.høstif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hårslev BK",
+      "website": "http://www.haarslev-bk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Horne IF",
+      "website": "http://www.horne-varde.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Haarby IF",
+      "website": "http://www.haarbyboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "IF Føroyar",
+      "website": "http://www.fotboltur.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hørve IF",
+      "website": "http://www.hoerveif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "IF Bytoften",
+      "website": "http://www.if-bytoften.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "IF Midtdjurs",
+      "website": "http://www.ifm-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "IF Lyseng",
+      "website": "http://www.lyseng.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "IF Fremad Nørhalne",
+      "website": "http://www.ifn.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "IF Frem Bjæverskov Fodbold",
+      "website": "http://www.bjaeverskovfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "IF Svend Gønge",
+      "website": "http://www.ifsvendgoenge.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Hårslev Efterskole",
+      "website": "http://haarslevefterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "IF Skjold Sæby",
+      "website": "http://www.ifskjoldsaeby.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ingstrup SF",
+      "website": "http://www.ingstrup.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Isenvad Borger- og Idrætsforening",
+      "website": "http://www.isenvadfodboldklub.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "IF Skjold Birkerød",
+      "website": "http://www.skjold-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Islev BK",
+      "website": "http://www.islev.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Ingstrup Efterskoles IF",
+      "website": "http://www.ingstrupefterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "ISI Idrætsefterskole",
+      "website": "http://www.isi.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ikast FS Fodbold",
+      "website": "http://www.ikastfc.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "JAI, Aarhus",
+      "website": "http://www.jai-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Idrætsklubben Vest af 1971",
+      "website": "http://ik-vest.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "IS Skævinge",
+      "website": "http://www.iss-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Jels IF",
+      "website": "http://www.jels-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Jernved IF",
+      "website": "http://www.123hjemmeside.dk/JernvedIF",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Jernløse BK",
+      "website": "http://www.jernloeseboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Jinnah International School",
+      "website": "http://jinnahschool.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Janderup FS",
+      "website": "http://www.jfs-sport.dk/jbs-fodbold",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Jerne IF",
+      "website": "http://www.jerneif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "IF Mols",
+      "website": "http://www.ifmols.net/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Juelsminde IF",
+      "website": "http://www.juelsminde-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "IF Nordthy",
+      "website": "http://www.ifnordthy.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Jetsmark IF",
+      "website": "http://www.jetsmarkif.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "KAMPKLAR p&#229; mobilen",
+          "url": "https://www.jetsmarkif.dk/klubinfo/kampklar-paa-mobilen/"
+        },
+        {
+          "text": "KAMPKLAR p&#229; mobilen",
+          "url": "https://www.jetsmarkif.dk/klubinfo/kampklar-paa-mobilen/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Jyderup BK",
+      "website": "http://www.jyderupboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Jægersborg Boldklub",
+      "website": "http://www.jb-bold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Karlslunde IF",
+      "website": "http://www.karlslundefodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Jyllinge FC",
+      "website": "http://www.jyllinge-fc.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Karrebæk IF",
+      "website": "http://www.karrebaek-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "KB 92, Karlslunde",
+      "website": "http://www.kb92.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Jødisk Idrætsforening Hakoah",
+      "website": "http://hakoah.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Karise IK",
+      "website": "http://www.k-i-k.dk/fodbold",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kalundborg GB",
+      "website": "http://www.kalundborg-gb.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Jægerspris IK",
+      "website": "http://www.jik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kauslunde IF",
+      "website": "http://www.kiffodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "KB81 Aalborg",
+      "website": "http://www.kb81.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kastrup Boldklub",
+      "website": "http://www.kastrupboldklub.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar GPDR",
+          "url": "https://www.kastrupboldklub.dk/hold/kampklar/kampklar-gpdr/"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://www.kastrupboldklub.dk/traener-leder/kampklar/"
+        },
+        {
+          "text": "Kampklar Spiller/For&#230;ldre",
+          "url": "https://www.kastrupboldklub.dk/traener-leder/kampklar/kampklar-spiller-foraeldre/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "KBK Hillerød",
+      "website": "http://www.kbk-hillerød.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kerteminde BK",
+      "website": "http://www.kertemindeboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "KFUM BK, Roskilde",
+      "website": "http://www.roskilde-kfum.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "KFUM.s BK Odense",
+      "website": "http://www.odense-kfum.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kjellerup IF",
+      "website": "http://www.kjellerup-if.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "KFUMs Boldklub",
+      "website": "http://www.kfum-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Klejtrup B",
+      "website": "http://www.klejtrupboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kildemosens BK",
+      "website": "http://www.kildemosen.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kirke Helsinge IF",
+      "website": "http://www.kirkehelsinge-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kjøbenhavns Boldklub",
+      "website": "http://www.kb-boldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Klinte Grindløse IF",
+      "website": "http://www.kgi-sport.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kløvermarkens Forenede Boldklubber",
+      "website": "http://www.kloevermarkenfb.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kirke Hyllinge IF",
+      "website": "http://www.khif-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Katrinebjergs Atletikforening",
+      "website": "http://katrinebjergaf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Klitmøller IF",
+      "website": "http://www.klitmøllerif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kibæk IF",
+      "website": "http://www.kif-1900.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Koldby/Hørdum IF",
+      "website": "http://www.khif1904.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kolding B",
+      "website": "http://www.kolding-boldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Klemensker IF",
+      "website": "http://www.klemensker-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Klovborg UF",
+      "website": "http://www.klovborg-uf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kongerslev IF",
+      "website": "http://www.k.if.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Kolding IF",
+      "website": "http://www.kif-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kolind/Perstrup IF",
+      "website": "http://www.kolind-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Klokkerholm IF",
+      "website": "http://www.klokkerholmfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kolt/Hasselager IF",
+      "website": "http://www.khif.info/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "Log p&#229; Mit DBU",
+          "url": "https://mit.dbu.dk/Login.aspx?ReturnUrl=%2fkampklar"
+        },
+        {
+          "text": "Log p&#229; Mit DBU",
+          "url": "https://mit.dbu.dk/Login.aspx?ReturnUrl=%2fkampklar"
+        }
+      ]
+    },
+    {
+      "name": "Koldingegnens Idrætsefterskole",
+      "website": "http://www.kie.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kr. Værløse IF",
+      "website": "http://www.kvif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Korsholm IF",
+      "website": "http://www.korsholm-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Korning IF",
+      "website": "http://www.korningif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kvaglund IF",
+      "website": "http://www.kvaglundif.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Korinth IF",
+      "website": "http://www.korinth-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kvik 70",
+      "website": "http://www.kvik70.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kvik IF",
+      "website": "http://www.if-kvik.dk/Fodbold-92147",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kvistgård IF",
+      "website": "http://www.kvistgaard-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "KR 70",
+      "website": "http://www.kr70.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Kundby IF",
+      "website": "http://www.kundby-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Knudsker IF",
+      "website": "http://www.knudskerif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "KU BK",
+      "website": "http://www.kubk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kvong IF",
+      "website": "http://www.kvong.dk/DK/idraetsforening.aspx",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kværndrup BK",
+      "website": "http://www.kvaerndrupboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kvissel-Ravnshøj IF",
+      "website": "http://www.kr-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kværkeby IF",
+      "website": "http://www.kvaerkebyif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Køge Nord FC",
+      "website": "http://www.kogenordfc.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Langholt Sports Klub",
+      "website": "http://www.langholtsportsklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Langtved SG  &  IF",
+      "website": "http://www.lsgif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Langebæk Alliancen",
+      "website": "https://www.langebaek-alliancen.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kristrup B",
+      "website": "http://www.kb1908.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Langeskov IF",
+      "website": "http://www.langeskovif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Køge BK",
+      "website": "http://www.koge-boldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Kragelund Efterskole",
+      "website": "http://www.kragelund-efterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lejre IF",
+      "website": "http://www.fclejre.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "DBU KampKlar",
+          "url": "https://klubservice.dbu.dk/kampklar/"
+        },
+        {
+          "text": "DBU KampKlar",
+          "url": "https://klubservice.dbu.dk/kampklar/"
+        }
+      ]
+    },
+    {
+      "name": "Lemming IF",
+      "website": "http://www.lemmingif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lejerbo BK",
+      "website": "http://www.lejerbo-boldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ledøje-Smørum Fodbold",
+      "website": "http://www.lsf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Levring Efterskole",
+      "website": "http://www.levring-efterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Liria FK",
+      "website": "http://www.liriafk.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Lisbjerg FC",
+      "website": "http://www.lisbjergfc.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Linde B",
+      "website": "http://www.lindeboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "LKB/Gistrup",
+      "website": "http://www.lkb.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lellinge IF",
+      "website": "http://www.lellingeif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Listrup U&IF",
+      "website": "http://www.luif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lomborg Gymnastik- og Idrætsefterskole",
+      "website": "http://www.lomborg-efterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lumby IF 88",
+      "website": "http://www.lif88.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lemvig GF",
+      "website": "http://www.lemviggf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lindved GF",
+      "website": "http://www.lindved-gf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lunderskov Efterskole",
+      "website": "http://www.lunderskov-efterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lund IF",
+      "website": "http://www.lundif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lundtoft IF",
+      "website": "http://www.lif-fodbold.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Lunderskov B",
+      "website": "http://www.lunderskovboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lynge-Broby IF",
+      "website": "http://www.lb-i.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lundtofte Boldklub",
+      "website": "http://www.lundtofte-boldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lyngby Boldklub 1921",
+      "website": "http://www.lyngby-boldklub1921.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lundergård IU",
+      "website": "http://www.liuf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lendum UGI",
+      "website": "http://www.lugi.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lyngsaa B",
+      "website": "http://www.lyngsaaboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Løgstrup G&IF",
+      "website": "http://www.lgif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Løgum IF",
+      "website": "http://www.loegumfodbold.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Lysabild SG",
+      "website": "http://www.lysabildsg.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lystrup IF",
+      "website": "http://www.lystrupfodbold.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "KAMPKLAR",
+          "url": "https://www.lystrupfodbold.dk/traener-leder/dbu-appen/kampklar/"
+        },
+        {
+          "text": "KAMPKLAR",
+          "url": "https://www.lystrupfodbold.dk/traener-leder/dbu-appen/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Løgumkloster Efterskole",
+      "website": "http://www.lme.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Løvel IF",
+      "website": "http://www.tjelevestsport.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Løgstør IF",
+      "website": "http://www.logstorif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Løsning IF",
+      "website": "http://www.losningif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Mammen IF",
+      "website": "http://www.mammenif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Løjt IF",
+      "website": "http://www.loejt-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lyngs Idrætsefterskole",
+      "website": "http://www.l-i-e.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lynge-Uggeløse IF",
+      "website": "http://www.lui.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Marslev G & IF",
+      "website": "http://www.mgif.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Låsby B",
+      "website": "http://www.laasbyboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Maribo BK",
+      "website": "http://www.maribobk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Mariehøj Kammeraterne Silkeborg",
+      "website": "http://www.mks-silkeborg.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Marstal IF",
+      "website": "http://www.marstalif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Mejrup GU",
+      "website": "http://www.mejrup-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Mejdal-Halgård Fodbold",
+      "website": "http://www.mejdal-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Mern UIF",
+      "website": "http://www.mernif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Mina Hindholm Efterskole",
+      "website": "http://minahindholm.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Midtals IF",
+      "website": "http://www.mif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Melby-Liseleje IF",
+      "website": "http://www.mli-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Mosede BK",
+      "website": "http://www.mosedeboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Langaa IK",
+      "website": "http://www.langaa-ik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Mot G & U",
+      "website": "http://www.mot-gu.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Møgeltønder UIF",
+      "website": "http://muif.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Morud IF",
+      "website": "http://www.morud.dk/fodbold",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Munkebo BK",
+      "website": "http://www.munkebobk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "MG & BK",
+      "website": "http://www.mg-bk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Mellerup Efterskole",
+      "website": "http://www.mellerupefterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Møns FK",
+      "website": "http://www.mons-fk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Møldrup/Tostrup IF",
+      "website": "http://www.mtif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Mou IF",
+      "website": "http://www.mou-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Mønsted IF",
+      "website": "http://www.mønsted-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Mørke IF",
+      "website": "http://www.moerkeif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Mørkhøj Sportsklub",
+      "website": "http://moerkhoej-sportsklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Mørkøv IF",
+      "website": "http://www.morkovif-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nexø B.",
+      "website": "http://www.nbboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Naur-Sir-Krunderup",
+      "website": "http://www.nsk-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "NFS - Nørremarkens forenede Sportsklubber",
+      "website": "http://www.nfsvejle.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "NB 93, Aarhus",
+      "website": "http://www.nb93.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Mariager IK",
+      "website": "http://www.mariager-ik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nivå-Kokkedal FK",
+      "website": "http://www.nivaa-kokkedal-fodboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nim IF",
+      "website": "http://www.nimif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Måløv BK",
+      "website": "http://www.mb-boldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nordenskov IF",
+      "website": "http://www.nuif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nibe B",
+      "website": "http://www.nibeboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nord-Als B",
+      "website": "http://www.nordals-boldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nr. Bjært/Strandhuse IF",
+      "website": "http://www.nbsif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nordfalster FB",
+      "website": "http://www.nordfalsterfb.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nordvestmors BK",
+      "website": "http://www.nordvestmors.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nr. Lyndelse / Søby F.C.",
+      "website": "http://www.nrlyndelsefodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Måbjerg IF",
+      "website": "http://www.maabjergif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nr. Aaby IK",
+      "website": "http://www.nikfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nors B",
+      "website": "http://norsbk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "NUGF Viborg",
+      "website": "http://www.nugf.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://www.nugf.dk/traenerloungen/kampklar/"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://www.nugf.dk/traenerloungen/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Nyker IF",
+      "website": "http://www.nyker-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nyborg G & IF",
+      "website": "http://www.nyborggif-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Lunde B",
+      "website": "http://www.lundeboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nyråd IF",
+      "website": "http://www.nyraadfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ny Kappel Boldklub 07",
+      "website": "http://www.bricksite.com/nykappelboldklub07",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Notmark SU",
+      "website": "http://www.nsu-als.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nykøbing IF",
+      "website": "http://www.nykoebingif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nykøbing FC (professional)",
+      "website": "http://www.nykobingfc.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar til for&#230;ldre",
+          "url": "https://www.nykobingfc.dk/ungdom/foraeldre/kampklar-til-foraeldre/"
+        },
+        {
+          "text": "Kampklar til for&#230;ldre",
+          "url": "https://www.nykobingfc.dk/ungdom/foraeldre/kampklar-til-foraeldre/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Nykøbing FC",
+      "website": "http://www.nykobingfc.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar til for&#230;ldre",
+          "url": "https://www.nykobingfc.dk/ungdom/foraeldre/kampklar-til-foraeldre/"
+        },
+        {
+          "text": "Kampklar til for&#230;ldre",
+          "url": "https://www.nykobingfc.dk/ungdom/foraeldre/kampklar-til-foraeldre/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Næsbjerg/Rousthøje UI",
+      "website": "http://www.nrui.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nødebo IF",
+      "website": "http://www.nif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Næsby BK",
+      "website": "http://www.naesbyboldklub.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://www.naesbyboldklub.dk/praktisk-info/ny-i-klubben/foraeldre/kampklar/"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://www.naesbyboldklub.dk/praktisk-info/ny-i-klubben/foraeldre/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Næstved FC 77",
+      "website": "http://www.fc77.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Næstved I.F.",
+      "website": "http://www.niffodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Næsby (professional)",
+      "website": "http://www.naesbyboldklub.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://www.naesbyboldklub.dk/praktisk-info/ny-i-klubben/foraeldre/kampklar/"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://www.naesbyboldklub.dk/praktisk-info/ny-i-klubben/foraeldre/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Nustrup UF",
+      "website": "http://www.nustrupuf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nørrebro United",
+      "website": "http://www.nbunited.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar hj&#230;lp",
+          "url": "https://www.nbunited.dk/bliv-medlem/fodbold-afdeling-4-19-aar/kampklar-hjaelp/"
+        },
+        {
+          "text": "Kampklar hj&#230;lp",
+          "url": "https://www.nbunited.dk/bliv-medlem/fodbold-afdeling-4-19-aar/kampklar-hjaelp/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Nørresundby Forenede Boldklubber",
+      "website": "http://www.norresundbyfb.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Oddense-Otting UGF",
+      "website": "http://www.oddense-idræt.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Næstved BK (professional)",
+      "website": "http://www.naestvedboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "OB Q",
+      "website": "http://www.odenseq.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Old Boys 1945",
+      "website": "http://www.oldboys1945.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Nørre Alslev BK",
+      "website": "http://www.nab-boldklub.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Mit DBU og KampKlar",
+          "url": "https://www.nab-boldklub.dk/ind-udmeldelse/mit-dbu-og-kampklar/"
+        },
+        {
+          "text": "Mit DBU og KampKlar",
+          "url": "https://www.nab-boldklub.dk/ind-udmeldelse/mit-dbu-og-kampklar/"
+        },
+        {
+          "text": "Mit DBU og KampKlar",
+          "url": "https://www.nab-boldklub.dk/ind-udmeldelse/mit-dbu-og-kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Olympic Amager KIF - Afventer",
+      "website": "http://olyamagerkulture.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Olympia Øster Hurup IF",
+      "website": "http://olympia1938.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nørbæk Efterskole",
+      "website": "http://nørbækefterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nøvlingskov Efterskole",
+      "website": "http://www.noevlingskov.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Osted IF",
+      "website": "http://www.fclejre.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "DBU KampKlar",
+          "url": "https://klubservice.dbu.dk/kampklar/"
+        },
+        {
+          "text": "DBU KampKlar",
+          "url": "https://klubservice.dbu.dk/kampklar/"
+        }
+      ]
+    },
+    {
+      "name": "ORI-Fodbold",
+      "website": "http://www.ori-bold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Orient GI",
+      "website": "http://www.orientexpressen.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Pan Fodbold",
+      "website": "http://www.panfodbold.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Phønix Efterskole",
+      "website": "http://phoenixefterskole.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Nøvling FK",
+      "website": "http://www.nfknet.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Politiets Idrætsforening",
+      "website": "http://www.pifodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Otterup Bold- og Idrætsklub",
+      "website": "http://www.ob-ik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Odense Boldklub",
+      "website": "http://www.obfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Overlund GF",
+      "website": "http://www.overlundgf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Odder Fodbold",
+      "website": "http://www.odderfodbold.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "KampKlar for spillere/for&#230;ldre",
+          "url": "https://www.odderfodbold.dk/boern/klubaand/kampklar-for-spillere-foraeldre/"
+        },
+        {
+          "text": "KampKlar for spillere/for&#230;ldre",
+          "url": "https://www.odderfodbold.dk/boern/klubaand/kampklar-for-spillere-foraeldre/"
+        },
+        {
+          "text": "KampKlar for spillere/for&#230;ldre",
+          "url": "https://www.odderfodbold.dk/boern/klubaand/kampklar-for-spillere-foraeldre/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Præstø IF",
+      "website": "http://www.praestoif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ramløse Fodbold IF",
+      "website": "http://www.ramlosefodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "PSI/Serritslev",
+      "website": "https://www.klub-psi.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Raklev GI",
+      "website": "http://www.raklev.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Poulstrup Vrejlev 81",
+      "website": "http://www.pv81.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Randers Freja",
+      "website": "http://www.randersfreja.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ramme-Lomborg IF",
+      "website": "http://www.rlif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Randers KFUM Fodbold",
+      "website": "http://kfumfodboldranders.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ranum Efterskole",
+      "website": "http://www.ranumefterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Rebild Efterskole",
+      "website": "http://www.rebildefterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Randlev/Boulstrup IF",
+      "website": "http://rbif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ravnsbjerg IF",
+      "website": "http://www.ravnsbjerg-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Reerslev IF",
+      "website": "http://www.reerslevif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Resenbro UIF",
+      "website": "http://www.ruif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Rebæk IF",
+      "website": "http://www.rebaekif.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://www.rebaekif.dk/klubben/platforme/kampklar/"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://www.rebaekif.dk/klubben/platforme/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Ravsted UI",
+      "website": "http://www.ravsted.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Poulsker IF",
+      "website": "http://www.pif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ribe BK",
+      "website": "http://www.ribeboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ringe BK",
+      "website": "http://www.rb27.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Rindum SU",
+      "website": "http://www.rindumsu.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ringkøbing IF",
+      "website": "http://www.ringkobingif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ringsted IF",
+      "website": "http://www.rif-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Rise S & IF",
+      "website": "http://www.rise-sif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ringsted Pigefodbold",
+      "website": "http://www.ringstedpigefodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Roholte BK",
+      "website": "http://www.roholtebk.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Rosendal IK",
+      "website": "http://www.ikrosendal.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Rinkenæs Efterskole",
+      "website": "http://www.rinkenaes.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "RKG Fodbold",
+      "website": "http://www.rkg-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Rolfsted IF",
+      "website": "http://www.rolfsted-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Romalt IF",
+      "website": "http://www.romaltif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Rosenhøj BK",
+      "website": "http://www.rosenhojboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Roslev IK",
+      "website": "http://www.roslev-ik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Roskilde Boldklub",
+      "website": "http://www.rb1906.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Roskilde Pigefodbold",
+      "website": "http://roskildepigefodbold.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "KampKlar",
+          "url": "https://mit.dbu.dk/Login.aspx?ReturnUrl=%2fMyTeam%2fMyTeams.aspx#"
+        },
+        {
+          "text": "KampKlar",
+          "url": "https://mit.dbu.dk/Login.aspx?ReturnUrl=%2fMyTeam%2fMyTeams.aspx#"
+        }
+      ]
+    },
+    {
+      "name": "Rudkøbing BK",
+      "website": "http://www.r-b.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Røde Stjerne FC, Skive",
+      "website": "http://www.rsfcs.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ry Fodbold",
+      "website": "http://ryfodbold.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "Kampklar vejledning",
+          "url": "https://klubservice.dbu.dk/kampklar/vejledning/til-spillere-og-foraeldre/"
+        },
+        {
+          "text": "Kampklar vejledning",
+          "url": "https://klubservice.dbu.dk/kampklar/vejledning/til-spillere-og-foraeldre/"
+        }
+      ]
+    },
+    {
+      "name": "Ryslinge BK",
+      "website": "http://www.ryslingeboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Rødding IF",
+      "website": "http://www.roedding-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Rønne f.B.",
+      "website": "http://www.ronnefb.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Rødvig G&I",
+      "website": "https://www.rodvig-gi.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Rønne IK",
+      "website": "http://www.roenneik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Rødekro IF",
+      "website": "http://www.roedekrofodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Rønnede IF",
+      "website": "http://www.roennedeif.dk/fodbold",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Røde Stjerne BK",
+      "website": "http://www.roede-stjerne.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Rågelund Efterskole",
+      "website": "http://www.raagelund.com/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Rørby-Værslev IF",
+      "website": "http://www.rvif.dk/fodbold",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "S.K.F.I.F.",
+      "website": "http://www.skfif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Rørvig IF",
+      "website": "http://www.roervig-if.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://mit.dbu.dk/Login.aspx?ReturnUrl=%2fMyTeam%2fMyTeams.aspx#"
+        }
+      ]
+    },
+    {
+      "name": "Saltum IF",
+      "website": "http://www.saltumif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Resen/Humlum IF",
+      "website": "http://www.rhif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sallingsund FC",
+      "website": "http://www.sallingsundfc.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sabro IF",
+      "website": "http://www.sabro-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sandby  GF",
+      "website": "http://www.sandby-gf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Saxild IF",
+      "website": "http://www.saxild-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sanderum BK",
+      "website": "http://www.sanderumboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sandved-Tornemark IF",
+      "website": "http://www.stif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sdr. Hygum B",
+      "website": "http://www.voresboldklub.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Over Jerstal Fodboldklub",
+      "website": "https://www.facebook.com/groups/232566707259146",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "SC Amager",
+      "website": "http://www.facebook.com/SportingClubAmager",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sdr. Rind/Vinkel IF",
+      "website": "http://www.svif4ever.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Sct. Jørgens IF",
+      "website": "http://www.sjsi.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sdr. Felding GIF",
+      "website": "http://www.sfgif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sejs Svejbæk IF",
+      "website": "http://www.sejssvejbaek-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sierslev FC",
+      "website": "http://www.sierslevfc.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "SfB",
+      "website": "http://www.sfb.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "SIF Assentoft",
+      "website": "http://www.fodboldsif.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Seest B",
+      "website": "http://www.seestboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Silkeborg B",
+      "website": "http://www.silkeborgboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Silkeborg IF Q",
+      "website": "http://www.sifq.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Silkeborg IF",
+      "website": "http://www.silkeborgiffodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sindal IF",
+      "website": "http://www.sindalfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sengeløse GI",
+      "website": "http://www.sengeloese.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Silkeborg KFUM",
+      "website": "http://www.silkeborgkfum.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "SIK Viborg, fodbold",
+      "website": "http://www.sik-fodbold.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "DBU KampKlar",
+          "url": "https://www.sik-fodbold.dk/traener/dbu-kampklar/"
+        },
+        {
+          "text": "DBU KampKlar",
+          "url": "https://www.sik-fodbold.dk/traener/dbu-kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Sjørslev/Demstrup IF",
+      "website": "http://www.sdif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sinding GIF",
+      "website": "http://www.sindinggif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skagen IK",
+      "website": "http://www.skagenik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skalbjerg BK",
+      "website": "http://www.skalbjerg-bk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "SINE Sportsefterskole",
+      "website": "http://www.sine.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skals FF",
+      "website": "http://www.skalsff.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skallerup/Vennebjerg IF",
+      "website": "http://www.svif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skeby GF",
+      "website": "http://www.skebygf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skelund IF",
+      "website": "http://www.skelund-fodbold.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Skelde GF",
+      "website": "http://www.skelde.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Skanderup Efterskole",
+      "website": "http://www.skanderupefterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skibby IK",
+      "website": "http://www.skibbyik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Rønde Efterskole",
+      "website": "http://www.rhe.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Sdr. Omme IF",
+      "website": "http://www.soifsport.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skibsby-Højene IF",
+      "website": "http://www.shi-sport.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skibet IF",
+      "website": "http://www.skibet-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skive IK",
+      "website": "http://www.skive-ik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skive IK (professional)",
+      "website": "http://www.skive-ik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sjørring B",
+      "website": "http://www.sjoerringbk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skjern GF",
+      "website": "http://www.sgfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skodborg IF",
+      "website": "http://www.sif-skodborg.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Nørager IF",
+      "website": "http://www.nif-rif.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "timeout"
+    },
+    {
+      "name": "Skovsgaard B",
+      "website": "http://www.skovsgaard-boldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skovby GF",
+      "website": "http://www.skovbygf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skovshoved Idrætsforening",
+      "website": "http://www.skovshoved-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skensved IF",
+      "website": "http://www.skensvedif.dk/fodbold",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skårup IF",
+      "website": "http://www.skaarup-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skægkær IF Centrum",
+      "website": "http://www.ifcentrum.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skibbild-Nøvling Idræt og Motion",
+      "website": "http://www.skibbild-noevling.dk/sif",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skælskør Boldklub og Idrætsforening",
+      "website": "http://www.sb-i.dk/",
+      "category": "egen-guide",
+      "matches": [
+        {
+          "text": "Guide til KampKlar",
+          "url": "https://www.sb-i.dk/om-klubben/guide-til-kampklar/"
+        },
+        {
+          "text": "Guide til KampKlar",
+          "url": "https://www.sb-i.dk/om-klubben/guide-til-kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Skødstrup SF",
+      "website": "http://www.skoedstrup-fodbold.dk/",
+      "category": "egen-guide",
+      "matches": [
+        {
+          "text": "Vejledning til Kampklar",
+          "url": "https://www.skoedstrup-fodbold.dk/andre/vejledning-til-kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Slaglille-Bjernede GI",
+      "website": "http://www.sbgi.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Slagslunde-Ganløse IF",
+      "website": "http://www.sgif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sole IF",
+      "website": "http://www.soleif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Slangerup & Omegn IF",
+      "website": "http://www.soif.dk/",
+      "category": "egen-guide",
+      "matches": [
+        {
+          "text": "DBU App vejledning",
+          "url": "https://www.soif.dk/traenerbasen/kampklar/dbu-app-vejledning/"
+        },
+        {
+          "text": "DBU App vejledning",
+          "url": "https://www.soif.dk/traenerbasen/kampklar/dbu-app-vejledning/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Snejbjerg SG&I",
+      "website": "http://www.snejbjergsgi.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Skovlund Efterskole",
+      "website": "http://www.ske.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sommersted IF",
+      "website": "http://www.sommersted-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Snekkersten IF",
+      "website": "http://www.sif-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sommersted Efterskole",
+      "website": "http://www.sommerstedefterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Slagelse B&I",
+      "website": "http://www.slagelseboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Spangsbjerg IF",
+      "website": "http://www.spangsbjergif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "SMIFF09",
+      "website": "http://www.smiff09.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Spjald IF",
+      "website": "http://www.spjaldif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Solrød FC",
+      "website": "http://www.solrodfc.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://www.solrodfc.dk/solroed-fc/gode-traenerraad/kampklar/"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://www.solrodfc.dk/solroed-fc/gode-traenerraad/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Spøttrup Motion & Sport",
+      "website": "http://www.spottrupms.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "SS Skjold",
+      "website": "http://www.skjold-glud.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sportsefterskolen Sjælsølund",
+      "website": "http://www.sjaelsoelund.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Starup UIF",
+      "website": "http://www.fodbold.starup-uif.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Sportsefterskolen Aabybro",
+      "website": "http://www.sportsefterskolen.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Stauning/Dejbjerg UI",
+      "website": "http://www.uogi.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sparkær IF",
+      "website": "http://www.sparkaerif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "ST 70",
+      "website": "http://www.st70.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Stenløse BK",
+      "website": "http://www.stenloese-bk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Spentrup IF",
+      "website": "http://www.spentrupif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Stilling IF",
+      "website": "http://www.stillingfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Stillinge IF",
+      "website": "http://www.stillingeif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Stavtrup IF Fodbold",
+      "website": "http://www.stavtrupfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Stenstrup IF",
+      "website": "http://stenstrupif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Store Heddinge BK",
+      "website": "http://www.storeheddingeboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Store Lyngby IF",
+      "website": "http://stlyngbyif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Strandby IF Farsø",
+      "website": "http://www.strandbyif.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "St. Restrup IF",
+      "website": "http://www.strestrupif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Strellev/Lyne GU",
+      "website": "http://www.slgu.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Stoholm IF",
+      "website": "http://www.stoholm-if.dk/fodbold",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Stepping IF",
+      "website": "http://www.stepping.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Storvorde/Sejlflod B",
+      "website": "http://www.ssb-storvorde.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://www.ssb-storvorde.dk/klubinfo/kampklar/"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://www.ssb-storvorde.dk/klubinfo/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Strandby-Elling-Nielstrup IF Fodbold",
+      "website": "http://www.seiffodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Struer B",
+      "website": "http://www.struerboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Strib IF",
+      "website": "http://www.stribif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Stensballe IK",
+      "website": "http://www.stensballeikfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "SUB Ullerslev",
+      "website": "http://www.sub-ullerslev.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Stubbekøbing BK",
+      "website": "http://www.sb-boldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sundby Thy IK",
+      "website": "http://www.sundbythy.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sundeved Efterskoles IF",
+      "website": "http://www.sundeved-efterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Støvring IF Fodbold",
+      "website": "http://www.siffodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sulsted IF",
+      "website": "http://www.sulstedif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sundby Boldklub",
+      "website": "http://www.sundbyboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Svendborg Efterskole",
+      "website": "http://rantz.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Suså IF",
+      "website": "http://www.susaaif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Svinninge IF",
+      "website": "http://svinningeif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sunds IF",
+      "website": "http://www.sundsif.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "http://mit.dbu.dk/MyTeam/MyTeams.aspx"
+        },
+        {
+          "text": "Kampklar",
+          "url": "http://mit.dbu.dk/MyTeam/MyTeams.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Syd- & Østsjællands",
+      "website": "http://www.soef.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Svogerslev BK",
+      "website": "http://www.svogerslev-bk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sydmors IF",
+      "website": "http://www.sydmors.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Rørbæk IF",
+      "website": "http://www.nif-rif.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "timeout"
+    },
+    {
+      "name": "STUK Overbygning",
+      "website": "http://stuk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Svenstrup-Godthåb IF",
+      "website": "http://www.sgifklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Svaneke Idræts Klub",
+      "website": "http://www.svaneke-ik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Stidsholt IF (Efterskole)",
+      "website": "http://www.stidsholt.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sædding/G IF",
+      "website": "http://www.sgi-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sydvestjysk Fodbolddommerklub",
+      "website": "http://www.sfdk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Søllested IF",
+      "website": "http://www.sifbold.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Syvsten IF",
+      "website": "http://www.syvstenif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Søften GF",
+      "website": "http://www.sgf-fodbold.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "KampKlar",
+          "url": "https://mit.dbu.dk/Login.aspx?ReturnUrl=%2f"
+        },
+        {
+          "text": "KampKlar",
+          "url": "https://mit.dbu.dk/Login.aspx?ReturnUrl=%2f"
+        }
+      ]
+    },
+    {
+      "name": "Søllinge Sport og Fritid",
+      "website": "http://www.sollingeboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sønderborg Boldklub",
+      "website": "http://www.sonderborgboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Søhus IF",
+      "website": "http://www.soehusstige.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sønderris SK",
+      "website": "http://www.soenderris-sk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sønderbro Fight",
+      "website": "http://www.sonderbro-fight.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sønderborg Fremad",
+      "website": "http://www.sonderborgfremad.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://www.sonderborgfremad.dk/klub-info/kampklar/"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://www.sonderborgfremad.dk/ungdom/piger/kampklar/"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://www.sonderborgfremad.dk/ungdom/drenge/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Sørup IF",
+      "website": "http://www.facebook.com/soerupif",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sønderjydsk Fodbolddommerklub",
+      "website": "http://www.sonderjydsk-fodbolddommer.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Studenter Settlementets Boldklub",
+      "website": "http://www.ssb-sport.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Såby Fodbold",
+      "website": "http://www.saabyfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Søndersø BK",
+      "website": "http://www.sondersobk.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklaransvarlig",
+          "url": "https://www.sondersobk.dk/kontakt-os/kampklaransvarlig/"
+        },
+        {
+          "text": "Kampklaransvarlig",
+          "url": "https://www.sondersobk.dk/kontakt-os/kampklaransvarlig/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Tarm IF",
+      "website": "http://www.tarmif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Taulov/Skærbæk IF",
+      "website": "http://www.tsiffodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tarp B",
+      "website": "http://www.tarpboldklub.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar app&#39;en",
+          "url": "https://www.tarpboldklub.dk/klubben/manualer/kampklar-app-en/"
+        },
+        {
+          "text": "Kampklar app&#39;en",
+          "url": "https://www.tarpboldklub.dk/klubben/manualer/kampklar-app-en/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Sønderup/Suldrup IK Frem",
+      "website": "http://wp.ikfrem.dk/fodbold",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Taps.dk - By- og IF",
+      "website": "http://www.taps.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Team Viborg",
+      "website": "http://teamviborg.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tarup/Paarup IF",
+      "website": "http://www.tpifodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Terslev G&IF",
+      "website": "http://www.tgif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Terndrup IF",
+      "website": "http://www.terndrupif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Sydøstjysk Fodbolddommerklub",
+      "website": "http://www.sydoestjyskdommer.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tejn IF",
+      "website": "http://www.tejnif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Them GF",
+      "website": "http://www.themgf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Thurø BK af 1920",
+      "website": "http://www.thuroeboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Thyland idrætsefterskole",
+      "website": "http://www.thyland.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Thisted FC",
+      "website": "http://www.thistedfc.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Thisted FC (professional)",
+      "website": "http://www.thistedfc.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Thyregod SF Frem",
+      "website": "http://www.frem-thyregod.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Thorup/Klim B",
+      "website": "http://www.thorupklimboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tirstrup Idrætsefterskole",
+      "website": "http://www.tirstrup-ie.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tistrup B",
+      "website": "http://www.tistrupboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tinglev IF",
+      "website": "http://www.tinglevif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tingsted BK",
+      "website": "http://www.tingsted-boldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Thyholm IF",
+      "website": "http://www.thyholm-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Toftlund IF",
+      "website": "http://www.tiffodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Toksværd Olstrup Fodbold",
+      "website": "http://www.t-o-f.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tilsted IK",
+      "website": "http://www.tilstedik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tisvildeleje GF",
+      "website": "http://www.vtfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tornby IF",
+      "website": "http://www.tornbyif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tommerup BK",
+      "website": "http://www.tommerupbk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Thorning IF",
+      "website": "http://www.thorningif.dk/fodbold_65",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Torpedo AT",
+      "website": "http://www.facebook.dk/ATTorpedo",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tranum GF",
+      "website": "http://www.tranumgf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "tst Fodbold",
+      "website": "http://www.tst-fodbold.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "DBUS FODBOLDAPP OG KAMPKLAR",
+          "url": "https://klubservice.dbu.dk/kampklar/vejledning/til-spillere-og-foraeldre/"
+        },
+        {
+          "text": "DBUS FODBOLDAPP OG KAMPKLAR",
+          "url": "https://klubservice.dbu.dk/kampklar/vejledning/til-spillere-og-foraeldre/"
+        }
+      ]
+    },
+    {
+      "name": "Tjørring IF",
+      "website": "http://www.tjoerring-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Thorsø/Tungelund IF",
+      "website": "http://www.t-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tvis KFUM & IF",
+      "website": "http://fodbold.tvisby.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Tuse Næs BK",
+      "website": "http://www.tusenaesboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tylstrup IF",
+      "website": "http://www.tuif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tved BK",
+      "website": "http://www.tvedboldklub.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "KampKlar",
+          "url": "https://www.tvedboldklub.dk/kampklar/"
+        },
+        {
+          "text": "KampKlar",
+          "url": "https://www.tvedboldklub.dk/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Tuse IF",
+      "website": "http://www.tusefodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Trustrup-Ålsrode IF",
+      "website": "http://www.taaif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tølløse BK",
+      "website": "http://www.tbk-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tølløse Privat- og Efterskole",
+      "website": "http://tpoe.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Torslunde-Ishøj IF",
+      "website": "http://www.tiif.dk/fodbold/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Taarbæk IF",
+      "website": "http://www.taarbaekif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tømmerup GU",
+      "website": "http://www.tgu.klub-modul.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tørring IF",
+      "website": "http://www.toerring-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tårup IF",
+      "website": "http://www.taarupif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tønder SF",
+      "website": "http://www.tsf-fodbold.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://www.tsf-fodbold.dk/traenerinfo/kampklar/"
+        },
+        {
+          "text": "Kampklar",
+          "url": "https://www.tsf-fodbold.dk/traenerinfo/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Tune IF",
+      "website": "http://www.tune-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Taastrup FC",
+      "website": "http://www.taastrupfc.com/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ubberud IF",
+      "website": "http://www.ubberud-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tåsinge f. B.",
+      "website": "http://www.taasingefb.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "DBU Fodbold app (Kampklar)",
+          "url": "https://www.taasingefb.dk/for-medlemmer/dbu-fodbold-app-kampklar/"
+        },
+        {
+          "text": "DBU Fodbold app (Kampklar)",
+          "url": "https://www.taasingefb.dk/for-medlemmer/dbu-fodbold-app-kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Uldum IF",
+      "website": "http://www.uldum-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Uhre GIF",
+      "website": "http://www.uhregif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tårnby FF",
+      "website": "http://www.taarnbyff.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "KampKlar",
+          "url": "https://www.taarnbyff.dk/holdoversigt/boern-ungdom/kampklar/"
+        },
+        {
+          "text": "KampKlar",
+          "url": "https://www.taarnbyff.dk/holdoversigt/boern-ungdom/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Ulsted B",
+      "website": "http://www.ulstedboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ubby Fri- og Efterskole",
+      "website": "http://ubby.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ulbjerg IF",
+      "website": "http://www.ulbjergif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Uvelse IF",
+      "website": "http://www.uif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vadum IF",
+      "website": "http://www.vadum-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Tårs/Ugilt IF",
+      "website": "http://www.taars-ugilt-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "University College Lillebælt Football Club",
+      "website": "http://www.facebook.com/UCLFC",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Undløse BK",
+      "website": "http://www.ub1901.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Systofte BK",
+      "website": "http://www.systofte-boldklub.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Valsgård IF 83",
+      "website": "http://www.vif83.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vanløse Idræts Forening",
+      "website": "http://www.vanloeseif.dk/",
+      "category": "egen-guide",
+      "matches": [
+        {
+          "text": "KampKlar (Vejledning)",
+          "url": "https://www.vanloeseif.dk/medlemskab/kampklar-vejledning/"
+        },
+        {
+          "text": "KampKlar (Vejledning)",
+          "url": "https://www.vanloeseif.dk/medlemskab/kampklar-vejledning/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Vandel Efterskole",
+      "website": "http://www.vandelefterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vallensbæk IF",
+      "website": "http://www.vallensbaek-if.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "Login Kampklar",
+          "url": "https://mit.dbu.dk/Login.aspx?ReturnUrl=%2fMyTeam%2fMyTeams.aspx#"
+        },
+        {
+          "text": "Login Kampklar",
+          "url": "https://mit.dbu.dk/Login.aspx?ReturnUrl=%2fMyTeam%2fMyTeams.aspx#"
+        }
+      ]
+    },
+    {
+      "name": "Vamdrup IF",
+      "website": "http://www.viffodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Varnæs/Bovrup IF",
+      "website": "http://www.vbif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vatanspor",
+      "website": "http://www.vatanspor.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Veddum IF",
+      "website": "http://www.veddumif.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "Kampklar",
+          "url": "https://mit.dbu.dk/MyTeam/MyTeams.aspx#"
+        }
+      ]
+    },
+    {
+      "name": "Valby Boldklub",
+      "website": "http://www.valbyboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Varde IF",
+      "website": "http://www.vardeif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Veflinge G &  IF",
+      "website": "http://www.vgif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vejby IF",
+      "website": "http://www.vtfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vejen SF",
+      "website": "http://www.vejensf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vejle B",
+      "website": "http://www.vejleboldklub.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "DBU Kampklar",
+          "url": "https://www.vejleboldklub.dk/medlemmer/traenere/dbu-kampklar/"
+        },
+        {
+          "text": "DBU Kampklar",
+          "url": "https://www.vejleboldklub.dk/medlemmer/traenere/dbu-kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Vejgaard B",
+      "website": "http://www.vejgaard-bk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vejle FC",
+      "website": "http://www.vejlefc.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vejle Fodbolddommerklub",
+      "website": "http://www.vejlefodbolddommerklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vellev IF",
+      "website": "http://www.vellev-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vejlby Skovbakken Aarhus",
+      "website": "http://www.vskaarhus.dk/",
+      "category": "egen-guide",
+      "matches": [
+        {
+          "text": "Adgang til et holds KampKlar",
+          "url": "https://www.vskaarhus.dk/login/administration/kluboffice/vejledninger/adgang-til-et-holds-kampklar/"
+        },
+        {
+          "text": "Adgang til et holds KampKlar",
+          "url": "https://www.vskaarhus.dk/login/administration/kluboffice/vejledninger/adgang-til-et-holds-kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Veksø IF",
+      "website": "http://www.veksoe-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vejle Kammeraterne",
+      "website": "http://www.vejle-kammeraterne.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Mit DBU, Kampklar &amp; Driblr",
+          "url": "https://www.vejle-kammeraterne.dk/fodbold/ind-og-ud-meldelser/mit-dbu-kampklar-driblr/"
+        },
+        {
+          "text": "DBU Appen (Kampklar)",
+          "url": "https://www.vejle-kammeraterne.dk/fodbold/traenermappe/ny-traener/dbu-appen-kampklar/"
+        },
+        {
+          "text": "Mit DBU, Kampklar &amp; Driblr",
+          "url": "https://www.vejle-kammeraterne.dk/fodbold/ind-og-ud-meldelser/mit-dbu-kampklar-driblr/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Vemmelev BK",
+      "website": "http://www.vemmelev-boldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vejle Idrætsefterskole",
+      "website": "http://www.vies.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vestbirk Musik- & Sportsefterskole",
+      "website": "http://www.vestbirk-efterskole.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vester Hjermitslev B",
+      "website": "http://www.123hjemmeside.dk/vhb",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Vester Hassing GF",
+      "website": "http://www.vhg.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vesterborg Efterskole",
+      "website": "http://vesterborgefterskole.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Vesterbro Alliancen",
+      "website": "http://www.fcva.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Vestervig/Agger IF",
+      "website": "http://www.vaif.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Vestsjællands idrætsefterskole",
+      "website": "http://www.efterskole.nu/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Verninge IF",
+      "website": "http://www.verningeif.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "Kampklar for tr&#230;ner",
+          "url": "https://www.verningeif.dk/traener/kampklar-for-traener/"
+        },
+        {
+          "text": "Kampklar for spiller og for&#230;ldre",
+          "url": "https://www.verningeif.dk/traener/kampklar-for-spiller-og-foraeldre/"
+        },
+        {
+          "text": "Kampklar for tr&#230;ner",
+          "url": "https://www.verningeif.dk/traener/kampklar-for-traener/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Vejrumbro Boldklub",
+      "website": "http://www.vejrumbroboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Viborg Vestermarken",
+      "website": "http://www.vugf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Viborg FF",
+      "website": "http://www.viborg-ff.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Viby IF",
+      "website": "http://www.vibyfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Videbæk IF",
+      "website": "http://www.vif-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Viborg B67",
+      "website": "http://www.viborgb67.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Velling UIF",
+      "website": "http://www.vuif.eu/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vildbjerg SF",
+      "website": "http://www.vsf-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vinderslev IF",
+      "website": "http://www.vinderslev-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Viking Fodbold",
+      "website": "http://www.vikingfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vinding SF",
+      "website": "http://www.vsffodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Viborg FF Oldboys 2003",
+      "website": "http://www.vff.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vinderup IK",
+      "website": "http://www.vinderup-ik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vindinge IF",
+      "website": "http://www.vindinge-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vindinge BK",
+      "website": "http://www.vindingeboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vipperød BK",
+      "website": "http://www.vipperod-bk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Virring Fodbold",
+      "website": "http://www.virringfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "VIF, Mors",
+      "website": "http://www.vifmors.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Visborg IF",
+      "website": "http://www.visborg-if.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Virklund B",
+      "website": "http://www.virklundboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vittrup Efterskole - Lukket ??",
+      "website": "http://www.vittrupefterskole.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Vinding UIF",
+      "website": "http://www.vinding-uif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vivild IF",
+      "website": "http://www.vivild-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vivild Gymnastik- og Idrætsefterskole",
+      "website": "http://www.vgi.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Virup IF",
+      "website": "http://www.virupif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Virum-Sorgenfri BK",
+      "website": "http://www.vsb-fodbold.dk/",
+      "category": "egen-guide",
+      "matches": [
+        {
+          "text": "KAMPKLAR VEJLEDNING",
+          "url": "https://www.vsb-fodbold.dk/vaerdier-retningslinier/foraeldre/kampklar-vejledning/"
+        },
+        {
+          "text": "KAMPKLAR VEJLEDNING",
+          "url": "https://www.vsb-fodbold.dk/vaerdier-retningslinier/traener/kampklar-vejledning/"
+        },
+        {
+          "text": "KAMPKLAR VEJLEDNING",
+          "url": "https://www.vsb-fodbold.dk/vaerdier-retningslinier/holdleder/kampklar-vejledning/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Vissenbjerg G & IF",
+      "website": "http://www.vgif-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vestbjerg IF",
+      "website": "http://www.vestbjergif.dk/fodbold",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vodskov IF",
+      "website": "http://www.vodskovfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Voersaa IF",
+      "website": "http://www.voersaa-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vojens BI",
+      "website": "http://www.vbi.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vonsild FK",
+      "website": "http://www.vonsildfodboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vorgod-Barde Motion og fritid",
+      "website": "http://www.vorgodbardehallen.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vorupør B",
+      "website": "http://www.voruporbk.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Vordingborg IF",
+      "website": "http://www.vifnet.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vorbasse Boldklub af 1912",
+      "website": "http://www.vorbasseboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vrå/Børglum IF",
+      "website": "http://www.vbi-vraa.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vorup FB",
+      "website": "http://www.vorupfb.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Værløse BK",
+      "website": "http://www.vbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Værum GF",
+      "website": "http://www.vaerum.net/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vojens Gymnastik- & Idrætsefterskole",
+      "website": "http://www.vgie.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "ØBG Silkeborg",
+      "website": "http://www.obg.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ølgod IF",
+      "website": "http://www.olgod-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Væggerløse BK",
+      "website": "http://www.vbfodbold.dk/",
+      "category": "kun-link-til-dbu",
+      "matches": [
+        {
+          "text": "",
+          "url": "https://klubservice.dbu.dk/kampklar/"
+        }
+      ]
+    },
+    {
+      "name": "Ølholm B",
+      "website": "http://www.ølholmboldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vor Frue IF",
+      "website": "http://www.vorfrueif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ølsted IF",
+      "website": "http://www.boldenruller.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vaarst/Fjellerad B",
+      "website": "http://www.vfb-sport.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ølstrup GU",
+      "website": "http://www.olstrupgu.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ølstykke FC",
+      "website": "http://www.olstykke-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ørslev-Bjerge IF",
+      "website": "http://www.oebif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ørslevkloster IF",
+      "website": "http://www.okif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ødis IF",
+      "website": "http://www.odis-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ørestad IF",
+      "website": "http://www.orestadif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "ØKF",
+      "website": "http://www.oekf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Øster Højst UIF",
+      "website": "http://www.øhuif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ørslev GIF (V)",
+      "website": "http://www.oegif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Østbirk IF",
+      "website": "http://www.ostbirkif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Øster Brønderslev IF",
+      "website": "http://www.oebi.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Øster Nykirke IF",
+      "website": "http://www.onif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Østerbro Idræts Forening",
+      "website": "http://www.osterbro-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Østervraa IF",
+      "website": "http://www.oevifodbold.com/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Øster Sundby B32",
+      "website": "http://www.oeb32.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Øster Ulslev BK",
+      "website": "http://www.øub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Østofte GIF (PASSIV)",
+      "website": "http://www.o-g-i-f.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Østmøn SGI",
+      "website": "http://www.eastmoenfk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "AaB",
+      "website": "http://www.aabaf1885.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aabenraa BK",
+      "website": "http://www.aabk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aabybro IF",
+      "website": "http://www.aabybrofodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ådalen IF",
+      "website": "http://www.ifaa.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aabyhøj IF",
+      "website": "http://www.aaif-fodbold.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "KampKlar",
+          "url": "https://www.aaiffodbold.dk/medlemsskab/til-foraeldre/kampklar/"
+        },
+        {
+          "text": "KampKlar",
+          "url": "https://www.aaiffodbold.dk/medlemsskab/til-foraeldre/kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": false
+    },
+    {
+      "name": "Øster Vedsted IF",
+      "website": "http://www.ostervedstedif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Østermarie IF",
+      "website": "http://www.øif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aalborg Fodbolddommerklub",
+      "website": "https://aalborgfdk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aalborg Fremad",
+      "website": "http://www.aalborgfremad.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aakanden GF",
+      "website": "http://www.aakandengf.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aalborg Chang",
+      "website": "http://www.aalborgchang.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aalborg Studenternes IF",
+      "website": "http://www.aasi.dk/fodbold",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Aalborg Futsal Klub",
+      "website": "http://www.aalborgfutsal.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Ålholm IF",
+      "website": "http://fodbold.aalholm-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Åkirkeby IF",
+      "website": "http://www.aaif.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aalestrup IF",
+      "website": "http://www.aalestrup-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aarhus 1900",
+      "website": "http://www.aarhus1900fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aalborg Freja",
+      "website": "http://www.aalborgfreja.dk/",
+      "category": "egen-guide",
+      "matches": [
+        {
+          "text": "Hj&#230;lp til KampKlar",
+          "url": "https://www.aalborgfreja.dk/om-freja/den-blaa-traad/traenerguide/hjaelp-til-kampklar/"
+        },
+        {
+          "text": "Hj&#230;lp til KampKlar",
+          "url": "https://www.aalborgfreja.dk/om-freja/den-blaa-traad/traenerguide/hjaelp-til-kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Aarhus Black Vipers",
+      "website": "http://www.facebook.com/abvipers",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aalborg KFUM Fodbold",
+      "website": "http://www.aalborgkfumfodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Vendsyssel FF (professional)",
+      "website": "http://www.fc-hjoerring.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "fetch failed"
+    },
+    {
+      "name": "Aarhus Fremad",
+      "website": "http://www.aarhus-fremad-fodbold.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aarhus Posten",
+      "website": "http://www.aarhusposten.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Østerlars B.",
+      "website": "http://osterlars-sport.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aarhus Fodbolddommerklub",
+      "website": "http://www.afdk.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aarsballe B.",
+      "website": "http://www.aarsballe-boldklub.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aars IK",
+      "website": "http://www.aarsik.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aarslev BK",
+      "website": "http://www.aarslevboldklub.dk/",
+      "category": "egen-kampklar-side",
+      "matches": [
+        {
+          "text": "AA.B er kampklar! Er du?",
+          "url": "https://www.aarslevboldklub.dk/holdsiderne/aa-b-er-kampklar-er-du/"
+        },
+        {
+          "text": "AA.B er kampklar! Er du?",
+          "url": "https://www.aarslevboldklub.dk/holdsiderne/aa-b-er-kampklar-er-du/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Aastrup IF",
+      "website": "http://www.aastrup-if.dk/",
+      "category": "ingen-paa-forside",
+      "matches": []
+    },
+    {
+      "name": "Aarup BK",
+      "website": "http://fodboldaarupboldklub.dk/",
+      "category": "egen-guide",
+      "matches": [
+        {
+          "text": "Vejledning til KampKlar",
+          "url": "https://www.fodboldaarupboldklub.dk/praktisk-info/vejledning-til-kampklar/"
+        },
+        {
+          "text": "Vejledning til KampKlar",
+          "url": "https://www.fodboldaarupboldklub.dk/praktisk-info/vejledning-til-kampklar/"
+        }
+      ],
+      "deepLooksLikeGuide": true
+    },
+    {
+      "name": "Vapnagård FK 72",
+      "website": "http://www.vfk72.dk/",
+      "category": "unreachable",
+      "matches": [],
+      "error": "timeout"
+    }
+  ]
+}

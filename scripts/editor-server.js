@@ -33,10 +33,81 @@ const OPSTILLINGEN_PATH = path.resolve(__dirname, '../../opstillingen');
 // Example: path.resolve(__dirname, '../../findenklub/src/app.js')
 const FINDENKLUB_PATH     = path.resolve(__dirname, '../../findenklub');
 const FINDENKLUB_APP_PATH = path.resolve(__dirname, '../../findenklub/src/app.js');
+
+const DASHBOARD_PATH     = path.resolve(__dirname, '../../dashboard');
+const DASHBOARD_APP_PATH = path.resolve(__dirname, '../../dashboard/src/components/club-logos.tsx');
+
 const PORT = 3737;
+
+// Guards against two /release pipelines running at once (e.g. a page reload
+// while a release is in flight starts a *second* run server-side, since the
+// child processes from the first one keep going even after the browser's
+// EventSource disconnects). Without this, both runs call `npm version patch`
+// against the same package.json and race on git commit/tag/push — which is
+// exactly what produces "tag already exists" / non-fast-forward push errors
+// that don't reflect what actually happened, only that the version moved out
+// from under the pipeline mid-run.
+let releaseInProgress = false;
 
 function getVersion() {
   return JSON.parse(fs.readFileSync(PKG_PATH, 'utf8')).version;
+}
+
+// Minimal markdown → HTML for docs pages (headings, lists, bold/italic/code, links, hr, paragraphs).
+function renderMarkdown(md) {
+  const esc = s => s.replace(/[&<>]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
+  const inline = s => esc(s)
+    .replace(/`([^`]+)`/g, '<code>$1</code>')
+    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*([^*]+)\*/g, '<em>$1</em>')
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+
+  const lines = md.split('\n');
+  const html = [];
+  let listType = null; // 'ul' | 'ol' | null
+  let para = null;     // buffered raw text of the current paragraph or list item
+  let paraTag = null;  // 'p' | 'li'
+
+  const closeList = () => { if (listType) { html.push(`</${listType}>`); listType = null; } };
+  const closePara = () => {
+    if (para !== null) { html.push(`<${paraTag}>${inline(para)}</${paraTag}>`); para = null; paraTag = null; }
+  };
+
+  for (const line of lines) {
+    if (/^\s*$/.test(line)) { closePara(); continue; }
+    if (/^---+$/.test(line)) { closePara(); closeList(); html.push('<hr>'); continue; }
+
+    let m;
+    if ((m = line.match(/^(#{1,3})\s+(.*)$/))) {
+      closePara(); closeList();
+      const level = m[1].length;
+      html.push(`<h${level}>${inline(m[2])}</h${level}>`);
+      continue;
+    }
+    if ((m = line.match(/^[-*]\s+(.*)$/))) {
+      closePara();
+      if (listType !== 'ul') { closeList(); html.push('<ul>'); listType = 'ul'; }
+      para = m[1]; paraTag = 'li';
+      continue;
+    }
+    if ((m = line.match(/^\d+\.\s+(.*)$/))) {
+      closePara();
+      if (listType !== 'ol') { closeList(); html.push('<ol>'); listType = 'ol'; }
+      para = m[1]; paraTag = 'li';
+      continue;
+    }
+    // Indented continuation of the current list item.
+    if (paraTag === 'li' && /^\s+\S/.test(line)) {
+      para += ' ' + line.trim();
+      continue;
+    }
+    closeList();
+    if (para === null) { para = line.trim(); paraTag = 'p'; }
+    else para += ' ' + line.trim();
+  }
+  closePara();
+  closeList();
+  return html.join('\n');
 }
 
 const HTML = /* html */`<!DOCTYPE html>
@@ -387,7 +458,14 @@ const HTML = /* html */`<!DOCTYPE html>
       gap: 16px;
     }
     .bottombar__left { display: flex; align-items: center; gap: 10px; flex: 1; min-width: 0; overflow: hidden; }
-    .bottombar__right { flex-shrink: 0; }
+    .bottombar__right { flex-shrink: 0; display: flex; align-items: center; gap: 14px; }
+
+    .release-info-link {
+      font-size: 13px; font-weight: 500; color: #6b7280;
+      text-decoration: underline; text-decoration-color: #d1d5db;
+      white-space: nowrap;
+    }
+    .release-info-link:hover { color: #374151; text-decoration-color: #9ca3af; }
 
     /* ─── Consumer status chips ──────────────────────────────────────────────── */
     .status-chips { display: flex; gap: 6px; flex-shrink: 0; }
@@ -427,6 +505,72 @@ const HTML = /* html */`<!DOCTYPE html>
     .log-line.ok    { color: #4ade80; }
     .log-line.err   { color: #f87171; }
     .log-line.done  { color: #fff; font-weight: bold; }
+
+    /* ─── Kit contributions ──────────────────────────────────────────────────── */
+    .kit-contrib-list { display: flex; flex-direction: column; gap: 6px; }
+    .kit-contrib-row {
+      display: flex; align-items: center; gap: 10px;
+      padding: 8px 10px; border-radius: 8px; background: #f9fafb;
+      border: 1px solid #f3f4f6;
+    }
+    .kit-contrib-swatches { display: flex; gap: 4px; flex-shrink: 0; }
+    .kit-contrib-swatch {
+      width: 18px; height: 18px; border-radius: 50%;
+      border: 1px solid rgba(0,0,0,0.10); flex-shrink: 0;
+    }
+    .kit-contrib-name {
+      flex: 1; font-size: 13px; font-weight: 500; color: #111;
+      cursor: pointer; text-decoration: underline; text-underline-offset: 2px;
+      text-decoration-color: #d1d5db;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .kit-contrib-name:hover { text-decoration-color: #6b7280; }
+    .kit-contrib-meta { font-size: 11px; color: #9ca3af; flex-shrink: 0; }
+    .kit-contrib-badge {
+      font-size: 10px; font-weight: 500; color: #6b7280;
+      background: #f3f4f6; border: 1px solid #e5e7eb;
+      border-radius: 4px; padding: 1px 5px; flex-shrink: 0;
+    }
+    .kit-contrib-empty { font-size: 13px; color: #9ca3af; }
+    .custom-clubs-hint { font-size: 13px; color: #6b7280; margin: -4px 0 10px; }
+    .custom-clubs-count {
+      font-size: 11px; font-weight: 600; color: #6b7280;
+      background: #f3f4f6; border: 1px solid #e5e7eb;
+      border-radius: 10px; padding: 1px 7px; flex-shrink: 0;
+    }
+
+    /* ─── Conflicts ──────────────────────────────────────────────────────────── */
+    .conflicts-section { margin-top: 20px; }
+    .conflicts-heading {
+      font-size: 12px; font-weight: 500; color: #b45309;
+      text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 10px;
+      display: flex; align-items: center; gap: 6px;
+    }
+    .conflicts-heading::before {
+      content: ''; width: 7px; height: 7px; border-radius: 50%;
+      background: #f59e0b; flex-shrink: 0;
+    }
+    .conflict-club { margin-bottom: 12px; }
+    .conflict-club-name {
+      font-size: 13px; font-weight: 600; color: #111; margin-bottom: 6px;
+      cursor: pointer; text-decoration: underline; text-underline-offset: 2px;
+      text-decoration-color: #d1d5db; display: inline-block;
+    }
+    .conflict-club-name:hover { text-decoration-color: #6b7280; }
+    .conflict-options { display: flex; flex-direction: column; gap: 4px; }
+    .conflict-option {
+      display: flex; align-items: center; gap: 10px;
+      padding: 7px 10px; border-radius: 8px;
+      background: #fffbeb; border: 1px solid #fde68a;
+    }
+    .conflict-option-meta { flex: 1; font-size: 12px; color: #6b7280; }
+    .btn--use {
+      font-size: 12px; font-family: inherit; font-weight: 500;
+      color: #fff; background: #111; border: none;
+      border-radius: 6px; padding: 4px 10px; cursor: pointer; flex-shrink: 0;
+      transition-property: opacity; transition-duration: 0.15s;
+    }
+    .btn--use:hover { opacity: 0.75; }
 
     /* ─── Toast ──────────────────────────────────────────────────────────────── */
     .toast {
@@ -523,6 +667,11 @@ const HTML = /* html */`<!DOCTYPE html>
               <button class="seg-btn" data-value="stripes-v">Lodrette</button>
               <button class="seg-btn" data-value="stripes-h">Vandrette</button>
             </div>
+          </div>
+
+          <div class="field" style="display:flex;align-items:center;gap:10px;margin-top:4px">
+            <input type="checkbox" id="kit-locked" style="width:16px;height:16px;cursor:pointer;accent-color:#111">
+            <label for="kit-locked" style="margin:0;text-transform:none;letter-spacing:0;font-size:13px;color:#374151;cursor:pointer">Lås kit — ignorer bruger-bidrag</label>
           </div>
 
           <button class="btn btn--primary" id="save-btn">Gem kit</button>
@@ -634,6 +783,24 @@ const HTML = /* html */`<!DOCTYPE html>
       <p class="scan-result" id="scan-result"></p>
     </div>
 
+    <div class="card">
+      <span class="card-title">Kit-bidrag fra brugere</span>
+      <div class="kit-contrib-list" id="kit-contrib-list">
+        <p class="kit-contrib-empty">Henter…</p>
+      </div>
+      <button class="btn btn--scan" id="sync-kits-btn" style="margin-top:16px">Synk bidrag til clubs.json →</button>
+      <p class="scan-result" id="sync-kits-result"></p>
+      <div class="conflicts-section" id="conflicts-section" hidden></div>
+    </div>
+
+    <div class="card">
+      <span class="card-title">Brugerdefinerede klubnavne</span>
+      <p class="custom-clubs-hint">Klubnavne brugere har skrevet, som ikke matcher en klub i clubs.json — de bliver vist uden logo i dashboardet.</p>
+      <div class="kit-contrib-list" id="custom-clubs-list">
+        <p class="kit-contrib-empty">Henter…</p>
+      </div>
+    </div>
+
   </div>
 </main>
 
@@ -649,6 +816,7 @@ const HTML = /* html */`<!DOCTYPE html>
     <button class="btn--check" id="check-btn" onclick="checkConsumers()">Tjek igen</button>
   </div>
   <div class="bottombar__right">
+    <a href="/release-flow" target="_blank" class="release-info-link" title="Hvad sker der ved udgivelse?">Hvad sker der?</a>
     <button class="btn btn--release" id="release-btn">Udgiv ny version →</button>
   </div>
 </footer>
@@ -813,6 +981,7 @@ function selectClub(club) {
   si('si-email',   club.email);
   si('si-website', club.website);
 
+  document.getElementById('kit-locked').checked = club.kitLocked ?? false;
   document.getElementById('kaldenavn').value  = club.kaldenavn ?? '';
   const abbrInput = document.getElementById('abbreviation');
   abbrInput.value = club.abbreviation ?? '';
@@ -891,7 +1060,7 @@ document.getElementById('save-btn').addEventListener('click', async () => {
     const res = await fetch('/save', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ name: selectedClub.name, primaryColor: primary, secondaryColor: secondary, kitStyle, abbreviation, kaldenavn: document.getElementById('kaldenavn').value.trim() || null }),
+      body: JSON.stringify({ name: selectedClub.name, primaryColor: primary, secondaryColor: secondary, kitStyle, abbreviation, kaldenavn: document.getElementById('kaldenavn').value.trim() || null, kitLocked: document.getElementById('kit-locked').checked }),
     });
     if (!res.ok) throw new Error(await res.text());
     showToast('Gemt ✓');
@@ -1037,6 +1206,154 @@ document.getElementById('save-profil-btn').addEventListener('click', async () =>
   }
 });
 
+// ── Kit contributions ─────────────────────────────────────────────────────────
+async function loadKitContributions() {
+  const list = document.getElementById('kit-contrib-list');
+  try {
+    const rows = await fetch('/supabase/kit-contributions').then(r => r.json());
+    if (!rows.length) {
+      list.innerHTML = '<p class="kit-contrib-empty">Ingen bidrag endnu.</p>';
+      return;
+    }
+    list.innerHTML = rows.map(row => {
+      const date  = new Date(row.updated_at).toLocaleDateString('da-DK', { day: 'numeric', month: 'short' });
+      const badge = row.kit_style && row.kit_style !== 'plain'
+        ? \`<span class="kit-contrib-badge">\${row.kit_style}</span>\`
+        : '';
+      return \`<div class="kit-contrib-row">
+        <div class="kit-contrib-swatches">
+          <div class="kit-contrib-swatch" style="background:\${row.primary_color ?? '#ebebeb'}" title="Primær: \${row.primary_color ?? '–'}"></div>
+          <div class="kit-contrib-swatch" style="background:\${row.secondary_color ?? '#ebebeb'}" title="Sekundær: \${row.secondary_color ?? '–'}"></div>
+        </div>
+        <span class="kit-contrib-name">\${row.club_name}</span>
+        \${badge}
+        <span class="kit-contrib-meta">\${date}</span>
+      </div>\`;
+    }).join('');
+    list.querySelectorAll('.kit-contrib-name').forEach((el, i) => {
+      el.addEventListener('click', () => jumpToClub(rows[i].club_name));
+    });
+  } catch {
+    list.innerHTML = '<p class="kit-contrib-empty">Kunne ikke hente bidrag.</p>';
+  }
+}
+
+function jumpToClub(name) {
+  const club = clubs.find(c => c.name === name);
+  if (!club) return;
+  searchInput.value = name;
+  selectClub(club);
+  document.querySelector('.page-content').scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+loadKitContributions();
+
+// ── Custom club names from users ────────────────────────────────────────────
+async function loadCustomClubs() {
+  const list = document.getElementById('custom-clubs-list');
+  try {
+    const rows = await fetch('/custom-clubs').then(r => r.json());
+    if (!rows.length) {
+      list.innerHTML = '<p class="kit-contrib-empty">Ingen — alle brugere har valgt en klub fra listen.</p>';
+      return;
+    }
+    list.innerHTML = rows.map(row => \`<div class="kit-contrib-row">
+      <span class="kit-contrib-name" style="cursor:default;text-decoration:none">\${row.name}</span>
+      <span class="custom-clubs-count">\${row.count}</span>
+    </div>\`).join('');
+  } catch {
+    list.innerHTML = '<p class="kit-contrib-empty">Kunne ikke hente klubnavne.</p>';
+  }
+}
+
+loadCustomClubs();
+
+// ── Sync kit contributions ────────────────────────────────────────────────────
+document.getElementById('sync-kits-btn').addEventListener('click', async () => {
+  const btn             = document.getElementById('sync-kits-btn');
+  const result          = document.getElementById('sync-kits-result');
+  const conflictsSection = document.getElementById('conflicts-section');
+  btn.disabled = true;
+  result.textContent = 'Synkroniserer…';
+  conflictsSection.hidden = true;
+  conflictsSection.innerHTML = '';
+  try {
+    const res = await fetch('/sync-kits', { method: 'POST' });
+    if (!res.ok) throw new Error(await res.text());
+    const { updated, conflicts } = await res.json();
+    result.textContent = updated.length
+      ? \`Opdateret: \${updated.join(', ')}\`
+      : 'Ingen nye ændringer.';
+    if (updated.length) clubs = await fetch('/clubs.json').then(r => r.json());
+    if (conflicts.length) renderConflicts(conflicts);
+  } catch (err) {
+    result.textContent = 'Fejl: ' + err.message;
+  } finally {
+    btn.disabled = false;
+  }
+});
+
+function renderConflicts(conflicts) {
+  const section = document.getElementById('conflicts-section');
+  section.innerHTML = \`<div class="conflicts-heading">Uenighed — vælg den rigtige</div>\`;
+  conflicts.forEach(({ club_name, options }) => {
+    const nameHtml = \`<span class="conflict-club-name">\${club_name}</span>\`;
+    const optionsHtml = options.map(opt => {
+      const badge = opt.kit_style && opt.kit_style !== 'plain'
+        ? \`<span class="kit-contrib-badge">\${opt.kit_style}</span>\`
+        : '';
+      const count = opt.count > 1 ? \`\${opt.count} brugere\` : '1 bruger';
+      return \`<div class="conflict-option">
+        <div class="kit-contrib-swatches">
+          <div class="kit-contrib-swatch" style="background:\${opt.primary_color ?? '#ebebeb'}" title="\${opt.primary_color ?? '–'}"></div>
+          <div class="kit-contrib-swatch" style="background:\${opt.secondary_color ?? '#ebebeb'}" title="\${opt.secondary_color ?? '–'}"></div>
+        </div>
+        \${badge}
+        <span class="conflict-option-meta">\${opt.primary_color ?? '–'} / \${opt.secondary_color ?? '–'} · \${count}</span>
+        <button class="btn--use">Brug denne</button>
+      </div>\`;
+    }).join('');
+    const div = document.createElement('div');
+    div.className = 'conflict-club';
+    div.innerHTML = nameHtml + \`<div class="conflict-options">\${optionsHtml}</div>\`;
+    div.querySelector('.conflict-club-name').addEventListener('click', () => jumpToClub(club_name));
+    div.querySelectorAll('.btn--use').forEach((btn, i) => {
+      btn.addEventListener('click', () => applyConflictChoice(club_name, options[i]));
+    });
+    section.appendChild(div);
+  });
+  section.hidden = false;
+}
+
+async function applyConflictChoice(clubName, opt) {
+  try {
+    const res = await fetch('/save', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        name:           clubName,
+        primaryColor:   opt.primary_color,
+        secondaryColor: opt.secondary_color,
+        kitStyle:       opt.kit_style ?? 'plain',
+        abbreviation:   null,
+        kaldenavn:      null,
+        kitLocked:      false,
+      }),
+    });
+    if (!res.ok) throw new Error(await res.text());
+    clubs = await fetch('/clubs.json').then(r => r.json());
+    // Remove this conflict from the UI
+    const section = document.getElementById('conflicts-section');
+    section.querySelectorAll('.conflict-club-name').forEach(el => {
+      if (el.textContent === clubName) el.closest('.conflict-club').remove();
+    });
+    if (!section.querySelector('.conflict-club')) section.hidden = true;
+    showToast(\`Kit gemt for \${clubName} ✓\`);
+  } catch (err) {
+    showToast('Fejl: ' + err.message);
+  }
+}
+
 // ── Scan logos ────────────────────────────────────────────────────────────────
 document.getElementById('scan-btn').addEventListener('click', async () => {
   const btn = document.getElementById('scan-btn');
@@ -1135,34 +1452,57 @@ function showToast(msg) {
 </html>`;
 
 // ─── SSE helper ───────────────────────────────────────────────────────────────
-function sseRun(res, steps) {
+function sseRun(res, steps, onSettled) {
   res.writeHead(200, {
     'Content-Type':  'text/event-stream',
     'Cache-Control': 'no-cache',
     'Connection':    'keep-alive',
   });
 
-  const send = (type, data) => res.write(`event: ${type}\ndata: ${data}\n\n`);
+  // If the browser disconnects mid-run (page reload/close, network blip), the
+  // shell steps below keep running regardless — spawn() isn't tied to `res`.
+  // Track the current child and kill it on disconnect so an abandoned run
+  // can't keep mutating git state (bumping the version, committing, tagging,
+  // pushing) in the background while the user thinks nothing is happening.
+  let aborted = false;
+  let currentProc = null;
+  res.on('close', () => {
+    aborted = true;
+    if (currentProc) currentProc.kill();
+  });
+
+  // Writing to a socket the client already closed can throw/emit 'error';
+  // without a guard that's an unhandled error that crashes the whole editor
+  // server mid-release, leaving git partially bumped/committed/tagged.
+  const send = (type, data) => {
+    if (aborted) return;
+    try { res.write(`event: ${type}\ndata: ${data}\n\n`); } catch { /* client gone */ }
+  };
 
   (async () => {
     for (const { label, cmd, cwd } of steps) {
+      if (aborted) return;
       send('log', `→ ${label}`);
       try {
         await new Promise((resolve, reject) => {
           const proc = spawn('sh', ['-c', cmd], { cwd: cwd ?? __dirname + '/..' });
+          currentProc = proc;
           proc.stdout.on('data', d => d.toString().trim().split('\n').forEach(l => l && send('log', `  ${l}`)));
           proc.stderr.on('data', d => d.toString().trim().split('\n').forEach(l => l && send('log', `  ${l}`)));
           proc.on('close', code => code === 0 ? resolve() : reject(new Error(`Exit ${code}`)));
         });
+        currentProc = null;
         send('ok', `✓ ${label}`);
       } catch (err) {
         send('err', `✗ ${label}: ${err.message}`);
-        res.end();
+        if (!aborted) res.end();
+        onSettled?.();
         return;
       }
     }
     send('done', `Udgivet som v${getVersion()} ✓`);
-    res.end();
+    if (!aborted) res.end();
+    onSettled?.();
   })();
 }
 
@@ -1172,6 +1512,36 @@ const server = http.createServer((req, res) => {
   if (req.method === 'GET' && req.url === '/') {
     res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
     res.end(HTML);
+    return;
+  }
+
+  if (req.method === 'GET' && req.url === '/release-flow') {
+    const md = fs.readFileSync(path.resolve(__dirname, '../RELEASE_FLOW.md'), 'utf8');
+    res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
+    res.end(/* html */`<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta charset="UTF-8">
+  <title>Hvad sker der ved udgivelse?</title>
+  <style>
+    body { max-width: 720px; margin: 40px auto; padding: 0 24px 60px; font-family: -apple-system, sans-serif; line-height: 1.6; color: #1f2937; font-size: 16px; }
+    h1 { font-size: 26px; margin: 0 0 16px; }
+    h2 { font-size: 20px; margin: 32px 0 12px; border-top: 1px solid #e5e7eb; padding-top: 24px; }
+    h2:first-of-type { border-top: none; padding-top: 0; }
+    h3 { font-size: 16px; margin: 20px 0 6px; }
+    p, li { margin: 0 0 10px; }
+    ul, ol { padding-left: 28px; }
+    li > p { margin: 4px 0; }
+    code { background: #f3f4f6; border-radius: 4px; padding: 1px 5px; font-size: 0.9em; }
+    a { color: #2563eb; }
+    hr { border: none; border-top: 1px solid #e5e7eb; margin: 24px 0; }
+    strong { font-weight: 600; }
+  </style>
+</head>
+<body>
+  ${renderMarkdown(md)}
+</body>
+</html>`);
     return;
   }
 
@@ -1211,13 +1581,15 @@ const server = http.createServer((req, res) => {
     req.on('data', chunk => body += chunk);
     req.on('end', () => {
       try {
-        const { name, primaryColor, secondaryColor, kitStyle, abbreviation, kaldenavn } = JSON.parse(body);
+        const { name, primaryColor, secondaryColor, kitStyle, abbreviation, kaldenavn, kitLocked } = JSON.parse(body);
         const clubs = JSON.parse(fs.readFileSync(CLUBS_PATH, 'utf8'));
         const club = clubs.find(c => c.name === name);
         if (!club) { res.writeHead(404); res.end('Club not found'); return; }
         club.primaryColor   = primaryColor;
         club.secondaryColor = secondaryColor;
         club.kitStyle       = kitStyle;
+        if (kitLocked) club.kitLocked = true;
+        else delete club.kitLocked;
         if (abbreviation) club.abbreviation = abbreviation;
         else delete club.abbreviation;
         if (kaldenavn) club.kaldenavn = kaldenavn;
@@ -1231,6 +1603,67 @@ const server = http.createServer((req, res) => {
         res.end(err.message);
       }
     });
+    return;
+  }
+
+  if (req.method === 'POST' && req.url === '/sync-kits') {
+    (async () => {
+      try {
+        const ANON = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtjdWp0c3dtdWNncGdhdmdvZ2xjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzUwMDkxNTMsImV4cCI6MjA5MDU4NTE1M30.jg_a2UqTiI0yQIJTqZTCKU8J5jcWMpcHdh9y9NTXjoc';
+        const r = await fetch(
+          `${SUPABASE_URL}/rest/v1/club_kits?select=club_name,primary_color,secondary_color,kit_style,updated_at&order=updated_at.desc`,
+          { headers: { apikey: ANON, Authorization: `Bearer ${ANON}` } }
+        );
+        const rows = await r.json();
+
+        // Group all rows by club name
+        const grouped = new Map();
+        for (const row of rows) {
+          if (!grouped.has(row.club_name)) grouped.set(row.club_name, []);
+          grouped.get(row.club_name).push(row);
+        }
+
+        const clubs = JSON.parse(fs.readFileSync(CLUBS_PATH, 'utf8'));
+        const updated = [];
+        const unmatched = [];
+        const conflicts = [];
+
+        for (const [clubName, clubRows] of grouped) {
+          const club = clubs.find(c => c.name === clubName);
+          if (!club) { unmatched.push(clubName); continue; }
+          if (club.kitLocked) continue;
+
+          // Detect conflict: multiple distinct primary colors across rows
+          const distinctColors = [...new Set(clubRows.map(r => r.primary_color).filter(Boolean))];
+          if (distinctColors.length > 1) {
+            // Count votes per unique color combo
+            const tally = new Map();
+            for (const row of clubRows) {
+              const key = JSON.stringify([row.primary_color, row.secondary_color, row.kit_style]);
+              if (!tally.has(key)) tally.set(key, { ...row, count: 0 });
+              tally.get(key).count++;
+            }
+            conflicts.push({
+              club_name: clubName,
+              options: [...tally.values()].sort((a, b) => b.count - a.count),
+            });
+            continue;
+          }
+
+          // All agree — auto-apply the most recent row
+          const row = clubRows[0];
+          let changed = false;
+          if (row.primary_color)   { club.primaryColor   = row.primary_color;   changed = true; }
+          if (row.secondary_color) { club.secondaryColor = row.secondary_color; changed = true; }
+          if (row.kit_style)       { club.kitStyle       = row.kit_style;       changed = true; }
+          if (changed) { updated.push(club.name); console.log(`Synced kit: ${club.name}`); }
+        }
+
+        if (updated.length) fs.writeFileSync(CLUBS_PATH, JSON.stringify(clubs, null, 2));
+        res.writeHead(200, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ updated, unmatched, conflicts }));
+      } catch (err) { res.writeHead(500); res.end(err.message); }
+    })();
     return;
   }
 
@@ -1266,6 +1699,7 @@ const server = http.createServer((req, res) => {
   if (req.method === 'GET' && req.url === '/consumer-status') {
     const consumers = [{ label: 'Opstillingen', path: OPSTILLINGEN_PATH }];
     if (fs.existsSync(FINDENKLUB_PATH)) consumers.push({ label: 'findenklub', path: FINDENKLUB_PATH });
+    if (fs.existsSync(DASHBOARD_PATH)) consumers.push({ label: 'dashboard', path: DASHBOARD_PATH });
 
     const results = consumers.map(({ label, path: repoPath }) => {
       try {
@@ -1282,6 +1716,23 @@ const server = http.createServer((req, res) => {
   }
 
   if (req.method === 'GET' && req.url === '/release') {
+    if (releaseInProgress) {
+      // A previous run is still executing server-side (most likely because the
+      // page was reloaded or closed while it was in flight — the browser's
+      // EventSource disconnects, but the shell steps keep running). Starting a
+      // second run here would race the first on package.json/git and produce
+      // confusing "tag already exists" / rejected-push errors, so refuse it.
+      res.writeHead(200, {
+        'Content-Type':  'text/event-stream',
+        'Cache-Control': 'no-cache',
+        'Connection':    'keep-alive',
+      });
+      res.write(`event: err\ndata: ✗ Der kører allerede en udgivelse — vent til den er færdig, eller genstart editoren hvis den virker hængt.\n\n`);
+      res.end();
+      return;
+    }
+    releaseInProgress = true;
+
     const ROOT = path.resolve(__dirname, '..');
 
     const steps = [
@@ -1338,7 +1789,87 @@ const server = http.createServer((req, res) => {
       );
     }
 
-    sseRun(res, steps);
+    // Add dashboard consumer steps once its CDN config file is set above.
+    if (DASHBOARD_APP_PATH && fs.existsSync(DASHBOARD_APP_PATH)) {
+      steps.push(
+        {
+          label: 'Opdater CDN-version i dashboard',
+          cmd:   `node -e "const fs=require('fs'),v=require('${PKG_PATH}').version,f='${DASHBOARD_APP_PATH}';let c=fs.readFileSync(f,'utf8');c=c.replace(/danish-football-clubs@v[\\d.]+/,'danish-football-clubs@v'+v);fs.writeFileSync(f,c);console.log('CDN bumped to v'+v)"`,
+          cwd:   ROOT,
+        },
+        {
+          label: 'Commit og push dashboard',
+          cmd:   `VERSION=$(node -e "process.stdout.write(require('${PKG_PATH}').version)") && git add -u && git commit -m "Bump danish-football-clubs to v$VERSION" && git push origin main`,
+          cwd:   DASHBOARD_PATH,
+        }
+      );
+    }
+
+    sseRun(res, steps, () => { releaseInProgress = false; });
+    return;
+  }
+
+  if (req.method === 'GET' && req.url === '/custom-clubs') {
+    if (!SUPABASE_URL || !SUPABASE_SERVICE_KEY) {
+      res.writeHead(200, { 'Content-Type': 'application/json' });
+      res.end('[]');
+      return;
+    }
+    (async () => {
+      try {
+        const r = await fetch(
+          `${SUPABASE_URL}/rest/v1/user_data?select=club_name`,
+          { headers: { apikey: SUPABASE_SERVICE_KEY, Authorization: `Bearer ${SUPABASE_SERVICE_KEY}` } }
+        );
+        const rows = await r.json();
+
+        const clubs = JSON.parse(fs.readFileSync(CLUBS_PATH, 'utf8'));
+        const knownNames = new Set(clubs.map(c => c.name));
+
+        const counts = new Map();
+        for (const row of rows) {
+          if (!row.club_name) continue;
+          counts.set(row.club_name, (counts.get(row.club_name) ?? 0) + 1);
+        }
+
+        const custom = [...counts.entries()]
+          .filter(([name]) => !knownNames.has(name))
+          .map(([name, count]) => ({ name, count }))
+          .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+
+        res.writeHead(200, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify(custom));
+      } catch (err) { res.writeHead(500); res.end(err.message); }
+    })();
+    return;
+  }
+
+  if (req.method === 'GET' && req.url === '/supabase/kit-contributions') {
+    if (!SUPABASE_URL) {
+      res.writeHead(200, { 'Content-Type': 'application/json' });
+      res.end('[]');
+      return;
+    }
+    (async () => {
+      try {
+        // Use anon key — club_kits has a public read policy.
+        const ANON = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtjdWp0c3dtdWNncGdhdmdvZ2xjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzUwMDkxNTMsImV4cCI6MjA5MDU4NTE1M30.jg_a2UqTiI0yQIJTqZTCKU8J5jcWMpcHdh9y9NTXjoc';
+        const r = await fetch(
+          `${SUPABASE_URL}/rest/v1/club_kits?select=club_name,primary_color,secondary_color,kit_style,updated_at&order=updated_at.desc`,
+          { headers: { apikey: ANON, Authorization: `Bearer ${ANON}` } }
+        );
+        const rows = await r.json();
+        // Most recent contribution per club.
+        const seen = new Set();
+        const deduped = rows.filter(row => {
+          if (seen.has(row.club_name)) return false;
+          seen.add(row.club_name);
+          return true;
+        });
+        res.writeHead(200, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify(deduped));
+      } catch (err) { res.writeHead(500); res.end(err.message); }
+    })();
     return;
   }
 
