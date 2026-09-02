@@ -4596,7 +4596,7 @@
     "primaryColor": "#0055a4",
     "secondaryColor": "#0055a4",
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/457.png",
     "email": "fodbold@bredballe-if.dk",
     "website": "http://www.bredballe-if.dk/fodbold/",
     "phone": null,
@@ -19483,7 +19483,7 @@
     "primaryColor": "#008000",
     "secondaryColor": "#000000",
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/570.png",
     "email": "kk1@mail.dk",
     "website": "http://www.khif.info/",
     "phone": "2277 2108",
@@ -37603,7 +37603,8 @@
     "coords": [
       57.05425152,
       10.00949733
-    ]
+    ],
+    "kitLocked": true
   },
   {
     "name": "AaB (professional)",
