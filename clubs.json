@@ -19608,8 +19608,8 @@
     "dbuId": 572,
     "primaryColor": "#ff6600",
     "secondaryColor": "#000000",
-    "kitStyle": null,
-    "logo": null,
+    "kitStyle": "plain",
+    "logo": "assets/logos/572.png",
     "email": "korsholmif@gmail.com",
     "website": "http://www.korsholm-if.dk/",
     "phone": "40457467",
@@ -19623,7 +19623,8 @@
     "coords": [
       56.25949156,
       10.06719333
-    ]
+    ],
+    "abbreviation": "KIF"
   },
   {
     "name": "KP Zebras",
