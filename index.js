@@ -19579,7 +19579,7 @@ export const clubs = [
     "dbuId": 572,
     "primaryColor": "#ff6600",
     "secondaryColor": "#000000",
-    "kitStyle": null,
+    "kitStyle": "plain",
     "email": "korsholmif@gmail.com",
     "website": "http://www.korsholm-if.dk/",
     "phone": "40457467",
@@ -19589,7 +19589,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/572.png",
     "kaldenavn": null,
     "coords": [
       56.25949156,
