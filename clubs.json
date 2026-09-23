@@ -4969,8 +4969,8 @@
     "postal": "2605",
     "region": "Ukendt",
     "dbuId": 3700,
-    "primaryColor": "#fffb00",
-    "secondaryColor": "#0433ff",
+    "primaryColor": "#FFD200",
+    "secondaryColor": "#012C92",
     "kitStyle": "plain",
     "logo": null,
     "abbreviation": "BIF",
@@ -4987,7 +4987,8 @@
     "coords": [
       55.64503648,
       12.40439537
-    ]
+    ],
+    "kitLocked": true
   },
   {
     "name": "Brøndby Strand IK",
@@ -5023,7 +5024,7 @@
     "primaryColor": "#f5d000",
     "secondaryColor": "#0055a4",
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/981.png",
     "email": "klub@brondbyif.net",
     "website": "http://www.brondbyif.net/",
     "phone": "4348 0800",
@@ -28063,7 +28064,7 @@
     "primaryColor": "#0055a4",
     "secondaryColor": "#ffffff",
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/117.png",
     "email": "skagenik@skagennet.dk",
     "website": "http://www.skagenik.dk/",
     "phone": "2617 4614",
@@ -34178,7 +34179,8 @@
     "coords": [
       55.6883311,
       12.48194421
-    ]
+    ],
+    "kitLocked": true
   },
   {
     "name": "Vapnagård FK 72",
