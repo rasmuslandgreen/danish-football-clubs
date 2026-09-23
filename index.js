@@ -4955,8 +4955,8 @@ export const clubs = [
     "postal": "2605",
     "region": "Ukendt",
     "dbuId": 3700,
-    "primaryColor": "#fffb00",
-    "secondaryColor": "#0433ff",
+    "primaryColor": "#FFD200",
+    "secondaryColor": "#012C92",
     "kitStyle": "plain",
     "email": "faktura@brondby.com",
     "website": null,
@@ -5017,7 +5017,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/981.png",
     "kaldenavn": null,
     "coords": [
       55.64503648,
@@ -28039,7 +28039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/117.png",
     "kaldenavn": null,
     "coords": [
       57.85540126,
