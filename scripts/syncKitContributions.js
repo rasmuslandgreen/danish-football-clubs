@@ -8,7 +8,7 @@
  * Then run: npm run build
  */
 
-import { readFileSync, writeFileSync } from 'fs';
+import { existsSync, readFileSync, writeFileSync } from 'fs';
 import { createClient } from '@supabase/supabase-js';
 
 const SUPABASE_URL  = 'https://kcujtswmucgpgavgoglc.supabase.co';
@@ -32,9 +32,15 @@ async function main() {
     return;
   }
 
+  // Contributions marked "Ikke relevant" in the editor are ignored.
+  const reviews = existsSync('kitContributionReviews.json')
+    ? JSON.parse(readFileSync('kitContributionReviews.json', 'utf8'))
+    : {};
+
   // Most recent contribution per club wins.
   const byClub = new Map();
   for (const row of data) {
+    if (reviews[`${row.club_name}|${row.updated_at}`] === 'rejected') continue;
     if (!byClub.has(row.club_name)) byClub.set(row.club_name, row);
   }
 

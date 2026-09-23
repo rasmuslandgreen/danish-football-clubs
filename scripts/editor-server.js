@@ -12,6 +12,13 @@ import { exec, execSync, spawn } from 'child_process';
 
 const __dirname  = path.dirname(fileURLToPath(import.meta.url));
 const CLUBS_PATH = path.resolve(__dirname, '../clubs.json');
+const KIT_REVIEWS_PATH = path.resolve(__dirname, '../kitContributionReviews.json');
+
+// Manual review of user kit contributions: { "<club_name>|<updated_at>": "accepted" | "rejected" }
+function readKitReviews() {
+  return fs.existsSync(KIT_REVIEWS_PATH) ? JSON.parse(fs.readFileSync(KIT_REVIEWS_PATH, 'utf8')) : {};
+}
+const kitReviewKey = row => `${row.club_name}|${row.updated_at}`;
 
 // Load .env for Supabase service key (never committed)
 let SUPABASE_URL         = '';
@@ -531,6 +538,19 @@ const HTML = /* html */`<!DOCTYPE html>
       background: #f3f4f6; border: 1px solid #e5e7eb;
       border-radius: 4px; padding: 1px 5px; flex-shrink: 0;
     }
+    .kit-contrib-row--accepted { background: #f0fdf4; border-color: #bbf7d0; }
+    .kit-contrib-actions { display: flex; gap: 2px; flex-shrink: 0; }
+    .kit-icon-btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      width: 26px; height: 26px; padding: 0; border-radius: 6px;
+      border: 1px solid transparent; background: none; color: #6b7280; cursor: pointer;
+    }
+    .kit-icon-btn svg { width: 15px; height: 15px; }
+    .kit-icon-btn:hover:not(:disabled) { background: #fff; border-color: #e5e7eb; color: #111; }
+    .kit-icon-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+    .kit-icon-btn--up.is-active { color: #16a34a; background: #dcfce7; }
+    .kit-icon-btn--lock { color: #b45309; }
+    .kit-icon-btn--lock:hover { color: #92400e; background: #fffbeb; border-color: #fde68a; }
     .kit-contrib-empty { font-size: 13px; color: #9ca3af; }
     .custom-clubs-hint { font-size: 13px; color: #6b7280; margin: -4px 0 10px; }
     .custom-clubs-count {
@@ -1207,6 +1227,11 @@ document.getElementById('save-profil-btn').addEventListener('click', async () =>
 });
 
 // ── Kit contributions ─────────────────────────────────────────────────────────
+const SVG_ATTRS = 'xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"';
+const ICON_THUMBS_UP   = '<svg ' + SVG_ATTRS + '><path d="M7 10v12"/><path d="M15 5.88 14 10h5.83a2 2 0 0 1 1.92 2.56l-2.33 8A2 2 0 0 1 17.5 22H4a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2.76a2 2 0 0 0 1.79-1.11L12 2a3.13 3.13 0 0 1 3 3.88Z"/></svg>';
+const ICON_THUMBS_DOWN = '<svg ' + SVG_ATTRS + '><path d="M17 14V2"/><path d="M9 18.12 10 14H4.17a2 2 0 0 1-1.92-2.56l2.33-8A2 2 0 0 1 6.5 2H20a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-2.76a2 2 0 0 0-1.79 1.11L12 22a3.13 3.13 0 0 1-3-3.88Z"/></svg>';
+const ICON_LOCK        = '<svg ' + SVG_ATTRS + '><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>';
+
 async function loadKitContributions() {
   const list = document.getElementById('kit-contrib-list');
   try {
@@ -1220,7 +1245,12 @@ async function loadKitContributions() {
       const badge = row.kit_style && row.kit_style !== 'plain'
         ? \`<span class="kit-contrib-badge">\${row.kit_style}</span>\`
         : '';
-      return \`<div class="kit-contrib-row">
+      const lock = row.locked
+        ? \`<button class="kit-icon-btn kit-icon-btn--lock" data-action="unlock" title="Kittet er låst — klik for at låse op" aria-label="Lås kit op">\${ICON_LOCK}</button>\`
+        : '';
+      const disabled = row.locked ? 'disabled' : '';
+      const upActive = row.review === 'accepted' ? ' is-active' : '';
+      return \`<div class="kit-contrib-row\${row.review === 'accepted' ? ' kit-contrib-row--accepted' : ''}">
         <div class="kit-contrib-swatches">
           <div class="kit-contrib-swatch" style="background:\${row.primary_color ?? '#ebebeb'}" title="Primær: \${row.primary_color ?? '–'}"></div>
           <div class="kit-contrib-swatch" style="background:\${row.secondary_color ?? '#ebebeb'}" title="Sekundær: \${row.secondary_color ?? '–'}"></div>
@@ -1228,14 +1258,63 @@ async function loadKitContributions() {
         <span class="kit-contrib-name">\${row.club_name}</span>
         \${badge}
         <span class="kit-contrib-meta">\${date}</span>
+        <div class="kit-contrib-actions">
+          \${lock}
+          <button class="kit-icon-btn kit-icon-btn--up\${upActive}" data-action="accepted" \${disabled} title="Relevant — brug i officielle kits" aria-label="Relevant">\${ICON_THUMBS_UP}</button>
+          <button class="kit-icon-btn kit-icon-btn--down" data-action="rejected" \${disabled} title="Ikke relevant — se bort fra bidraget" aria-label="Ikke relevant">\${ICON_THUMBS_DOWN}</button>
+        </div>
       </div>\`;
     }).join('');
-    list.querySelectorAll('.kit-contrib-name').forEach((el, i) => {
-      el.addEventListener('click', () => jumpToClub(rows[i].club_name));
+    list.querySelectorAll('.kit-contrib-row').forEach((el, i) => {
+      const row = rows[i];
+      el.querySelector('.kit-contrib-name').addEventListener('click', () => jumpToClub(row.club_name));
+      el.querySelectorAll('[data-action]').forEach(btn => {
+        btn.addEventListener('click', () => btn.dataset.action === 'unlock'
+          ? unlockKit(row.club_name)
+          : reviewKitContribution(row, btn.dataset.action));
+      });
     });
   } catch {
     list.innerHTML = '<p class="kit-contrib-empty">Kunne ikke hente bidrag.</p>';
   }
+}
+
+async function reviewKitContribution(row, status) {
+  try {
+    const res = await fetch('/kit-review', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ ...row, status }),
+    });
+    if (!res.ok) throw new Error(await res.text());
+    if (status === 'accepted') await refreshClubs(row.club_name);
+    showToast(status === 'accepted' ? \`Kit brugt for \${row.club_name} ✓\` : \`Bidrag ignoreret for \${row.club_name}\`);
+    loadKitContributions();
+  } catch (err) {
+    showToast('Fejl: ' + err.message);
+  }
+}
+
+async function unlockKit(name) {
+  try {
+    const res = await fetch('/kit-unlock', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ name }),
+    });
+    if (!res.ok) throw new Error(await res.text());
+    await refreshClubs(name);
+    showToast(\`Kit låst op for \${name}\`);
+    loadKitContributions();
+  } catch (err) {
+    showToast('Fejl: ' + err.message);
+  }
+}
+
+// Reload clubs.json; re-render the form if the changed club is the one open.
+async function refreshClubs(name) {
+  clubs = await fetch('/clubs.json').then(r => r.json());
+  if (selectedClub?.name === name) selectClub(clubs.find(c => c.name === name));
 }
 
 function jumpToClub(name) {
@@ -1606,6 +1685,53 @@ const server = http.createServer((req, res) => {
     return;
   }
 
+  if (req.method === 'POST' && req.url === '/kit-review') {
+    let body = '';
+    req.on('data', chunk => body += chunk);
+    req.on('end', () => {
+      try {
+        const row = JSON.parse(body);
+        if (!['accepted', 'rejected'].includes(row.status)) { res.writeHead(400); res.end('Invalid status'); return; }
+        const clubs = JSON.parse(fs.readFileSync(CLUBS_PATH, 'utf8'));
+        const club  = clubs.find(c => c.name === row.club_name);
+        if (club?.kitLocked) { res.writeHead(409); res.end('Kittet er låst — lås op først'); return; }
+        if (row.status === 'accepted') {
+          if (!club) { res.writeHead(404); res.end('Club not found'); return; }
+          if (row.primary_color)   club.primaryColor   = row.primary_color;
+          if (row.secondary_color) club.secondaryColor = row.secondary_color;
+          if (row.kit_style)       club.kitStyle       = row.kit_style;
+          fs.writeFileSync(CLUBS_PATH, JSON.stringify(clubs, null, 2));
+        }
+        const reviews = readKitReviews();
+        reviews[kitReviewKey(row)] = row.status;
+        fs.writeFileSync(KIT_REVIEWS_PATH, JSON.stringify(reviews, null, 2));
+        res.writeHead(200);
+        res.end('ok');
+        console.log(`Kit review: ${row.club_name} — ${row.status}`);
+      } catch (err) { res.writeHead(500); res.end(err.message); }
+    });
+    return;
+  }
+
+  if (req.method === 'POST' && req.url === '/kit-unlock') {
+    let body = '';
+    req.on('data', chunk => body += chunk);
+    req.on('end', () => {
+      try {
+        const { name } = JSON.parse(body);
+        const clubs = JSON.parse(fs.readFileSync(CLUBS_PATH, 'utf8'));
+        const club  = clubs.find(c => c.name === name);
+        if (!club) { res.writeHead(404); res.end('Club not found'); return; }
+        delete club.kitLocked;
+        fs.writeFileSync(CLUBS_PATH, JSON.stringify(clubs, null, 2));
+        res.writeHead(200);
+        res.end('ok');
+        console.log(`Kit unlocked: ${name}`);
+      } catch (err) { res.writeHead(500); res.end(err.message); }
+    });
+    return;
+  }
+
   if (req.method === 'POST' && req.url === '/sync-kits') {
     (async () => {
       try {
@@ -1614,7 +1740,8 @@ const server = http.createServer((req, res) => {
           `${SUPABASE_URL}/rest/v1/club_kits?select=club_name,primary_color,secondary_color,kit_style,updated_at&order=updated_at.desc`,
           { headers: { apikey: ANON, Authorization: `Bearer ${ANON}` } }
         );
-        const rows = await r.json();
+        const reviews = readKitReviews();
+        const rows = (await r.json()).filter(row => reviews[kitReviewKey(row)] !== 'rejected');
 
         // Group all rows by club name
         const grouped = new Map();
@@ -1858,14 +1985,20 @@ const server = http.createServer((req, res) => {
           `${SUPABASE_URL}/rest/v1/club_kits?select=club_name,primary_color,secondary_color,kit_style,updated_at&order=updated_at.desc`,
           { headers: { apikey: ANON, Authorization: `Bearer ${ANON}` } }
         );
-        const rows = await r.json();
-        // Most recent contribution per club.
+        const reviews = readKitReviews();
+        const clubs   = JSON.parse(fs.readFileSync(CLUBS_PATH, 'utf8'));
+        const rows = (await r.json()).filter(row => reviews[kitReviewKey(row)] !== 'rejected');
+        // Most recent non-rejected contribution per club.
         const seen = new Set();
         const deduped = rows.filter(row => {
           if (seen.has(row.club_name)) return false;
           seen.add(row.club_name);
           return true;
-        });
+        }).map(row => ({
+          ...row,
+          review: reviews[kitReviewKey(row)] ?? null,
+          locked: clubs.find(c => c.name === row.club_name)?.kitLocked ?? false,
+        }));
         res.writeHead(200, { 'Content-Type': 'application/json' });
         res.end(JSON.stringify(deduped));
       } catch (err) { res.writeHead(500); res.end(err.message); }
