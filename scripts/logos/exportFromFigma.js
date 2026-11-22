@@ -18,7 +18,7 @@
 import { writeFileSync, unlinkSync } from 'fs';
 import { join } from 'path';
 import sharp from 'sharp';
-import { ROOT, LOGOS_DIR, loadEnv, onlyIds, findFile, sleep, readJson } from './lib.js';
+import { ROOT, LOGOS_DIR, CLUBS_PATH, loadEnv, onlyIds, findFile, sleep, readJson, writeJson } from './lib.js';
 
 const env = loadEnv();
 const { FIGMA_TOKEN, FIGMA_FILE_KEY } = env;
@@ -53,7 +53,9 @@ for (const page of [logoPage]) {
     if (node.type !== 'FRAME' || !/^\d+$/.test(node.name)) continue;
     const dbuId = +node.name;
     const status = placements[dbuId]?.status ?? null;
-    frames.push({ id: node.id, dbuId, status, hasImage: hasImageFill(node) });
+    // A monogram badge (club colours + letters, no crest found) is a TEXT node named "monogram"
+    const monogram = (node.children ?? []).some(c => c.type === 'TEXT' && c.name === 'monogram');
+    frames.push({ id: node.id, dbuId, status, monogram, hasImage: hasImageFill(node) || monogram });
   }
 }
 
@@ -69,6 +71,7 @@ if (DRY) { todo.forEach(f => console.log(`  ${f.dbuId}`)); process.exit(0); }
 // ── Export in chunks ────────────────────────────────────────────────────────
 
 let written = 0;
+const kinds = new Map(); // dbuId → 'crest' | 'monogram', recorded in clubs.json as logoKind
 for (let i = 0; i < todo.length; i += 50) {
   const chunk = todo.slice(i, i + 50);
   const { images } = await figma(`/images/${FIGMA_FILE_KEY}?ids=${chunk.map(f => f.id).join(',')}&format=png&scale=1`);
@@ -88,8 +91,18 @@ for (let i = 0; i < todo.length; i += 50) {
     if (OUT_DIR === LOGOS_DIR && old && !old.endsWith('.png')) unlinkSync(old);
     writeFileSync(join(OUT_DIR, `${f.dbuId}.png`), png);
     written++;
+    kinds.set(f.dbuId, f.monogram ? 'monogram' : 'crest');
     console.log(`  ✓ ${f.dbuId}.png (${Math.round(png.length / 1024)} KB)`);
   }
+}
+
+// Record which logos are monogram badges, so a real crest can replace them later
+if (OUT_DIR === LOGOS_DIR && kinds.size) {
+  const clubs = readJson(CLUBS_PATH, []);
+  for (const c of clubs) if (kinds.has(c.dbuId)) {
+    if (kinds.get(c.dbuId) === 'monogram') c.logoKind = 'monogram'; else delete c.logoKind;
+  }
+  writeJson(CLUBS_PATH, clubs);
 }
 
 console.log(`\n✓ ${written} logo(s) written to ${OUT_DIR}.` +

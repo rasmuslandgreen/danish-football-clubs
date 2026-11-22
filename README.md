@@ -1,6 +1,6 @@
 # danish-football-clubs
 
-A dataset and utility library of 1,540 Danish football clubs, scraped from [dbu.dk](https://www.dbu.dk): names, locations, colours, kits, contact details and, for 978 clubs, the club crest. It also provides club-coloured badge fallbacks and DBU age-group helpers for football apps.
+A dataset and utility library of 1,540 Danish football clubs, scraped from [dbu.dk](https://www.dbu.dk): names, locations, colours, kits, contact details and a logo for every club (1,030 real crests, the rest a badge in club colours). It also provides club-coloured badge fallbacks and DBU age-group helpers for football apps.
 
 Built for and used in [Opstillingen.dk](https://opstillingen.dk), a lineup builder for Danish youth football coaches, and [Findenklub.dk](https://findenklub.dk).
 
@@ -34,6 +34,7 @@ Crests are hosted on GitHub Pages, not in the version tags. Each logo has two UR
 | `logoThumbUrl` | 160×160 WebP, about 2–5 KB. Use this for avatars. |
 | `logoUrl` | 500×500 PNG, for larger display. |
 | `logo` | Older path relative to the CDN (`assets/logos/{dbuId}.png`). Kept as a fallback. |
+| `logoKind` | `"crest"` for the club's real crest, `"monogram"` for a badge made from the club's colours and letters (used where no crest could be found). |
 
 File names include a hash of the image (`thumb/1595-4a57eb69d6.webp`), so a URL only changes when the logo itself changes. Browsers can cache logos indefinitely, and a new release doesn't make anyone download unchanged logos again.
 
