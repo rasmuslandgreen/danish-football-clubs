@@ -1866,9 +1866,9 @@ const server = http.createServer((req, res) => {
 
     const steps = [
       {
-        // Publishes new/changed logos to Supabase Storage (hashed names) and
+        // Publishes new/changed logos to GitHub Pages (gh-pages, hashed names) and
         // writes logoUrl/logoThumbUrl into clubs.json before it's committed.
-        label: 'Upload logoer til Supabase Storage',
+        label: 'Udgiv logoer til GitHub Pages',
         cmd:   'node scripts/logos/uploadLogos.js',
         cwd:   ROOT,
       },

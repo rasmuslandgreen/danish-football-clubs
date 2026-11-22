@@ -23,12 +23,14 @@ you review them in Figma, and a script exports the approved frames.
 | 8 | `npm run logos:export` | Exports approved frames from Figma (REST API) → `assets/logos/{dbuId}.png` at 500×500, compressed, then runs `npm run logos` |
 | 9 | Release via the Klub Editor "Udgiv" button, or the steps below | Udgiv also runs `npm run warm-cdn` before bumping the apps |
 
-**Where logos are served from:** `npm run logos` (and the Udgiv button) uploads every new or changed
-logo to the public Supabase Storage bucket `club-logos`. Each logo goes up as `full/{dbuId}-{hash}.png` (500px)
-and `thumb/{dbuId}-{hash}.webp` (160px, about 2–5 KB), and the URLs are written to `clubs.json` as
-`logoUrl` / `logoThumbUrl`. The hash comes from the image itself, so a URL only changes when the logo does:
-browsers and the CDN cache logos permanently, and releases don't re-send unchanged logos. Apps use
-`logoThumbUrl` for avatars and fall back to the old `logo` path.
+**Where logos are served from:** `npm run logos` (and the Udgiv button) publishes every new or changed
+logo to GitHub Pages: the `gh-pages` branch of this repo, checked out as a worktree in `.gh-pages/`.
+Each logo goes up as `full/{dbuId}-{hash}.png` (500px) and `thumb/{dbuId}-{hash}.webp` (160px, about 2–5 KB),
+served from `https://rasmuslandgreen.github.io/danish-football-clubs/…`, and the URLs are written to `clubs.json`
+as `logoUrl` / `logoThumbUrl`. The hash comes from the image itself, so a URL only changes when the logo does.
+Pages is plain static hosting with no database behind it, so logo traffic never competes with the apps' Supabase users,
+and the branch is not part of the version tags (no jsDelivr size limit). Apps use `logoThumbUrl` for avatars and
+fall back to the old `logo` path on jsDelivr.
 
 **jsDelivr limit:** jsDelivr refuses to serve a GitHub tag bigger than 50 MB, and it fails intermittently,
 so random logos go missing. Keep large working folders such as `assets/logos-raw/` and
