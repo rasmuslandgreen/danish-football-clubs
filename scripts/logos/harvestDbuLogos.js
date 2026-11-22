@@ -32,7 +32,11 @@ const decode = s => s
   .replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(+d))
   .replace(/&amp;/g, '&');
 
-const index = new Map(); // dbuId → { files:Set, seenOn:number }
+// dbuId → { files:Set, seenOn:number }. Starts from the previous run so a
+// deeper crawl only adds to what's already known.
+const index = new Map(Object.entries(readJson(OUT_PATH, {}))
+  .map(([id, e]) => [+id, { files: new Set(e.files), seenOn: e.seenOn }]));
+const knownBefore = index.size;
 
 function harvest(html) {
   for (const m of html.matchAll(/file\.dbu\.dk\/images\/club\/(\d+)\/([^"'\s<>)]+?)(?:_logo_\d+)?\.(png|jpe?g|gif|svg|webp)/gi)) {
@@ -84,5 +88,5 @@ const clubs  = readJson(join(ROOT, 'clubs.json'), []);
 const known  = new Set(clubs.map(c => c.dbuId));
 const noLogo = new Set(clubs.filter(c => !c.logo).map(c => c.dbuId));
 const ids    = Object.keys(out).map(Number);
-console.log(`\n✓ dbuLogoIndex.json: ${ids.length} clubs with a DBU crest`);
+console.log(`\n✓ dbuLogoIndex.json: ${ids.length} clubs with a DBU crest (+${ids.length - knownBefore} new this run)`);
 console.log(`  in clubs.json: ${ids.filter(i => known.has(i)).length}, without logo today: ${ids.filter(i => noLogo.has(i)).length}`);

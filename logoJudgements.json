@@ -78,18 +78,18 @@
     "name": "Als B",
     "bestCandidate": null,
     "isClubCrest": false,
-    "confidence": 0.7,
+    "confidence": 0.6,
     "shape": "other",
     "background": "white",
     "fillColor": null,
     "primaryColor": null,
     "secondaryColor": null,
-    "reason": "The only candidate reads 'VIKING 1904', which appears to be a different club's crest rather than Als B's, despite coming from DBU.",
+    "reason": "The only candidate is a crest reading 'VIKING 1904', which appears to belong to a different club than Als B.",
     "file": null,
     "source": null,
     "signature": "c1:45952",
     "model": "claude-opus-5-5",
-    "judgedAt": "2026-11-22T10:03:44.009Z"
+    "judgedAt": "2026-11-22T15:46:45.934Z"
   },
   "14": {
     "name": "Arden IF",
@@ -1379,18 +1379,18 @@
     "name": "Skelund IF",
     "bestCandidate": null,
     "isClubCrest": false,
-    "confidence": 0.35,
+    "confidence": 0.6,
     "shape": "other",
     "background": "white",
     "fillColor": null,
     "primaryColor": null,
     "secondaryColor": null,
-    "reason": "The only candidate is the ASV-Fodbold youth cooperation logo (Viking, Skelund, Veddum, Olympia), not Skelund IF's own crest.",
+    "reason": "The only candidate is the ASV-Fodbold youth-cooperation logo (Viking, Skelund, Veddum, Olympia), not Skelund IF's own crest.",
     "file": null,
     "source": null,
     "signature": "c1:148197",
     "model": "claude-opus-5-5",
-    "judgedAt": "2026-11-22T10:03:44.009Z"
+    "judgedAt": "2026-11-22T15:46:46.857Z"
   },
   "121": {
     "name": "Skibsby-Højene IF",
@@ -1865,16 +1865,16 @@
     "isClubCrest": true,
     "confidence": 0.55,
     "shape": "shield",
-    "background": "fill",
-    "fillColor": "#000000",
-    "primaryColor": "#D71920",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#D7141A",
     "secondaryColor": "#000000",
-    "reason": "The DBU record for this club (ID 152) uses a Himmerland FC shield, which plausibly reflects a renaming or team name for Vegger IF, though the name mismatch lowers confidence.",
+    "reason": "DBU's club record for Vegger IF uses this Himmerland FC shield, likely a rename or merged team, though the name mismatch lowers confidence.",
     "file": "assets/logo-candidates/152/c1-dbu.png",
     "source": "dbu",
     "signature": "c1:302992",
     "model": "claude-opus-5-5",
-    "judgedAt": "2026-11-22T10:03:44.030Z"
+    "judgedAt": "2026-11-22T15:46:46.870Z"
   },
   "154": {
     "name": "Vejgaard B",
@@ -3278,6 +3278,31 @@
       "upscaled": false
     }
   },
+  "278": {
+    "name": "Boldklubben Klitten",
+    "bestCandidate": "c2",
+    "isClubCrest": true,
+    "confidence": 0.9,
+    "shape": "shield",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#1A1AB8",
+    "secondaryColor": "#FFFFFF",
+    "reason": "Both DBU images show the same blue Klitten shield; c2 is larger and sharper, though it has a light grey background.",
+    "file": "assets/logo-candidates/278/c2-dbu.png",
+    "source": "dbu",
+    "signature": "c1:10775|c2:158571",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:46:44.617Z",
+    "prepared": {
+      "file": "assets/logo-candidates/278/prepared.png",
+      "width": 738,
+      "height": 800,
+      "sourceWidth": 390,
+      "sourceHeight": 423,
+      "upscaled": true
+    }
+  },
   "279": {
     "name": "Koldby/Hørdum IF",
     "bestCandidate": "c1",
@@ -3947,20 +3972,28 @@
   },
   "324": {
     "name": "Sjørslev/Demstrup IF",
-    "bestCandidate": null,
-    "isClubCrest": false,
-    "confidence": 0.85,
-    "shape": "other",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.88,
+    "shape": "square",
     "background": "white",
     "fillColor": null,
-    "primaryColor": null,
-    "secondaryColor": null,
-    "reason": "Candidates are a town-sign banner and photos of the facilities, none of which is the club's crest.",
-    "file": null,
-    "source": null,
-    "signature": "c1:9654|c2:67444|c3:824905",
+    "primaryColor": "#000000",
+    "secondaryColor": "#FFFFFF",
+    "reason": "DBU-sourced black-and-white SDIF crest with figure and ball clearly matches the club.",
+    "file": "assets/logo-candidates/324/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:22981|c2:9654|c3:67444|c4:824905",
     "model": "claude-opus-5-5",
-    "judgedAt": "2026-11-22T10:03:44.019Z"
+    "judgedAt": "2026-11-22T15:46:46.928Z",
+    "prepared": {
+      "file": "assets/logo-candidates/324/prepared.png",
+      "width": 800,
+      "height": 800,
+      "sourceWidth": 180,
+      "sourceHeight": 180,
+      "upscaled": true
+    }
   },
   "326": {
     "name": "Skals FF",
@@ -4697,6 +4730,31 @@
       "upscaled": true
     }
   },
+  "388": {
+    "name": "Vridsted IF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.95,
+    "shape": "shield",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#D32F2F",
+    "secondaryColor": "#FFFFFF",
+    "reason": "The DBU-sourced red shield with a white cross and the text 'VRIDSTED I.F.' is clearly the club's crest.",
+    "file": "assets/logo-candidates/388/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:76526",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:46:48.255Z",
+    "prepared": {
+      "file": "assets/logo-candidates/388/prepared.png",
+      "width": 800,
+      "height": 754,
+      "sourceWidth": 431,
+      "sourceHeight": 406,
+      "upscaled": true
+    }
+  },
   "389": {
     "name": "Ølstrup GU",
     "bestCandidate": "c8",
@@ -5198,6 +5256,31 @@
       "upscaled": true
     }
   },
+  "447": {
+    "name": "Hylke Fodboldklub",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.93,
+    "shape": "round",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#E30613",
+    "secondaryColor": "#FFFFFF",
+    "reason": "The DBU-sourced image is a round red crest with a football that is clearly labelled Hylke Fodboldklub.",
+    "file": "assets/logo-candidates/447/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:32516",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:46:49.101Z",
+    "prepared": {
+      "file": "assets/logo-candidates/447/prepared.png",
+      "width": 800,
+      "height": 800,
+      "sourceWidth": 300,
+      "sourceHeight": 300,
+      "upscaled": true
+    }
+  },
   "451": {
     "name": "Bjerregrav B",
     "bestCandidate": "c1",
@@ -5245,6 +5328,31 @@
       "height": 800,
       "sourceWidth": 200,
       "sourceHeight": 200,
+      "upscaled": true
+    }
+  },
+  "454": {
+    "name": "Den Bosniske IF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.95,
+    "shape": "shield",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#1E6FD9",
+    "secondaryColor": "#FFFFFF",
+    "reason": "DBU-sourced shield crest bearing the club name and fleur-de-lis motifs.",
+    "file": "assets/logo-candidates/454/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:105087",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:46:49.025Z",
+    "prepared": {
+      "file": "assets/logo-candidates/454/prepared.png",
+      "width": 651,
+      "height": 800,
+      "sourceWidth": 405,
+      "sourceHeight": 498,
       "upscaled": true
     }
   },
@@ -5373,6 +5481,31 @@
       "upscaled": true
     }
   },
+  "474": {
+    "name": "Engum UI",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.95,
+    "shape": "shield",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#1F4E85",
+    "secondaryColor": "#FFFFFF",
+    "reason": "DBU-sourced shield crest clearly showing Engum UI 1920.",
+    "file": "assets/logo-candidates/474/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:35253",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:46:48.861Z",
+    "prepared": {
+      "file": "assets/logo-candidates/474/prepared.png",
+      "width": 800,
+      "height": 800,
+      "sourceWidth": 352,
+      "sourceHeight": 352,
+      "upscaled": true
+    }
+  },
   "475": {
     "name": "Erritsø GIF",
     "bestCandidate": "c1",
@@ -5475,20 +5608,28 @@
   },
   "490": {
     "name": "Fjorden IF",
-    "bestCandidate": "c1",
+    "bestCandidate": "c2",
     "isClubCrest": true,
-    "confidence": 0.55,
-    "shape": "shield",
+    "confidence": 0.9,
+    "shape": "round",
     "background": "white",
     "fillColor": null,
-    "primaryColor": "#E3262B",
-    "secondaryColor": "#1F4FA3",
-    "reason": "The DBU-sourced shield crest is likely the football club's own logo despite the 'OIF' lettering; the website images are banners for the general IF Fjorden association.",
-    "file": "assets/logo-candidates/490/c1-dbu.png",
+    "primaryColor": "#4B3FA0",
+    "secondaryColor": "#F2EC6E",
+    "reason": "DBU-sourced round crest with 'Idrætsforeningen Fjorden' and purple clover matches the club and its website logo.",
+    "file": "assets/logo-candidates/490/c2-dbu.png",
     "source": "dbu",
-    "signature": "c1:19331|c2:8062|c3:13933",
+    "signature": "c1:19331|c2:71327|c3:8062|c4:13933",
     "model": "claude-opus-5-5",
-    "judgedAt": "2026-11-22T10:03:44.028Z"
+    "judgedAt": "2026-11-22T15:46:50.560Z",
+    "prepared": {
+      "file": "assets/logo-candidates/490/prepared.png",
+      "width": 797,
+      "height": 800,
+      "sourceWidth": 315,
+      "sourceHeight": 316,
+      "upscaled": true
+    }
   },
   "491": {
     "name": "FK 73",
@@ -7099,6 +7240,31 @@
       "upscaled": true
     }
   },
+  "643": {
+    "name": "Smidstrup/Skærup IF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.93,
+    "shape": "round",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#2B3A8C",
+    "secondaryColor": "#FFFFFF",
+    "reason": "DBU-sourced circular crest with SS IF lettering and Smidstrup Skærup text matches the club.",
+    "file": "assets/logo-candidates/643/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:34522",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:46:50.687Z",
+    "prepared": {
+      "file": "assets/logo-candidates/643/prepared.png",
+      "width": 800,
+      "height": 800,
+      "sourceWidth": 194,
+      "sourceHeight": 194,
+      "upscaled": true
+    }
+  },
   "644": {
     "name": "Solbjerg IF",
     "bestCandidate": "c1",
@@ -7799,6 +7965,31 @@
       "upscaled": false
     }
   },
+  "701": {
+    "name": "Lisbjerg FC",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.93,
+    "shape": "round",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#000000",
+    "secondaryColor": "#FFFFFF",
+    "reason": "The DBU image is a round black-and-white Lisbjerg crest with an LFC monogram and the year 1991.",
+    "file": "assets/logo-candidates/701/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:26345",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:46:50.712Z",
+    "prepared": {
+      "file": "assets/logo-candidates/701/prepared.png",
+      "width": 800,
+      "height": 800,
+      "sourceWidth": 499,
+      "sourceHeight": 499,
+      "upscaled": true
+    }
+  },
   "703": {
     "name": "Værum GF",
     "bestCandidate": "c3",
@@ -8091,6 +8282,31 @@
       "upscaled": true
     }
   },
+  "740": {
+    "name": "Team Leo IF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.85,
+    "shape": "square",
+    "background": "fill",
+    "fillColor": "#000000",
+    "primaryColor": "#000000",
+    "secondaryColor": "#FFFFFF",
+    "reason": "The DBU-sourced image shows a lion head, a 'Leo' script and '1999' in white on black, and is clearly the club's crest.",
+    "file": "assets/logo-candidates/740/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:20507",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:46:51.295Z",
+    "prepared": {
+      "file": "assets/logo-candidates/740/prepared.png",
+      "width": 797,
+      "height": 800,
+      "sourceWidth": 303,
+      "sourceHeight": 304,
+      "upscaled": true
+    }
+  },
   "744": {
     "name": "Aabenraa BK",
     "bestCandidate": "c4",
@@ -8126,12 +8342,12 @@
     "fillColor": null,
     "primaryColor": "#1F5F73",
     "secondaryColor": "#FFFFFF",
-    "reason": "DBU's record for this club uses the Helle FC crest, likely Årre B's 2019 senior collaboration, though the name differs.",
+    "reason": "DBU's record for this club uses the Helle FC crest, likely a 2019 merger/team name covering Årre, though the name mismatch lowers confidence.",
     "file": "assets/logo-candidates/746/c1-dbu.png",
     "source": "dbu",
     "signature": "c1:85633",
     "model": "claude-opus-5-5",
-    "judgedAt": "2026-11-22T10:03:44.029Z"
+    "judgedAt": "2026-11-22T15:47:14.682Z"
   },
   "747": {
     "name": "Agerbæk SF",
@@ -8442,22 +8658,55 @@
       "upscaled": true
     }
   },
-  "772": {
-    "name": "Bække SF",
-    "bestCandidate": null,
-    "isClubCrest": false,
-    "confidence": 0.9,
+  "771": {
+    "name": "Bylderup/Burkal IF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.93,
     "shape": "other",
     "background": "white",
     "fillColor": null,
-    "primaryColor": "#1F3A8A",
+    "primaryColor": "#000000",
     "secondaryColor": "#FFFFFF",
-    "reason": "The only candidate is a team photo, not a crest.",
-    "file": null,
-    "source": null,
-    "signature": "c1:62484",
+    "reason": "The DBU-sourced image is a black-and-white octagonal crest reading Bylderup Burkal BBI Idrætsforening.",
+    "file": "assets/logo-candidates/771/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:16434",
     "model": "claude-opus-5-5",
-    "judgedAt": "2026-11-22T10:03:44.023Z"
+    "judgedAt": "2026-11-22T15:47:11.316Z",
+    "prepared": {
+      "file": "assets/logo-candidates/771/prepared.png",
+      "width": 800,
+      "height": 800,
+      "sourceWidth": 143,
+      "sourceHeight": 143,
+      "upscaled": true
+    }
+  },
+  "772": {
+    "name": "Bække SF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.95,
+    "shape": "shield",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#2E5FA8",
+    "secondaryColor": "#FFFFFF",
+    "reason": "DBU-sourced blue shield crest with BSF 1894 matches Bække SF; c2 is a team photo.",
+    "file": "assets/logo-candidates/772/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:87746|c2:62484",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:11.497Z",
+    "prepared": {
+      "file": "assets/logo-candidates/772/prepared.png",
+      "width": 638,
+      "height": 800,
+      "sourceWidth": 244,
+      "sourceHeight": 306,
+      "upscaled": true
+    }
   },
   "775": {
     "name": "Christiansfeld IF",
@@ -8684,6 +8933,31 @@
       "upscaled": true
     }
   },
+  "802": {
+    "name": "Glejbjerg SF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.93,
+    "shape": "shield",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#2E8BE6",
+    "secondaryColor": "#FFFFFF",
+    "reason": "DBU-sourced blue shield with white diagonal band reading GSF matches Glejbjerg SF.",
+    "file": "assets/logo-candidates/802/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:25742",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:10.028Z",
+    "prepared": {
+      "file": "assets/logo-candidates/802/prepared.png",
+      "width": 800,
+      "height": 777,
+      "sourceWidth": 137,
+      "sourceHeight": 133,
+      "upscaled": true
+    }
+  },
   "803": {
     "name": "Gråsten B",
     "bestCandidate": "c1",
@@ -8731,6 +9005,31 @@
       "height": 800,
       "sourceWidth": 478,
       "sourceHeight": 488,
+      "upscaled": true
+    }
+  },
+  "807": {
+    "name": "Gørding/Lourup IF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.88,
+    "shape": "round",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#000000",
+    "secondaryColor": "#FFFFFF",
+    "reason": "DBU-sourced circular black-and-white crest reading GLIF Gørding with a rider on horseback.",
+    "file": "assets/logo-candidates/807/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:14023",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:12.231Z",
+    "prepared": {
+      "file": "assets/logo-candidates/807/prepared.png",
+      "width": 800,
+      "height": 800,
+      "sourceWidth": 133,
+      "sourceHeight": 133,
       "upscaled": true
     }
   },
@@ -8809,6 +9108,31 @@
       "upscaled": true
     }
   },
+  "813": {
+    "name": "Hellevad IF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.93,
+    "shape": "round",
+    "background": "fill",
+    "fillColor": "#E8402A",
+    "primaryColor": "#E8402A",
+    "secondaryColor": "#FFFFFF",
+    "reason": "The DBU-sourced image is a round red-and-white crest with HELLEVAD IDRÆTSFORENING lettering and an HF shield.",
+    "file": "assets/logo-candidates/813/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:64379",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:13.674Z",
+    "prepared": {
+      "file": "assets/logo-candidates/813/prepared.png",
+      "width": 800,
+      "height": 800,
+      "sourceWidth": 196,
+      "sourceHeight": 196,
+      "upscaled": true
+    }
+  },
   "817": {
     "name": "Holsted FB",
     "bestCandidate": "c1",
@@ -8850,6 +9174,31 @@
     "signature": "c1:60844|c2:65650|c3:42123|c4:46679",
     "model": "claude-opus-5-5",
     "judgedAt": "2026-11-22T10:03:44.015Z"
+  },
+  "826": {
+    "name": "Hviding IF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.95,
+    "shape": "round",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#000000",
+    "secondaryColor": "#FFFFFF",
+    "reason": "DBU-sourced circular black-and-white crest with Viking ship reading 'Hviding Idrætsforening 1920'.",
+    "file": "assets/logo-candidates/826/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:97791",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:14.102Z",
+    "prepared": {
+      "file": "assets/logo-candidates/826/prepared.png",
+      "width": 798,
+      "height": 800,
+      "sourceWidth": 472,
+      "sourceHeight": 473,
+      "upscaled": true
+    }
   },
   "827": {
     "name": "Højer IF",
@@ -8998,6 +9347,73 @@
       "height": 800,
       "sourceWidth": 500,
       "sourceHeight": 500,
+      "upscaled": true
+    }
+  },
+  "840": {
+    "name": "Krogager B",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.95,
+    "shape": "square",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#009933",
+    "secondaryColor": "#FFFFFF",
+    "reason": "DBU-sourced green and white Krogager Boldklub crest with a KB football emblem.",
+    "file": "assets/logo-candidates/840/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:100088",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:13.836Z",
+    "prepared": {
+      "file": "assets/logo-candidates/840/prepared.png",
+      "width": 632,
+      "height": 800,
+      "sourceWidth": 395,
+      "sourceHeight": 500,
+      "upscaled": true
+    }
+  },
+  "844": {
+    "name": "Lunde B",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.5,
+    "shape": "shield",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#1E7FD0",
+    "secondaryColor": "#000000",
+    "reason": "This is the only candidate and comes from DBU's record for the club, but its 'BBK 2014' lettering does not obviously match Lunde B, so confidence is moderate.",
+    "file": "assets/logo-candidates/844/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:34934",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:19.010Z"
+  },
+  "849": {
+    "name": "Løgum IF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.9,
+    "shape": "other",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#1E9B4A",
+    "secondaryColor": "#FFFFFF",
+    "reason": "The DBU-sourced image is a green-and-white diamond crest reading 'Løgum IF', which matches this club.",
+    "file": "assets/logo-candidates/849/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:5212",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:18.426Z",
+    "prepared": {
+      "file": "assets/logo-candidates/849/prepared.png",
+      "width": 554,
+      "height": 800,
+      "sourceWidth": 79,
+      "sourceHeight": 114,
       "upscaled": true
     }
   },
@@ -9460,6 +9876,23 @@
       "upscaled": true
     }
   },
+  "882": {
+    "name": "Starup IF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.55,
+    "shape": "shield",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#1E5A72",
+    "secondaryColor": "#FFFFFF",
+    "reason": "DBU's record for this club carries the Helle FC (2019) crest, likely a merged or umbrella club Starup IF plays under, though the name mismatch lowers confidence.",
+    "file": "assets/logo-candidates/882/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:50215",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:20.546Z"
+  },
   "883": {
     "name": "Starup UIF",
     "bestCandidate": "c1",
@@ -9695,12 +10128,12 @@
     "fillColor": null,
     "primaryColor": "#2E5A9C",
     "secondaryColor": "#FFFFFF",
-    "reason": "The DBU image is the HTS cooperation logo, which includes Tistrup B's TB 1902 shield, so it is likely the club's registered logo, though it is a composite.",
+    "reason": "The DBU logo is a composite HTS cooperation logo that includes Tistrup Boldklub's TB 1902 crest, so it is likely the right logo but not a standalone crest.",
     "file": "assets/logo-candidates/894/c1-dbu.png",
     "source": "dbu",
     "signature": "c1:170676",
     "model": "claude-opus-5-5",
-    "judgedAt": "2026-11-22T10:03:44.007Z"
+    "judgedAt": "2026-11-22T15:47:20.134Z"
   },
   "895": {
     "name": "Tjæreborg IF",
@@ -9849,6 +10282,31 @@
       "height": 800,
       "sourceWidth": 167,
       "sourceHeight": 191,
+      "upscaled": true
+    }
+  },
+  "909": {
+    "name": "Skærbæk Boldklub",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.95,
+    "shape": "shield",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#1F4FA0",
+    "secondaryColor": "#F5C800",
+    "reason": "DBU-sourced shield crest with the club name, geese and football in blue and yellow.",
+    "file": "assets/logo-candidates/909/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:47563",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:20.756Z",
+    "prepared": {
+      "file": "assets/logo-candidates/909/prepared.png",
+      "width": 800,
+      "height": 707,
+      "sourceWidth": 446,
+      "sourceHeight": 394,
       "upscaled": true
     }
   },
@@ -10024,6 +10482,31 @@
       "height": 800,
       "sourceWidth": 151,
       "sourceHeight": 151,
+      "upscaled": true
+    }
+  },
+  "924": {
+    "name": "Høm/Seem UIF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.9,
+    "shape": "round",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#555555",
+    "secondaryColor": "#FFFFFF",
+    "reason": "DBU-sourced image shows a sun-shaped crest with the text 'Høm-Seem U.I.F.'.",
+    "file": "assets/logo-candidates/924/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:304608",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:21.010Z",
+    "prepared": {
+      "file": "assets/logo-candidates/924/prepared.png",
+      "width": 800,
+      "height": 752,
+      "sourceWidth": 485,
+      "sourceHeight": 456,
       "upscaled": true
     }
   },
@@ -10444,6 +10927,31 @@
       "upscaled": true
     }
   },
+  "995": {
+    "name": "FC Dunav",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.95,
+    "shape": "shield",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#D7141A",
+    "secondaryColor": "#1E3A9E",
+    "reason": "DBU-sourced shield crest showing FC Dunav Hillerød with Danish and Serbian flags.",
+    "file": "assets/logo-candidates/995/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:218837",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:21.803Z",
+    "prepared": {
+      "file": "assets/logo-candidates/995/prepared.png",
+      "width": 650,
+      "height": 800,
+      "sourceWidth": 380,
+      "sourceHeight": 468,
+      "upscaled": true
+    }
+  },
   "1001": {
     "name": "Ejby IF Fodbold",
     "bestCandidate": "c1",
@@ -10786,6 +11294,31 @@
       "upscaled": true
     }
   },
+  "1039": {
+    "name": "Grantoften IF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.95,
+    "shape": "round",
+    "background": "fill",
+    "fillColor": "#F07A5F",
+    "primaryColor": "#F07A5F",
+    "secondaryColor": "#3CB371",
+    "reason": "DBU-sourced round crest with club name, trees and 1969 founding year.",
+    "file": "assets/logo-candidates/1039/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:29037",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:22.860Z",
+    "prepared": {
+      "file": "assets/logo-candidates/1039/prepared.png",
+      "width": 795,
+      "height": 800,
+      "sourceWidth": 169,
+      "sourceHeight": 170,
+      "upscaled": true
+    }
+  },
   "1041": {
     "name": "Greve Fodbold",
     "bestCandidate": "c1",
@@ -10808,6 +11341,31 @@
       "height": 800,
       "sourceWidth": 136,
       "sourceHeight": 136,
+      "upscaled": true
+    }
+  },
+  "1044": {
+    "name": "Grønne Stjerne",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.95,
+    "shape": "round",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#1E6B35",
+    "secondaryColor": "#D8E8B8",
+    "reason": "DBU-sourced round crest with green star and club name Grønne Stjerne.",
+    "file": "assets/logo-candidates/1044/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:35763",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:22.652Z",
+    "prepared": {
+      "file": "assets/logo-candidates/1044/prepared.png",
+      "width": 798,
+      "height": 800,
+      "sourceWidth": 329,
+      "sourceHeight": 330,
       "upscaled": true
     }
   },
@@ -11736,6 +12294,31 @@
       "upscaled": true
     }
   },
+  "1131": {
+    "name": "Kvistgård IF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.93,
+    "shape": "shield",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#1F4E9E",
+    "secondaryColor": "#FFFFFF",
+    "reason": "The DBU-sourced image is a blue and white shield crest reading Kvistgård IF with a football.",
+    "file": "assets/logo-candidates/1131/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:34171",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:22.485Z",
+    "prepared": {
+      "file": "assets/logo-candidates/1131/prepared.png",
+      "width": 700,
+      "height": 800,
+      "sourceWidth": 119,
+      "sourceHeight": 136,
+      "upscaled": true
+    }
+  },
   "1132": {
     "name": "Kværkeby IF",
     "bestCandidate": "c1",
@@ -12186,6 +12769,31 @@
       "upscaled": true
     }
   },
+  "1168": {
+    "name": "Nyråd IF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.95,
+    "shape": "shield",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#000000",
+    "secondaryColor": "#FFE600",
+    "reason": "DBU-sourced shield crest showing 'nyråd if 1927' with black-yellow stripes and Danish flag.",
+    "file": "assets/logo-candidates/1168/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:179479",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:23.779Z",
+    "prepared": {
+      "file": "assets/logo-candidates/1168/prepared.png",
+      "width": 695,
+      "height": 800,
+      "sourceWidth": 356,
+      "sourceHeight": 410,
+      "upscaled": true
+    }
+  },
   "1170": {
     "name": "Næstved FC 77",
     "bestCandidate": "c1",
@@ -12234,6 +12842,31 @@
       "sourceWidth": 2099,
       "sourceHeight": 2100,
       "upscaled": false
+    }
+  },
+  "1173": {
+    "name": "Nødebo IF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.93,
+    "shape": "shield",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#E30613",
+    "secondaryColor": "#000000",
+    "reason": "The DBU-sourced image is a shield crest with the NIF letters and the Nødebo Idrætsforening name, so it is clearly the club's own crest.",
+    "file": "assets/logo-candidates/1173/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:41958",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:25.149Z",
+    "prepared": {
+      "file": "assets/logo-candidates/1173/prepared.png",
+      "width": 679,
+      "height": 800,
+      "sourceWidth": 265,
+      "sourceHeight": 312,
+      "upscaled": true
     }
   },
   "1177": {
@@ -12632,6 +13265,31 @@
       "width": 800,
       "height": 800,
       "sourceWidth": 500,
+      "sourceHeight": 500,
+      "upscaled": true
+    }
+  },
+  "1217": {
+    "name": "Sigerslevøster IF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.95,
+    "shape": "shield",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#1DA33A",
+    "secondaryColor": "#FFFFFF",
+    "reason": "The DBU-sourced green shield bears the SØIF initials with a shuttlecock and football, matching the club.",
+    "file": "assets/logo-candidates/1217/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:93709",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:25.252Z",
+    "prepared": {
+      "file": "assets/logo-candidates/1217/prepared.png",
+      "width": 776,
+      "height": 800,
+      "sourceWidth": 485,
       "sourceHeight": 500,
       "upscaled": true
     }
@@ -16947,6 +17605,31 @@
       "upscaled": true
     }
   },
+  "1868": {
+    "name": "Skovlunde IF Oldboys/Girls",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.8,
+    "shape": "wordmark",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#000000",
+    "secondaryColor": "#FFFFFF",
+    "reason": "The DBU-sourced image is the club's own black-and-white SIF Oldboys & Girls logo with its address text.",
+    "file": "assets/logo-candidates/1868/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:36557",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:24.693Z",
+    "prepared": {
+      "file": "assets/logo-candidates/1868/prepared.png",
+      "width": 800,
+      "height": 662,
+      "sourceWidth": 497,
+      "sourceHeight": 411,
+      "upscaled": true
+    }
+  },
   "1878": {
     "name": "FC Ishøj",
     "bestCandidate": "c1",
@@ -17038,6 +17721,31 @@
     "signature": "c1:6928|c2:77424|c3:119895|c4:109106|c5:33562",
     "model": "claude-opus-5-5",
     "judgedAt": "2026-11-22T10:03:44.026Z"
+  },
+  "1895": {
+    "name": "Moltrup IF",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.93,
+    "shape": "round",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#000000",
+    "secondaryColor": "#FFFFFF",
+    "reason": "The DBU-sourced image is a round black-and-white crest reading Moltrup Idrætsforening with MIF initials.",
+    "file": "assets/logo-candidates/1895/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:71519",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:25.784Z",
+    "prepared": {
+      "file": "assets/logo-candidates/1895/prepared.png",
+      "width": 785,
+      "height": 800,
+      "sourceWidth": 413,
+      "sourceHeight": 421,
+      "upscaled": true
+    }
   },
   "1903": {
     "name": "DGF Flensborg",
@@ -17916,6 +18624,31 @@
       "upscaled": true
     }
   },
+  "2088": {
+    "name": "København Futsal",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.95,
+    "shape": "shield",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#1F4E8C",
+    "secondaryColor": "#FFFFFF",
+    "reason": "DBU-sourced shield crest clearly reading København Futsal.",
+    "file": "assets/logo-candidates/2088/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:8517",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:26.188Z",
+    "prepared": {
+      "file": "assets/logo-candidates/2088/prepared.png",
+      "width": 800,
+      "height": 778,
+      "sourceWidth": 217,
+      "sourceHeight": 211,
+      "upscaled": true
+    }
+  },
   "2089": {
     "name": "Nørrebro Boldklub",
     "bestCandidate": "c1",
@@ -18401,6 +19134,31 @@
     "model": "claude-opus-5-5",
     "judgedAt": "2026-11-22T10:03:44.014Z"
   },
+  "3325": {
+    "name": "Flamengo Garrinchas",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.93,
+    "shape": "shield",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#8B1A2B",
+    "secondaryColor": "#000000",
+    "reason": "The DBU-sourced image is a shield crest bearing the club's FG initials.",
+    "file": "assets/logo-candidates/3325/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:22094",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:26.697Z",
+    "prepared": {
+      "file": "assets/logo-candidates/3325/prepared.png",
+      "width": 800,
+      "height": 784,
+      "sourceWidth": 200,
+      "sourceHeight": 196,
+      "upscaled": true
+    }
+  },
   "3337": {
     "name": "Esbjerg Firmaidræt",
     "bestCandidate": "c1",
@@ -18665,6 +19423,31 @@
       "height": 771,
       "sourceWidth": 438,
       "sourceHeight": 422,
+      "upscaled": true
+    }
+  },
+  "3419": {
+    "name": "Futsal Club Fjordbold",
+    "bestCandidate": "c1",
+    "isClubCrest": true,
+    "confidence": 0.95,
+    "shape": "shield",
+    "background": "white",
+    "fillColor": null,
+    "primaryColor": "#2E4FA8",
+    "secondaryColor": "#FFFFFF",
+    "reason": "DBU-sourced shield crest bearing the club's name, a Viking ship and a futsal player.",
+    "file": "assets/logo-candidates/3419/c1-dbu.png",
+    "source": "dbu",
+    "signature": "c1:146322",
+    "model": "claude-opus-5-5",
+    "judgedAt": "2026-11-22T15:47:27.341Z",
+    "prepared": {
+      "file": "assets/logo-candidates/3419/prepared.png",
+      "width": 800,
+      "height": 759,
+      "sourceWidth": 453,
+      "sourceHeight": 430,
       "upscaled": true
     }
   },
