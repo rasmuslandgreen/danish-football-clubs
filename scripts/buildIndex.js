@@ -16,7 +16,7 @@ const clubs = raw.map(({ name, city, postal, region, dbuId,
   email, website, phone,
   kitHomeJersey, kitHomeShorts, kitHomeSocks,
   kitAwayJersey, kitAwayShorts, kitAwaySocks,
-  logo, logoUrl, logoThumbUrl, kaldenavn, coords }) => ({
+  logo, logoUrl, logoThumbUrl, kaldenavn, aliases, coords }) => ({
   name,
   city,
   postal,
@@ -38,6 +38,7 @@ const clubs = raw.map(({ name, city, postal, region, dbuId,
   logoUrl:        logoUrl        ?? null,
   logoThumbUrl:   logoThumbUrl   ?? null,
   kaldenavn:      kaldenavn      ?? null,
+  aliases:        aliases        ?? [],
   coords:         coords         ?? null,
 }));
 
@@ -46,7 +47,9 @@ const clubsJs = JSON.stringify(clubs, null, 2);
 const output = `export const clubs = ${clubsJs};
 
 export function getClub(name) {
+  const lower = name?.trim().toLowerCase();
   return clubs.find(c => c.name === name)
+    || clubs.find(c => c.aliases.some(a => a.toLowerCase() === lower))
     || { name, city: '', postal: '', region: '', dbuId: null, primaryColor: null, secondaryColor: null, kitStyle: null, logo: null, logoUrl: null, logoThumbUrl: null };
 }
 

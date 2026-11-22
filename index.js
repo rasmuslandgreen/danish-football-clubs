@@ -21,6 +21,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.43069147,
       11.08217337
@@ -48,6 +49,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.02899493,
       9.49975045
@@ -75,6 +77,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.57103757,
       9.66918005
@@ -102,6 +105,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3711-cae084b3d0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3711-cae084b3d0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73800813,
       12.48425242
@@ -129,6 +133,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1537-cafed4d516.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1537-cafed4d516.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.63352245,
       12.78698239
@@ -156,6 +161,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.95248429,
       8.89453488
@@ -183,6 +189,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3715-43e5cfd25b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3715-43e5cfd25b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86597915,
       9.89301425
@@ -210,6 +217,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3128-ec6a72cfdc.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3128-ec6a72cfdc.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6940569,
       12.54914572
@@ -237,6 +245,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/651-bd23301379.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/651-bd23301379.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.44956016,
       10.62703709
@@ -264,6 +273,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.8713804,
       9.68079394
@@ -291,6 +301,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2101-1e77c42539.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2101-1e77c42539.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.43442698,
       10.48909454
@@ -318,6 +329,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/747-c177324b44.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/747-c177324b44.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.60852142,
       8.82421529
@@ -345,6 +357,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/748-6fbef9892b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/748-6fbef9892b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.12832485,
       9.15854853
@@ -372,6 +385,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.21127809,
       10.31020366
@@ -399,6 +413,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3699-b0b4ba23ad.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3699-b0b4ba23ad.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15051496,
       10.27802097
@@ -426,6 +441,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/421-091be43c8f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/421-091be43c8f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.12635244,
       10.13778473
@@ -453,6 +469,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.95819912,
       9.30949603
@@ -480,6 +497,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6883311,
       12.48194421
@@ -507,6 +525,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/422-a77f3b6e2b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/422-a77f3b6e2b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.09423322,
       10.13924601
@@ -534,6 +553,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1251-bb18a92099.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1251-bb18a92099.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.42088958,
       12.31112895
@@ -561,6 +581,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.18215286,
       8.74507312
@@ -588,6 +609,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/948-7c936f94e1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/948-7c936f94e1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6869516,
       12.34477556
@@ -615,6 +637,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/949-d8423067e8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/949-d8423067e8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6869516,
       12.34477556
@@ -642,6 +665,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/227-c22c34e0ae.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/227-c22c34e0ae.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.32799021,
       9.17419358
@@ -669,6 +693,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41476356,
       10.01231946
@@ -696,6 +721,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.12208613,
       12.19166049
@@ -723,6 +749,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1141-72001a9d12.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1141-72001a9d12.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86605512,
       12.33661891
@@ -750,6 +777,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1356-1beb5bedd3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1356-1beb5bedd3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.24506199,
       10.25211529
@@ -777,6 +805,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1357-7ae6ae5960.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1357-7ae6ae5960.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.44966319,
       10.35714765
@@ -804,6 +833,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/435-c52bbe1af1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/435-c52bbe1af1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.3806496,
       9.90941177
@@ -831,6 +861,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1671-d47e6cd893.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1671-d47e6cd893.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.36353136,
       14.76377199
@@ -858,6 +889,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/436-ddf5b9afc3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/436-ddf5b9afc3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.49705855,
       10.49037138
@@ -885,6 +917,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.55907816,
       9.46401838
@@ -912,6 +945,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.77688954,
       10.41645939
@@ -939,6 +973,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/750-7ad73712f2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/750-7ad73712f2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65607154,
       8.52854473
@@ -966,6 +1001,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/951-05a848bf96.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/951-05a848bf96.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.40880423,
       11.55727004
@@ -993,6 +1029,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92123871,
       12.28696917
@@ -1020,6 +1057,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1538-9b03879162.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1538-9b03879162.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.63352245,
       12.78698239
@@ -1047,6 +1085,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -1074,6 +1113,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -1101,6 +1141,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.61664144,
       9.29089234
@@ -1128,6 +1169,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.49118916,
       8.50670194
@@ -1155,6 +1197,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.4784284,
       9.11204215
@@ -1182,6 +1225,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/955-5cd908fad4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/955-5cd908fad4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.01099572,
       12.1715219
@@ -1209,6 +1253,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.28777753,
       9.6247327
@@ -1236,6 +1281,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.72123589,
       8.75126746
@@ -1263,6 +1309,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -1290,6 +1337,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/14-4133bb3fb6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/14-4133bb3fb6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.76264148,
       9.94260419
@@ -1317,6 +1365,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.10716869,
       9.5353613
@@ -1344,6 +1393,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/199-61ef6c5544.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/199-61ef6c5544.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.11911505,
       8.98775376
@@ -1371,6 +1421,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3389-d0275be271.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3389-d0275be271.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.12635244,
       10.13778473
@@ -1398,6 +1449,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3423-032dc0719a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3423-032dc0719a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.18306206,
       9.0451996
@@ -1425,6 +1477,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.93341595,
       9.0912202
@@ -1452,6 +1505,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/439-a2299a5283.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/439-a2299a5283.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.76046689,
       10.02918372
@@ -1479,6 +1533,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/423-0eacf45265.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/423-0eacf45265.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15051496,
       10.27802097
@@ -1506,6 +1561,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/754-1bbdf66bab.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/754-1bbdf66bab.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.4784284,
       9.11204215
@@ -1533,6 +1589,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/956-2f17c5fa1a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/956-2f17c5fa1a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.81190532,
       11.49734325
@@ -1560,6 +1617,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1358-6c4479ab18.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1358-6c4479ab18.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.29165859,
       9.8932785
@@ -1587,6 +1645,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.63765951,
       10.0220988
@@ -1614,6 +1673,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.70230652,
       9.2956345
@@ -1641,6 +1701,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/16-d1ea6b97d3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/16-d1ea6b97d3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.13326579,
       10.44405468
@@ -1668,6 +1729,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/200-923ffd5c79.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/200-923ffd5c79.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.2699576,
       8.79948064
@@ -1695,6 +1757,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/443-79e152d5dc.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/443-79e152d5dc.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.42921057,
       10.38424574
@@ -1722,6 +1785,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.35301317,
       10.79790443
@@ -1749,6 +1813,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3720-bd042415f7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3720-bd042415f7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.68182922,
       12.44863533
@@ -1776,6 +1841,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/959-25725ddc8d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/959-25725ddc8d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.58934868,
       12.46097002
@@ -1803,6 +1869,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -1830,6 +1897,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1364-d02027f4d8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1364-d02027f4d8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.42123207,
       10.44332209
@@ -1857,6 +1925,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1637-f19ae7870f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1637-f19ae7870f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.70210497,
       12.11248046
@@ -1884,6 +1953,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.68169351,
       12.53569241
@@ -1911,6 +1981,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.62941506,
       11.74490279
@@ -1938,6 +2009,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.58244324,
       10.10165114
@@ -1965,6 +2037,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.58244324,
       10.10165114
@@ -1992,6 +2065,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1366-2c64468f9e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1366-2c64468f9e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.34929575,
       10.49825565
@@ -2019,6 +2093,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -2046,6 +2121,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.46317549,
       8.99505562
@@ -2073,6 +2149,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3722-af201372f8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3722-af201372f8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7109795,
       12.57364633
@@ -2100,6 +2177,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1367-18624c0f71.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1367-18624c0f71.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.403021,
       10.39174411
@@ -2127,6 +2205,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1069-6a454dda20.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1069-6a454dda20.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.74057031,
       12.42581802
@@ -2154,6 +2233,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1227-40390be896.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1227-40390be896.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.40887345,
       11.37134678
@@ -2181,6 +2261,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1202-9c4755d3e1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1202-9c4755d3e1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.68182922,
       12.44863533
@@ -2208,6 +2289,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1312-4d4f20c3f6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1312-4d4f20c3f6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.78962271,
       12.46836985
@@ -2235,6 +2317,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1654-b2ed09ff43.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1654-b2ed09ff43.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.8143415,
       11.63568865
@@ -2262,6 +2345,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1365-205fdde2f8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1365-205fdde2f8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.37859541,
       10.4114235
@@ -2289,6 +2373,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3-450e62da42.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3-450e62da42.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.9991663,
       9.93295578
@@ -2316,6 +2401,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/961-f21e6e8448.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/961-f21e6e8448.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.76191781,
       12.44587672
@@ -2343,6 +2429,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/20-9bf53ec61b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/20-9bf53ec61b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.70230652,
       9.2956345
@@ -2370,6 +2457,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.70610256,
       9.36512374
@@ -2397,6 +2485,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3921-896c396521.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3921-896c396521.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73668449,
       12.3638449
@@ -2424,6 +2513,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2131-3894631732.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2131-3894631732.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73668449,
       12.3638449
@@ -2451,6 +2541,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.07311357,
       8.68091354
@@ -2478,6 +2569,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/21-656dfcbfd2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/21-656dfcbfd2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.52270103,
       10.72500277
@@ -2505,6 +2597,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.68695015,
       9.8978292
@@ -2532,6 +2625,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.71256101,
       12.52876704
@@ -2559,6 +2653,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.06302044,
       10.24584275
@@ -2586,6 +2681,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.17740891,
       7.21613935
@@ -2613,6 +2709,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.06237954,
       8.96415413
@@ -2640,6 +2737,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/963-88873dee15.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/963-88873dee15.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.43053197,
       11.82805925
@@ -2667,6 +2765,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/758-8e89bc014d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/758-8e89bc014d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.19588025,
       9.19750089
@@ -2694,6 +2793,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1144-8bfb114f32.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1144-8bfb114f32.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73668449,
       12.3638449
@@ -2721,6 +2821,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1924-aa0a0a57f2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1924-aa0a0a57f2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.76234096,
       9.85180061
@@ -2748,6 +2849,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.16282327,
       9.76743314
@@ -2775,6 +2877,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.59542013,
       8.306516
@@ -2802,6 +2905,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/761-a68410d472.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/761-a68410d472.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73792043,
       9.10071489
@@ -2829,6 +2933,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/23-5dac3cb466.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/23-5dac3cb466.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.57139797,
       10.23668023
@@ -2856,6 +2961,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/24-3439be0ce2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/24-3439be0ce2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.16282327,
       9.76743314
@@ -2883,6 +2989,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1361-f459409480.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1361-f459409480.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.36672658,
       10.58946818
@@ -2910,6 +3017,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.05662783,
       11.36808859
@@ -2937,6 +3045,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1542-43fa78b6b5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1542-43fa78b6b5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.71256101,
       12.52876704
@@ -2964,6 +3073,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/26-c6bc2fd7e7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/26-c6bc2fd7e7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.70230652,
       9.2956345
@@ -2991,6 +3101,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41681148,
       9.36897659
@@ -3018,6 +3129,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/451-4af93c8083.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/451-4af93c8083.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.48050883,
       9.88044731
@@ -3045,6 +3157,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/203-9519d898ae.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/203-9519d898ae.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.36051392,
       9.64257403
@@ -3072,6 +3185,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/657-4f8a480a29.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/657-4f8a480a29.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.44548525,
       9.55990342
@@ -3099,6 +3213,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7109795,
       12.57364633
@@ -3126,6 +3241,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64077611,
       12.52309722
@@ -3153,6 +3269,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1237-c97f405c51.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1237-c97f405c51.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.5150734,
       12.26072581
@@ -3180,6 +3297,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/958-62e9c7f180.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/958-62e9c7f180.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.68182922,
       12.44863533
@@ -3207,6 +3325,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3742-1b69d19895.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3742-1b69d19895.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64077611,
       12.52309722
@@ -3234,6 +3353,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1024-db3b839a6a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1024-db3b839a6a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.58934868,
       12.46097002
@@ -3261,6 +3381,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1470-8985f57c98.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1470-8985f57c98.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.403021,
       10.39174411
@@ -3288,6 +3409,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1493-3af10027ed.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1493-3af10027ed.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.01443666,
       10.59802878
@@ -3315,6 +3437,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1304-0e7e1c51ae.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1304-0e7e1c51ae.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.68182922,
       12.44863533
@@ -3342,6 +3465,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.29165859,
       9.8932785
@@ -3369,6 +3493,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1866-bcdca7d1c8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1866-bcdca7d1c8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.49118916,
       8.50670194
@@ -3396,6 +3521,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.39401435,
       10.32843174
@@ -3423,6 +3549,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.84944104,
       9.92696601
@@ -3450,6 +3577,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.68763915,
       8.70032858
@@ -3477,6 +3605,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/968-ea7c32359c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/968-ea7c32359c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.22745639,
       12.06980339
@@ -3504,6 +3633,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/969-58c7c79093.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/969-58c7c79093.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86605512,
       12.33661891
@@ -3531,6 +3661,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.93341595,
       9.0912202
@@ -3558,6 +3689,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.89016003,
       8.54104706
@@ -3585,6 +3717,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/970-cc8973be72.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/970-cc8973be72.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.3061459,
       11.26828566
@@ -3612,6 +3745,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1362-821f5084a1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1362-821f5084a1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6129967,
       10.15483531
@@ -3639,6 +3773,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.92382082,
       12.05993905
@@ -3666,6 +3801,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1363-0dff208bc1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1363-0dff208bc1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.403021,
       10.39174411
@@ -3693,6 +3829,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1533-97ee16fcc9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1533-97ee16fcc9.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73442051,
       12.56946744
@@ -3720,6 +3857,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1534-72aeeab549.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1534-72aeeab549.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -3747,6 +3885,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1536-be3b5c9562.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1536-be3b5c9562.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.71256101,
       12.52876704
@@ -3774,6 +3913,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1532-516facda12.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1532-516facda12.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7109795,
       12.57364633
@@ -3801,6 +3941,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -3828,6 +3969,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/739-450f20d775.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/739-450f20d775.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17162148,
       10.15819911
@@ -3855,6 +3997,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1603-b18d57e359.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1603-b18d57e359.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6940569,
       12.54914572
@@ -3882,6 +4025,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3161-ee8c3e85b5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3161-ee8c3e85b5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.35251254,
       10.29791607
@@ -3909,6 +4053,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1599-6906778c03.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1599-6906778c03.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.70964347,
       12.48463422
@@ -3936,6 +4081,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1552-bb549b755c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1552-bb549b755c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64077611,
       12.52309722
@@ -3963,6 +4109,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1553-66d093d09c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1553-66d093d09c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -3990,6 +4137,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1554-bfd8bfe4b9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1554-bfd8bfe4b9.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64077611,
       12.52309722
@@ -4017,6 +4165,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1559-a28612c47d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1559-a28612c47d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7109795,
       12.57364633
@@ -4044,6 +4193,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1560-e98df522df.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1560-e98df522df.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -4071,6 +4221,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.93212987,
       4.28511819
@@ -4098,6 +4249,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1444-62469c6992.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1444-62469c6992.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.403021,
       10.39174411
@@ -4125,6 +4277,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1572-d07649aae6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1572-d07649aae6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -4152,6 +4305,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1573-3c755af522.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1573-3c755af522.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65941452,
       12.49869399
@@ -4179,6 +4333,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1578-8dd4a4c0dd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1578-8dd4a4c0dd.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.68182922,
       12.44863533
@@ -4206,6 +4361,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1581-1706d6f584.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1581-1706d6f584.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7109795,
       12.57364633
@@ -4233,6 +4389,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1582-5b00d8673c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1582-5b00d8673c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.71256101,
       12.52876704
@@ -4260,6 +4417,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1584-ca53e066fc.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1584-ca53e066fc.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -4287,6 +4445,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1586-d9b07f0504.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1586-d9b07f0504.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.71256101,
       12.52876704
@@ -4314,6 +4473,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1590-d7730db268.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1590-d7730db268.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64077611,
       12.52309722
@@ -4341,6 +4501,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/863-b166a07ebd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/863-b166a07ebd.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.63843566,
       8.2413214
@@ -4368,6 +4529,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1592-31091666aa.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1592-31091666aa.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7109795,
       12.57364633
@@ -4395,6 +4557,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1593-32b039fba7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1593-32b039fba7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67945641,
       12.51562935
@@ -4422,6 +4585,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1594-6912190b12.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1594-6912190b12.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6940569,
       12.54914572
@@ -4449,6 +4613,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.34794414,
       8.58519299
@@ -4476,6 +4641,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/206-d2b2bbbd0a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/206-d2b2bbbd0a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15035869,
       9.25469883
@@ -4503,6 +4669,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.27022295,
       10.16086107
@@ -4530,6 +4697,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/207-1cc75f4517.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/207-1cc75f4517.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.85259869,
       8.33561789
@@ -4557,6 +4725,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.85259869,
       8.33561789
@@ -4584,6 +4753,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.99089664,
       8.53885308
@@ -4611,6 +4781,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/971-bd555d87b4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/971-bd555d87b4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.00467892,
       12.59499744
@@ -4638,6 +4809,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/209-03fa0a62fe.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/209-03fa0a62fe.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.59071095,
       9.35963562
@@ -4665,6 +4837,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/972-66020582f3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/972-66020582f3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.49411646,
       11.97092667
@@ -4692,6 +4865,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/763-1afeb4670e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/763-1afeb4670e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.8687306,
       9.46328593
@@ -4719,6 +4893,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/455-e72b26f8fc.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/455-e72b26f8fc.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15788265,
       10.06788413
@@ -4746,6 +4921,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15788265,
       10.06788413
@@ -4773,6 +4949,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/456-5c4e105d95.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/456-5c4e105d95.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50221297,
       9.46847631
@@ -4800,6 +4977,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/764-ad75756173.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/764-ad75756173.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.46065157,
       8.70168486
@@ -4827,6 +5005,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.46065157,
       8.70168486
@@ -4854,6 +5033,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.46065157,
       8.70168486
@@ -4881,6 +5061,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/974-a25c21c98e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/974-a25c21c98e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.70417096,
       11.92418149
@@ -4908,6 +5089,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/210-acde1f225d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/210-acde1f225d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.93341595,
       9.0912202
@@ -4935,6 +5117,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1626-413ec4a250.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1626-413ec4a250.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.75748092,
       10.98835691
@@ -4962,6 +5145,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/457-d5b37ff45b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/457-d5b37ff45b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7220274,
       9.63873738
@@ -4989,6 +5173,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/975-5174375db9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/975-5174375db9.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.78572204,
       12.52083673
@@ -5016,6 +5201,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/766-d7a2358648.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/766-d7a2358648.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.07311357,
       8.68091354
@@ -5043,6 +5229,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65719788,
       9.67048857
@@ -5070,6 +5257,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15361133,
       8.50600358
@@ -5097,6 +5285,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1370-3b1a805de5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1370-3b1a805de5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.49127877,
       9.98162512
@@ -5124,6 +5313,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/768-c9d80bcef2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/768-c9d80bcef2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.8713804,
       9.68079394
@@ -5151,6 +5341,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.24506199,
       10.25211529
@@ -5178,6 +5369,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/30-795075b451.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/30-795075b451.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.10716869,
       9.5353613
@@ -5205,6 +5397,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/212-673779417a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/212-673779417a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41681148,
       9.36897659
@@ -5232,6 +5425,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1372-88c04d1b81.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1372-88c04d1b81.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.3195544,
       10.19834407
@@ -5259,6 +5453,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/460-e4a791f249.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/460-e4a791f249.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.02488921,
       9.47060993
@@ -5286,6 +5481,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/461-3f4b14dbde.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/461-3f4b14dbde.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.96052136,
       9.59236493
@@ -5313,6 +5509,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.18127292,
       11.98569733
@@ -5340,6 +5537,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/979-48fcdfd068.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/979-48fcdfd068.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92123871,
       12.28696917
@@ -5367,6 +5565,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64503648,
       12.40439537
@@ -5394,6 +5593,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/982-36ad7e24e6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/982-36ad7e24e6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.61998785,
       12.42233883
@@ -5421,6 +5621,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/981-2d93a7592d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/981-2d93a7592d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64503648,
       12.40439537
@@ -5448,6 +5649,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/31-90b5cf2898.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/31-90b5cf2898.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.28432949,
       9.88277134
@@ -5475,6 +5677,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.70964347,
       12.48463422
@@ -5502,6 +5705,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1543-56ece7c7d1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1543-56ece7c7d1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.70964347,
       12.48463422
@@ -5529,6 +5733,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/770-b37b1a8439.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/770-b37b1a8439.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.49880374,
       8.99731666
@@ -5556,6 +5761,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1943-5f9dfdc5bb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1943-5f9dfdc5bb.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.02388208,
       9.89235588
@@ -5583,6 +5789,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.76234096,
       9.85180061
@@ -5610,6 +5817,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2154-b28b5f6286.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2154-b28b5f6286.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86597915,
       9.89301425
@@ -5637,6 +5845,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.01708464,
       9.14165594
@@ -5664,6 +5873,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.58270689,
       9.15666611
@@ -5691,6 +5901,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/34-6028fd65c7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/34-6028fd65c7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.8298458,
       10.12654857
@@ -5718,6 +5929,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67082135,
       12.54858405
@@ -5745,6 +5957,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1939-7da47ebabe.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1939-7da47ebabe.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.54689645,
       5.04556549
@@ -5772,6 +5985,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.54689645,
       5.04556549
@@ -5799,6 +6013,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1376-709b380c3c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1376-709b380c3c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50180178,
       9.90219075
@@ -5826,6 +6041,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.12208613,
       12.19166049
@@ -5853,6 +6069,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -5880,6 +6097,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1602-80112662ec.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1602-80112662ec.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67945641,
       12.51562935
@@ -5907,6 +6125,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.57103757,
       9.66918005
@@ -5934,6 +6153,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.79347704,
       8.61815877
@@ -5961,6 +6181,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3694-d8d997f502.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3694-d8d997f502.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.66357137,
       12.19945854
@@ -5988,6 +6209,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1545-31a6ea3914.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1545-31a6ea3914.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -6015,6 +6237,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/424-29297bf821.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/424-29297bf821.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20167527,
       10.15922351
@@ -6042,6 +6265,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/775-e40d5e1860.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/775-e40d5e1860.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.35487274,
       9.44750863
@@ -6069,6 +6293,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1544-a9af0c8867.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1544-a9af0c8867.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67360101,
       12.59549054
@@ -6096,6 +6321,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.45935717,
       8.46174114
@@ -6123,6 +6349,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3125-be0924088f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3125-be0924088f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64077611,
       12.52309722
@@ -6150,6 +6377,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67457821,
       12.55768339
@@ -6177,6 +6405,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7109795,
       12.57364633
@@ -6204,6 +6433,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/462-f70d357ef8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/462-f70d357ef8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50221297,
       9.46847631
@@ -6231,6 +6461,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/989-2eb3f4f6a2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/989-2eb3f4f6a2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.32031014,
       11.95519764
@@ -6258,6 +6489,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1377-f077e180ae.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1377-f077e180ae.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.51715531,
       10.7017613
@@ -6285,6 +6517,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/990-318fd5ae86.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/990-318fd5ae86.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86932225,
       11.91680034
@@ -6312,6 +6545,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/35-8a298204ee.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/35-8a298204ee.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.9647583,
       9.86815189
@@ -6339,6 +6573,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1378-dbbe3afbfe.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1378-dbbe3afbfe.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.35251254,
       10.29791607
@@ -6366,6 +6601,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3837-79c375e6c3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3837-79c375e6c3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.70230652,
       9.2956345
@@ -6393,6 +6629,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.58934868,
       12.46097002
@@ -6420,6 +6657,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.46065157,
       8.70168486
@@ -6447,6 +6685,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.72499013,
       9.70789065
@@ -6474,6 +6713,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/520-043102e88a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/520-043102e88a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.02388208,
       9.89235588
@@ -6501,6 +6741,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1940-8bcd3d4b79.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1940-8bcd3d4b79.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.99089664,
       8.53885308
@@ -6528,6 +6769,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50221297,
       9.46847631
@@ -6555,6 +6797,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.99089664,
       8.53885308
@@ -6582,6 +6825,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.99089664,
       8.53885308
@@ -6609,6 +6853,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65941452,
       12.49869399
@@ -6636,6 +6881,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1949-f7184ccb42.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1949-f7184ccb42.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.4068472,
       9.53828204
@@ -6663,6 +6909,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.68207564,
       12.56643374
@@ -6690,6 +6937,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.90310802,
       9.20354055
@@ -6717,6 +6965,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1903-58d09bfeed.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1903-58d09bfeed.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": null
   },
   {
@@ -6741,6 +6990,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -6768,6 +7018,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.05171431,
       9.8350492
@@ -6795,6 +7046,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.60852142,
       8.82421529
@@ -6822,6 +7074,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20167527,
       10.15922351
@@ -6849,6 +7102,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.53579978,
       11.48228398
@@ -6876,6 +7130,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.22214938,
       10.29989608
@@ -6903,6 +7158,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.58757292,
       10.64766235
@@ -6930,6 +7186,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/37-c9539c3ebe.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/37-c9539c3ebe.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.6528756,
       9.77366901
@@ -6957,6 +7214,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.02388208,
       9.89235588
@@ -6984,6 +7242,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1548-02a62e82f0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1548-02a62e82f0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.5081121,
       12.59121712
@@ -7011,6 +7270,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.49807432,
       10.8508032
@@ -7038,6 +7298,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/467-58f5f9e2cd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/467-58f5f9e2cd.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.50265825,
       10.1724293
@@ -7065,6 +7326,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.48050883,
       9.88044731
@@ -7092,6 +7354,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/39-6e60acb7cb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/39-6e60acb7cb.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.21127809,
       10.31020366
@@ -7119,6 +7382,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/779-e4d5ec687d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/779-e4d5ec687d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.9528525,
       9.71079556
@@ -7146,6 +7410,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/40-2437d99bce.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/40-2437d99bce.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.28497909,
       10.32334518
@@ -7173,6 +7438,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15788265,
       10.06788413
@@ -7200,6 +7466,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1627-c51afb1a67.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1627-c51afb1a67.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.62941506,
       11.74490279
@@ -7227,6 +7494,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1383-975a4096e1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1383-975a4096e1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.13177189,
       9.96382534
@@ -7254,6 +7522,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/469-bce24ca842.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/469-bce24ca842.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.14931257,
       10.82632626
@@ -7281,6 +7550,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.89016003,
       8.54104706
@@ -7308,6 +7578,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3759-fa4e886d37.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3759-fa4e886d37.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.09369625,
       10.0135704
@@ -7335,6 +7606,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1384-3589da6b8f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1384-3589da6b8f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.06342876,
       10.45011017
@@ -7362,6 +7634,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/470-63b2cb6728.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/470-63b2cb6728.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86597915,
       9.89301425
@@ -7389,6 +7662,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/780-2e9cceeb6d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/780-2e9cceeb6d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.06940698,
       9.77014411
@@ -7416,6 +7690,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.8713804,
       9.68079394
@@ -7443,6 +7718,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15051496,
       10.27802097
@@ -7470,6 +7746,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/472-eea5981d66.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/472-eea5981d66.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.61664144,
       9.29089234
@@ -7497,6 +7774,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1002-02edba663d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1002-02edba663d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6741838,
       12.39697754
@@ -7524,6 +7802,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1001-ba4cb84119.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1001-ba4cb84119.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50779016,
       12.08511883
@@ -7551,6 +7830,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1386-aa83ab092b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1386-aa83ab092b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.36518649,
       9.82415972
@@ -7578,6 +7858,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/217-03d9c0e203.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/217-03d9c0e203.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.47769058,
       8.80020865
@@ -7605,6 +7886,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.02375436,
       9.24826265
@@ -7632,6 +7914,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1947-f8aa4362d4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1947-f8aa4362d4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86597915,
       9.89301425
@@ -7659,6 +7942,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.98495945,
       14.40163467
@@ -7686,6 +7970,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.36245892,
       12.22317915
@@ -7713,6 +7998,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/218-c9235c7622.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/218-c9235c7622.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.21005036,
       9.30391703
@@ -7740,6 +8026,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.21005036,
       9.30391703
@@ -7767,6 +8054,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7220274,
       9.63873738
@@ -7794,6 +8082,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/784-7916d3dabf.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/784-7916d3dabf.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.02899493,
       9.49975045
@@ -7821,6 +8110,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1628-2476583877.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1628-2476583877.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.63787516,
       11.53487222
@@ -7848,6 +8138,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/475-6e2e5e3193.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/475-6e2e5e3193.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.57103757,
       9.66918005
@@ -7875,6 +8166,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3701-190aa955a8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3701-190aa955a8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.45935717,
       8.46174114
@@ -7902,6 +8194,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/785-3ba87d3795.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/785-3ba87d3795.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.45935717,
       8.46174114
@@ -7929,6 +8222,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3337-80e82e398a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3337-80e82e398a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.49118916,
       8.50670194
@@ -7956,6 +8250,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/787-41dbb12825.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/787-41dbb12825.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.45935717,
       8.46174114
@@ -7983,6 +8278,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1629-250ea2f901.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1629-250ea2f901.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.86008913,
       11.90575722
@@ -8010,6 +8306,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1005-dcc815d97a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1005-dcc815d97a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.99425687,
       12.54283631
@@ -8037,6 +8334,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1006-beb43855f1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1006-beb43855f1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.22745639,
       12.06980339
@@ -8064,6 +8362,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.32370377,
       7.90681299
@@ -8091,6 +8390,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1316-1fe6695ee2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1316-1fe6695ee2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.76191781,
       12.44587672
@@ -8118,6 +8418,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3367-2709a89086.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3367-2709a89086.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.39401435,
       10.32843174
@@ -8145,6 +8446,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3937-166dd16f5d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3937-166dd16f5d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.08119416,
       9.92809079
@@ -8172,6 +8474,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1546-867365890f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1546-867365890f.webp",
     "kaldenavn": "FA 2000",
+    "aliases": [],
     "coords": [
       55.67945641,
       12.51562935
@@ -8199,6 +8502,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.54580784,
       8.33453584
@@ -8226,6 +8530,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.15062316,
       10.12933606
@@ -8253,6 +8558,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/789-c13aad1ee5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/789-c13aad1ee5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.28286185,
       7.56593986
@@ -8280,6 +8586,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.94881207,
       9.57985536
@@ -8307,6 +8614,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.77310507,
       9.27748567
@@ -8334,6 +8642,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/44-d18e8394a5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/44-d18e8394a5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.77310507,
       9.27748567
@@ -8361,6 +8670,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1008-b088cb6eb3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1008-b088cb6eb3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.81981968,
       12.35067108
@@ -8388,6 +8698,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.99089664,
       8.53885308
@@ -8415,6 +8726,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1009-8b2440638a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1009-8b2440638a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2685839,
       12.12411652
@@ -8442,6 +8754,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1007-fc3020170c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1007-fc3020170c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.19490482,
       12.19373813
@@ -8469,6 +8782,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.12635244,
       10.13778473
@@ -8496,6 +8810,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.403021,
       10.39174411
@@ -8523,6 +8838,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -8550,6 +8866,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1893-975ae5ba90.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1893-975ae5ba90.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.34929575,
       10.49825565
@@ -8577,6 +8894,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1451-0512c2ca72.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1451-0512c2ca72.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.24506199,
       10.25211529
@@ -8604,6 +8922,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3951-beca7b72e6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3951-beca7b72e6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.12635244,
       10.13778473
@@ -8631,6 +8950,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1388-acef9072ff.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1388-acef9072ff.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.37859541,
       10.4114235
@@ -8658,6 +8978,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1607-8375487ea4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1607-8375487ea4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -8685,6 +9006,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1547-cc6f85083c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1547-cc6f85083c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6883311,
       12.48194421
@@ -8712,6 +9034,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/185-fef3c3d4f5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/185-fef3c3d4f5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.08119416,
       9.92809079
@@ -8739,6 +9062,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92123871,
       12.28696917
@@ -8766,6 +9090,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.57103757,
       9.66918005
@@ -8793,6 +9118,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1399-2d4d6b2e2f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1399-2d4d6b2e2f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.11203154,
       10.30952407
@@ -8820,6 +9146,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3826-a6053dd062.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3826-a6053dd062.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92959715,
       12.51321363
@@ -8847,6 +9174,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.58757292,
       10.64766235
@@ -8874,6 +9202,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1781-4475de0b17.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1781-4475de0b17.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.03943161,
       12.61245096
@@ -8901,6 +9230,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.03943161,
       12.61245096
@@ -8928,6 +9258,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1389-97a72acc40.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1389-97a72acc40.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.403021,
       10.39174411
@@ -8955,6 +9286,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1764-55e90d558d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1764-55e90d558d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.81684549,
       12.48640452
@@ -8982,6 +9314,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -9009,6 +9342,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/543-9f37769fb9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/543-9f37769fb9.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86597915,
       9.89301425
@@ -9036,6 +9370,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.58934868,
       12.46097002
@@ -9063,6 +9398,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1878-50e404a5bb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1878-50e404a5bb.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.58776321,
       12.39483896
@@ -9090,6 +9426,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/977-2befff1820.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/977-2befff1820.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.77912974,
       12.35591788
@@ -9117,6 +9454,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/453-ad898c145a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/453-ad898c145a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15051496,
       10.27802097
@@ -9144,6 +9482,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/791-5e9a1d2ea7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/791-5e9a1d2ea7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.49118916,
       8.50670194
@@ -9171,6 +9510,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3173-3a868c9223.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3173-3a868c9223.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64077611,
       12.52309722
@@ -9198,6 +9538,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1436-58d6cc6307.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1436-58d6cc6307.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.01443666,
       10.59802878
@@ -9225,6 +9566,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7109795,
       12.57364633
@@ -9252,6 +9594,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3422-a9b56e5275.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3422-a9b56e5275.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.59456942,
       11.95696429
@@ -9279,6 +9622,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.05171431,
       9.8350492
@@ -9306,6 +9650,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.11911505,
       8.98775376
@@ -9333,6 +9678,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3851-76389e93a0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3851-76389e93a0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.75748092,
       10.98835691
@@ -9360,6 +9706,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.68037643,
       12.57705358
@@ -9387,6 +9734,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.81981968,
       12.35067108
@@ -9414,6 +9762,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1611-4f2e2d7f14.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1611-4f2e2d7f14.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -9441,6 +9790,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1390-1f47c03815.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1390-1f47c03815.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.35251254,
       10.29791607
@@ -9468,6 +9818,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3169-01068226e9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3169-01068226e9.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64077611,
       12.52309722
@@ -9495,6 +9846,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20167527,
       10.15922351
@@ -9522,6 +9874,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3731-8933ef34b1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3731-8933ef34b1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65647451,
       12.06373356
@@ -9549,6 +9902,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/487-b183283f42.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/487-b183283f42.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20167527,
       10.15922351
@@ -9576,6 +9930,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7109795,
       12.57364633
@@ -9603,6 +9958,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/482-a446a48d73.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/482-a446a48d73.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.48050883,
       9.88044731
@@ -9630,6 +9986,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -9657,6 +10014,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/555-0bf7db7036.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/555-0bf7db7036.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.02388208,
       9.89235588
@@ -9684,6 +10042,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6940569,
       12.54914572
@@ -9711,6 +10070,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.49118916,
       8.50670194
@@ -9738,6 +10098,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2031-1427b65af3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2031-1427b65af3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.34799675,
       11.02962796
@@ -9765,6 +10126,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.01443666,
       10.59802878
@@ -9792,6 +10154,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3750-955be1f0b6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3750-955be1f0b6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.95248429,
       8.89453488
@@ -9819,6 +10182,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.68174413,
       12.57365135
@@ -9846,6 +10210,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65647451,
       12.06373356
@@ -9873,6 +10238,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1318-d99caf9e04.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1318-d99caf9e04.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6579409,
       12.28083382
@@ -9900,6 +10266,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2043-07b0c6e129.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2043-07b0c6e129.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20167527,
       10.15922351
@@ -9927,6 +10294,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/809-472c655989.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/809-472c655989.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.24177268,
       9.61886938
@@ -9954,6 +10322,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/222-1c87d02680.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/222-1c87d02680.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.32444075,
       8.9740962
@@ -9981,6 +10350,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/913-f87632d698.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/913-f87632d698.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.02899493,
       9.49975045
@@ -10008,6 +10378,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20167527,
       10.15922351
@@ -10035,6 +10406,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.09903701,
       10.28961018
@@ -10062,6 +10434,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1015-2fbde713a7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1015-2fbde713a7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92123871,
       12.28696917
@@ -10089,6 +10462,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65647451,
       12.06373356
@@ -10116,6 +10490,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/792-98058bca1c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/792-98058bca1c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.75986358,
       8.89887879
@@ -10143,6 +10518,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3155-0f3c43e31f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3155-0f3c43e31f.webp",
     "kaldenavn": "FIUK",
+    "aliases": [],
     "coords": [
       55.42123207,
       10.44332209
@@ -10170,6 +10546,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1394-2b1e1bbc41.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1394-2b1e1bbc41.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.45477943,
       10.02916475
@@ -10197,6 +10574,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.94883412,
       8.92947696
@@ -10224,6 +10602,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.24177268,
       9.61886938
@@ -10251,6 +10630,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/224-9888647073.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/224-9888647073.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.69297871,
       9.4967184
@@ -10278,6 +10658,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/45-638dd216e4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/45-638dd216e4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.12742277,
       9.20878724
@@ -10305,6 +10686,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1395-e9ae625a12.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1395-e9ae625a12.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.42123207,
       10.44332209
@@ -10332,6 +10714,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.6517573,
       10.26167957
@@ -10359,6 +10742,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/491-7f6740bb6e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/491-7f6740bb6e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -10386,6 +10770,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2082-c7cd93af52.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2082-c7cd93af52.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.84646728,
       11.56036901
@@ -10413,6 +10798,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1750-749a6895d0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1750-749a6895d0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.19504272,
       11.77357353
@@ -10440,6 +10826,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1516-4b3a08bb35.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1516-4b3a08bb35.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.403021,
       10.39174411
@@ -10467,6 +10854,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17162148,
       10.15819911
@@ -10494,6 +10882,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.21127809,
       10.31020366
@@ -10521,6 +10910,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.27213799,
       10.10343663
@@ -10548,6 +10938,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.89442946,
       9.66642959
@@ -10575,6 +10966,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.90798948,
       8.88457349
@@ -10602,6 +10994,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1019-d5b5da1c88.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1019-d5b5da1c88.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.66357137,
       12.19945854
@@ -10629,6 +11022,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3839-703fea65be.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3839-703fea65be.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.11911505,
       8.98775376
@@ -10656,6 +11050,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1576-2294b8b8bd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1576-2294b8b8bd.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6883311,
       12.48194421
@@ -10683,6 +11078,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1240-6a23773dfd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1240-6a23773dfd.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.40880423,
       11.55727004
@@ -10710,6 +11106,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/794-88f04d2b78.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/794-88f04d2b78.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.27645397,
       9.01601909
@@ -10737,6 +11134,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.18928869,
       10.09750556
@@ -10764,6 +11162,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.09423322,
       10.13924601
@@ -10791,6 +11190,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20167527,
       10.15922351
@@ -10818,6 +11218,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/47-166725f387.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/47-166725f387.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.70230652,
       9.2956345
@@ -10845,6 +11246,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3738-166725f387.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3738-166725f387.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.70230652,
       9.2956345
@@ -10872,6 +11274,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3162-51f45dd533.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3162-51f45dd533.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.01443666,
       10.59802878
@@ -10899,6 +11302,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15051496,
       10.27802097
@@ -10926,6 +11330,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/226-65f605bc6f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/226-65f605bc6f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.49762699,
       9.60208409
@@ -10953,6 +11358,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1609-9463f24402.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1609-9463f24402.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64077611,
       12.52309722
@@ -10980,6 +11386,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.34929575,
       10.49825565
@@ -11007,6 +11414,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1021-75e9b6e1d0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1021-75e9b6e1d0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.97086354,
       12.40200836
@@ -11034,6 +11442,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/494-481d075812.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/494-481d075812.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.57103757,
       9.66918005
@@ -11061,6 +11470,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/496-d432e72cd8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/496-d432e72cd8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.57103757,
       9.66918005
@@ -11088,6 +11498,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1549-18f576a14d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1549-18f576a14d.webp",
     "kaldenavn": "FB",
+    "aliases": [],
     "coords": [
       55.67945641,
       12.51562935
@@ -11115,6 +11526,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.91992432,
       12.45605071
@@ -11142,6 +11554,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/48-9025a2898e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/48-9025a2898e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.52270103,
       10.72500277
@@ -11169,6 +11582,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1022-f2c1ab3030.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1022-f2c1ab3030.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.85479562,
       12.07923445
@@ -11196,6 +11610,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1749-f86ec77516.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1749-f86ec77516.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.97774198,
       12.05634805
@@ -11223,6 +11638,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.48050883,
       9.88044731
@@ -11250,6 +11666,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1061-491e540b3d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1061-491e540b3d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.09086037,
       12.5430865
@@ -11277,6 +11694,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3743-66d093d09c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3743-66d093d09c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -11304,6 +11722,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3831-12d1e8c80c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3831-12d1e8c80c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -11331,6 +11750,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.17738587,
       8.79091021
@@ -11358,6 +11778,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.63765951,
       10.0220988
@@ -11385,6 +11806,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3445-0806b03130.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3445-0806b03130.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7873441,
       8.22547945
@@ -11412,6 +11834,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/427-0411676580.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/427-0411676580.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17162148,
       10.15819911
@@ -11439,6 +11862,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1025-97d00f7b8e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1025-97d00f7b8e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.31864081,
       11.55229442
@@ -11466,6 +11890,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.49118916,
       8.50670194
@@ -11493,6 +11918,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/497-2ec1014788.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/497-2ec1014788.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -11520,6 +11946,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/232-0eee2e2e4e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/232-0eee2e2e4e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.72437033,
       9.04159313
@@ -11547,6 +11974,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86932225,
       11.91680034
@@ -11574,6 +12002,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.55380577,
       9.3183142
@@ -11601,6 +12030,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1026-412e4d4275.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1026-412e4d4275.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.79702076,
       11.27498796
@@ -11628,6 +12058,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.32031014,
       11.95519764
@@ -11655,6 +12086,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/797-eb8ad4dc3f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/797-eb8ad4dc3f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.43560842,
       8.91001913
@@ -11682,6 +12114,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.57689258,
       8.71515262
@@ -11709,6 +12142,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1028-d6a14aea0e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1028-d6a14aea0e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.85310811,
       11.37403038
@@ -11736,6 +12170,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/480-857eeea8b3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/480-857eeea8b3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.27196318,
       9.70492587
@@ -11763,6 +12198,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1029-73dded791e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1029-73dded791e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92123871,
       12.28696917
@@ -11790,6 +12226,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/501-7a971c9a42.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/501-7a971c9a42.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17800104,
       9.91179535
@@ -11817,6 +12254,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.8517685,
       8.69843044
@@ -11844,6 +12282,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/49-c6a043550a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/49-c6a043550a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.05355839,
       10.1977671
@@ -11871,6 +12310,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/503-0d7a947e0a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/503-0d7a947e0a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65719788,
       9.67048857
@@ -11898,6 +12338,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/504-3e3e91a597.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/504-3e3e91a597.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.93439431,
       9.86197889
@@ -11925,6 +12366,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1400-3ad0fdbd0b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1400-3ad0fdbd0b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.39954114,
       9.96614107
@@ -11952,6 +12394,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.07437317,
       9.28037618
@@ -11979,6 +12422,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1555-7ae2d1a04b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1555-7ae2d1a04b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.75145806,
       12.53343057
@@ -12006,6 +12450,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1556-78975c604c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1556-78975c604c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.75145806,
       12.53343057
@@ -12033,6 +12478,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/800-417fbb05aa.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/800-417fbb05aa.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.53607493,
       9.1837296
@@ -12060,6 +12506,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1032-7046a21a8d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1032-7046a21a8d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65647451,
       12.06373356
@@ -12087,6 +12534,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/526-1bb5c5da18.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/526-1bb5c5da18.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -12114,6 +12562,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/804-d7496c7d79.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/804-d7496c7d79.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.27645397,
       9.01601909
@@ -12141,6 +12590,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1033-87b7a69fd2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1033-87b7a69fd2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.16514414,
       12.29353244
@@ -12168,6 +12618,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2035-cdbe095ea7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2035-cdbe095ea7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.71256101,
       12.52876704
@@ -12195,6 +12646,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2122797,
       10.60886979
@@ -12222,6 +12674,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1034-a2561438b0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1034-a2561438b0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73610011,
       11.56410432
@@ -12249,6 +12702,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/505-071f39bb0d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/505-071f39bb0d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.85744681,
       9.2710166
@@ -12276,6 +12730,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.85744681,
       9.2710166
@@ -12303,6 +12758,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.22223999,
       9.73984728
@@ -12330,6 +12786,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -12357,6 +12814,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/51-36995e319a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/51-36995e319a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.16282327,
       9.76743314
@@ -12384,6 +12842,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/502-9cc090bac4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/502-9cc090bac4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7109795,
       12.57364633
@@ -12411,6 +12870,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1035-2e57efeaf8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1035-2e57efeaf8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73800813,
       12.48425242
@@ -12438,6 +12898,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1402-aa8cd1af1c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1402-aa8cd1af1c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.27213799,
       10.10343663
@@ -12465,6 +12926,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.55973335,
       8.83181793
@@ -12492,6 +12954,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.55973335,
       8.83181793
@@ -12519,6 +12982,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6741838,
       12.39697754
@@ -12546,6 +13010,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1712-f5348bc645.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1712-f5348bc645.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6741838,
       12.39697754
@@ -12573,6 +13038,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.02375436,
       9.24826265
@@ -12600,6 +13066,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.36237671,
       11.67300466
@@ -12627,6 +13094,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.27645397,
       9.01601909
@@ -12654,6 +13122,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73668449,
       12.3638449
@@ -12681,6 +13150,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.3806496,
       9.90941177
@@ -12708,6 +13178,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/511-25b4eb415f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/511-25b4eb415f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -12735,6 +13206,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/805-6fff195481.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/805-6fff195481.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.37115323,
       8.60307494
@@ -12762,6 +13234,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/513-e6b477f82a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/513-e6b477f82a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -12789,6 +13262,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -12816,6 +13290,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/515-9c20c9d5b4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/515-9c20c9d5b4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.43069147,
       11.08217337
@@ -12843,6 +13318,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1041-c374765c8e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1041-c374765c8e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.54103195,
       12.3529229
@@ -12870,6 +13346,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/806-01b42e45f2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/806-01b42e45f2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.75986358,
       8.89887879
@@ -12897,6 +13374,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.09538719,
       10.09257652
@@ -12924,6 +13402,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/516-d69c1f9b7c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/516-d69c1f9b7c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.25949156,
       10.06719333
@@ -12951,6 +13430,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1043-76c7e43cc9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1043-76c7e43cc9.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.22745639,
       12.06980339
@@ -12978,6 +13458,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15361133,
       8.50600358
@@ -13005,6 +13486,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.85744681,
       9.2710166
@@ -13032,6 +13514,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64503648,
       12.40439537
@@ -13059,6 +13542,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/803-7d68673078.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/803-7d68673078.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.91730187,
       9.55791076
@@ -13086,6 +13570,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.3800683,
       9.78710533
@@ -13113,6 +13598,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.54580784,
       8.33453584
@@ -13140,6 +13626,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/306-af078bc17e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/306-af078bc17e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.54580784,
       8.33453584
@@ -13167,6 +13654,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/53-3e3bfc7997.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/53-3e3bfc7997.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.91678716,
       10.27569023
@@ -13194,6 +13682,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/54-e5af6e7f47.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/54-e5af6e7f47.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.9991663,
       9.93295578
@@ -13221,6 +13710,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.90483893,
       11.62528305
@@ -13248,6 +13738,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.11911505,
       8.98775376
@@ -13275,6 +13766,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/55-f8f43b0b4a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/55-f8f43b0b4a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.94881207,
       9.57985536
@@ -13302,6 +13794,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1045-d10db4336d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1045-d10db4336d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65647451,
       12.06373356
@@ -13329,6 +13822,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65647451,
       12.06373356
@@ -13356,6 +13850,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/94-81bcc898c0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/94-81bcc898c0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.38233116,
       9.65510765
@@ -13383,6 +13878,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92457284,
       10.24464778
@@ -13410,6 +13906,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2065-258bd875f3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2065-258bd875f3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92457284,
       10.24464778
@@ -13437,6 +13934,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/56-c85c010ba5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/56-c85c010ba5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.52270103,
       10.72500277
@@ -13464,6 +13962,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -13491,6 +13990,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/519-51d3c597c5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/519-51d3c597c5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -13518,6 +14018,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.4813413,
       8.82201058
@@ -13545,6 +14046,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1351-18e894aac2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1351-18e894aac2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.51887316,
       11.04711131
@@ -13572,6 +14074,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.51887316,
       11.04711131
@@ -13599,6 +14102,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1050-da9d143a1e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1050-da9d143a1e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.8837888,
       12.2099944
@@ -13626,6 +14130,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1051-73575c348f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1051-73575c348f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.43053197,
       11.82805925
@@ -13653,6 +14158,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/499-d6fde71a1c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/499-d6fde71a1c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65719788,
       9.67048857
@@ -13680,6 +14186,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/623-2106a61796.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/623-2106a61796.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -13707,6 +14214,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/808-99bfcf2840.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/808-99bfcf2840.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.24177268,
       9.61886938
@@ -13734,6 +14242,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/521-3a0a619e07.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/521-3a0a619e07.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.33866468,
       10.0289852
@@ -13761,6 +14270,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/57-8430a8e7f2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/57-8430a8e7f2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.77688954,
       10.41645939
@@ -13788,6 +14298,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1052-2f0bc3a268.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1052-2f0bc3a268.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73825064,
       11.69985606
@@ -13815,6 +14326,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1934-cb3c3ac244.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1934-cb3c3ac244.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41681148,
       9.36897659
@@ -13842,6 +14354,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/59-e1b139ad1d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/59-e1b139ad1d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.96384115,
       10.65368838
@@ -13869,6 +14382,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2600-4d20bc697d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2600-4d20bc697d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.75748092,
       10.98835691
@@ -13896,6 +14410,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.75748092,
       10.98835691
@@ -13923,6 +14438,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/523-010d0df5db.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/523-010d0df5db.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.26356721,
       9.8817943
@@ -13950,6 +14466,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.43069147,
       11.08217337
@@ -13977,6 +14494,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/810-3defa616c3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/810-3defa616c3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2436827,
       9.31835235
@@ -14004,6 +14522,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.11911505,
       8.98775376
@@ -14031,6 +14550,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/238-b28e9d56b3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/238-b28e9d56b3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.11911505,
       8.98775376
@@ -14058,6 +14578,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.06515415,
       9.38166979
@@ -14085,6 +14606,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.12742277,
       9.20878724
@@ -14112,6 +14634,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1558-27533d9bc5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1558-27533d9bc5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7109795,
       12.57364633
@@ -14139,6 +14662,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.99089664,
       8.53885308
@@ -14166,6 +14690,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.00570708,
       9.03058677
@@ -14193,6 +14718,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/240-8d5505157f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/240-8d5505157f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.44347291,
       8.33928238
@@ -14220,6 +14746,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/241-a302e0ffaf.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/241-a302e0ffaf.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.62870473,
       8.06400269
@@ -14247,6 +14774,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.43288826,
       8.64900967
@@ -14274,6 +14802,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1054-7615b2e871.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1054-7615b2e871.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.77912974,
       12.35591788
@@ -14301,6 +14830,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/527-13825e8161.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/527-13825e8161.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.14059283,
       9.99991491
@@ -14328,6 +14858,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/721-ba9dc9df2c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/721-ba9dc9df2c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50221297,
       9.46847631
@@ -14355,6 +14886,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.40887345,
       11.37134678
@@ -14382,6 +14914,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/528-6c61e28a97.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/528-6c61e28a97.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17162148,
       10.15819911
@@ -14409,6 +14942,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1673-97bdd1fb0e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1673-97bdd1fb0e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2284316,
       14.52165638
@@ -14436,6 +14970,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1056-c710e682bd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1056-c710e682bd.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.32031014,
       11.95519764
@@ -14463,6 +14998,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.32031014,
       11.95519764
@@ -14490,6 +15026,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/529-9eade7c00a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/529-9eade7c00a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86597915,
       9.89301425
@@ -14517,6 +15054,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/61-13f6e44187.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/61-13f6e44187.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.80003403,
       9.49610809
@@ -14544,6 +15082,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1058-dcce5cdb9d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1058-dcce5cdb9d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.54041131,
       12.11265454
@@ -14571,6 +15110,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/62-5699c33f02.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/62-5699c33f02.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.74794316,
       9.63042311
@@ -14598,6 +15138,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.6517573,
       10.26167957
@@ -14625,6 +15166,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.45527126,
       12.22015308
@@ -14652,6 +15194,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.36051392,
       9.64257403
@@ -14679,6 +15222,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/532-7d2a3a0c3d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/532-7d2a3a0c3d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.76508387,
       9.71130088
@@ -14706,6 +15250,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20098497,
       4.07461311
@@ -14733,6 +15278,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/812-90df7be5ed.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/812-90df7be5ed.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69122218,
       8.96462269
@@ -14760,6 +15306,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1561-cbecea6e92.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1561-cbecea6e92.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65941452,
       12.49869399
@@ -14787,6 +15334,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1935-7dac5dd714.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1935-7dac5dd714.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.76046689,
       10.02918372
@@ -14814,6 +15362,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1562-5a94befb95.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1562-5a94befb95.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73442051,
       12.56946744
@@ -14841,6 +15390,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1062-5697fd673a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1062-5697fd673a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.33554618,
       12.51110642
@@ -14868,6 +15418,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.07437317,
       9.28037618
@@ -14895,6 +15446,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1063-52271f5d2d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1063-52271f5d2d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.01099572,
       12.1715219
@@ -14922,6 +15474,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1065-1ca7431c9a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1065-1ca7431c9a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.03943161,
       12.61245096
@@ -14949,6 +15502,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/534-9b9b3173b5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/534-9b9b3173b5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.48050883,
       9.88044731
@@ -14976,6 +15530,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.71982269,
       4.43594447
@@ -15003,6 +15558,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.08052418,
       8.66992988
@@ -15030,6 +15586,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1066-95e11cd95a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1066-95e11cd95a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.41715543,
       12.14194267
@@ -15057,6 +15614,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1068-efe13fba6a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1068-efe13fba6a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.74057031,
       12.42581802
@@ -15084,6 +15642,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.32910688,
       11.77284465
@@ -15111,6 +15670,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1070-8d4fa91316.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1070-8d4fa91316.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.19504272,
       11.77357353
@@ -15138,6 +15698,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.18215286,
       8.74507312
@@ -15165,6 +15726,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/245-4aa763d12c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/245-4aa763d12c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.11911505,
       8.98775376
@@ -15192,6 +15754,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.11911505,
       8.98775376
@@ -15219,6 +15782,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/247-d6ef270518.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/247-d6ef270518.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.11911505,
       8.98775376
@@ -15246,6 +15810,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1407-5428972c1c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1407-5428972c1c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2661035,
       10.63473931
@@ -15273,6 +15838,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/535-6a9886a736.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/535-6a9886a736.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17800104,
       9.91179535
@@ -15300,6 +15866,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/250-cd481efb85.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/250-cd481efb85.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.6088695,
       9.50805968
@@ -15327,6 +15894,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1071-020c8d12cf.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1071-020c8d12cf.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6869516,
       12.34477556
@@ -15354,6 +15922,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1410-0d936b8add.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1410-0d936b8add.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.17539817,
       10.79995852
@@ -15381,6 +15950,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15035869,
       9.25469883
@@ -15408,6 +15978,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3723-5a94befb95.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3723-5a94befb95.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73442051,
       12.56946744
@@ -15435,6 +16006,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/251-5127330561.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/251-5127330561.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.32370377,
       7.90681299
@@ -15462,6 +16034,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1073-672b8e788a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1073-672b8e788a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92123871,
       12.28696917
@@ -15489,6 +16062,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1075-e90626428e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1075-e90626428e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65647451,
       12.06373356
@@ -15516,6 +16090,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1937-e744e51652.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1937-e744e51652.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.74794316,
       9.63042311
@@ -15543,6 +16118,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/64-a202f7e9a3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/64-a202f7e9a3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.94281241,
       9.71496643
@@ -15570,6 +16146,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15051496,
       10.27802097
@@ -15597,6 +16174,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/65-3c03e73857.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/65-3c03e73857.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.17870119,
       10.13790859
@@ -15624,6 +16202,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.61622153,
       11.38733175
@@ -15651,6 +16230,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2209888,
       10.42313811
@@ -15678,6 +16258,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.43288826,
       8.64900967
@@ -15705,6 +16286,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/925-be3b184256.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/925-be3b184256.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.55262453,
       8.34866677
@@ -15732,6 +16314,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/815-f7ddefb20e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/815-f7ddefb20e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.07437317,
       9.28037618
@@ -15759,6 +16342,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.12742277,
       9.20878724
@@ -15786,6 +16370,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1077-e0a2619f8f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1077-e0a2619f8f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.74057031,
       12.42581802
@@ -15813,6 +16398,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/67-19c04807f3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/67-19c04807f3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.70230652,
       9.2956345
@@ -15840,6 +16426,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/68-bec0305305.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/68-bec0305305.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.70230652,
       9.2956345
@@ -15867,6 +16454,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.70230652,
       9.2956345
@@ -15894,6 +16482,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/69-8cdbc0cca8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/69-8cdbc0cca8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.6528756,
       9.77366901
@@ -15921,6 +16510,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.6528756,
       9.77366901
@@ -15948,6 +16538,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/254-2dc6e20e8c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/254-2dc6e20e8c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.2699576,
       8.79948064
@@ -15975,6 +16566,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/537-7bf7c81b9b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/537-7bf7c81b9b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.25949156,
       10.06719333
@@ -16002,6 +16594,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73825064,
       11.69985606
@@ -16029,6 +16622,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73825064,
       11.69985606
@@ -16056,6 +16650,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1079-e0b57b6bfa.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1079-e0b57b6bfa.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73825064,
       11.69985606
@@ -16083,6 +16678,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.8687306,
       9.46328593
@@ -16110,6 +16706,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.70172856,
       11.53543477
@@ -16137,6 +16734,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1411-d4088a2c73.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1411-d4088a2c73.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.34929575,
       10.49825565
@@ -16164,6 +16762,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.06940698,
       9.77014411
@@ -16191,6 +16790,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.25979308,
       11.86408266
@@ -16218,6 +16818,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1080-189187718d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1080-189187718d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.25979308,
       11.86408266
@@ -16245,6 +16846,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/400-a15a9cc119.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/400-a15a9cc119.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20098497,
       4.07461311
@@ -16272,6 +16874,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/255-11a5eaae1b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/255-11a5eaae1b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.34794414,
       8.58519299
@@ -16299,6 +16902,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.54580784,
       8.33453584
@@ -16326,6 +16930,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/817-4095190897.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/817-4095190897.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.51123399,
       8.90149179
@@ -16353,6 +16958,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1082-c9b46c212f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1082-c9b46c212f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.81684549,
       12.48640452
@@ -16380,6 +16986,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2360-d598ddb55e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2360-d598ddb55e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.81684549,
       12.48640452
@@ -16407,6 +17014,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/70-580189a2ea.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/70-580189a2ea.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.05355839,
       10.1977671
@@ -16434,6 +17042,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.24177268,
       9.61886938
@@ -16461,6 +17070,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1634-82b7c2b851.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1634-82b7c2b851.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.69990623,
       12.29995982
@@ -16488,6 +17098,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1083-2d95e5a209.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1083-2d95e5a209.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.10118532,
       12.45420474
@@ -16515,6 +17126,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/540-de48060ebf.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/540-de48060ebf.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.48050883,
       9.88044731
@@ -16542,6 +17154,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1412-3938d67451.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1412-3938d67451.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.11203154,
       10.30952407
@@ -16569,6 +17182,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65607154,
       8.52854473
@@ -16596,6 +17210,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.94281241,
       9.71496643
@@ -16623,6 +17238,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/541-ca357bdf2c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/541-ca357bdf2c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.33260256,
       10.29717181
@@ -16650,6 +17266,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/72-2fdcb22a9b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/72-2fdcb22a9b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.80003403,
       9.49610809
@@ -16677,6 +17294,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/542-47e797ba2d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/542-47e797ba2d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86597915,
       9.89301425
@@ -16704,6 +17322,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86597915,
       9.89301425
@@ -16731,6 +17350,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/546-974e87eb88.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/546-974e87eb88.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86597915,
       9.89301425
@@ -16758,6 +17378,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/545-b474851242.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/545-b474851242.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86597915,
       9.89301425
@@ -16785,6 +17406,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/547-9790bc756a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/547-9790bc756a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86597915,
       9.89301425
@@ -16812,6 +17434,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86597915,
       9.89301425
@@ -16839,6 +17462,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.96838447,
       11.20918569
@@ -16866,6 +17490,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.48934885,
       9.78489314
@@ -16893,6 +17518,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.96384115,
       10.65368838
@@ -16920,6 +17546,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1928-d2fb6e1374.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1928-d2fb6e1374.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92457284,
       10.24464778
@@ -16947,6 +17574,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/548-80547943c7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/548-80547943c7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92457284,
       10.24464778
@@ -16974,6 +17602,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/550-4e153972df.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/550-4e153972df.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.3806496,
       9.90941177
@@ -17001,6 +17630,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/415-cd28f3833e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/415-cd28f3833e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41681148,
       9.36897659
@@ -17028,6 +17658,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.60367953,
       8.94671137
@@ -17055,6 +17686,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/551-37c2c061de.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/551-37c2c061de.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.95626604,
       9.98616441
@@ -17082,6 +17714,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/552-cb8cc6502c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/552-cb8cc6502c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -17109,6 +17742,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/258-e6c59820c0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/258-e6c59820c0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15361133,
       8.50600358
@@ -17136,6 +17770,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.07437317,
       9.28037618
@@ -17163,6 +17798,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.81821541,
       10.63436277
@@ -17190,6 +17826,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1085-a34f3649bb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1085-a34f3649bb.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.9604599,
       12.53687938
@@ -17217,6 +17854,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.32370377,
       7.90681299
@@ -17244,6 +17882,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/75-d38d8b5741.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/75-d38d8b5741.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.70230652,
       9.2956345
@@ -17271,6 +17910,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.46065157,
       8.70168486
@@ -17298,6 +17938,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1086-21c4abba19.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1086-21c4abba19.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.26445585,
       11.6705916
@@ -17325,6 +17966,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1087-c951566646.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1087-c951566646.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.54103195,
       12.3529229
@@ -17352,6 +17994,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/76-a28b0c0d1c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/76-a28b0c0d1c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.16282327,
       9.76743314
@@ -17379,6 +18022,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/260-2980dcaad0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/260-2980dcaad0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.72425361,
       8.42909599
@@ -17406,6 +18050,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1563-e11586488c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1563-e11586488c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.70964347,
       12.48463422
@@ -17433,6 +18078,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1088-3774d6ac4f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1088-3774d6ac4f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.58583604,
       11.86940589
@@ -17460,6 +18106,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1089-08c925e3f9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1089-08c925e3f9.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.61730235,
       11.23183281
@@ -17487,6 +18134,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.31137673,
       8.76358629
@@ -17514,6 +18162,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1564-2f60244701.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1564-2f60244701.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.58934868,
       12.46097002
@@ -17541,6 +18190,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.58934868,
       12.46097002
@@ -17568,6 +18218,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.02388208,
       9.89235588
@@ -17595,6 +18246,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.90779403,
       11.55659445
@@ -17622,6 +18274,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1416-7d7352cc24.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1416-7d7352cc24.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.34939755,
       10.39917484
@@ -17649,6 +18302,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1095-00c10540cb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1095-00c10540cb.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73800813,
       12.48425242
@@ -17676,6 +18330,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.02899493,
       9.49975045
@@ -17703,6 +18358,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6579409,
       12.28083382
@@ -17730,6 +18386,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/737-ef04659ba3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/737-ef04659ba3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -17757,6 +18414,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.97473424,
       8.65269961
@@ -17784,6 +18442,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/827-c042d1f566.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/827-c042d1f566.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.97473424,
       8.65269961
@@ -17811,6 +18470,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/264-cd56c7018b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/264-cd56c7018b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.59677993,
       9.16509632
@@ -17838,6 +18498,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.31137673,
       8.76358629
@@ -17865,6 +18526,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50308551,
       11.30548124
@@ -17892,6 +18554,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1097-2417d411f0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1097-2417d411f0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50308551,
       11.30548124
@@ -17919,6 +18582,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.2843629,
       10.57327556
@@ -17946,6 +18610,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.2843629,
       10.57327556
@@ -17973,6 +18638,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.42912946,
       10.17671406
@@ -18000,6 +18666,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/557-518b49521a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/557-518b49521a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.09369625,
       10.0135704
@@ -18027,6 +18694,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1098-df575ce12f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1098-df575ce12f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.88693173,
       12.54954886
@@ -18054,6 +18722,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/828-9dffdd1e8b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/828-9dffdd1e8b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.87308589,
       10.03587811
@@ -18081,6 +18750,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1099-389b09c714.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1099-389b09c714.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.76162863,
       11.40509
@@ -18108,6 +18778,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/705-b43e73f125.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/705-b43e73f125.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.33866468,
       10.0289852
@@ -18135,6 +18806,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.88126308,
       12.43890506
@@ -18162,6 +18834,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.18924968,
       10.07032627
@@ -18189,6 +18862,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1418-1feefdc765.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1418-1feefdc765.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.18924968,
       10.07032627
@@ -18216,6 +18890,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1419-cba5a3c81a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1419-cba5a3c81a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.48691259,
       10.08371535
@@ -18243,6 +18918,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3798-4d1a3b9f7e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3798-4d1a3b9f7e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.25079677,
       11.528121
@@ -18270,6 +18946,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.34794414,
       8.58519299
@@ -18297,6 +18974,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1782-27a5bfd9bd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1782-27a5bfd9bd.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15788265,
       10.06788413
@@ -18324,6 +19002,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.9928841,
       11.56343652
@@ -18351,6 +19030,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.34794414,
       8.58519299
@@ -18378,6 +19058,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.76264148,
       9.94260419
@@ -18405,6 +19086,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/108-a916155d2d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/108-a916155d2d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.89861349,
       9.12839085
@@ -18432,6 +19114,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/986-9f0bd7437e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/986-9f0bd7437e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73800813,
       12.48425242
@@ -18459,6 +19142,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/967-f51b263f5e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/967-f51b263f5e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.44838852,
       12.02691725
@@ -18486,6 +19170,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/100-d52e900328.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/100-d52e900328.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.11542161,
       9.8563612
@@ -18513,6 +19198,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1606-2907c2f895.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1606-2907c2f895.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -18540,6 +19226,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.26356721,
       9.8817943
@@ -18567,6 +19254,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.05425152,
       10.00949733
@@ -18594,6 +19282,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/586-8385b9a3c7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/586-8385b9a3c7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.09903701,
       10.28961018
@@ -18621,6 +19310,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/590-cc4ca06fa7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/590-cc4ca06fa7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.38481233,
       10.50027849
@@ -18648,6 +19338,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/591-079b5267ea.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/591-079b5267ea.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15222183,
       10.45208963
@@ -18675,6 +19366,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/300-e7e9ef1823.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/300-e7e9ef1823.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.90798948,
       8.88457349
@@ -18702,6 +19394,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/301-4fc41f6ca1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/301-4fc41f6ca1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.32370377,
       7.90681299
@@ -18729,6 +19422,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/965-22d29b0730.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/965-22d29b0730.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.84270608,
       12.41757019
@@ -18756,6 +19450,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/134-cff7c7f070.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/134-cff7c7f070.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.2843629,
       10.57327556
@@ -18783,6 +19478,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1256-df0b9b1aa8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1256-df0b9b1aa8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.10685595,
       11.78064612
@@ -18810,6 +19506,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/360-aeb0f3a8f8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/360-aeb0f3a8f8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.49762699,
       9.60208409
@@ -18837,6 +19534,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/605-7863cb3085.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/605-7863cb3085.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.38481233,
       10.50027849
@@ -18864,6 +19562,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.74794316,
       9.63042311
@@ -18891,6 +19590,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/266-caa231be7a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/266-caa231be7a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.09377094,
       9.1925469
@@ -18918,6 +19618,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.38233116,
       9.65510765
@@ -18945,6 +19646,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/81-cd3d0b7192.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/81-cd3d0b7192.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.38233116,
       9.65510765
@@ -18972,6 +19674,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7109795,
       12.57364633
@@ -18999,6 +19702,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.71256101,
       12.52876704
@@ -19026,6 +19730,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1226-41e1c9b308.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1226-41e1c9b308.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.93559156,
       12.15008815
@@ -19053,6 +19758,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -19080,6 +19786,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/268-43080cb62e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/268-43080cb62e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.09377094,
       9.1925469
@@ -19107,6 +19814,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3649-0cb14799a4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3649-0cb14799a4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.09377094,
       9.1925469
@@ -19134,6 +19842,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1104-841e1e3e7c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1104-841e1e3e7c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.68182922,
       12.44863533
@@ -19161,6 +19870,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.88126308,
       12.43890506
@@ -19188,6 +19898,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/426-089351ea99.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/426-089351ea99.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.12635244,
       10.13778473
@@ -19215,6 +19926,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/829-9402439ad1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/829-9402439ad1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.63374455,
       8.38971082
@@ -19242,6 +19954,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.63374455,
       8.38971082
@@ -19269,6 +19982,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.95248429,
       8.89453488
@@ -19296,6 +20010,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/561-5c41e4df06.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/561-5c41e4df06.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.76853547,
       9.43589642
@@ -19323,6 +20038,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/832-ef25ad362d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/832-ef25ad362d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.38472069,
       9.14057169
@@ -19350,6 +20066,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/833-15fcb67c9e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/833-15fcb67c9e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.49118916,
       8.50670194
@@ -19377,6 +20094,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1105-071659c7df.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1105-071659c7df.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.66048124,
       11.60711139
@@ -19404,6 +20122,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/834-5c8d1c9399.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/834-5c8d1c9399.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.37115323,
       8.60307494
@@ -19431,6 +20150,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.29699349,
       10.11084423
@@ -19458,6 +20178,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.20322545,
       9.65450533
@@ -19485,6 +20206,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/84-93a1021025.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/84-93a1021025.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.20322545,
       9.65450533
@@ -19512,6 +20234,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.45935717,
       8.46174114
@@ -19539,6 +20262,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6883311,
       12.48194421
@@ -19566,6 +20290,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/563-e47bd8ff73.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/563-e47bd8ff73.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.76046689,
       10.02918372
@@ -19593,6 +20318,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1107-d0a301c847.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1107-d0a301c847.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.61622153,
       11.38733175
@@ -19620,6 +20346,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1108-b9061bf3e6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1108-b9061bf3e6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.75603087,
       12.10404063
@@ -19647,6 +20374,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1109-6b48be06b0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1109-6b48be06b0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.52537395,
       11.85552289
@@ -19674,6 +20402,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1565-b412a00173.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1565-b412a00173.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.75145806,
       12.53343057
@@ -19701,6 +20430,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1110-4851c9224e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1110-4851c9224e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86932225,
       11.91680034
@@ -19728,6 +20458,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1557-04e875d5e6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1557-04e875d5e6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.68095745,
       12.5736165
@@ -19755,6 +20486,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1111-6daf8adf2f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1111-6daf8adf2f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.70601705,
       10.97431629
@@ -19782,6 +20514,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1113-d25f439573.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1113-d25f439573.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.29633252,
       12.21696415
@@ -19809,6 +20542,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1115-082858dfdb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1115-082858dfdb.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.5692769,
       12.21374503
@@ -19836,6 +20570,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1117-2b7a8d5035.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1117-2b7a8d5035.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.15521424,
       11.6361743
@@ -19863,6 +20598,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.94883412,
       8.92947696
@@ -19890,6 +20626,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1955-714e55eeb9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1955-714e55eeb9.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.32799021,
       9.17419358
@@ -19917,6 +20654,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1566-73d9386e6e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1566-73d9386e6e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.63352245,
       12.78698239
@@ -19944,6 +20682,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3843-7a2d580ab6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3843-7a2d580ab6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20167527,
       10.15922351
@@ -19971,6 +20710,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1422-e9ffafc3fe.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1422-e9ffafc3fe.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.48934885,
       9.78489314
@@ -19998,6 +20738,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.54103195,
       12.3529229
@@ -20025,6 +20766,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/186-a753c52d8d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/186-a753c52d8d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.05425152,
       10.00949733
@@ -20052,6 +20794,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1127-4eee00fb74.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1127-4eee00fb74.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92123871,
       12.28696917
@@ -20079,6 +20822,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.37369367,
       10.03851749
@@ -20106,6 +20850,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1424-814104f62e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1424-814104f62e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.49807432,
       10.8508032
@@ -20133,6 +20878,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.49807432,
       10.8508032
@@ -20160,6 +20906,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1198-b2d29e54bf.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1198-b2d29e54bf.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65647451,
       12.06373356
@@ -20187,6 +20934,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1425-55cf458dd2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1425-55cf458dd2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.39401435,
       10.32843174
@@ -20214,6 +20962,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1569-cbcc9cbd85.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1569-cbcc9cbd85.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.71256101,
       12.52876704
@@ -20241,6 +20990,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/272-d6d0ee2e86.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/272-d6d0ee2e86.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.94883412,
       8.92947696
@@ -20268,6 +21018,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.403021,
       10.39174411
@@ -20295,6 +21046,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50221297,
       9.46847631
@@ -20322,6 +21074,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1121-54283add39.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1121-54283add39.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.51887316,
       11.04711131
@@ -20349,6 +21102,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1122-8173a8576e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1122-8173a8576e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.70417096,
       11.92418149
@@ -20376,6 +21130,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1427-970b8f1c2b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1427-970b8f1c2b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.12556284,
       10.52352287
@@ -20403,6 +21158,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.70230652,
       9.2956345
@@ -20430,6 +21186,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.46317549,
       8.99505562
@@ -20457,6 +21214,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/274-de2ea82a17.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/274-de2ea82a17.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.2882506,
       9.39095532
@@ -20484,6 +21242,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1567-a8423fb15e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1567-a8423fb15e.webp",
     "kaldenavn": "KB",
+    "aliases": [],
     "coords": [
       55.67945641,
       12.51562935
@@ -20511,6 +21270,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17800104,
       9.91179535
@@ -20538,6 +21298,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/345-fa6c40de0f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/345-fa6c40de0f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.6528756,
       9.77366901
@@ -20565,6 +21326,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1674-00e8ac454b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1674-00e8ac454b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.19264146,
       14.81018781
@@ -20592,6 +21354,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/276-3aff39542c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/276-3aff39542c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.54580784,
       8.33453584
@@ -20619,6 +21382,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1428-9fd8597608.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1428-9fd8597608.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6129967,
       10.15483531
@@ -20646,6 +21410,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/277-3454e6a5e2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/277-3454e6a5e2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.32370377,
       7.90681299
@@ -20673,6 +21438,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/85-92f7b2da44.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/85-92f7b2da44.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.17870119,
       10.13790859
@@ -20700,6 +21466,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.06237954,
       8.96415413
@@ -20727,6 +21494,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/565-4c131aaa22.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/565-4c131aaa22.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92463273,
       9.48555987
@@ -20754,6 +21522,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65941452,
       12.49869399
@@ -20781,6 +21550,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64503648,
       12.40439537
@@ -20808,6 +21578,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1568-b5db17a3e3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1568-b5db17a3e3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -20835,6 +21606,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1675-33d8c88ae2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1675-33d8c88ae2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.98495945,
       14.40163467
@@ -20862,6 +21634,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1837-0866fcc3c1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1837-0866fcc3c1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.91992432,
       12.45605071
@@ -20889,6 +21662,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/279-7e11055307.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/279-7e11055307.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.2597249,
       7.47858654
@@ -20916,6 +21690,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/566-4f8c9ce762.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/566-4f8c9ce762.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50221297,
       9.46847631
@@ -20943,6 +21718,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/567-9eef922684.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/567-9eef922684.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50221297,
       9.46847631
@@ -20970,6 +21746,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1938-d27e5c755c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1938-d27e5c755c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50221297,
       9.46847631
@@ -20997,6 +21774,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/569-be4df09196.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/569-be4df09196.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.34682936,
       10.61106988
@@ -21024,6 +21802,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/570-94f9f2d687.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/570-94f9f2d687.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.10123046,
       10.08245179
@@ -21051,6 +21830,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.32799021,
       9.17419358
@@ -21078,6 +21858,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.89578273,
       10.1135906
@@ -21105,6 +21886,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1429-fcf63ac9c1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1429-fcf63ac9c1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.11203154,
       10.30952407
@@ -21132,6 +21914,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/571-16cc68a79b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/571-16cc68a79b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86597915,
       9.89301425
@@ -21159,6 +21942,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/572-5e07f29f5d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/572-5e07f29f5d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.25949156,
       10.06719333
@@ -21186,6 +21970,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64077611,
       12.52309722
@@ -21213,6 +21998,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1431-2317161b79.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1431-2317161b79.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.49807432,
       10.8508032
@@ -21240,6 +22026,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1123-9916e622b0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1123-9916e622b0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.77912974,
       12.35591788
@@ -21267,6 +22054,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1989-d2e44db232.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1989-d2e44db232.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.81385497,
       9.69416947
@@ -21294,6 +22082,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1432-a25e323138.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1432-a25e323138.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2209888,
       10.42313811
@@ -21321,6 +22110,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/573-fa4beb8225.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/573-fa4beb8225.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.42912946,
       10.17671406
@@ -21348,6 +22138,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.75986358,
       8.89887879
@@ -21375,6 +22166,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.79347704,
       8.61815877
@@ -21402,6 +22194,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3650-b55b56a094.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3650-b55b56a094.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6940569,
       12.54914572
@@ -21429,6 +22222,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1430-978a6f2a60.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1430-978a6f2a60.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.41754658,
       10.30695242
@@ -21456,6 +22250,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1130-850f9b8f3a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1130-850f9b8f3a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.71737311,
       11.48951817
@@ -21483,6 +22278,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.49118916,
       8.50670194
@@ -21510,6 +22306,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/880-3dd7eabfcb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/880-3dd7eabfcb.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.31137673,
       8.76358629
@@ -21537,6 +22334,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/280-c968e79a1d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/280-c968e79a1d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.69297871,
       9.4967184
@@ -21564,6 +22362,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -21591,6 +22390,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/184-e6a9c7074b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/184-e6a9c7074b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.52270103,
       10.72500277
@@ -21618,6 +22418,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.99928886,
       12.49542003
@@ -21645,6 +22446,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65607154,
       8.52854473
@@ -21672,6 +22474,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1132-994c1f93a9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1132-994c1f93a9.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.43053197,
       11.82805925
@@ -21699,6 +22502,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1437-cb08660e74.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1437-cb08660e74.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.18424637,
       10.54250568
@@ -21726,6 +22530,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.91730187,
       9.55791076
@@ -21753,6 +22558,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.58244324,
       10.10165114
@@ -21780,6 +22586,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.05171431,
       9.8350492
@@ -21807,6 +22614,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67945641,
       12.51562935
@@ -21834,6 +22642,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73668449,
       12.3638449
@@ -21861,6 +22670,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1133-a3d2ae099b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1133-a3d2ae099b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.45527126,
       12.22015308
@@ -21888,6 +22698,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1961-adac3d7a59.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1961-adac3d7a59.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.45527126,
       12.22015308
@@ -21915,6 +22726,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1194-99ef018966.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1194-99ef018966.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.45527126,
       12.22015308
@@ -21942,6 +22754,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.45527126,
       12.22015308
@@ -21969,6 +22782,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.11911505,
       8.98775376
@@ -21996,6 +22810,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3230-f0f404cb1e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3230-f0f404cb1e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.97060588,
       12.03439585
@@ -22023,6 +22838,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1438-84ae04fdcc.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1438-84ae04fdcc.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.36672658,
       10.58946818
@@ -22050,6 +22866,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/73-f78ae2d2a6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/73-f78ae2d2a6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.09538719,
       10.09257652
@@ -22077,6 +22894,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.38540272,
       10.67264084
@@ -22104,6 +22922,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/575-9898f995d9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/575-9898f995d9.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.3806496,
       9.90941177
@@ -22131,6 +22950,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1135-daa942d558.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1135-daa942d558.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.72556424,
       12.28121197
@@ -22158,6 +22978,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1136-6d2ba3515b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1136-6d2ba3515b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.58934868,
       12.46097002
@@ -22185,6 +23006,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1137-a9b56e5275.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1137-a9b56e5275.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.59456942,
       11.95696429
@@ -22212,6 +23034,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1138-f0675d0d49.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1138-f0675d0d49.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.45527126,
       12.22015308
@@ -22239,6 +23062,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.05110041,
       8.42316735
@@ -22266,6 +23090,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/578-eec457ebfc.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/578-eec457ebfc.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.24319222,
       9.55711799
@@ -22293,6 +23118,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/284-d18127a12b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/284-d18127a12b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.54580784,
       8.33453584
@@ -22320,6 +23146,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/89-3978a9cc9f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/89-3978a9cc9f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.4674892,
       10.24075136
@@ -22347,6 +23174,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.2882506,
       9.39095532
@@ -22374,6 +23202,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/409-9c27fe96cd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/409-9c27fe96cd.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.54580784,
       8.33453584
@@ -22401,6 +23230,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/285-1041a35944.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/285-1041a35944.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.11911505,
       8.98775376
@@ -22428,6 +23258,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/286-46319de7d5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/286-46319de7d5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.52775554,
       8.60339354
@@ -22455,6 +23286,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/580-3def122606.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/580-3def122606.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -22482,6 +23314,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.41777362,
       8.99575864
@@ -22509,6 +23342,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1142-341e8fa036.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1142-341e8fa036.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.74057031,
       12.42581802
@@ -22536,6 +23370,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20167527,
       10.15922351
@@ -22563,6 +23398,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1640-dd81e9fcf4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1640-dd81e9fcf4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.7930621,
       11.90198993
@@ -22590,6 +23426,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.68763915,
       8.70032858
@@ -22617,6 +23454,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/91-1924aa02dd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/91-1924aa02dd.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.93195612,
       10.01379029
@@ -22644,6 +23482,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1933-3339ef2f9f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1933-3339ef2f9f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.54580784,
       8.33453584
@@ -22671,6 +23510,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.88518842,
       10.80968538
@@ -22698,6 +23538,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.72556424,
       12.28121197
@@ -22725,6 +23566,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1442-2befb0a31f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1442-2befb0a31f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.44966319,
       10.35714765
@@ -22752,6 +23594,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/582-11365d02bf.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/582-11365d02bf.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86597915,
       9.89301425
@@ -22779,6 +23622,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.10685595,
       11.78064612
@@ -22806,6 +23650,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7873441,
       8.22547945
@@ -22833,6 +23678,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/183-77c6166ac1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/183-77c6166ac1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.70230652,
       9.2956345
@@ -22860,6 +23706,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/583-ac367993aa.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/583-ac367993aa.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.4763505,
       9.32882435
@@ -22887,6 +23734,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.4763505,
       9.32882435
@@ -22914,6 +23762,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.02899493,
       9.49975045
@@ -22941,6 +23790,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1145-3cd4190795.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1145-3cd4190795.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.78572204,
       12.52083673
@@ -22968,6 +23818,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.78572204,
       12.52083673
@@ -22995,6 +23846,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1146-b06032d6e7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1146-b06032d6e7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.78572204,
       12.52083673
@@ -23022,6 +23874,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1148-141be86474.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1148-141be86474.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.40880423,
       11.55727004
@@ -23049,6 +23902,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1149-6ff4d01342.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1149-6ff4d01342.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.8397364,
       12.28059858
@@ -23076,6 +23930,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1931-95ae8c1426.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1931-95ae8c1426.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.62765212,
       8.51363052
@@ -23103,6 +23958,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.2843629,
       10.57327556
@@ -23130,6 +23986,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/847-b39520fa59.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/847-b39520fa59.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.87308589,
       10.03587811
@@ -23157,6 +24014,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/587-143eebfb5c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/587-143eebfb5c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.24438884,
       10.22716475
@@ -23184,6 +24042,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.4784284,
       9.11204215
@@ -23211,6 +24070,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.66357137,
       12.19945854
@@ -23238,6 +24098,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/291-1f00a10a2a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/291-1f00a10a2a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.51759246,
       9.32656972
@@ -23265,6 +24126,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/93-acee03c3c0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/93-acee03c3c0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.95819912,
       9.30949603
@@ -23292,6 +24154,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.06237954,
       8.96415413
@@ -23319,6 +24182,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.06237954,
       8.96415413
@@ -23346,6 +24210,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/850-a8afed248f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/850-a8afed248f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.02899493,
       9.49975045
@@ -23373,6 +24238,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/588-ea31813a33.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/588-ea31813a33.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.81385497,
       9.69416947
@@ -23400,6 +24266,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50308551,
       11.30548124
@@ -23427,6 +24294,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.49762699,
       9.60208409
@@ -23454,6 +24322,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/574-719e17b010.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/574-719e17b010.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.14838747,
       9.79899795
@@ -23481,6 +24350,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/398-61e8912ce4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/398-61e8912ce4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.36051392,
       9.64257403
@@ -23508,6 +24378,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.63765951,
       10.0220988
@@ -23535,6 +24406,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/723-212e07e5a0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/723-212e07e5a0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.63765951,
       10.0220988
@@ -23562,6 +24434,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1641-d09dee9cc2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1641-d09dee9cc2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.76659931,
       11.49815546
@@ -23589,6 +24462,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/600-c36d9abff4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/600-c36d9abff4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -23616,6 +24490,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.396433,
       10.53251585
@@ -23643,6 +24518,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1446-3305087578.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1446-3305087578.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.85672022,
       10.51672958
@@ -23670,6 +24546,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/293-05763c1e37.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/293-05763c1e37.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.34794414,
       8.58519299
@@ -23697,6 +24574,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.74794316,
       9.63042311
@@ -23724,6 +24602,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/294-c36992418e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/294-c36992418e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.34794414,
       8.58519299
@@ -23751,6 +24630,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1151-f9d567e943.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1151-f9d567e943.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.99124483,
       11.97025413
@@ -23778,6 +24658,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2164-9f343c053e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2164-9f343c053e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.50265825,
       10.1724293
@@ -23805,6 +24686,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1152-e6ca286275.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1152-e6ca286275.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.04277496,
       12.06283657
@@ -23832,6 +24714,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1447-eedf1699a0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1447-eedf1699a0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.48934885,
       9.78489314
@@ -23859,6 +24742,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/855-7c833af3d2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/855-7c833af3d2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.98937381,
       10.00776445
@@ -23886,6 +24770,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.02375436,
       9.24826265
@@ -23913,6 +24798,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.59677993,
       9.16509632
@@ -23940,6 +24826,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.31864081,
       11.55229442
@@ -23967,6 +24854,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1154-98a53514d7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1154-98a53514d7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73668449,
       12.3638449
@@ -23994,6 +24882,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.24177268,
       9.61886938
@@ -24021,6 +24910,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1448-c080099827.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1448-c080099827.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.43415758,
       10.19234031
@@ -24048,6 +24938,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.20322545,
       9.65450533
@@ -24075,6 +24966,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1155-2e55a6b940.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1155-2e55a6b940.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.54103195,
       12.3529229
@@ -24102,6 +24994,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65607154,
       8.52854473
@@ -24129,6 +25022,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/96-b6561d21fb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/96-b6561d21fb.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.91678716,
       10.27569023
@@ -24156,6 +25050,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1449-088e6a73f8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1449-088e6a73f8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.46833207,
       10.53070411
@@ -24183,6 +25078,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1852-2465808262.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1852-2465808262.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50221297,
       9.46847631
@@ -24210,6 +25106,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.95248429,
       8.89453488
@@ -24237,6 +25134,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.6088695,
       9.50805968
@@ -24264,6 +25162,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1158-b452f0653d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1158-b452f0653d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.9362949,
       12.31627561
@@ -24291,6 +25190,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/297-fc7a4617d4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/297-fc7a4617d4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41681148,
       9.36897659
@@ -24318,6 +25218,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/592-048e697347.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/592-048e697347.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.35508218,
       10.38246065
@@ -24345,6 +25246,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1276-5a3e64790f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1276-5a3e64790f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73800813,
       12.48425242
@@ -24372,6 +25274,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1159-53cf41e88c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1159-53cf41e88c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.62211279,
       11.49619782
@@ -24399,6 +25302,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/397-6d815bd3cd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/397-6d815bd3cd.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.34794414,
       8.58519299
@@ -24426,6 +25330,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1160-cf418288c2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1160-cf418288c2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.75323652,
       12.32084626
@@ -24453,6 +25358,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.01099572,
       12.1715219
@@ -24480,6 +25386,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/298-8718fc0715.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/298-8718fc0715.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.34794414,
       8.58519299
@@ -24507,6 +25414,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/593-06e5b0a55a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/593-06e5b0a55a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20167527,
       10.15922351
@@ -24534,6 +25442,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1162-f0b69b0b47.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1162-f0b69b0b47.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73668449,
       12.3638449
@@ -24561,6 +25470,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3819-2b4fc042fe.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3819-2b4fc042fe.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.58934868,
       12.46097002
@@ -24588,6 +25498,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1676-ed4a3139ea.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1676-ed4a3139ea.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.87126103,
       15.39301087
@@ -24615,6 +25526,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3416-2871bb9f34.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3416-2871bb9f34.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -24642,6 +25554,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/97-72b8f40f26.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/97-72b8f40f26.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.94881207,
       9.57985536
@@ -24669,6 +25582,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.33866468,
       10.0289852
@@ -24696,6 +25610,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/595-687c943496.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/595-687c943496.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.96052136,
       9.59236493
@@ -24723,6 +25638,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.56662852,
       10.41038685
@@ -24750,6 +25666,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1163-e322ff9d57.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1163-e322ff9d57.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92959715,
       12.51321363
@@ -24777,6 +25694,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/854-20c1884259.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/854-20c1884259.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.06940698,
       9.77014411
@@ -24804,6 +25722,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.06940698,
       9.77014411
@@ -24831,6 +25750,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.50265825,
       10.1724293
@@ -24858,6 +25778,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/856-323944ee62.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/856-323944ee62.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65607154,
       8.52854473
@@ -24885,6 +25806,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1644-2d1441054f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1644-2d1441054f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.93527293,
       11.78722678
@@ -24912,6 +25834,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.01099572,
       12.1715219
@@ -24939,6 +25862,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.8517685,
       8.69843044
@@ -24966,6 +25890,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/302-868c4486c8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/302-868c4486c8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.8517685,
       8.69843044
@@ -24993,6 +25918,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/303-4679d7f483.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/303-4679d7f483.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.32370377,
       7.90681299
@@ -25020,6 +25946,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/857-edad42eccb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/857-edad42eccb.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.98937381,
       10.00776445
@@ -25047,6 +25974,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/597-b2be28f02f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/597-b2be28f02f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50221297,
       9.46847631
@@ -25074,6 +26002,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/305-8554eeabec.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/305-8554eeabec.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.34794414,
       8.58519299
@@ -25101,6 +26030,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.89578273,
       10.1135906
@@ -25128,6 +26058,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1452-0a3884e4aa.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1452-0a3884e4aa.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2906707,
       10.3936597
@@ -25155,6 +26086,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/861-52000d8136.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/861-52000d8136.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7873441,
       8.22547945
@@ -25182,6 +26114,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.54580784,
       8.33453584
@@ -25209,6 +26142,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2906707,
       10.3936597
@@ -25236,6 +26170,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.08052418,
       8.66992988
@@ -25263,6 +26198,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1454-617ce44357.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1454-617ce44357.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.41549178,
       9.77417672
@@ -25290,6 +26226,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/411-d8406c7bd3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/411-d8406c7bd3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41681148,
       9.36897659
@@ -25317,6 +26254,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/858-24fc2abe5c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/858-24fc2abe5c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2436827,
       9.31835235
@@ -25344,6 +26282,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.75748092,
       10.98835691
@@ -25371,6 +26310,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1456-a023674165.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1456-a023674165.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.35301317,
       10.79790443
@@ -25398,6 +26338,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1677-fb693ef62a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1677-fb693ef62a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.98495945,
       14.40163467
@@ -25425,6 +26366,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3404-502998bfdf.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3404-502998bfdf.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.7930621,
       11.90198993
@@ -25452,6 +26394,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.7930621,
       11.90198993
@@ -25479,6 +26422,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1167-b7f2bf0cb3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1167-b7f2bf0cb3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.9928841,
       11.56343652
@@ -25506,6 +26450,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.02464842,
       11.8960716
@@ -25533,6 +26478,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.62941506,
       11.74490279
@@ -25560,6 +26506,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/860-755b348e44.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/860-755b348e44.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65607154,
       8.52854473
@@ -25587,6 +26534,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3726-a47b49d833.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3726-a47b49d833.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.44966319,
       10.35714765
@@ -25614,6 +26562,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1457-a47b49d833.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1457-a47b49d833.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.44966319,
       10.35714765
@@ -25641,6 +26590,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3727-3ead1475c0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3727-3ead1475c0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.19504272,
       11.77357353
@@ -25668,6 +26618,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1170-c302ea28f6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1170-c302ea28f6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.19504272,
       11.77357353
@@ -25695,6 +26646,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1171-5a619d3dc8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1171-5a619d3dc8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.19504272,
       11.77357353
@@ -25722,6 +26674,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65941452,
       12.49869399
@@ -25749,6 +26702,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.97086354,
       12.40200836
@@ -25776,6 +26730,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/596-fd785ccec3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/596-fd785ccec3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.49705855,
       10.49037138
@@ -25803,6 +26758,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/99-8541416a23.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/99-8541416a23.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.74794316,
       9.63042311
@@ -25830,6 +26786,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2930-6ee434cce5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2930-6ee434cce5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.55632319,
       9.84538694
@@ -25857,6 +26814,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1650-bbb8915738.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1650-bbb8915738.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.93527293,
       11.78722678
@@ -25884,6 +26842,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.96381394,
       9.41496508
@@ -25911,6 +26870,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.41549178,
       9.77417672
@@ -25938,6 +26898,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2089-b555399f82.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2089-b555399f82.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7109795,
       12.57364633
@@ -25965,6 +26926,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1987-658fcce14e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1987-658fcce14e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6940569,
       12.54914572
@@ -25992,6 +26954,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/90-9c7df52fa6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/90-9c7df52fa6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.08119416,
       9.92809079
@@ -26019,6 +26982,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/193-9fd7043d38.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/193-9fd7043d38.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.93195612,
       10.01379029
@@ -26046,6 +27010,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2064-3909c521bd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2064-3909c521bd.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.18215286,
       8.74507312
@@ -26073,6 +27038,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3706-66ec14378a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3706-66ec14378a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.39401435,
       10.32843174
@@ -26100,6 +27066,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3938-6a5e642fce.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3938-6a5e642fce.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.403021,
       10.39174411
@@ -26127,6 +27094,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.19504272,
       11.77357353
@@ -26154,6 +27122,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/401-f41d5488bd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/401-f41d5488bd.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.62419195,
       8.82098992
@@ -26181,6 +27150,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/602-b6b14de2b7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/602-b6b14de2b7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92457284,
       10.24464778
@@ -26208,6 +27178,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1458-2a3a589fc2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1458-2a3a589fc2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.403021,
       10.39174411
@@ -26235,6 +27206,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.85310811,
       11.37403038
@@ -26262,6 +27234,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.31137673,
       8.76358629
@@ -26289,6 +27262,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.48050883,
       9.88044731
@@ -26316,6 +27290,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.9362949,
       12.31627561
@@ -26343,6 +27318,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.77688954,
       10.41645939
@@ -26370,6 +27346,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -26397,6 +27374,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.85672022,
       10.51672958
@@ -26424,6 +27402,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.6528756,
       9.77366901
@@ -26451,6 +27430,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73668449,
       12.3638449
@@ -26478,6 +27458,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6129967,
       10.15483531
@@ -26505,6 +27486,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1177-0df7d37e2f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1177-0df7d37e2f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.85479562,
       12.07923445
@@ -26532,6 +27514,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1178-5ad8cad445.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1178-5ad8cad445.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.68182922,
       12.44863533
@@ -26559,6 +27542,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.59456942,
       11.95696429
@@ -26586,6 +27570,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1179-a9b56e5275.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1179-a9b56e5275.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.59456942,
       11.95696429
@@ -26613,6 +27598,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1467-c5c3c3dd40.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1467-c5c3c3dd40.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.56662852,
       10.41038685
@@ -26640,6 +27626,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1468-46d470b4cb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1468-46d470b4cb.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.11784585,
       10.77337328
@@ -26667,6 +27654,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/865-c5b580a212.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/865-c5b580a212.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.70803366,
       8.37405373
@@ -26694,6 +27682,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.11911505,
       8.98775376
@@ -26721,6 +27710,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/866-34099d1bd2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/866-34099d1bd2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2436827,
       9.31835235
@@ -26748,6 +27738,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/309-7ec935fd74.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/309-7ec935fd74.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41681148,
       9.36897659
@@ -26775,6 +27766,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.02464842,
       11.8960716
@@ -26802,6 +27794,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1760-a45b089b33.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1760-a45b089b33.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67264298,
       12.55913327
@@ -26829,6 +27822,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.6920138,
       14.7409871
@@ -26856,6 +27850,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.05662783,
       11.36808859
@@ -26883,6 +27878,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.76046689,
       10.02918372
@@ -26910,6 +27906,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1574-70e39c16d6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1574-70e39c16d6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64077611,
       12.52309722
@@ -26937,6 +27934,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1680-2244ba24a2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1680-2244ba24a2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.87126103,
       15.39301087
@@ -26964,6 +27962,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/188-2c9b44e66d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/188-2c9b44e66d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.37190853,
       9.87742317
@@ -26991,6 +27990,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/609-892964f87b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/609-892964f87b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.12635244,
       10.13778473
@@ -27018,6 +28018,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1185-e5a05bd498.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1185-e5a05bd498.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.12208613,
       12.19166049
@@ -27045,6 +28046,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/106-a8013c6d6a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/106-a8013c6d6a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.28432949,
       9.88277134
@@ -27072,6 +28074,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.55632319,
       9.84538694
@@ -27099,6 +28102,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.8143415,
       11.63568865
@@ -27126,6 +28130,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1186-ef48e199e4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1186-ef48e199e4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.70601705,
       10.97431629
@@ -27153,6 +28158,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1187-07c6fb28ed.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1187-07c6fb28ed.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.01099572,
       12.1715219
@@ -27180,6 +28186,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/310-4a9cbd3091.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/310-4a9cbd3091.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.54580784,
       8.33453584
@@ -27207,6 +28214,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.46401254,
       10.0331817
@@ -27234,6 +28242,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.48050883,
       9.88044731
@@ -27261,6 +28270,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.48050883,
       9.88044731
@@ -27288,6 +28298,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/610-bebd8e48cd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/610-bebd8e48cd.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.48050883,
       9.88044731
@@ -27315,6 +28326,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/611-e131cea01c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/611-e131cea01c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.48050883,
       9.88044731
@@ -27342,6 +28354,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/613-3e0d6302cc.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/613-3e0d6302cc.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92457284,
       10.24464778
@@ -27369,6 +28382,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2059-4c7765115e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2059-4c7765115e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.89861349,
       9.12839085
@@ -27396,6 +28410,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.87835123,
       9.6137501
@@ -27423,6 +28438,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/311-a0748d97c6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/311-a0748d97c6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41681148,
       9.36897659
@@ -27450,6 +28466,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.01708464,
       9.14165594
@@ -27477,6 +28494,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.84944104,
       9.92696601
@@ -27504,6 +28522,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1188-e52a5133e5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1188-e52a5133e5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.58934868,
       12.46097002
@@ -27531,6 +28550,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.66357137,
       12.19945854
@@ -27558,6 +28578,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.17738587,
       8.79091021
@@ -27585,6 +28606,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/312-52ad8e9ac8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/312-52ad8e9ac8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.52775554,
       8.60339354
@@ -27612,6 +28634,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/618-6eb30cc864.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/618-6eb30cc864.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -27639,6 +28662,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/869-bb59142afd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/869-bb59142afd.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.31137673,
       8.76358629
@@ -27666,6 +28690,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.02388208,
       9.89235588
@@ -27693,6 +28718,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65941452,
       12.49869399
@@ -27720,6 +28746,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/313-946fbd0636.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/313-946fbd0636.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20098497,
       4.07461311
@@ -27747,6 +28774,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1472-19f9297610.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1472-19f9297610.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2209888,
       10.42313811
@@ -27774,6 +28802,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2209888,
       10.42313811
@@ -27801,6 +28830,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/315-7d2443e304.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/315-7d2443e304.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20098497,
       4.07461311
@@ -27828,6 +28858,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1192-cbe8cb1d93.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1192-cbe8cb1d93.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.43053197,
       11.82805925
@@ -27855,6 +28886,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1191-8095bddde4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1191-8095bddde4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.43053197,
       11.82805925
@@ -27882,6 +28914,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.91730187,
       9.55791076
@@ -27909,6 +28942,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1475-dcf2d64df9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1475-dcf2d64df9.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.79716403,
       10.33601694
@@ -27936,6 +28970,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/110-7163ce29d1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/110-7163ce29d1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.01911272,
       10.05559807
@@ -27963,6 +28998,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2685839,
       12.12411652
@@ -27990,6 +29026,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1477-0d42fe66a2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1477-0d42fe66a2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.31045491,
       10.58601195
@@ -28017,6 +29054,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/727-d104fa79b2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/727-d104fa79b2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.42912946,
       10.17671406
@@ -28044,6 +29082,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/41-f7c90eeaee.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/41-f7c90eeaee.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.6528756,
       9.77366901
@@ -28071,6 +29110,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1196-f358c2ee78.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1196-f358c2ee78.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.58934868,
       12.46097002
@@ -28098,6 +29138,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1197-69fdc4d093.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1197-69fdc4d093.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65647451,
       12.06373356
@@ -28125,6 +29166,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3696-d2f1c9cf0f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3696-d2f1c9cf0f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65647451,
       12.06373356
@@ -28152,6 +29194,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/316-cbc241624a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/316-cbc241624a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.72437033,
       9.04159313
@@ -28179,6 +29222,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.71726169,
       11.17254811
@@ -28206,6 +29250,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1478-fec71f145b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1478-fec71f145b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.88518842,
       10.80968538
@@ -28233,6 +29278,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.55253436,
       11.38504044
@@ -28260,6 +29306,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/620-aad9610411.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/620-aad9610411.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.02388208,
       9.89235588
@@ -28287,6 +29334,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.47769058,
       8.80020865
@@ -28314,6 +29362,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1479-45e2a5cfc1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1479-45e2a5cfc1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.23725238,
       10.54368086
@@ -28341,6 +29390,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.53635729,
       11.57693074
@@ -28368,6 +29418,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/870-3c3bb177c4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/870-3c3bb177c4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.38472069,
       9.14057169
@@ -28395,6 +29446,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.49762699,
       9.60208409
@@ -28422,6 +29474,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.18928869,
       10.09750556
@@ -28449,6 +29502,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.403021,
       10.39174411
@@ -28476,6 +29530,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1201-13bce6d9e9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1201-13bce6d9e9.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65647451,
       12.06373356
@@ -28503,6 +29558,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/394-846b588aa3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/394-846b588aa3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.46317549,
       8.99505562
@@ -28530,6 +29586,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/871-5f6be7abf3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/871-5f6be7abf3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.07437317,
       9.28037618
@@ -28557,6 +29614,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/319-649405ada6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/319-649405ada6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.35360504,
       9.50444327
@@ -28584,6 +29642,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1203-87568507ba.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1203-87568507ba.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.20085779,
       12.38750748
@@ -28611,6 +29670,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.46317549,
       8.99505562
@@ -28638,6 +29698,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.30328793,
       10.48173371
@@ -28665,6 +29726,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.98495945,
       14.40163467
@@ -28692,6 +29754,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1682-9a618aa562.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1682-9a618aa562.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.98495945,
       14.40163467
@@ -28719,6 +29782,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.19504272,
       11.77357353
@@ -28746,6 +29810,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1205-aea6f312a2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1205-aea6f312a2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.23758668,
       12.02277028
@@ -28773,6 +29838,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1206-40bc182515.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1206-40bc182515.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86605512,
       12.33661891
@@ -28800,6 +29866,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1207-9c97e95dbe.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1207-9c97e95dbe.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.70601705,
       10.97431629
@@ -28827,6 +29894,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.6528756,
       9.77366901
@@ -28854,6 +29922,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1208-8ef70c7424.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1208-8ef70c7424.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.01043371,
       11.71725292
@@ -28881,6 +29950,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2709-ba80dca84a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2709-ba80dca84a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.42123207,
       10.44332209
@@ -28908,6 +29978,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1488-0cbb0998b6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1488-0cbb0998b6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.34939755,
       10.39917484
@@ -28935,6 +30006,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/625-5a60a6d5b6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/625-5a60a6d5b6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.21127538,
       10.01547147
@@ -28962,6 +30034,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.26356721,
       9.8817943
@@ -28989,6 +30062,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.72437033,
       9.04159313
@@ -29016,6 +30090,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/214-bc9210a39e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/214-bc9210a39e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.72437033,
       9.04159313
@@ -29043,6 +30118,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/114-59ba17044f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/114-59ba17044f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.26602114,
       9.69608315
@@ -29070,6 +30146,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.91180366,
       10.68434089
@@ -29097,6 +30174,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.91180366,
       10.68434089
@@ -29124,6 +30202,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.75748092,
       10.98835691
@@ -29151,6 +30230,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1481-2aa2edb3a1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1481-2aa2edb3a1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.35251254,
       10.29791607
@@ -29178,6 +30258,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1209-7a40fa0305.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1209-7a40fa0305.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.25079677,
       11.528121
@@ -29205,6 +30286,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/627-96b311f2ab.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/627-96b311f2ab.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92457284,
       10.24464778
@@ -29232,6 +30314,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3844-ac4244218d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3844-ac4244218d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.58934868,
       12.46097002
@@ -29259,6 +30342,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1892-763884679e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1892-763884679e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -29286,6 +30370,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1211-34f48b018d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1211-34f48b018d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.19504272,
       11.77357353
@@ -29313,6 +30398,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.85259869,
       8.33561789
@@ -29340,6 +30426,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.94233943,
       8.80469301
@@ -29367,6 +30454,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.94233943,
       8.80469301
@@ -29394,6 +30482,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/923-7263cb9b86.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/923-7263cb9b86.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.38472069,
       9.14057169
@@ -29421,6 +30510,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2906707,
       10.3936597
@@ -29448,6 +30538,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/890-887c4b8159.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/890-887c4b8159.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.85051521,
       8.89341393
@@ -29475,6 +30566,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41681148,
       9.36897659
@@ -29502,6 +30594,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.94881207,
       9.57985536
@@ -29529,6 +30622,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/628-8c9d5ed582.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/628-8c9d5ed582.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50221297,
       9.46847631
@@ -29556,6 +30650,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92069678,
       11.03916639
@@ -29583,6 +30678,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/629-b642f80864.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/629-b642f80864.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -29610,6 +30706,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1213-b09232e741.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1213-b09232e741.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6579409,
       12.28083382
@@ -29637,6 +30734,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.46317549,
       8.99505562
@@ -29664,6 +30762,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1497-052fcfdde0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1497-052fcfdde0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.01443666,
       10.59802878
@@ -29691,6 +30790,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/366-3d5a9b59cc.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/366-3d5a9b59cc.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.3042395,
       8.0070526
@@ -29718,6 +30818,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.36245892,
       12.22317915
@@ -29745,6 +30846,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/658-b4ea4cb5cb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/658-b4ea4cb5cb.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.42912946,
       10.17671406
@@ -29772,6 +30874,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1216-efb66d152e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1216-efb66d152e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73825064,
       11.69985606
@@ -29799,6 +30902,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65607154,
       8.52854473
@@ -29826,6 +30930,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.85479562,
       12.07923445
@@ -29853,6 +30958,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/377-db4707dfe7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/377-db4707dfe7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41681148,
       9.36897659
@@ -29880,6 +30986,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -29907,6 +31014,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/630-84f0ee6c80.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/630-84f0ee6c80.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -29934,6 +31042,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -29961,6 +31070,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.2882506,
       9.39095532
@@ -29988,6 +31098,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/632-410aa15973.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/632-410aa15973.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -30015,6 +31126,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3400-c1e2a088ae.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3400-c1e2a088ae.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -30042,6 +31154,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/633-fd8f38ffe2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/633-fd8f38ffe2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -30069,6 +31182,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/116-d28a4f1319.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/116-d28a4f1319.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.4674892,
       10.24075136
@@ -30096,6 +31210,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/322-6fd4869180.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/322-6fd4869180.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.11911505,
       8.98775376
@@ -30123,6 +31238,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1992-2109b39fc0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1992-2109b39fc0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.06237954,
       8.96415413
@@ -30150,6 +31266,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15051496,
       10.27802097
@@ -30177,6 +31294,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.43053197,
       11.82805925
@@ -30204,6 +31322,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.4068472,
       9.53828204
@@ -30231,6 +31350,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/323-5360e11c0b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/323-5360e11c0b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.32370377,
       7.90681299
@@ -30258,6 +31378,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.2882506,
       9.39095532
@@ -30285,6 +31406,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/117-4c12210760.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/117-4c12210760.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.85540126,
       10.48570715
@@ -30312,6 +31434,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1482-658909bc59.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1482-658909bc59.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.39228422,
       10.13229762
@@ -30339,6 +31462,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/118-ef2a7bdfc6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/118-ef2a7bdfc6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.00928951,
       9.86220561
@@ -30366,6 +31490,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.39228422,
       10.13229762
@@ -30393,6 +31518,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/119-9621e8c314.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/119-9621e8c314.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.70230652,
       9.2956345
@@ -30420,6 +31546,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.59071095,
       9.35963562
@@ -30447,6 +31574,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/326-f48b639519.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/326-f48b639519.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.59071095,
       9.35963562
@@ -30474,6 +31602,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.51969426,
       10.26859858
@@ -30501,6 +31630,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2020-be1c47206b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2020-be1c47206b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.4763505,
       9.32882435
@@ -30528,6 +31658,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.4763505,
       9.32882435
@@ -30555,6 +31686,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1485-6fb339fe11.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1485-6fb339fe11.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.56662852,
       10.41038685
@@ -30582,6 +31714,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/874-4265da723a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/874-4265da723a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.8713804,
       9.68079394
@@ -30609,6 +31742,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.77688954,
       10.41645939
@@ -30636,6 +31770,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1219-3a814f486d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1219-3a814f486d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50779016,
       12.08511883
@@ -30663,6 +31798,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.18215286,
       8.74507312
@@ -30690,6 +31826,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1220-aafa9c606f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1220-aafa9c606f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.75873813,
       12.01351904
@@ -30717,6 +31854,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.4784284,
       9.11204215
@@ -30744,6 +31882,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/637-25b2f14f28.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/637-25b2f14f28.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -30771,6 +31910,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/121-2254ca8b33.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/121-2254ca8b33.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.70230652,
       9.2956345
@@ -30798,6 +31938,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/328-82f584b5d8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/328-82f584b5d8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.46317549,
       8.99505562
@@ -30825,6 +31966,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3732-f18daaf81c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3732-f18daaf81c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.46317549,
       8.99505562
@@ -30852,6 +31994,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/329-f50d92e002.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/329-f50d92e002.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.99089664,
       8.53885308
@@ -30879,6 +32022,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.99089664,
       8.53885308
@@ -30906,6 +32050,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.26356721,
       9.8817943
@@ -30933,6 +32078,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/875-8d25dc172a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/875-8d25dc172a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.38472069,
       9.14057169
@@ -30960,6 +32106,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.18719668,
       10.24680782
@@ -30987,6 +32134,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.43053197,
       11.82805925
@@ -31014,6 +32162,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1487-bd3bbfd0db.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1487-bd3bbfd0db.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6129967,
       10.15483531
@@ -31041,6 +32190,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2165-b4a0626e38.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2165-b4a0626e38.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.72123589,
       8.75126746
@@ -31068,6 +32218,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.72123589,
       8.75126746
@@ -31095,6 +32246,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.71528471,
       12.39724634
@@ -31122,6 +32274,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/122-7b4f1fb94a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/122-7b4f1fb94a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.10716869,
       9.5353613
@@ -31149,6 +32302,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1579-8ed1750d72.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1579-8ed1750d72.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.79609961,
       12.62132919
@@ -31176,6 +32330,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.2597249,
       7.47858654
@@ -31203,6 +32358,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/641-f191644fc6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/641-f191644fc6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -31230,6 +32386,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1225-220626d2fc.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1225-220626d2fc.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.17717085,
       11.34912168
@@ -31257,6 +32414,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.17738587,
       8.79091021
@@ -31284,6 +32442,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.17738587,
       8.79091021
@@ -31311,6 +32470,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/642-80a5b15f54.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/642-80a5b15f54.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.26151082,
       10.36793908
@@ -31338,6 +32498,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/124-e2c700d764.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/124-e2c700d764.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.84944104,
       9.92696601
@@ -31365,6 +32526,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1489-f914f3b15c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1489-f914f3b15c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.06735111,
       10.76263715
@@ -31392,6 +32554,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1229-1993b333e6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1229-1993b333e6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.40887345,
       11.37134678
@@ -31419,6 +32582,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1232-9cd90e8cd1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1232-9cd90e8cd1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.40880423,
       11.55727004
@@ -31446,6 +32610,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1233-2a723f9ddc.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1233-2a723f9ddc.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.80077298,
       12.27836793
@@ -31473,6 +32638,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1234-7621977792.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1234-7621977792.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.85027208,
       12.17447416
@@ -31500,6 +32666,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.57103757,
       9.66918005
@@ -31527,6 +32694,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/655-07ec3c3f83.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/655-07ec3c3f83.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.50265825,
       10.1724293
@@ -31554,6 +32722,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.2597249,
       7.47858654
@@ -31581,6 +32750,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/331-9ff7125ec7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/331-9ff7125ec7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.11911505,
       8.98775376
@@ -31608,6 +32778,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1235-6a77a20abb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1235-6a77a20abb.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.00467892,
       12.59499744
@@ -31635,6 +32806,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/644-294b30c2d4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/644-294b30c2d4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.03661436,
       10.0866212
@@ -31662,6 +32834,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/645-3737e106cc.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/645-3737e106cc.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.81385497,
       9.69416947
@@ -31689,6 +32862,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1238-705180e2eb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1238-705180e2eb.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.5150734,
       12.26072581
@@ -31716,6 +32890,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.32447339,
       9.26072776
@@ -31743,6 +32918,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/879-984adb40e3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/879-984adb40e3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.32447339,
       9.26072776
@@ -31770,6 +32946,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/646-2133bf311e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/646-2133bf311e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17906349,
       9.77449496
@@ -31797,6 +32974,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.40880423,
       11.55727004
@@ -31824,6 +33002,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/881-a2da2566d4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/881-a2da2566d4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.55332885,
       8.5093547
@@ -31851,6 +33030,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/332-7686be391c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/332-7686be391c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41681148,
       9.36897659
@@ -31878,6 +33058,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/647-237989234d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/647-237989234d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.54082727,
       10.0192493
@@ -31905,6 +33086,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.76046689,
       10.02918372
@@ -31932,6 +33114,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15361133,
       8.50600358
@@ -31959,6 +33142,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/333-7b5dba60fe.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/333-7b5dba60fe.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15361133,
       8.50600358
@@ -31986,6 +33170,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3954-d47a50c965.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3954-d47a50c965.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.88126308,
       12.43890506
@@ -32013,6 +33198,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1996-e32d778f6a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1996-e32d778f6a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.16282327,
       9.76743314
@@ -32040,6 +33226,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/201-f967e643c2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/201-f967e643c2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.62419195,
       8.82098992
@@ -32067,6 +33254,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.76046689,
       10.02918372
@@ -32094,6 +33282,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/648-e21870ef94.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/648-e21870ef94.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.27022295,
       10.16086107
@@ -32121,6 +33310,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.27022295,
       10.16086107
@@ -32148,6 +33338,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/126-f458402b37.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/126-f458402b37.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.00928951,
       9.86220561
@@ -32175,6 +33366,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.75986358,
       8.89887879
@@ -32202,6 +33394,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/883-b338250184.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/883-b338250184.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.24177268,
       9.61886938
@@ -32229,6 +33422,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.99089664,
       8.53885308
@@ -32256,6 +33450,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/649-2f7001fbca.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/649-2f7001fbca.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.12635244,
       10.13778473
@@ -32283,6 +33478,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1242-1957828388.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1242-1957828388.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.55246779,
       11.57749201
@@ -32310,6 +33506,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1243-395e5c3ecb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1243-395e5c3ecb.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.80077298,
       12.27836793
@@ -32337,6 +33534,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/650-de43f6fe26.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/650-de43f6fe26.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86597915,
       9.89301425
@@ -32364,6 +33562,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1491-274f4483e1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1491-274f4483e1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.12556284,
       10.52352287
@@ -32391,6 +33590,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/884-91a4a446c1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/884-91a4a446c1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.35487274,
       9.44750863
@@ -32418,6 +33618,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1694-a457956b0b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1694-a457956b0b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.2843629,
       10.57327556
@@ -32445,6 +33646,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/652-e5b7c16ce6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/652-e5b7c16ce6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.02388208,
       9.89235588
@@ -32472,6 +33674,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1246-13ea7f9be3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1246-13ea7f9be3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.40887345,
       11.37134678
@@ -32499,6 +33702,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/653-a1465d0173.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/653-a1465d0173.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17800104,
       9.91179535
@@ -32526,6 +33730,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/338-46cf941d3b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/338-46cf941d3b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.48444375,
       9.12847686
@@ -32553,6 +33758,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.84533107,
       11.37909951
@@ -32580,6 +33786,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1247-67787c70d1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1247-67787c70d1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.33554618,
       12.51110642
@@ -32607,6 +33814,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1248-5fd203d609.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1248-5fd203d609.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.93559156,
       12.15008815
@@ -32634,6 +33842,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.54054576,
       11.7241173
@@ -32661,6 +33870,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/127-cee9eca53b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/127-cee9eca53b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.91678716,
       10.27569023
@@ -32688,6 +33898,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.77310507,
       9.27748567
@@ -32715,6 +33926,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/128-83175c45cb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/128-83175c45cb.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.51074154,
       10.52915912
@@ -32742,6 +33954,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.89016003,
       8.54104706
@@ -32769,6 +33982,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.48934885,
       9.78489314
@@ -32796,6 +34010,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1494-d884c92bf8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1494-d884c92bf8.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.48934885,
       9.78489314
@@ -32823,6 +34038,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/339-18de567a60.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/339-18de567a60.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.52775554,
       8.60339354
@@ -32850,6 +34066,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1658-bf220ac024.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1658-bf220ac024.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.71290684,
       12.41175242
@@ -32877,6 +34094,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1598-e0240a5abe.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1598-e0240a5abe.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67082135,
       12.54858405
@@ -32904,6 +34122,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.11911505,
       8.98775376
@@ -32931,6 +34150,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2756-e5bbf8a385.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2756-e5bbf8a385.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.18306206,
       9.0451996
@@ -32958,6 +34178,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/130-062fb45f34.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/130-062fb45f34.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.89267972,
       9.80945918
@@ -32985,6 +34206,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1496-94fbd89888.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1496-94fbd89888.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.38540272,
       10.67264084
@@ -33012,6 +34234,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/131-c815a89e65.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/131-c815a89e65.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.16265215,
       9.99174315
@@ -33039,6 +34262,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1583-d3668dc051.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1583-d3668dc051.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -33066,6 +34290,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.8517685,
       8.69843044
@@ -33093,6 +34318,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.2597249,
       7.47858654
@@ -33120,6 +34346,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.02899493,
       9.49975045
@@ -33147,6 +34374,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/343-bc996f271a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/343-bc996f271a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.22960774,
       9.02585964
@@ -33174,6 +34402,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1252-e9de58ab91.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1252-e9de58ab91.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.32910688,
       11.77284465
@@ -33201,6 +34430,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1683-53ff7bb7d5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1683-53ff7bb7d5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.30340399,
       15.67679007
@@ -33228,6 +34458,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.17740891,
       7.21613935
@@ -33255,6 +34486,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.01443666,
       10.59802878
@@ -33282,6 +34514,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/885-e97b92851e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/885-e97b92851e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.06940698,
       9.77014411
@@ -33309,6 +34542,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/132-b067ba96f6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/132-b067ba96f6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.9647583,
       9.86815189
@@ -33336,6 +34570,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1257-40e3f948ad.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1257-40e3f948ad.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.71737311,
       11.48951817
@@ -33363,6 +34598,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1258-010dae2241.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1258-010dae2241.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65647451,
       12.06373356
@@ -33390,6 +34626,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.12208613,
       12.19166049
@@ -33417,6 +34654,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/346-8abf5f2842.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/346-8abf5f2842.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.68763915,
       8.70032858
@@ -33444,6 +34682,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/233-de06abda7d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/233-de06abda7d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.72425361,
       8.42909599
@@ -33471,6 +34710,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.46065157,
       8.70168486
@@ -33498,6 +34738,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3351-4a29cbb3ef.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3351-4a29cbb3ef.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.75986358,
       8.89887879
@@ -33525,6 +34766,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3350-569dfec890.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3350-569dfec890.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.61664144,
       9.29089234
@@ -33552,6 +34794,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1660-681d024359.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1660-681d024359.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.7930621,
       11.90198993
@@ -33579,6 +34822,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.2843629,
       10.57327556
@@ -33606,6 +34850,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.38830546,
       12.08719823
@@ -33633,6 +34878,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.99089664,
       8.53885308
@@ -33660,6 +34906,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/886-577bfce06a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/886-577bfce06a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.55262453,
       8.34866677
@@ -33687,6 +34934,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1498-f878dc297b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1498-f878dc297b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.48691259,
       10.08371535
@@ -33714,6 +34962,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/656-5c12608611.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/656-5c12608611.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.25949156,
       10.06719333
@@ -33741,6 +34990,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2070-9a5203ef40.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2070-9a5203ef40.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.44966319,
       10.35714765
@@ -33768,6 +35018,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1662-87740a3ecf.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1662-87740a3ecf.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.79935911,
       11.29197531
@@ -33795,6 +35046,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2209888,
       10.42313811
@@ -33822,6 +35074,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/887-b6b24043de.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/887-b6b24043de.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.9528525,
       9.71079556
@@ -33849,6 +35102,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/888-60bab0d420.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/888-60bab0d420.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.9528525,
       9.71079556
@@ -33876,6 +35130,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1580-cc765fd8f0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1580-cc765fd8f0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -33903,6 +35158,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.02899493,
       9.49975045
@@ -33930,6 +35186,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.24177268,
       9.61886938
@@ -33957,6 +35214,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/891-e9db29347f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/891-e9db29347f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.55262453,
       8.34866677
@@ -33984,6 +35242,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1502-d0aa01a252.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1502-d0aa01a252.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.48691259,
       10.08371535
@@ -34011,6 +35270,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/135-dcecae7d00.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/135-dcecae7d00.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.84292865,
       9.68119202
@@ -34038,6 +35298,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/182-b4fbef38fa.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/182-b4fbef38fa.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.89267972,
       9.80945918
@@ -34065,6 +35326,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.32031014,
       11.95519764
@@ -34092,6 +35354,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86597915,
       9.89301425
@@ -34119,6 +35382,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1266-c08bbe0019.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1266-c08bbe0019.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65437818,
       11.87375746
@@ -34146,6 +35410,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41551889,
       8.33184097
@@ -34173,6 +35438,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.35487274,
       9.44750863
@@ -34200,6 +35466,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/350-bb1cf2e2f3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/350-bb1cf2e2f3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.89016003,
       8.54104706
@@ -34227,6 +35494,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/893-45aef90f74.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/893-45aef90f74.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.55332885,
       8.5093547
@@ -34254,6 +35522,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1503-72cff11c85.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1503-72cff11c85.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.41754658,
       10.30695242
@@ -34281,6 +35550,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/661-40415c3e13.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/661-40415c3e13.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.57103757,
       9.66918005
@@ -34308,6 +35578,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64077611,
       12.52309722
@@ -34335,6 +35606,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65647451,
       12.06373356
@@ -34362,6 +35634,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15051496,
       10.27802097
@@ -34389,6 +35662,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.36051392,
       9.64257403
@@ -34416,6 +35690,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3850-eefe27c6a1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3850-eefe27c6a1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41681148,
       9.36897659
@@ -34443,6 +35718,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1684-490c2e8421.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1684-490c2e8421.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.36353136,
       14.76377199
@@ -34470,6 +35746,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/137-c1868a6327.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/137-c1868a6327.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.81450196,
       10.04422607
@@ -34497,6 +35774,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.32031014,
       11.95519764
@@ -34524,6 +35802,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/663-7eb8690710.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/663-7eb8690710.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.08668443,
       9.55044283
@@ -34551,6 +35830,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.28432949,
       9.88277134
@@ -34578,6 +35858,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/351-36b89cc59b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/351-36b89cc59b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.32370377,
       7.90681299
@@ -34605,6 +35886,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3747-36b89cc59b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3747-36b89cc59b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.32370377,
       7.90681299
@@ -34632,6 +35914,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.2882506,
       9.39095532
@@ -34659,6 +35942,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.3103006,
       9.79439741
@@ -34686,6 +35970,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/353-7b523da8f1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/353-7b523da8f1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.3103006,
       9.79439741
@@ -34713,6 +35998,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/140-66d5b31f00.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/140-66d5b31f00.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.12742277,
       9.20878724
@@ -34740,6 +36026,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1505-40a67c012a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1505-40a67c012a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.01443666,
       10.59802878
@@ -34767,6 +36054,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.86776362,
       6.26580665
@@ -34794,6 +36082,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/355-8a190d176d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/355-8a190d176d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.62765212,
       8.51363052
@@ -34821,6 +36110,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.32370377,
       7.90681299
@@ -34848,6 +36138,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/665-ce3c22d088.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/665-ce3c22d088.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.85744681,
       9.2710166
@@ -34875,6 +36166,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.02560338,
       12.45560033
@@ -34902,6 +36194,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/356-57241cf629.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/356-57241cf629.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.32370377,
       7.90681299
@@ -34929,6 +36222,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.18956069,
       8.19684723
@@ -34956,6 +36250,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/755-3721c143f3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/755-3721c143f3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.90310802,
       9.20354055
@@ -34983,6 +36278,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1663-a534c675e7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1663-a534c675e7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.7930621,
       11.90198993
@@ -35010,6 +36306,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1945-894f3bd527.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1945-894f3bd527.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.14931257,
       10.82632626
@@ -35037,6 +36334,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/667-2900d7256a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/667-2900d7256a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.14931257,
       10.82632626
@@ -35064,6 +36362,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.71896752,
       8.63263378
@@ -35091,6 +36390,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1271-deddeadc2d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1271-deddeadc2d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.12775807,
       11.95917304
@@ -35118,6 +36418,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.49762699,
       9.60208409
@@ -35145,6 +36446,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/895-502470058c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/895-502470058c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.46029975,
       8.59046906
@@ -35172,6 +36474,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/359-92800677a7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/359-92800677a7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.11911505,
       8.98775376
@@ -35199,6 +36502,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.29464717,
       10.20502083
@@ -35226,6 +36530,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/896-b56e417d97.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/896-b56e417d97.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.18306206,
       9.0451996
@@ -35253,6 +36558,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1958-bd0ad9de3e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1958-bd0ad9de3e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.25979308,
       11.86408266
@@ -35280,6 +36586,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1507-0750f60cc2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1507-0750f60cc2.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.3195544,
       10.19834407
@@ -35307,6 +36614,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/143-6e9d9ca786.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/143-6e9d9ca786.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.94281241,
       9.71496643
@@ -35334,6 +36642,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1858-1597b87b2b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1858-1597b87b2b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15051496,
       10.27802097
@@ -35361,6 +36670,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1274-2976a3b548.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1274-2976a3b548.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.58776321,
       12.39483896
@@ -35388,6 +36698,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1508-c88718073d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1508-c88718073d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.88518842,
       10.80968538
@@ -35415,6 +36726,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/144-b471e73377.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/144-b471e73377.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.10716869,
       9.5353613
@@ -35442,6 +36754,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/178-a597f4d936.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/178-a597f4d936.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.12742277,
       9.20878724
@@ -35469,6 +36782,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.57103757,
       9.66918005
@@ -35496,6 +36810,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.08052418,
       8.66992988
@@ -35523,6 +36838,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/672-e6adc122b5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/672-e6adc122b5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.36287517,
       10.74217288
@@ -35550,6 +36866,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.34034984,
       10.27081316
@@ -35577,6 +36894,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.28432949,
       9.88277134
@@ -35604,6 +36922,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/671-15a4904a40.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/671-15a4904a40.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.18928869,
       10.09750556
@@ -35631,6 +36950,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.18928869,
       10.09750556
@@ -35658,6 +36978,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.09377094,
       9.1925469
@@ -35685,6 +37006,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1280-7cf59935ca.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1280-7cf59935ca.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.59602755,
       12.16990416
@@ -35712,6 +37034,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1282-340c08835b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1282-340c08835b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73825064,
       11.69985606
@@ -35739,6 +37062,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1283-244ba8fb1a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1283-244ba8fb1a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.73825064,
       11.69985606
@@ -35766,6 +37090,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1510-5dfeee872a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1510-5dfeee872a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.01443666,
       10.59802878
@@ -35793,6 +37118,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/363-6688005aab.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/363-6688005aab.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.34794414,
       8.58519299
@@ -35820,6 +37146,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/146-8dc3c00d9e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/146-8dc3c00d9e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.20308117,
       9.9350316
@@ -35847,6 +37174,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1284-90bff5165f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1284-90bff5165f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.61818163,
       11.74532267
@@ -35874,6 +37202,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.61818163,
       11.74532267
@@ -35901,6 +37230,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.70601705,
       10.97431629
@@ -35928,6 +37258,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1285-2681ad0cb5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1285-2681ad0cb5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.70601705,
       10.97431629
@@ -35955,6 +37286,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/897-db5d3fed03.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/897-db5d3fed03.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.95248429,
       8.89453488
@@ -35982,6 +37314,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/675-79f3e0ad48.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/675-79f3e0ad48.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.87483844,
       9.50220604
@@ -36009,6 +37342,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1286-9b1463f0e5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1286-9b1463f0e5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.79609961,
       12.62132919
@@ -36036,6 +37370,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1766-06fd2e09e0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1766-06fd2e09e0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.63352245,
       12.78698239
@@ -36063,6 +37398,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/136-07e1fd4156.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/136-07e1fd4156.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.37825187,
       10.14317436
@@ -36090,6 +37426,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1512-dddde49620.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1512-dddde49620.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.23864739,
       10.81307692
@@ -36117,6 +37454,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1513-9d61fe8472.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1513-9d61fe8472.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.01443666,
       10.59802878
@@ -36144,6 +37482,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1783-bce16fce1b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1783-bce16fce1b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6579409,
       12.28083382
@@ -36171,6 +37510,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1514-d2143bf8be.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1514-d2143bf8be.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.38883518,
       10.22531693
@@ -36198,6 +37538,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3892-e8e24a9ca3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3892-e8e24a9ca3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.61730235,
       11.23183281
@@ -36225,6 +37566,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64077611,
       12.52309722
@@ -36252,6 +37594,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.30328793,
       10.48173371
@@ -36279,6 +37622,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.70230652,
       9.2956345
@@ -36306,6 +37650,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/364-f24286de74.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/364-f24286de74.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.93341595,
       9.0912202
@@ -36333,6 +37678,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/365-fa31250d97.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/365-fa31250d97.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.59071095,
       9.35963562
@@ -36360,6 +37706,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.8358153,
       9.59518771
@@ -36387,6 +37734,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/147-2416e292fc.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/147-2416e292fc.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.96384115,
       10.65368838
@@ -36414,6 +37762,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.3800683,
       9.78710533
@@ -36441,6 +37790,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.2843629,
       10.57327556
@@ -36468,6 +37818,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1290-bae712b1f5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1290-bae712b1f5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.61818163,
       11.74532267
@@ -36495,6 +37846,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.09903701,
       10.28961018
@@ -36522,6 +37874,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2436827,
       9.31835235
@@ -36549,6 +37902,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.7930621,
       11.90198993
@@ -36576,6 +37930,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3840-e73cec965e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3840-e73cec965e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.34939755,
       10.39917484
@@ -36603,6 +37958,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.63352245,
       12.78698239
@@ -36630,6 +37986,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1291-6d2698e698.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1291-6d2698e698.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.85027208,
       12.17447416
@@ -36657,6 +38014,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/150-b8f4ed0589.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/150-b8f4ed0589.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.11542161,
       9.8563612
@@ -36684,6 +38042,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1587-882863c2a9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1587-882863c2a9.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64077611,
       12.52309722
@@ -36711,6 +38070,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1292-bbbc226e29.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1292-bbbc226e29.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.63922355,
       12.36481979
@@ -36738,6 +38098,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.19504272,
       11.77357353
@@ -36765,6 +38126,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/190-e66e085a7d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/190-e66e085a7d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.6528756,
       9.77366901
@@ -36792,6 +38154,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/677-34276f9704.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/677-34276f9704.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.41366579,
       9.34398711
@@ -36819,6 +38182,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.49762699,
       9.60208409
@@ -36846,6 +38210,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.71507833,
       9.19531768
@@ -36873,6 +38238,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1588-eabbd4392d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1588-eabbd4392d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.6883311,
       12.48194421
@@ -36900,6 +38266,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.00467892,
       12.59499744
@@ -36927,6 +38294,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/899-f88913bf89.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/899-f88913bf89.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65607154,
       8.52854473
@@ -36954,6 +38322,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/918-ce8dff2f88.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/918-ce8dff2f88.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.02899493,
       9.49975045
@@ -36981,6 +38350,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/666-b751574203.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/666-b751574203.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15788265,
       10.06788413
@@ -37008,6 +38378,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/151-85a3936bcd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/151-85a3936bcd.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.77688954,
       10.41645939
@@ -37035,6 +38406,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.3042395,
       8.0070526
@@ -37062,6 +38434,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2436827,
       9.31835235
@@ -37089,6 +38462,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1518-a14dcec10e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1518-a14dcec10e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.46255574,
       10.14425746
@@ -37116,6 +38490,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.94881207,
       9.57985536
@@ -37143,6 +38518,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1298-53bb510e36.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1298-53bb510e36.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.09457775,
       12.13066388
@@ -37170,6 +38546,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.4784284,
       9.11204215
@@ -37197,6 +38574,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/902-3db30fad3b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/902-3db30fad3b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.4784284,
       9.11204215
@@ -37224,6 +38602,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/154-b15b930162.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/154-b15b930162.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.05171431,
       9.8350492
@@ -37251,6 +38630,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/431-7a611d5d5f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/431-7a611d5d5f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.18719668,
       10.24680782
@@ -37278,6 +38658,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/681-d8f26a9b73.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/681-d8f26a9b73.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -37305,6 +38686,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -37332,6 +38714,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/685-6dcb4545c1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/685-6dcb4545c1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -37359,6 +38742,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7220274,
       9.63873738
@@ -37386,6 +38770,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1941-f7f47da0aa.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1941-f7f47da0aa.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -37413,6 +38798,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/686-257522a661.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/686-257522a661.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -37440,6 +38826,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.72499013,
       9.70789065
@@ -37467,6 +38854,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/369-b3a51b5486.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/369-b3a51b5486.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.49762699,
       9.60208409
@@ -37494,6 +38882,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.46065157,
       8.70168486
@@ -37521,6 +38910,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1301-b034e3cc5e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1301-b034e3cc5e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.75497247,
       12.23729507
@@ -37548,6 +38938,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.3800683,
       9.78710533
@@ -37575,6 +38966,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/371-0e59676172.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/371-0e59676172.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20098497,
       4.07461311
@@ -37602,6 +38994,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.35236537,
       8.27244636
@@ -37629,6 +39022,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1303-81c7d01a8a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1303-81c7d01a8a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.36414208,
       11.26373834
@@ -37656,6 +39050,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3733-c9f6accef6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3733-c9f6accef6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.70230652,
       9.2956345
@@ -37683,6 +39078,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.28432949,
       9.88277134
@@ -37710,6 +39106,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1519-6c5461c9d4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1519-6c5461c9d4.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.3195544,
       10.19834407
@@ -37737,6 +39134,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1994-bfb5830b03.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1994-bfb5830b03.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.96885636,
       9.75712583
@@ -37764,6 +39162,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/155-35a2acd97f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/155-35a2acd97f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.12732919,
       9.97550463
@@ -37791,6 +39190,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/156-5e196d9671.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/156-5e196d9671.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.09538719,
       10.09257652
@@ -37818,6 +39218,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/181-dc7e548a20.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/181-dc7e548a20.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.28432949,
       9.88277134
@@ -37845,6 +39246,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.77310507,
       9.27748567
@@ -37872,6 +39274,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.55332885,
       8.5093547
@@ -37899,6 +39302,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.863378,
       11.28637518
@@ -37926,6 +39330,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.68208169,
       12.56444325
@@ -37953,6 +39358,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.85744681,
       9.2710166
@@ -37980,6 +39386,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.02202911,
       6.93927002
@@ -38007,6 +39414,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.18887848,
       11.14575743
@@ -38034,6 +39442,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.43053197,
       11.82805925
@@ -38061,6 +39470,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3947-c7473c5ade.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3947-c7473c5ade.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.51887316,
       11.04711131
@@ -38088,6 +39498,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.00889353,
       12.15645358
@@ -38115,6 +39526,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.43053197,
       11.82805925
@@ -38142,6 +39554,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41681148,
       9.36897659
@@ -38169,6 +39582,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41681148,
       9.36897659
@@ -38196,6 +39610,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/376-a9971c086b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/376-a9971c086b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41681148,
       9.36897659
@@ -38223,6 +39638,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1702-0f8422526c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1702-0f8422526c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41681148,
       9.36897659
@@ -38250,6 +39666,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/378-fb3ff42060.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/378-fb3ff42060.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41681148,
       9.36897659
@@ -38277,6 +39694,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/691-e9e250466b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/691-e9e250466b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.12635244,
       10.13778473
@@ -38304,6 +39722,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/379-9d3af26949.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/379-9d3af26949.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.08052418,
       8.66992988
@@ -38331,6 +39750,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/270-29c1d70a9c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/270-29c1d70a9c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.76132134,
       8.56443606
@@ -38358,6 +39778,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1591-cea72c90be.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1591-cea72c90be.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.64077611,
       12.52309722
@@ -38385,6 +39806,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1685-a2d07d6409.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1685-a2d07d6409.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.98495945,
       14.40163467
@@ -38412,6 +39834,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/380-877976ffb6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/380-877976ffb6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.18215286,
       8.74507312
@@ -38439,6 +39862,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.18215286,
       8.74507312
@@ -38466,6 +39890,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.24177268,
       9.61886938
@@ -38493,6 +39918,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/159-b2b3ce9748.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/159-b2b3ce9748.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.95819912,
       9.30949603
@@ -38520,6 +39946,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/382-46006bd053.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/382-46006bd053.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.2882506,
       9.39095532
@@ -38547,6 +39974,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/383-9d0dfbcfec.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/383-9d0dfbcfec.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.47769058,
       8.80020865
@@ -38574,6 +40002,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/692-e9de5f83b3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/692-e9de5f83b3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69052913,
       9.5066267
@@ -38601,6 +40030,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/384-757a55d44d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/384-757a55d44d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.25194401,
       8.66525292
@@ -38628,6 +40058,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1523-f15122060f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1523-f15122060f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.35301317,
       10.79790443
@@ -38655,6 +40086,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1310-d0f687941b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1310-d0f687941b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65647451,
       12.06373356
@@ -38682,6 +40114,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1311-a9cf231cad.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1311-a9cf231cad.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.66270448,
       11.74969494
@@ -38709,6 +40142,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/693-68e17ebcda.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/693-68e17ebcda.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -38736,6 +40170,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/694-acefbb9095.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/694-acefbb9095.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.02388208,
       9.89235588
@@ -38763,6 +40198,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1313-aaccc2d12a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1313-aaccc2d12a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.78962271,
       12.46836985
@@ -38790,6 +40226,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/695-850208719a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/695-850208719a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.29464717,
       10.20502083
@@ -38817,6 +40254,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.77688954,
       10.41645939
@@ -38844,6 +40282,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/908-a699e3076f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/908-a699e3076f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.07311357,
       8.68091354
@@ -38871,6 +40310,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1524-1d0a7eee02.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1524-1d0a7eee02.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.39228422,
       10.13229762
@@ -38898,6 +40338,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.38233116,
       9.65510765
@@ -38925,6 +40366,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.77688954,
       10.41645939
@@ -38952,6 +40394,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1946-19ba7920fc.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1946-19ba7920fc.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.49705855,
       10.49037138
@@ -38979,6 +40422,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/696-9fd0db4954.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/696-9fd0db4954.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.49705855,
       10.49037138
@@ -39006,6 +40450,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/162-3e4538c6a7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/162-3e4538c6a7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.09538719,
       10.09257652
@@ -39033,6 +40478,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.02388208,
       9.89235588
@@ -39060,6 +40506,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/163-7c82b3df60.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/163-7c82b3df60.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.2843629,
       10.57327556
@@ -39087,6 +40534,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/910-be0a695bce.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/910-be0a695bce.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2436827,
       9.31835235
@@ -39114,6 +40562,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2013-6ad13d5702.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2013-6ad13d5702.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2436827,
       9.31835235
@@ -39141,6 +40590,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/699-8bf6c8efec.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/699-8bf6c8efec.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.50221297,
       9.46847631
@@ -39168,6 +40618,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1315-187be9308d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1315-187be9308d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.65647451,
       12.06373356
@@ -39195,6 +40646,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/911-51234a5ce3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/911-51234a5ce3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.63499139,
       9.09958348
@@ -39222,6 +40674,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1314-c4d9a06c93.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1314-c4d9a06c93.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.02464842,
       11.8960716
@@ -39249,6 +40702,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/386-a9cc40ea8d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/386-a9cc40ea8d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.08052418,
       8.66992988
@@ -39276,6 +40730,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/700-cad113b2b0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/700-cad113b2b0.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41476356,
       10.01231946
@@ -39303,6 +40758,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.2597249,
       7.47858654
@@ -39330,6 +40786,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.46317549,
       8.99505562
@@ -39357,6 +40814,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.69215915,
       9.78417201
@@ -39384,6 +40842,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.37190853,
       9.87742317
@@ -39411,6 +40870,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/165-6c8f574305.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/165-6c8f574305.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.37190853,
       9.87742317
@@ -39438,6 +40898,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1667-4b8173417c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1667-4b8173417c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.66359732,
       11.98479974
@@ -39465,6 +40926,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1317-5a160a8e53.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1317-5a160a8e53.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.77912974,
       12.35591788
@@ -39492,6 +40954,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/703-c22a88c487.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/703-c22a88c487.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.41476356,
       10.01231946
@@ -39519,6 +40982,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/149-05038dd606.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/149-05038dd606.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.93195612,
       10.01379029
@@ -39546,6 +41010,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.02388208,
       9.89235588
@@ -39573,6 +41038,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/711-f35bed81d1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/711-f35bed81d1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17147071,
       9.4900253
@@ -39600,6 +41066,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.41366579,
       9.34398711
@@ -39627,6 +41094,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1596-946abedabf.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1596-946abedabf.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -39654,6 +41122,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.10716869,
       9.5353613
@@ -39681,6 +41150,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.79347704,
       8.61815877
@@ -39708,6 +41178,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/914-8069b77302.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/914-8069b77302.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.79347704,
       8.61815877
@@ -39735,6 +41206,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/706-fec8c89d7c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/706-fec8c89d7c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.87483844,
       9.50220604
@@ -39762,6 +41234,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1321-d99097da01.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1321-d99097da01.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.91156813,
       12.06925064
@@ -39789,6 +41262,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.81385497,
       9.69416947
@@ -39816,6 +41290,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/389-6c2cc25784.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/389-6c2cc25784.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20098497,
       4.07461311
@@ -39843,6 +41318,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1322-1d207fb2c5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1322-1d207fb2c5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.78991195,
       12.1609202
@@ -39870,6 +41346,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.12742277,
       9.20878724
@@ -39897,6 +41374,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3357-db05a22891.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3357-db05a22891.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.67362511,
       12.6554181
@@ -39924,6 +41402,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.21518023,
       8.52448598
@@ -39951,6 +41430,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.02464842,
       11.8960716
@@ -39978,6 +41458,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1326-6a7fa6f43b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1326-6a7fa6f43b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.22423719,
       11.46287897
@@ -40005,6 +41486,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.40887345,
       11.37134678
@@ -40032,6 +41514,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/391-389d876ecd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/391-389d876ecd.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.59677993,
       9.16509632
@@ -40059,6 +41542,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/708-5547235e82.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/708-5547235e82.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.53413791,
       10.32882868
@@ -40086,6 +41570,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.24177268,
       9.61886938
@@ -40113,6 +41598,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/709-6810f104eb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/709-6810f104eb.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.96885636,
       9.75712583
@@ -40140,6 +41626,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/171-c30f31a7ef.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/171-c30f31a7ef.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.28432949,
       9.88277134
@@ -40167,6 +41654,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.89267972,
       9.80945918
@@ -40194,6 +41682,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.06237954,
       8.96415413
@@ -40221,6 +41710,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/916-e6c1fb816f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/916-e6c1fb816f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.38472069,
       9.14057169
@@ -40248,6 +41738,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/712-e53701510c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/712-e53701510c.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.86467774,
       9.42328648
@@ -40275,6 +41766,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.61664144,
       9.29089234
@@ -40302,6 +41794,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/174-89cb7fb28a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/174-89cb7fb28a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.05425152,
       10.00949733
@@ -40329,6 +41822,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1668-672a411a33.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1668-672a411a33.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.68554952,
       11.60726017
@@ -40356,6 +41850,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/921-b7677edc8a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/921-b7677edc8a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.31137673,
       8.76358629
@@ -40383,6 +41878,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1595-4a57eb69d6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1595-4a57eb69d6.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.7109795,
       12.57364633
@@ -40410,6 +41906,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.18887848,
       11.14575743
@@ -40437,6 +41934,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.51191781,
       15.21574747
@@ -40464,6 +41962,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1687-080996346e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1687-080996346e.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.1396331,
       15.02005943
@@ -40491,6 +41990,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/176-e2563564bd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/176-e2563564bd.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.34034984,
       10.27081316
@@ -40518,6 +42018,9 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1328-0ffc4bd146.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1328-0ffc4bd146.webp",
     "kaldenavn": null,
+    "aliases": [
+      "Øst møn"
+    ],
     "coords": [
       54.9362949,
       12.31627561
@@ -40545,6 +42048,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.81506841,
       11.4281128
@@ -40572,6 +42076,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2-97e39088e1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2-97e39088e1.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.05425152,
       10.00949733
@@ -40599,6 +42104,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3698-ddc7b0e85a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3698-ddc7b0e85a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.05425152,
       10.00949733
@@ -40626,6 +42132,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/744-ad1da54cad.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/744-ad1da54cad.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.02899493,
       9.49975045
@@ -40653,6 +42160,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1-5a65e81d14.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1-5a65e81d14.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.16282327,
       9.76743314
@@ -40680,6 +42188,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/419-e1408e0a16.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/419-e1408e0a16.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15196052,
       10.1605019
@@ -40707,6 +42216,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.35508218,
       10.38246065
@@ -40734,6 +42244,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.89016003,
       8.54104706
@@ -40761,6 +42272,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.61664144,
       9.29089234
@@ -40788,6 +42300,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.75754187,
       12.6282041
@@ -40815,6 +42328,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1688-11327d0a8d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1688-11327d0a8d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.6920138,
       14.7409871
@@ -40842,6 +42356,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/4-d78e542e0d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/4-d78e542e0d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.05171431,
       9.8350492
@@ -40869,6 +42384,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.08119416,
       9.92809079
@@ -40896,6 +42412,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3139-f75e0bb2da.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3139-f75e0bb2da.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.89267972,
       9.80945918
@@ -40923,6 +42440,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/6-33e13b788d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/6-33e13b788d.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.05171431,
       9.8350492
@@ -40950,6 +42468,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.05425152,
       10.00949733
@@ -40977,6 +42496,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3417-e64655b103.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3417-e64655b103.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.05171431,
       9.8350492
@@ -41004,6 +42524,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/5-361d1242a7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/5-361d1242a7.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.05171431,
       9.8350492
@@ -41031,6 +42552,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.05425152,
       10.00949733
@@ -41058,6 +42580,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       57.60572774,
       10.40473272
@@ -41085,6 +42608,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.87483844,
       9.50220604
@@ -41112,6 +42636,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/230-f2968123c5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/230-f2968123c5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.69297871,
       9.4967184
@@ -41139,6 +42664,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1329-46acef9c8f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1329-46acef9c8f.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.92123871,
       12.28696917
@@ -41166,6 +42692,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.46401254,
       10.0331817
@@ -41193,6 +42720,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1330-5c4f72e695.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1330-5c4f72e695.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.70601705,
       10.97431629
@@ -41220,6 +42748,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/428-ded1754ae9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/428-ded1754ae9.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.15051496,
       10.27802097
@@ -41247,6 +42776,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3818-2a940d15bf.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3818-2a940d15bf.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.12635244,
       10.13778473
@@ -41274,6 +42804,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/733-c447b11cde.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/733-c447b11cde.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.26151082,
       10.36793908
@@ -41301,6 +42832,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2093-69c8d3d679.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2093-69c8d3d679.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.02388208,
       9.89235588
@@ -41328,6 +42860,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/425-fb65b1c9c5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/425-fb65b1c9c5.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20167527,
       10.15922351
@@ -41355,6 +42888,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3729-806e92cb6b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3729-806e92cb6b.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.20167527,
       10.15922351
@@ -41382,6 +42916,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/429-e4eb06332a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/429-e4eb06332a.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.17162148,
       10.15819911
@@ -41409,6 +42944,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.57689258,
       8.71515262
@@ -41436,6 +42972,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/9-a425410079.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/9-a425410079.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.80003403,
       9.49610809
@@ -41463,6 +43000,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1689-3db16765ea.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1689-3db16765ea.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       54.98495945,
       14.40163467
@@ -41490,6 +43028,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1528-9df2bae664.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1528-9df2bae664.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.2906707,
       10.3936597
@@ -41517,6 +43056,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1354-9983a9ae37.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1354-9983a9ae37.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.37369367,
       10.03851749
@@ -41544,6 +43084,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/432-66f496b7a3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/432-66f496b7a3.webp",
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       56.43069147,
       11.08217337
@@ -41571,6 +43112,7 @@ export const clubs = [
     "logoUrl": null,
     "logoThumbUrl": null,
     "kaldenavn": null,
+    "aliases": [],
     "coords": [
       55.42123207,
       10.44332209
@@ -41579,7 +43121,9 @@ export const clubs = [
 ];
 
 export function getClub(name) {
+  const lower = name?.trim().toLowerCase();
   return clubs.find(c => c.name === name)
+    || clubs.find(c => c.aliases.some(a => a.toLowerCase() === lower))
     || { name, city: '', postal: '', region: '', dbuId: null, primaryColor: null, secondaryColor: null, kitStyle: null, logo: null, logoUrl: null, logoThumbUrl: null };
 }
 

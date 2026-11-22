@@ -66,6 +66,23 @@ a monogram in the club's colors.
 
 ---
 
+## Linking a typed club name (aliases)
+
+Users can type a club name instead of picking one from the list. If that name is
+really a DBU club (a typo, a short form), add it to the club's `aliases` in
+`clubs.json`:
+
+```json
+{ "name": "Østmøn SGI", "dbuId": 1328, "aliases": ["Øst møn"], … }
+```
+
+Matching ignores upper/lower case. `getClub()`, the dashboard and Opstillingen
+then treat the typed name as that club, so it shows the club's logo and colors.
+Run `npm run build` and release as usual. Find unmatched names with the
+Klub Editor's "custom clubs" list.
+
+---
+
 ## Scraping new club data
 
 Run this once per season or when clubs are added/removed from DBU.
