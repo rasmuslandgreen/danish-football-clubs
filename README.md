@@ -1,62 +1,75 @@
 # danish-football-clubs
 
-A static dataset and utility library of 696 Danish football clubs, scraped from [dbu.dk](https://www.dbu.dk). Provides consistent club naming, SVG badge fallbacks, and DBU age-group utilities for football apps.
+A dataset and utility library of 1,540 Danish football clubs, scraped from [dbu.dk](https://www.dbu.dk): names, locations, colours, kits, contact details and, for 978 clubs, the club crest. It also provides club-coloured badge fallbacks and DBU age-group helpers for football apps.
 
-Built for and used in [Opstillingen.dk](https://opstillingen.dk) — a lineup builder for Danish youth football coaches.
+Built for and used in [Opstillingen.dk](https://opstillingen.dk), a lineup builder for Danish youth football coaches, and [Findenklub.dk](https://findenklub.dk).
 
-## Installation
+## Using it
+
+### From the CDN (how the apps load it)
+
+Every release is a git tag, served by jsDelivr. Always pin a version:
+
+```js
+const CDN = 'https://cdn.jsdelivr.net/gh/rasmuslandgreen/danish-football-clubs@v1.2.32';
+const clubs = await (await fetch(`${CDN}/clubs.json`)).json();
+```
+
+### As a package
 
 ```bash
 npm install github:rasmuslandgreen/danish-football-clubs
 ```
 
-To update to the latest version:
-
-```bash
-npm update danish-football-clubs
+```js
+import { clubs, getClub, clubBadgeUrl, clubAbbreviation, getULevel, getMatchFormat, distanceBetweenClubs } from 'danish-football-clubs';
 ```
 
-## Usage
+## Logos
+
+Crests are hosted on GitHub Pages, not in the version tags. Each logo has two URLs in the data:
+
+| Field | What |
+|---|---|
+| `logoThumbUrl` | 160×160 WebP, about 2–5 KB. Use this for avatars. |
+| `logoUrl` | 500×500 PNG, for larger display. |
+| `logo` | Older path relative to the CDN (`assets/logos/{dbuId}.png`). Kept as a fallback. |
+
+File names include a hash of the image (`thumb/1595-4a57eb69d6.webp`), so a URL only changes when the logo itself changes. Browsers can cache logos indefinitely, and a new release doesn't make anyone download unchanged logos again.
 
 ```js
-import { clubs, getClub, clubBadgeUrl, getULevel, getMatchFormat } from 'danish-football-clubs';
-```
-
-### Club data
-
-```js
-// Full list of 696 clubs
-clubs; // [{ name, city, postal, region, dbuId, color, logo }, ...]
-
-// Exact-name lookup (returns a fallback stub if not found)
-const club = getClub('Brøndby IF');
-// { name: 'Brøndby IF', city: 'Brøndby', postal: '2605', region: 'Hovedstaden', dbuId: 3700, color: null, logo: null }
-```
-
-### Badge rendering
-
-```js
-// SVG data URL — drop directly into an <img src>
-const src = club.logo ?? clubBadgeUrl(club.name);
+const club = getClub('Østerbro Idræts Forening');
+const src = club.logoThumbUrl ?? clubBadgeUrl(club.name, club);
 // <img src={src} alt={club.name} />
 ```
 
-When no logo is available, `clubBadgeUrl` returns a light grey circle with the club abbreviation in muted grey — same `<img>` tag either way.
+Use `logoThumbUrl` first, and fall back to `${CDN}/${club.logo}` if it fails to load. If a page has a Content-Security-Policy, add `https://rasmuslandgreen.github.io` to `img-src`.
 
-### Abbreviations
+### Badge fallback
+
+When a club has no logo, `clubBadgeUrl(name, colors?)` returns an SVG data URL: a circle with the club's abbreviation. Pass `{ primaryColor, secondaryColor }` (or the club object) to get a badge in the club's colours. Without colours it renders a neutral grey badge.
 
 ```js
-import { clubAbbreviation } from 'danish-football-clubs';
-
-clubAbbreviation('FC København');     // FCK
-clubAbbreviation('Boldklubben Vestia'); // BKV
-clubAbbreviation('Vanløse IF');       // VIF
-clubAbbreviation('B 1909');           // B1909
+clubBadgeUrl('Egebjerg IF');                                  // grey "EIF"
+clubBadgeUrl('Egebjerg IF', { primaryColor: '#0057B8' });     // white "EIF" on blue
 ```
 
-### DBU age groups
+## Club lookup
 
 ```js
+getClub('Brøndby IF');   // exact name
+getClub('Øst møn');      // also matches a club's aliases, ignoring case → Østmøn SGI
+```
+
+`getClub` returns a stub with `dbuId: null` when nothing matches. `aliases` are names users have typed for a club; see [WORKFLOW.md](./WORKFLOW.md#linking-a-typed-club-name-aliases).
+
+### Abbreviations and age groups
+
+```js
+clubAbbreviation('FC København');      // FCK
+clubAbbreviation('Boldklubben Vestia'); // BKV
+clubAbbreviation('B 1909');            // B1909
+
 getULevel(2014);      // 'U12'
 getMatchFormat(2014); // '8v8'
 ```
@@ -72,73 +85,49 @@ getMatchFormat(2014); // '8v8'
 
 ```json
 {
-  "name":           "Brøndby IF",
-  "city":           "Brøndby",
-  "postal":         "2605",
-  "region":         "Hovedstaden",
-  "dbuId":          3700,
-  "primaryColor":   null,
-  "secondaryColor": null,
+  "name":           "Østmøn SGI",
+  "city":           "Stege",
+  "postal":         "4780",
+  "region":         "Sjælland",
+  "dbuId":          1328,
+  "primaryColor":   "#cc0000",
+  "secondaryColor": "#0055a4",
   "kitStyle":       null,
-  "logo":           null
+  "logo":           "assets/logos/1328.png",
+  "logoUrl":        "https://rasmuslandgreen.github.io/danish-football-clubs/full/1328-0ffc4bd146.png",
+  "logoThumbUrl":   "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1328-0ffc4bd146.webp",
+  "aliases":        ["Øst møn"],
+  "municipality":   "Vordingborg",
+  "coords":         [54.9362949, 12.31627561]
 }
 ```
 
 | Field | Description |
 |---|---|
-| `region` | One of: `Hovedstaden`, `Sjælland`, `Fyn`, `Jylland`, `Bornholm` |
-| `primaryColor` | Primary brand colour as hex — `null` until set |
-| `secondaryColor` | Secondary brand colour as hex — `null` until set |
-| `kitStyle` | `regular`, `vertical-stripes`, `horizontal-stripes`, or `half-split` — `null` until set |
-| `logo` | Not bundled — logos are served separately by `dbuId` from your own storage |
+| `region` | `Hovedstaden`, `Sjælland`, `Fyn`, `Jylland`, `Bornholm` or `Ukendt` |
+| `primaryColor` / `secondaryColor` | Club colours as hex, or `null` |
+| `kitStyle` | Kit pattern, or `null` |
+| `logo` / `logoUrl` / `logoThumbUrl` | See [Logos](#logos). All `null` when the club has no crest. |
+| `aliases` | Typed names that should match this club |
+| `coords` | `[lat, lng]`, used by `distanceBetweenClubs` |
 
-## Stored shape (when a user selects a club)
+The data also includes contact details (`email`, `website`, `phone`) and kit colours (`kitHome*`, `kitAway*`).
 
-```json
-{ "clubName": "Vanløse IF", "clubId": 1545, "clubSource": "dbu" }
-```
+## Maintaining the data
 
-Custom club (typed but not found in the list):
-
-```json
-{ "clubName": "Himmelev Boldklub", "clubId": null, "clubSource": "custom" }
-```
-
-## Logo workflow
-
-1. Export logos as PNG named by `dbuId` (e.g. `1567.png`)
-2. Drop files into `assets/logos/`
-3. Run `npm run logos` — updates `clubs.json` and rebuilds `index.js`
-
-Supported formats: `.png`, `.jpg`, `.jpeg`, `.svg`, `.webp`
-
-## Scripts
+See [WORKFLOW.md](./WORKFLOW.md) for the full process. In short:
 
 ```bash
-npm run build    # clubs.json → index.js
-npm run logos    # Scan assets/logos/ → update clubs.json + rebuild index.js
-npm run scrape   # Re-scrape dbu.dk → clubs.json  (~60–90 min, requires Playwright)
-npm run figma    # Generate figma-plugin/code.js for the Figma badge artboard plugin
+npm run logos:pipeline   # find, collect, judge (Claude) and prepare logos for clubs without one
+npm run logos:export     # export reviewed logos from Figma, publish them to GitHub Pages, rebuild
+npm run build            # clubs.json → index.js
+npm run editor           # Klub Editor: edit clubs, review kit contributions, release ("Udgiv")
+npm run scrape           # re-scrape dbu.dk → clubs.json (~60–90 min, needs Playwright)
 ```
 
-See [SCRAPING.md](./SCRAPING.md) for the full update workflow.
+`clubs.json` is the source of truth. `index.js` is generated, so never edit it by hand. Releases are made with the Udgiv button in the Klub Editor. It publishes new logos, bumps the version, tags it, warms the CDN and updates the version in the consuming apps.
 
-## Development
-
-`clubs.json` is the source of truth. `index.js` is generated — never edit it directly.
-
-```
-danish-football-clubs/
-  index.js          # Generated — do not edit
-  clubs.json        # Edit this, then run npm run build
-  assets/logos/     # Club logo images, named by dbuId
-  scripts/
-    scrapeClubs.js
-    buildIndex.js
-    mergeLogos.js
-    buildFigmaPlugin.js
-  figma-plugin/     # Generates one artboard per club in Figma
-```
+See [SCRAPING.md](./SCRAPING.md) for scraping details and [ARCHITECTURE.md](./ARCHITECTURE.md) for the design.
 
 ## License
 
