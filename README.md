@@ -34,7 +34,7 @@ Crests are hosted on GitHub Pages, not in the version tags. Each logo has two UR
 | `logoThumbUrl` | 160×160 WebP, about 2–5 KB. Use this for avatars. |
 | `logoUrl` | 500×500 PNG, for larger display. |
 | `logo` | Older path relative to the CDN (`assets/logos/{dbuId}.png`). Kept as a fallback. |
-| `logoKind` | `"crest"` for the club's real crest, `"monogram"` for a badge made from the club's colours and letters (used where no crest could be found). |
+| `logoKind` | `"monogram"` for a badge made from the club's colours and letters (used where no crest could be found). Real crests have no `logoKind` in `clubs.json`; `index.js` reports them as `"crest"`. |
 
 File names include a hash of the image (`thumb/1595-4a57eb69d6.webp`), so a URL only changes when the logo itself changes. Browsers can cache logos indefinitely, and a new release doesn't make anyone download unchanged logos again.
 
