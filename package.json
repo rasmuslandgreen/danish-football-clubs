@@ -33,7 +33,7 @@
     "scrape": "node scripts/scrapeClubs.js",
     "build": "node scripts/buildIndex.js",
     "figma": "node scripts/buildFigmaPlugin.js",
-    "logos": "node scripts/mergeLogos.js && node scripts/buildIndex.js",
+    "logos": "node scripts/mergeLogos.js && node scripts/logos/uploadLogos.js && node scripts/buildIndex.js",
     "enrich": "node scripts/enrichClubs.js && node scripts/buildIndex.js",
     "scrape-teams": "node scripts/scrapeTeams.js",
     "scrape-bydel": "node scripts/scrapeBydel.js",
@@ -51,7 +51,8 @@
     "logos:pipeline": "npm run logos:queue && npm run logos:collect && npm run logos:judge && npm run logos:prep",
     "logos:status": "node scripts/logos/placement.js status",
     "logos:export": "node scripts/logos/exportFromFigma.js && npm run logos",
-    "warm-cdn": "node scripts/warmCdn.js"
+    "warm-cdn": "node scripts/warmCdn.js",
+    "logos:upload": "node scripts/logos/uploadLogos.js"
   },
   "dependencies": {
     "google-play-scraper": "^10.1.3"

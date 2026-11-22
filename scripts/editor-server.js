@@ -1866,6 +1866,13 @@ const server = http.createServer((req, res) => {
 
     const steps = [
       {
+        // Publishes new/changed logos to Supabase Storage (hashed names) and
+        // writes logoUrl/logoThumbUrl into clubs.json before it's committed.
+        label: 'Upload logoer til Supabase Storage',
+        cmd:   'node scripts/logos/uploadLogos.js',
+        cwd:   ROOT,
+      },
+      {
         label: 'Gem ændringer i klub-data og logoer',
         cmd:   'git add clubs.json assets/logos/ 2>/dev/null; git diff --cached --quiet && echo "ingen ændringer" || git commit -m "Update club data"',
         cwd:   ROOT,

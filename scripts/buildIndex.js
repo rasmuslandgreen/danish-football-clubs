@@ -16,7 +16,7 @@ const clubs = raw.map(({ name, city, postal, region, dbuId,
   email, website, phone,
   kitHomeJersey, kitHomeShorts, kitHomeSocks,
   kitAwayJersey, kitAwayShorts, kitAwaySocks,
-  logo, kaldenavn, coords }) => ({
+  logo, logoUrl, logoThumbUrl, kaldenavn, coords }) => ({
   name,
   city,
   postal,
@@ -35,6 +35,8 @@ const clubs = raw.map(({ name, city, postal, region, dbuId,
   kitAwayShorts:  kitAwayShorts  ?? null,
   kitAwaySocks:   kitAwaySocks   ?? null,
   logo:           logo           ?? null,
+  logoUrl:        logoUrl        ?? null,
+  logoThumbUrl:   logoThumbUrl   ?? null,
   kaldenavn:      kaldenavn      ?? null,
   coords:         coords         ?? null,
 }));
@@ -45,7 +47,7 @@ const output = `export const clubs = ${clubsJs};
 
 export function getClub(name) {
   return clubs.find(c => c.name === name)
-    || { name, city: '', postal: '', region: '', dbuId: null, primaryColor: null, secondaryColor: null, kitStyle: null, logo: null };
+    || { name, city: '', postal: '', region: '', dbuId: null, primaryColor: null, secondaryColor: null, kitStyle: null, logo: null, logoUrl: null, logoThumbUrl: null };
 }
 
 export function clubInitials(name) {

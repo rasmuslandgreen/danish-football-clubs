@@ -18,6 +18,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.43069147,
@@ -43,6 +45,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.02899493,
@@ -68,6 +72,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.57103757,
@@ -93,6 +99,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3711.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3711-cae084b3d0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3711-cae084b3d0.webp",
     "kaldenavn": null,
     "coords": [
       55.73800813,
@@ -118,6 +126,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1537.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1537-cafed4d516.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1537-cafed4d516.webp",
     "kaldenavn": null,
     "coords": [
       55.63352245,
@@ -143,6 +153,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.95248429,
@@ -168,6 +180,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3715.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3715-43e5cfd25b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3715-43e5cfd25b.webp",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -193,6 +207,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3128.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3128-ec6a72cfdc.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3128-ec6a72cfdc.webp",
     "kaldenavn": null,
     "coords": [
       55.6940569,
@@ -218,6 +234,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/651.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/651-bd23301379.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/651-bd23301379.webp",
     "kaldenavn": null,
     "coords": [
       56.44956016,
@@ -243,6 +261,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.8713804,
@@ -268,6 +288,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2101.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2101-1e77c42539.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2101-1e77c42539.webp",
     "kaldenavn": null,
     "coords": [
       55.43442698,
@@ -293,6 +315,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/747.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/747-c177324b44.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/747-c177324b44.webp",
     "kaldenavn": null,
     "coords": [
       55.60852142,
@@ -318,6 +342,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/748.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/748-6fbef9892b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/748-6fbef9892b.webp",
     "kaldenavn": null,
     "coords": [
       55.12832485,
@@ -343,6 +369,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.21127809,
@@ -368,6 +396,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3699.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3699-b0b4ba23ad.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3699-b0b4ba23ad.webp",
     "kaldenavn": null,
     "coords": [
       56.15051496,
@@ -393,6 +423,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/421.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/421-091be43c8f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/421-091be43c8f.webp",
     "kaldenavn": null,
     "coords": [
       56.12635244,
@@ -418,6 +450,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.95819912,
@@ -443,6 +477,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.6883311,
@@ -468,6 +504,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/422.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/422-a77f3b6e2b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/422-a77f3b6e2b.webp",
     "kaldenavn": null,
     "coords": [
       56.09423322,
@@ -493,6 +531,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1251.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1251-bb18a92099.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1251-bb18a92099.webp",
     "kaldenavn": null,
     "coords": [
       55.42088958,
@@ -518,6 +558,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.18215286,
@@ -543,6 +585,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/948.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/948-7c936f94e1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/948-7c936f94e1.webp",
     "kaldenavn": null,
     "coords": [
       55.6869516,
@@ -568,6 +612,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/949.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/949-d8423067e8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/949-d8423067e8.webp",
     "kaldenavn": null,
     "coords": [
       55.6869516,
@@ -593,6 +639,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/227.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/227-c22c34e0ae.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/227-c22c34e0ae.webp",
     "kaldenavn": null,
     "coords": [
       56.32799021,
@@ -618,6 +666,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.41476356,
@@ -643,6 +693,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.12208613,
@@ -668,6 +720,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1141.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1141-72001a9d12.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1141-72001a9d12.webp",
     "kaldenavn": null,
     "coords": [
       55.86605512,
@@ -693,6 +747,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1356.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1356-1beb5bedd3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1356-1beb5bedd3.webp",
     "kaldenavn": null,
     "coords": [
       55.24506199,
@@ -718,6 +774,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1357.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1357-7ae6ae5960.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1357-7ae6ae5960.webp",
     "kaldenavn": null,
     "coords": [
       55.44966319,
@@ -743,6 +801,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/435.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/435-c52bbe1af1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/435-c52bbe1af1.webp",
     "kaldenavn": null,
     "coords": [
       56.3806496,
@@ -768,6 +828,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1671.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1671-d47e6cd893.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1671-d47e6cd893.webp",
     "kaldenavn": null,
     "coords": [
       55.36353136,
@@ -793,6 +855,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/436.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/436-ddf5b9afc3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/436-ddf5b9afc3.webp",
     "kaldenavn": null,
     "coords": [
       56.49705855,
@@ -818,6 +882,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.55907816,
@@ -843,6 +909,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.77688954,
@@ -868,6 +936,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/750.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/750-7ad73712f2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/750-7ad73712f2.webp",
     "kaldenavn": null,
     "coords": [
       55.65607154,
@@ -893,6 +963,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/951.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/951-05a848bf96.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/951-05a848bf96.webp",
     "kaldenavn": null,
     "coords": [
       55.40880423,
@@ -918,6 +990,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.92123871,
@@ -943,6 +1017,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1538.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1538-9b03879162.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1538-9b03879162.webp",
     "kaldenavn": null,
     "coords": [
       55.63352245,
@@ -968,6 +1044,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -993,6 +1071,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -1018,6 +1098,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.61664144,
@@ -1043,6 +1125,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.49118916,
@@ -1068,6 +1152,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.4784284,
@@ -1093,6 +1179,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/955.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/955-5cd908fad4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/955-5cd908fad4.webp",
     "kaldenavn": null,
     "coords": [
       56.01099572,
@@ -1118,6 +1206,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.28777753,
@@ -1143,6 +1233,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.72123589,
@@ -1168,6 +1260,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -1193,6 +1287,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/14.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/14-4133bb3fb6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/14-4133bb3fb6.webp",
     "kaldenavn": null,
     "coords": [
       56.76264148,
@@ -1218,6 +1314,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.10716869,
@@ -1243,6 +1341,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/199.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/199-61ef6c5544.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/199-61ef6c5544.webp",
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -1268,6 +1368,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3389.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3389-d0275be271.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3389-d0275be271.webp",
     "kaldenavn": null,
     "coords": [
       56.12635244,
@@ -1293,6 +1395,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3423.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3423-032dc0719a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3423-032dc0719a.webp",
     "kaldenavn": null,
     "coords": [
       55.18306206,
@@ -1318,6 +1422,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.93341595,
@@ -1343,6 +1449,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/439.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/439-a2299a5283.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/439-a2299a5283.webp",
     "kaldenavn": null,
     "coords": [
       55.76046689,
@@ -1368,6 +1476,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/423.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/423-0eacf45265.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/423-0eacf45265.webp",
     "kaldenavn": null,
     "coords": [
       56.15051496,
@@ -1393,6 +1503,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/754.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/754-1bbdf66bab.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/754-1bbdf66bab.webp",
     "kaldenavn": null,
     "coords": [
       55.4784284,
@@ -1418,6 +1530,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/956.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/956-2f17c5fa1a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/956-2f17c5fa1a.webp",
     "kaldenavn": null,
     "coords": [
       55.81190532,
@@ -1443,6 +1557,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1358.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1358-6c4479ab18.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1358-6c4479ab18.webp",
     "kaldenavn": null,
     "coords": [
       55.29165859,
@@ -1468,6 +1584,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.63765951,
@@ -1493,6 +1611,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -1518,6 +1638,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/16.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/16-d1ea6b97d3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/16-d1ea6b97d3.webp",
     "kaldenavn": null,
     "coords": [
       57.13326579,
@@ -1543,6 +1665,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/200.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/200-923ffd5c79.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/200-923ffd5c79.webp",
     "kaldenavn": null,
     "coords": [
       56.2699576,
@@ -1568,6 +1692,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/443.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/443-79e152d5dc.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/443-79e152d5dc.webp",
     "kaldenavn": null,
     "coords": [
       56.42921057,
@@ -1593,6 +1719,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.35301317,
@@ -1618,6 +1746,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3720.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3720-bd042415f7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3720-bd042415f7.webp",
     "kaldenavn": null,
     "coords": [
       55.68182922,
@@ -1643,6 +1773,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/959.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/959-25725ddc8d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/959-25725ddc8d.webp",
     "kaldenavn": null,
     "coords": [
       55.58934868,
@@ -1668,6 +1800,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -1693,6 +1827,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1364.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1364-d02027f4d8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1364-d02027f4d8.webp",
     "kaldenavn": null,
     "coords": [
       55.42123207,
@@ -1718,6 +1854,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1637.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1637-f19ae7870f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1637-f19ae7870f.webp",
     "kaldenavn": null,
     "coords": [
       54.70210497,
@@ -1743,6 +1881,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.68169351,
@@ -1768,6 +1908,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.62941506,
@@ -1793,6 +1935,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.58244324,
@@ -1818,6 +1962,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.58244324,
@@ -1843,6 +1989,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1366.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1366-2c64468f9e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1366-2c64468f9e.webp",
     "kaldenavn": null,
     "coords": [
       55.34929575,
@@ -1868,6 +2016,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -1893,6 +2043,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.46317549,
@@ -1918,6 +2070,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3722.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3722-af201372f8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3722-af201372f8.webp",
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -1943,6 +2097,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1367.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1367-18624c0f71.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1367-18624c0f71.webp",
     "kaldenavn": null,
     "coords": [
       55.403021,
@@ -1968,6 +2124,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1069.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1069-6a454dda20.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1069-6a454dda20.webp",
     "kaldenavn": null,
     "coords": [
       55.74057031,
@@ -1993,6 +2151,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1227.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1227-40390be896.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1227-40390be896.webp",
     "kaldenavn": null,
     "coords": [
       55.40887345,
@@ -2018,6 +2178,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1202.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1202-9c4755d3e1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1202-9c4755d3e1.webp",
     "kaldenavn": null,
     "coords": [
       55.68182922,
@@ -2043,6 +2205,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1312.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1312-4d4f20c3f6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1312-4d4f20c3f6.webp",
     "kaldenavn": null,
     "coords": [
       55.78962271,
@@ -2068,6 +2232,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1654.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1654-b2ed09ff43.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1654-b2ed09ff43.webp",
     "kaldenavn": null,
     "coords": [
       54.8143415,
@@ -2093,6 +2259,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1365.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1365-205fdde2f8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1365-205fdde2f8.webp",
     "kaldenavn": null,
     "coords": [
       55.37859541,
@@ -2118,6 +2286,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3-450e62da42.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3-450e62da42.webp",
     "kaldenavn": null,
     "coords": [
       56.9991663,
@@ -2143,6 +2313,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/961.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/961-f21e6e8448.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/961-f21e6e8448.webp",
     "kaldenavn": null,
     "coords": [
       55.76191781,
@@ -2168,6 +2340,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/20.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/20-9bf53ec61b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/20-9bf53ec61b.webp",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -2193,6 +2367,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.70610256,
@@ -2218,6 +2394,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3921.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3921-896c396521.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3921-896c396521.webp",
     "kaldenavn": null,
     "coords": [
       55.73668449,
@@ -2243,6 +2421,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2131.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2131-3894631732.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2131-3894631732.webp",
     "kaldenavn": null,
     "coords": [
       55.73668449,
@@ -2268,6 +2448,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.07311357,
@@ -2293,6 +2475,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/21.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/21-656dfcbfd2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/21-656dfcbfd2.webp",
     "kaldenavn": null,
     "coords": [
       57.52270103,
@@ -2318,6 +2502,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.68695015,
@@ -2343,6 +2529,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.71256101,
@@ -2368,6 +2556,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.06302044,
@@ -2393,6 +2583,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.17740891,
@@ -2418,6 +2610,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.06237954,
@@ -2443,6 +2637,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/963.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/963-88873dee15.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/963-88873dee15.webp",
     "kaldenavn": null,
     "coords": [
       55.43053197,
@@ -2468,6 +2664,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/758.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/758-8e89bc014d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/758-8e89bc014d.webp",
     "kaldenavn": null,
     "coords": [
       55.19588025,
@@ -2493,6 +2691,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1144.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1144-8bfb114f32.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1144-8bfb114f32.webp",
     "kaldenavn": null,
     "coords": [
       55.73668449,
@@ -2518,6 +2718,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1924.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1924-aa0a0a57f2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1924-aa0a0a57f2.webp",
     "kaldenavn": null,
     "coords": [
       55.76234096,
@@ -2543,6 +2745,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.16282327,
@@ -2568,6 +2772,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.59542013,
@@ -2593,6 +2799,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/761.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/761-a68410d472.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/761-a68410d472.webp",
     "kaldenavn": null,
     "coords": [
       55.73792043,
@@ -2618,6 +2826,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/23.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/23-5dac3cb466.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/23-5dac3cb466.webp",
     "kaldenavn": null,
     "coords": [
       57.57139797,
@@ -2643,6 +2853,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/24.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/24-3439be0ce2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/24-3439be0ce2.webp",
     "kaldenavn": null,
     "coords": [
       57.16282327,
@@ -2668,6 +2880,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1361.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1361-f459409480.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1361-f459409480.webp",
     "kaldenavn": null,
     "coords": [
       55.36672658,
@@ -2693,6 +2907,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.05662783,
@@ -2718,6 +2934,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1542.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1542-43fa78b6b5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1542-43fa78b6b5.webp",
     "kaldenavn": null,
     "coords": [
       55.71256101,
@@ -2743,6 +2961,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/26.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/26-c6bc2fd7e7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/26-c6bc2fd7e7.webp",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -2768,6 +2988,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -2793,6 +3015,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/451.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/451-4af93c8083.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/451-4af93c8083.webp",
     "kaldenavn": null,
     "coords": [
       56.48050883,
@@ -2818,6 +3042,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/203.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/203-9519d898ae.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/203-9519d898ae.webp",
     "kaldenavn": null,
     "coords": [
       56.36051392,
@@ -2843,6 +3069,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/657.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/657-4f8a480a29.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/657-4f8a480a29.webp",
     "kaldenavn": null,
     "coords": [
       55.44548525,
@@ -2868,6 +3096,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -2893,6 +3123,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -2918,6 +3150,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1237.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1237-c97f405c51.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1237-c97f405c51.webp",
     "kaldenavn": null,
     "coords": [
       55.5150734,
@@ -2943,6 +3177,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/958.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/958-62e9c7f180.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/958-62e9c7f180.webp",
     "kaldenavn": null,
     "coords": [
       55.68182922,
@@ -2968,6 +3204,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3742.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3742-1b69d19895.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3742-1b69d19895.webp",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -2993,6 +3231,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1024.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1024-db3b839a6a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1024-db3b839a6a.webp",
     "kaldenavn": null,
     "coords": [
       55.58934868,
@@ -3018,6 +3258,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1470.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1470-8985f57c98.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1470-8985f57c98.webp",
     "kaldenavn": null,
     "coords": [
       55.403021,
@@ -3043,6 +3285,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1493.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1493-3af10027ed.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1493-3af10027ed.webp",
     "kaldenavn": null,
     "coords": [
       55.01443666,
@@ -3068,6 +3312,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1304.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1304-0e7e1c51ae.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1304-0e7e1c51ae.webp",
     "kaldenavn": null,
     "coords": [
       55.68182922,
@@ -3093,6 +3339,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.29165859,
@@ -3118,6 +3366,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1866.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1866-bcdca7d1c8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1866-bcdca7d1c8.webp",
     "kaldenavn": null,
     "coords": [
       55.49118916,
@@ -3143,6 +3393,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.39401435,
@@ -3168,6 +3420,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.84944104,
@@ -3193,6 +3447,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.68763915,
@@ -3218,6 +3474,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/968.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/968-ea7c32359c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/968-ea7c32359c.webp",
     "kaldenavn": null,
     "coords": [
       56.22745639,
@@ -3243,6 +3501,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/969.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/969-58c7c79093.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/969-58c7c79093.webp",
     "kaldenavn": null,
     "coords": [
       55.86605512,
@@ -3268,6 +3528,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.93341595,
@@ -3293,6 +3555,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.89016003,
@@ -3318,6 +3582,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/970.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/970-cc8973be72.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/970-cc8973be72.webp",
     "kaldenavn": null,
     "coords": [
       55.3061459,
@@ -3343,6 +3609,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1362.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1362-821f5084a1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1362-821f5084a1.webp",
     "kaldenavn": null,
     "coords": [
       55.6129967,
@@ -3368,6 +3636,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.92382082,
@@ -3393,6 +3663,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1363.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1363-0dff208bc1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1363-0dff208bc1.webp",
     "kaldenavn": null,
     "coords": [
       55.403021,
@@ -3418,6 +3690,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1533.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1533-97ee16fcc9.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1533-97ee16fcc9.webp",
     "kaldenavn": null,
     "coords": [
       55.73442051,
@@ -3443,6 +3717,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1534.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1534-72aeeab549.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1534-72aeeab549.webp",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -3468,6 +3744,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1536.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1536-be3b5c9562.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1536-be3b5c9562.webp",
     "kaldenavn": null,
     "coords": [
       55.71256101,
@@ -3493,6 +3771,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1532.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1532-516facda12.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1532-516facda12.webp",
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -3518,6 +3798,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -3543,6 +3825,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/739.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/739-450f20d775.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/739-450f20d775.webp",
     "kaldenavn": null,
     "coords": [
       56.17162148,
@@ -3568,6 +3852,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1603.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1603-b18d57e359.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1603-b18d57e359.webp",
     "kaldenavn": null,
     "coords": [
       55.6940569,
@@ -3593,6 +3879,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3161.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3161-ee8c3e85b5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3161-ee8c3e85b5.webp",
     "kaldenavn": null,
     "coords": [
       55.35251254,
@@ -3618,6 +3906,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1599.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1599-6906778c03.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1599-6906778c03.webp",
     "kaldenavn": null,
     "coords": [
       55.70964347,
@@ -3643,6 +3933,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1552.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1552-bb549b755c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1552-bb549b755c.webp",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -3668,6 +3960,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1553.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1553-66d093d09c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1553-66d093d09c.webp",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -3693,6 +3987,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1554.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1554-bfd8bfe4b9.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1554-bfd8bfe4b9.webp",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -3718,6 +4014,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1559.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1559-a28612c47d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1559-a28612c47d.webp",
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -3743,6 +4041,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1560.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1560-e98df522df.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1560-e98df522df.webp",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -3768,6 +4068,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.93212987,
@@ -3793,6 +4095,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1444.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1444-62469c6992.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1444-62469c6992.webp",
     "kaldenavn": null,
     "coords": [
       55.403021,
@@ -3818,6 +4122,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1572.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1572-d07649aae6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1572-d07649aae6.webp",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -3843,6 +4149,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1573.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1573-3c755af522.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1573-3c755af522.webp",
     "kaldenavn": null,
     "coords": [
       55.65941452,
@@ -3868,6 +4176,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1578.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1578-8dd4a4c0dd.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1578-8dd4a4c0dd.webp",
     "kaldenavn": null,
     "coords": [
       55.68182922,
@@ -3893,6 +4203,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1581.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1581-1706d6f584.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1581-1706d6f584.webp",
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -3918,6 +4230,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1582.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1582-5b00d8673c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1582-5b00d8673c.webp",
     "kaldenavn": null,
     "coords": [
       55.71256101,
@@ -3943,6 +4257,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1584.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1584-ca53e066fc.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1584-ca53e066fc.webp",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -3968,6 +4284,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1586.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1586-d9b07f0504.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1586-d9b07f0504.webp",
     "kaldenavn": null,
     "coords": [
       55.71256101,
@@ -3993,6 +4311,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1590.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1590-d7730db268.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1590-d7730db268.webp",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -4018,6 +4338,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/863.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/863-b166a07ebd.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/863-b166a07ebd.webp",
     "kaldenavn": null,
     "coords": [
       55.63843566,
@@ -4043,6 +4365,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1592.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1592-31091666aa.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1592-31091666aa.webp",
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -4068,6 +4392,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1593.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1593-32b039fba7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1593-32b039fba7.webp",
     "kaldenavn": null,
     "coords": [
       55.67945641,
@@ -4093,6 +4419,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1594.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1594-6912190b12.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1594-6912190b12.webp",
     "kaldenavn": null,
     "coords": [
       55.6940569,
@@ -4118,6 +4446,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.34794414,
@@ -4143,6 +4473,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/206.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/206-d2b2bbbd0a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/206-d2b2bbbd0a.webp",
     "kaldenavn": null,
     "coords": [
       56.15035869,
@@ -4168,6 +4500,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.27022295,
@@ -4193,6 +4527,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/207.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/207-1cc75f4517.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/207-1cc75f4517.webp",
     "kaldenavn": null,
     "coords": [
       55.85259869,
@@ -4218,6 +4554,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.85259869,
@@ -4243,6 +4581,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.99089664,
@@ -4268,6 +4608,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/971.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/971-bd555d87b4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/971-bd555d87b4.webp",
     "kaldenavn": null,
     "coords": [
       56.00467892,
@@ -4293,6 +4635,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/209.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/209-03fa0a62fe.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/209-03fa0a62fe.webp",
     "kaldenavn": null,
     "coords": [
       56.59071095,
@@ -4318,6 +4662,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/972.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/972-66020582f3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/972-66020582f3.webp",
     "kaldenavn": null,
     "coords": [
       55.49411646,
@@ -4343,6 +4689,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/763.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/763-1afeb4670e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/763-1afeb4670e.webp",
     "kaldenavn": null,
     "coords": [
       54.8687306,
@@ -4368,6 +4716,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/455.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/455-e72b26f8fc.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/455-e72b26f8fc.webp",
     "kaldenavn": null,
     "coords": [
       56.15788265,
@@ -4393,6 +4743,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.15788265,
@@ -4418,6 +4770,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/456.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/456-5c4e105d95.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/456-5c4e105d95.webp",
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -4443,6 +4797,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/764.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/764-ad75756173.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/764-ad75756173.webp",
     "kaldenavn": null,
     "coords": [
       55.46065157,
@@ -4468,6 +4824,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.46065157,
@@ -4493,6 +4851,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.46065157,
@@ -4518,6 +4878,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/974.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/974-a25c21c98e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/974-a25c21c98e.webp",
     "kaldenavn": null,
     "coords": [
       55.70417096,
@@ -4543,6 +4905,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/210.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/210-acde1f225d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/210-acde1f225d.webp",
     "kaldenavn": null,
     "coords": [
       55.93341595,
@@ -4568,6 +4932,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1626.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1626-413ec4a250.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1626-413ec4a250.webp",
     "kaldenavn": null,
     "coords": [
       54.75748092,
@@ -4593,6 +4959,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/457.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/457-d5b37ff45b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/457-d5b37ff45b.webp",
     "kaldenavn": null,
     "coords": [
       55.7220274,
@@ -4618,6 +4986,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/975.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/975-5174375db9.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/975-5174375db9.webp",
     "kaldenavn": null,
     "coords": [
       55.78572204,
@@ -4643,6 +5013,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/766.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/766-d7a2358648.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/766-d7a2358648.webp",
     "kaldenavn": null,
     "coords": [
       55.07311357,
@@ -4668,6 +5040,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.65719788,
@@ -4693,6 +5067,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.15361133,
@@ -4718,6 +5094,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1370.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1370-3b1a805de5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1370-3b1a805de5.webp",
     "kaldenavn": null,
     "coords": [
       55.49127877,
@@ -4743,6 +5121,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/768.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/768-c9d80bcef2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/768-c9d80bcef2.webp",
     "kaldenavn": null,
     "coords": [
       54.8713804,
@@ -4768,6 +5148,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.24506199,
@@ -4793,6 +5175,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/30.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/30-795075b451.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/30-795075b451.webp",
     "kaldenavn": null,
     "coords": [
       57.10716869,
@@ -4818,6 +5202,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/212.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/212-673779417a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/212-673779417a.webp",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -4843,6 +5229,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1372.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1372-88c04d1b81.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1372-88c04d1b81.webp",
     "kaldenavn": null,
     "coords": [
       55.3195544,
@@ -4868,6 +5256,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/460.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/460-e4a791f249.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/460-e4a791f249.webp",
     "kaldenavn": null,
     "coords": [
       56.02488921,
@@ -4893,6 +5283,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/461.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/461-3f4b14dbde.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/461-3f4b14dbde.webp",
     "kaldenavn": null,
     "coords": [
       55.96052136,
@@ -4918,6 +5310,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.18127292,
@@ -4943,6 +5337,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/979.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/979-48fcdfd068.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/979-48fcdfd068.webp",
     "kaldenavn": null,
     "coords": [
       55.92123871,
@@ -4968,6 +5364,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.64503648,
@@ -4993,6 +5391,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/982.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/982-36ad7e24e6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/982-36ad7e24e6.webp",
     "kaldenavn": null,
     "coords": [
       55.61998785,
@@ -5018,6 +5418,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/981.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/981-2d93a7592d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/981-2d93a7592d.webp",
     "kaldenavn": null,
     "coords": [
       55.64503648,
@@ -5043,6 +5445,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/31.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/31-90b5cf2898.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/31-90b5cf2898.webp",
     "kaldenavn": null,
     "coords": [
       57.28432949,
@@ -5068,6 +5472,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.70964347,
@@ -5093,6 +5499,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1543.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1543-56ece7c7d1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1543-56ece7c7d1.webp",
     "kaldenavn": null,
     "coords": [
       55.70964347,
@@ -5118,6 +5526,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/770.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/770-b37b1a8439.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/770-b37b1a8439.webp",
     "kaldenavn": null,
     "coords": [
       55.49880374,
@@ -5143,6 +5553,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1943.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1943-5f9dfdc5bb.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1943-5f9dfdc5bb.webp",
     "kaldenavn": null,
     "coords": [
       56.02388208,
@@ -5168,6 +5580,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.76234096,
@@ -5193,6 +5607,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2154.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2154-b28b5f6286.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2154-b28b5f6286.webp",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -5218,6 +5634,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.01708464,
@@ -5243,6 +5661,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.58270689,
@@ -5268,6 +5688,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/34.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/34-6028fd65c7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/34-6028fd65c7.webp",
     "kaldenavn": null,
     "coords": [
       56.8298458,
@@ -5293,6 +5715,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.67082135,
@@ -5318,6 +5742,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1939.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1939-7da47ebabe.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1939-7da47ebabe.webp",
     "kaldenavn": null,
     "coords": [
       56.54689645,
@@ -5343,6 +5769,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.54689645,
@@ -5368,6 +5796,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1376.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1376-709b380c3c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1376-709b380c3c.webp",
     "kaldenavn": null,
     "coords": [
       55.50180178,
@@ -5393,6 +5823,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.12208613,
@@ -5418,6 +5850,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -5443,6 +5877,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1602.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1602-80112662ec.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1602-80112662ec.webp",
     "kaldenavn": null,
     "coords": [
       55.67945641,
@@ -5468,6 +5904,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.57103757,
@@ -5493,6 +5931,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.79347704,
@@ -5518,6 +5958,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3694.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3694-d8d997f502.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3694-d8d997f502.webp",
     "kaldenavn": null,
     "coords": [
       55.66357137,
@@ -5543,6 +5985,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1545.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1545-31a6ea3914.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1545-31a6ea3914.webp",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -5568,6 +6012,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/424.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/424-29297bf821.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/424-29297bf821.webp",
     "kaldenavn": null,
     "coords": [
       56.20167527,
@@ -5593,6 +6039,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/775.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/775-e40d5e1860.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/775-e40d5e1860.webp",
     "kaldenavn": null,
     "coords": [
       55.35487274,
@@ -5618,6 +6066,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1544.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1544-a9af0c8867.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1544-a9af0c8867.webp",
     "kaldenavn": null,
     "coords": [
       55.67360101,
@@ -5643,6 +6093,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.45935717,
@@ -5668,6 +6120,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3125.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3125-be0924088f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3125-be0924088f.webp",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -5693,6 +6147,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.67457821,
@@ -5718,6 +6174,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -5743,6 +6201,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/462.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/462-f70d357ef8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/462-f70d357ef8.webp",
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -5768,6 +6228,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/989.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/989-2eb3f4f6a2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/989-2eb3f4f6a2.webp",
     "kaldenavn": null,
     "coords": [
       55.32031014,
@@ -5793,6 +6255,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1377.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1377-f077e180ae.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1377-f077e180ae.webp",
     "kaldenavn": null,
     "coords": [
       55.51715531,
@@ -5818,6 +6282,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/990.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/990-318fd5ae86.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/990-318fd5ae86.webp",
     "kaldenavn": null,
     "coords": [
       55.86932225,
@@ -5843,6 +6309,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/35.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/35-8a298204ee.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/35-8a298204ee.webp",
     "kaldenavn": null,
     "coords": [
       56.9647583,
@@ -5868,6 +6336,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1378.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1378-dbbe3afbfe.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1378-dbbe3afbfe.webp",
     "kaldenavn": null,
     "coords": [
       55.35251254,
@@ -5893,6 +6363,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3837.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3837-79c375e6c3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3837-79c375e6c3.webp",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -5918,6 +6390,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.58934868,
@@ -5943,6 +6417,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.46065157,
@@ -5968,6 +6444,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.72499013,
@@ -5993,6 +6471,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/520.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/520-043102e88a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/520-043102e88a.webp",
     "kaldenavn": null,
     "coords": [
       56.02388208,
@@ -6018,6 +6498,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1940.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1940-8bcd3d4b79.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1940-8bcd3d4b79.webp",
     "kaldenavn": null,
     "coords": [
       55.99089664,
@@ -6043,6 +6525,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -6068,6 +6552,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.99089664,
@@ -6093,6 +6579,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.99089664,
@@ -6118,6 +6606,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.65941452,
@@ -6143,6 +6633,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1949.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1949-f7184ccb42.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1949-f7184ccb42.webp",
     "kaldenavn": null,
     "coords": [
       55.4068472,
@@ -6168,6 +6660,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.68207564,
@@ -6193,6 +6687,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.90310802,
@@ -6218,6 +6714,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1903.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1903-58d09bfeed.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1903-58d09bfeed.webp",
     "kaldenavn": null,
     "coords": null
   },
@@ -6240,6 +6738,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -6265,6 +6765,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.05171431,
@@ -6290,6 +6792,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.60852142,
@@ -6315,6 +6819,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.20167527,
@@ -6340,6 +6846,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.53579978,
@@ -6365,6 +6873,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.22214938,
@@ -6390,6 +6900,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.58757292,
@@ -6415,6 +6927,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/37.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/37-c9539c3ebe.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/37-c9539c3ebe.webp",
     "kaldenavn": null,
     "coords": [
       56.6528756,
@@ -6440,6 +6954,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.02388208,
@@ -6465,6 +6981,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1548.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1548-02a62e82f0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1548-02a62e82f0.webp",
     "kaldenavn": null,
     "coords": [
       55.5081121,
@@ -6490,6 +7008,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.49807432,
@@ -6515,6 +7035,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/467.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/467-58f5f9e2cd.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/467-58f5f9e2cd.webp",
     "kaldenavn": null,
     "coords": [
       56.50265825,
@@ -6540,6 +7062,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.48050883,
@@ -6565,6 +7089,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/39.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/39-6e60acb7cb.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/39-6e60acb7cb.webp",
     "kaldenavn": null,
     "coords": [
       57.21127809,
@@ -6590,6 +7116,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/779.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/779-e4d5ec687d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/779-e4d5ec687d.webp",
     "kaldenavn": null,
     "coords": [
       54.9528525,
@@ -6615,6 +7143,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/40.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/40-2437d99bce.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/40-2437d99bce.webp",
     "kaldenavn": null,
     "coords": [
       57.28497909,
@@ -6640,6 +7170,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.15788265,
@@ -6665,6 +7197,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1627.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1627-c51afb1a67.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1627-c51afb1a67.webp",
     "kaldenavn": null,
     "coords": [
       54.62941506,
@@ -6690,6 +7224,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1383.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1383-975a4096e1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1383-975a4096e1.webp",
     "kaldenavn": null,
     "coords": [
       55.13177189,
@@ -6715,6 +7251,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/469.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/469-bce24ca842.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/469-bce24ca842.webp",
     "kaldenavn": null,
     "coords": [
       56.14931257,
@@ -6740,6 +7278,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.89016003,
@@ -6765,6 +7305,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3759.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3759-fa4e886d37.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3759-fa4e886d37.webp",
     "kaldenavn": null,
     "coords": [
       56.09369625,
@@ -6790,6 +7332,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1384.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1384-3589da6b8f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1384-3589da6b8f.webp",
     "kaldenavn": null,
     "coords": [
       55.06342876,
@@ -6815,6 +7359,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/470.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/470-63b2cb6728.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/470-63b2cb6728.webp",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -6840,6 +7386,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/780.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/780-2e9cceeb6d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/780-2e9cceeb6d.webp",
     "kaldenavn": null,
     "coords": [
       55.06940698,
@@ -6865,6 +7413,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.8713804,
@@ -6890,6 +7440,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.15051496,
@@ -6915,6 +7467,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/472.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/472-eea5981d66.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/472-eea5981d66.webp",
     "kaldenavn": null,
     "coords": [
       55.61664144,
@@ -6940,6 +7494,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1002.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1002-02edba663d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1002-02edba663d.webp",
     "kaldenavn": null,
     "coords": [
       55.6741838,
@@ -6965,6 +7521,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1001.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1001-ba4cb84119.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1001-ba4cb84119.webp",
     "kaldenavn": null,
     "coords": [
       55.50779016,
@@ -6990,6 +7548,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1386.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1386-aa83ab092b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1386-aa83ab092b.webp",
     "kaldenavn": null,
     "coords": [
       55.36518649,
@@ -7015,6 +7575,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/217.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/217-03d9c0e203.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/217-03d9c0e203.webp",
     "kaldenavn": null,
     "coords": [
       56.47769058,
@@ -7040,6 +7602,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.02375436,
@@ -7065,6 +7629,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1947.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1947-f8aa4362d4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1947-f8aa4362d4.webp",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -7090,6 +7656,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.98495945,
@@ -7115,6 +7683,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.36245892,
@@ -7140,6 +7710,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/218.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/218-c9235c7622.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/218-c9235c7622.webp",
     "kaldenavn": null,
     "coords": [
       56.21005036,
@@ -7165,6 +7737,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.21005036,
@@ -7190,6 +7764,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.7220274,
@@ -7215,6 +7791,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/784.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/784-7916d3dabf.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/784-7916d3dabf.webp",
     "kaldenavn": null,
     "coords": [
       55.02899493,
@@ -7240,6 +7818,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1628.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1628-2476583877.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1628-2476583877.webp",
     "kaldenavn": null,
     "coords": [
       54.63787516,
@@ -7265,6 +7845,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/475.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/475-6e2e5e3193.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/475-6e2e5e3193.webp",
     "kaldenavn": null,
     "coords": [
       55.57103757,
@@ -7290,6 +7872,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3701.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3701-190aa955a8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3701-190aa955a8.webp",
     "kaldenavn": null,
     "coords": [
       55.45935717,
@@ -7315,6 +7899,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/785.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/785-3ba87d3795.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/785-3ba87d3795.webp",
     "kaldenavn": null,
     "coords": [
       55.45935717,
@@ -7340,6 +7926,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3337.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3337-80e82e398a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3337-80e82e398a.webp",
     "kaldenavn": null,
     "coords": [
       55.49118916,
@@ -7365,6 +7953,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/787.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/787-41dbb12825.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/787-41dbb12825.webp",
     "kaldenavn": null,
     "coords": [
       55.45935717,
@@ -7390,6 +7980,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1629.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1629-250ea2f901.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1629-250ea2f901.webp",
     "kaldenavn": null,
     "coords": [
       54.86008913,
@@ -7415,6 +8007,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1005.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1005-dcc815d97a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1005-dcc815d97a.webp",
     "kaldenavn": null,
     "coords": [
       55.99425687,
@@ -7440,6 +8034,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1006.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1006-beb43855f1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1006-beb43855f1.webp",
     "kaldenavn": null,
     "coords": [
       56.22745639,
@@ -7465,6 +8061,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -7490,6 +8088,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1316.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1316-1fe6695ee2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1316-1fe6695ee2.webp",
     "kaldenavn": null,
     "coords": [
       55.76191781,
@@ -7515,6 +8115,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3367.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3367-2709a89086.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3367-2709a89086.webp",
     "kaldenavn": null,
     "coords": [
       55.39401435,
@@ -7540,6 +8142,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3937.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3937-166dd16f5d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3937-166dd16f5d.webp",
     "kaldenavn": null,
     "coords": [
       57.08119416,
@@ -7565,6 +8169,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1546.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1546-867365890f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1546-867365890f.webp",
     "kaldenavn": "FA 2000",
     "coords": [
       55.67945641,
@@ -7590,6 +8196,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.54580784,
@@ -7615,6 +8223,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.15062316,
@@ -7640,6 +8250,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/789.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/789-c13aad1ee5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/789-c13aad1ee5.webp",
     "kaldenavn": null,
     "coords": [
       55.28286185,
@@ -7665,6 +8277,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.94881207,
@@ -7690,6 +8304,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.77310507,
@@ -7715,6 +8331,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/44.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/44-d18e8394a5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/44-d18e8394a5.webp",
     "kaldenavn": null,
     "coords": [
       56.77310507,
@@ -7740,6 +8358,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1008.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1008-b088cb6eb3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1008-b088cb6eb3.webp",
     "kaldenavn": null,
     "coords": [
       55.81981968,
@@ -7765,6 +8385,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.99089664,
@@ -7790,6 +8412,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1009.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1009-8b2440638a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1009-8b2440638a.webp",
     "kaldenavn": null,
     "coords": [
       55.2685839,
@@ -7815,6 +8439,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1007.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1007-fc3020170c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1007-fc3020170c.webp",
     "kaldenavn": null,
     "coords": [
       55.19490482,
@@ -7840,6 +8466,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.12635244,
@@ -7865,6 +8493,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.403021,
@@ -7890,6 +8520,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -7915,6 +8547,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1893.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1893-975ae5ba90.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1893-975ae5ba90.webp",
     "kaldenavn": null,
     "coords": [
       55.34929575,
@@ -7940,6 +8574,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1451.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1451-0512c2ca72.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1451-0512c2ca72.webp",
     "kaldenavn": null,
     "coords": [
       55.24506199,
@@ -7965,6 +8601,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3951.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3951-beca7b72e6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3951-beca7b72e6.webp",
     "kaldenavn": null,
     "coords": [
       56.12635244,
@@ -7990,6 +8628,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1388.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1388-acef9072ff.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1388-acef9072ff.webp",
     "kaldenavn": null,
     "coords": [
       55.37859541,
@@ -8015,6 +8655,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1607.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1607-8375487ea4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1607-8375487ea4.webp",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -8040,6 +8682,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1547.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1547-cc6f85083c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1547-cc6f85083c.webp",
     "kaldenavn": null,
     "coords": [
       55.6883311,
@@ -8065,6 +8709,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/185.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/185-fef3c3d4f5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/185-fef3c3d4f5.webp",
     "kaldenavn": null,
     "coords": [
       57.08119416,
@@ -8090,6 +8736,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.92123871,
@@ -8115,6 +8763,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.57103757,
@@ -8140,6 +8790,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1399.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1399-2d4d6b2e2f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1399-2d4d6b2e2f.webp",
     "kaldenavn": null,
     "coords": [
       55.11203154,
@@ -8165,6 +8817,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3826.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3826-a6053dd062.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3826-a6053dd062.webp",
     "kaldenavn": null,
     "coords": [
       55.92959715,
@@ -8190,6 +8844,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.58757292,
@@ -8215,6 +8871,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1781.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1781-4475de0b17.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1781-4475de0b17.webp",
     "kaldenavn": null,
     "coords": [
       56.03943161,
@@ -8240,6 +8898,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.03943161,
@@ -8265,6 +8925,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1389.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1389-97a72acc40.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1389-97a72acc40.webp",
     "kaldenavn": null,
     "coords": [
       55.403021,
@@ -8290,6 +8952,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1764.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1764-55e90d558d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1764-55e90d558d.webp",
     "kaldenavn": null,
     "coords": [
       55.81684549,
@@ -8315,6 +8979,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -8340,6 +9006,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/543.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/543-9f37769fb9.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/543-9f37769fb9.webp",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -8365,6 +9033,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.58934868,
@@ -8390,6 +9060,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1878.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1878-50e404a5bb.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1878-50e404a5bb.webp",
     "kaldenavn": null,
     "coords": [
       55.58776321,
@@ -8415,6 +9087,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/977.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/977-2befff1820.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/977-2befff1820.webp",
     "kaldenavn": null,
     "coords": [
       55.77912974,
@@ -8440,6 +9114,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/453.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/453-ad898c145a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/453-ad898c145a.webp",
     "kaldenavn": null,
     "coords": [
       56.15051496,
@@ -8465,6 +9141,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/791.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/791-5e9a1d2ea7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/791-5e9a1d2ea7.webp",
     "kaldenavn": null,
     "coords": [
       55.49118916,
@@ -8490,6 +9168,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3173.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3173-3a868c9223.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3173-3a868c9223.webp",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -8515,6 +9195,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1436.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1436-58d6cc6307.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1436-58d6cc6307.webp",
     "kaldenavn": null,
     "coords": [
       55.01443666,
@@ -8540,6 +9222,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -8565,6 +9249,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3422.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3422-a9b56e5275.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3422-a9b56e5275.webp",
     "kaldenavn": null,
     "coords": [
       55.59456942,
@@ -8590,6 +9276,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.05171431,
@@ -8615,6 +9303,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -8640,6 +9330,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3851.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3851-76389e93a0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3851-76389e93a0.webp",
     "kaldenavn": null,
     "coords": [
       54.75748092,
@@ -8665,6 +9357,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.68037643,
@@ -8690,6 +9384,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.81981968,
@@ -8715,6 +9411,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1611.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1611-4f2e2d7f14.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1611-4f2e2d7f14.webp",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -8740,6 +9438,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1390.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1390-1f47c03815.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1390-1f47c03815.webp",
     "kaldenavn": null,
     "coords": [
       55.35251254,
@@ -8765,6 +9465,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3169.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3169-01068226e9.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3169-01068226e9.webp",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -8790,6 +9492,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.20167527,
@@ -8815,6 +9519,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3731.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3731-8933ef34b1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3731-8933ef34b1.webp",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -8840,6 +9546,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/487.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/487-b183283f42.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/487-b183283f42.webp",
     "kaldenavn": null,
     "coords": [
       56.20167527,
@@ -8865,6 +9573,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -8890,6 +9600,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/482.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/482-a446a48d73.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/482-a446a48d73.webp",
     "kaldenavn": null,
     "coords": [
       56.48050883,
@@ -8915,6 +9627,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -8940,6 +9654,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/555.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/555-0bf7db7036.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/555-0bf7db7036.webp",
     "kaldenavn": null,
     "coords": [
       56.02388208,
@@ -8965,6 +9681,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.6940569,
@@ -8990,6 +9708,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.49118916,
@@ -9015,6 +9735,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2031.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2031-1427b65af3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2031-1427b65af3.webp",
     "kaldenavn": null,
     "coords": [
       55.34799675,
@@ -9040,6 +9762,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.01443666,
@@ -9065,6 +9789,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3750.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3750-955be1f0b6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3750-955be1f0b6.webp",
     "kaldenavn": null,
     "coords": [
       54.95248429,
@@ -9090,6 +9816,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.68174413,
@@ -9115,6 +9843,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -9140,6 +9870,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1318.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1318-d99caf9e04.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1318-d99caf9e04.webp",
     "kaldenavn": null,
     "coords": [
       55.6579409,
@@ -9165,6 +9897,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2043.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2043-07b0c6e129.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2043-07b0c6e129.webp",
     "kaldenavn": null,
     "coords": [
       56.20167527,
@@ -9190,6 +9924,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/809.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/809-472c655989.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/809-472c655989.webp",
     "kaldenavn": null,
     "coords": [
       55.24177268,
@@ -9215,6 +9951,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/222.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/222-1c87d02680.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/222-1c87d02680.webp",
     "kaldenavn": null,
     "coords": [
       56.32444075,
@@ -9240,6 +9978,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/913.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/913-f87632d698.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/913-f87632d698.webp",
     "kaldenavn": null,
     "coords": [
       55.02899493,
@@ -9265,6 +10005,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.20167527,
@@ -9290,6 +10032,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.09903701,
@@ -9315,6 +10059,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1015.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1015-2fbde713a7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1015-2fbde713a7.webp",
     "kaldenavn": null,
     "coords": [
       55.92123871,
@@ -9340,6 +10086,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -9365,6 +10113,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/792.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/792-98058bca1c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/792-98058bca1c.webp",
     "kaldenavn": null,
     "coords": [
       55.75986358,
@@ -9390,6 +10140,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3155.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3155-0f3c43e31f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3155-0f3c43e31f.webp",
     "kaldenavn": "FIUK",
     "coords": [
       55.42123207,
@@ -9415,6 +10167,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1394.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1394-2b1e1bbc41.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1394-2b1e1bbc41.webp",
     "kaldenavn": null,
     "coords": [
       55.45477943,
@@ -9440,6 +10194,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.94883412,
@@ -9465,6 +10221,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.24177268,
@@ -9490,6 +10248,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/224.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/224-9888647073.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/224-9888647073.webp",
     "kaldenavn": null,
     "coords": [
       56.69297871,
@@ -9515,6 +10275,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/45.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/45-638dd216e4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/45-638dd216e4.webp",
     "kaldenavn": null,
     "coords": [
       57.12742277,
@@ -9540,6 +10302,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1395.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1395-e9ae625a12.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1395-e9ae625a12.webp",
     "kaldenavn": null,
     "coords": [
       55.42123207,
@@ -9565,6 +10329,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.6517573,
@@ -9590,6 +10356,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/491.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/491-7f6740bb6e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/491-7f6740bb6e.webp",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -9615,6 +10383,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2082.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2082-c7cd93af52.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2082-c7cd93af52.webp",
     "kaldenavn": null,
     "coords": [
       55.84646728,
@@ -9640,6 +10410,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1750.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1750-749a6895d0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1750-749a6895d0.webp",
     "kaldenavn": null,
     "coords": [
       55.19504272,
@@ -9665,6 +10437,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1516.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1516-4b3a08bb35.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1516-4b3a08bb35.webp",
     "kaldenavn": null,
     "coords": [
       55.403021,
@@ -9690,6 +10464,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.17162148,
@@ -9715,6 +10491,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.21127809,
@@ -9740,6 +10518,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.27213799,
@@ -9765,6 +10545,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.89442946,
@@ -9790,6 +10572,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.90798948,
@@ -9815,6 +10599,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1019.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1019-d5b5da1c88.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1019-d5b5da1c88.webp",
     "kaldenavn": null,
     "coords": [
       55.66357137,
@@ -9840,6 +10626,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3839.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3839-703fea65be.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3839-703fea65be.webp",
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -9865,6 +10653,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1576.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1576-2294b8b8bd.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1576-2294b8b8bd.webp",
     "kaldenavn": null,
     "coords": [
       55.6883311,
@@ -9890,6 +10680,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1240.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1240-6a23773dfd.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1240-6a23773dfd.webp",
     "kaldenavn": null,
     "coords": [
       55.40880423,
@@ -9915,6 +10707,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/794.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/794-88f04d2b78.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/794-88f04d2b78.webp",
     "kaldenavn": null,
     "coords": [
       55.27645397,
@@ -9940,6 +10734,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.18928869,
@@ -9965,6 +10761,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.09423322,
@@ -9990,6 +10788,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.20167527,
@@ -10015,6 +10815,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/47.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/47-166725f387.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/47-166725f387.webp",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -10040,6 +10842,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3738.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3738-166725f387.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3738-166725f387.webp",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -10065,6 +10869,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3162.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3162-51f45dd533.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3162-51f45dd533.webp",
     "kaldenavn": null,
     "coords": [
       55.01443666,
@@ -10090,6 +10896,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.15051496,
@@ -10115,6 +10923,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/226.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/226-65f605bc6f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/226-65f605bc6f.webp",
     "kaldenavn": null,
     "coords": [
       56.49762699,
@@ -10140,6 +10950,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1609.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1609-9463f24402.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1609-9463f24402.webp",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -10165,6 +10977,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.34929575,
@@ -10190,6 +11004,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1021.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1021-75e9b6e1d0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1021-75e9b6e1d0.webp",
     "kaldenavn": null,
     "coords": [
       55.97086354,
@@ -10215,6 +11031,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/494.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/494-481d075812.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/494-481d075812.webp",
     "kaldenavn": null,
     "coords": [
       55.57103757,
@@ -10240,6 +11058,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/496.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/496-d432e72cd8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/496-d432e72cd8.webp",
     "kaldenavn": null,
     "coords": [
       55.57103757,
@@ -10265,6 +11085,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1549.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1549-18f576a14d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1549-18f576a14d.webp",
     "kaldenavn": "FB",
     "coords": [
       55.67945641,
@@ -10290,6 +11112,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.91992432,
@@ -10315,6 +11139,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/48.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/48-9025a2898e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/48-9025a2898e.webp",
     "kaldenavn": null,
     "coords": [
       57.52270103,
@@ -10340,6 +11166,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1022.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1022-f2c1ab3030.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1022-f2c1ab3030.webp",
     "kaldenavn": null,
     "coords": [
       55.85479562,
@@ -10365,6 +11193,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1749.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1749-f86ec77516.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1749-f86ec77516.webp",
     "kaldenavn": null,
     "coords": [
       55.97774198,
@@ -10390,6 +11220,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.48050883,
@@ -10415,6 +11247,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1061.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1061-491e540b3d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1061-491e540b3d.webp",
     "kaldenavn": null,
     "coords": [
       56.09086037,
@@ -10440,6 +11274,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3743.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3743-66d093d09c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3743-66d093d09c.webp",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -10465,6 +11301,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3831.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3831-12d1e8c80c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3831-12d1e8c80c.webp",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -10490,6 +11328,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.17738587,
@@ -10515,6 +11355,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.63765951,
@@ -10540,6 +11382,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3445.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3445-0806b03130.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3445-0806b03130.webp",
     "kaldenavn": null,
     "coords": [
       55.7873441,
@@ -10565,6 +11409,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/427.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/427-0411676580.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/427-0411676580.webp",
     "kaldenavn": null,
     "coords": [
       56.17162148,
@@ -10590,6 +11436,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1025.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1025-97d00f7b8e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1025-97d00f7b8e.webp",
     "kaldenavn": null,
     "coords": [
       55.31864081,
@@ -10615,6 +11463,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.49118916,
@@ -10640,6 +11490,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/497.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/497-2ec1014788.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/497-2ec1014788.webp",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -10665,6 +11517,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/232.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/232-0eee2e2e4e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/232-0eee2e2e4e.webp",
     "kaldenavn": null,
     "coords": [
       56.72437033,
@@ -10690,6 +11544,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.86932225,
@@ -10715,6 +11571,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.55380577,
@@ -10740,6 +11598,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1026.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1026-412e4d4275.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1026-412e4d4275.webp",
     "kaldenavn": null,
     "coords": [
       55.79702076,
@@ -10765,6 +11625,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.32031014,
@@ -10790,6 +11652,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/797.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/797-eb8ad4dc3f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/797-eb8ad4dc3f.webp",
     "kaldenavn": null,
     "coords": [
       55.43560842,
@@ -10815,6 +11679,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.57689258,
@@ -10840,6 +11706,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1028.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1028-d6a14aea0e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1028-d6a14aea0e.webp",
     "kaldenavn": null,
     "coords": [
       55.85310811,
@@ -10865,6 +11733,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/480.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/480-857eeea8b3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/480-857eeea8b3.webp",
     "kaldenavn": null,
     "coords": [
       56.27196318,
@@ -10890,6 +11760,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1029.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1029-73dded791e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1029-73dded791e.webp",
     "kaldenavn": null,
     "coords": [
       55.92123871,
@@ -10915,6 +11787,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/501.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/501-7a971c9a42.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/501-7a971c9a42.webp",
     "kaldenavn": null,
     "coords": [
       56.17800104,
@@ -10940,6 +11814,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.8517685,
@@ -10965,6 +11841,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/49.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/49-c6a043550a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/49-c6a043550a.webp",
     "kaldenavn": null,
     "coords": [
       57.05355839,
@@ -10990,6 +11868,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/503.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/503-0d7a947e0a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/503-0d7a947e0a.webp",
     "kaldenavn": null,
     "coords": [
       55.65719788,
@@ -11015,6 +11895,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/504.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/504-3e3e91a597.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/504-3e3e91a597.webp",
     "kaldenavn": null,
     "coords": [
       55.93439431,
@@ -11040,6 +11922,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1400.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1400-3ad0fdbd0b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1400-3ad0fdbd0b.webp",
     "kaldenavn": null,
     "coords": [
       55.39954114,
@@ -11065,6 +11949,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.07437317,
@@ -11090,6 +11976,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1555.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1555-7ae2d1a04b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1555-7ae2d1a04b.webp",
     "kaldenavn": null,
     "coords": [
       55.75145806,
@@ -11115,6 +12003,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1556.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1556-78975c604c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1556-78975c604c.webp",
     "kaldenavn": null,
     "coords": [
       55.75145806,
@@ -11140,6 +12030,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/800.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/800-417fbb05aa.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/800-417fbb05aa.webp",
     "kaldenavn": null,
     "coords": [
       55.53607493,
@@ -11165,6 +12057,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1032.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1032-7046a21a8d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1032-7046a21a8d.webp",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -11190,6 +12084,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/526.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/526-1bb5c5da18.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/526-1bb5c5da18.webp",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -11215,6 +12111,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/804.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/804-d7496c7d79.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/804-d7496c7d79.webp",
     "kaldenavn": null,
     "coords": [
       55.27645397,
@@ -11240,6 +12138,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1033.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1033-87b7a69fd2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1033-87b7a69fd2.webp",
     "kaldenavn": null,
     "coords": [
       56.16514414,
@@ -11265,6 +12165,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2035.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2035-cdbe095ea7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2035-cdbe095ea7.webp",
     "kaldenavn": null,
     "coords": [
       55.71256101,
@@ -11290,6 +12192,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.2122797,
@@ -11315,6 +12219,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1034.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1034-a2561438b0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1034-a2561438b0.webp",
     "kaldenavn": null,
     "coords": [
       55.73610011,
@@ -11340,6 +12246,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/505.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/505-071f39bb0d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/505-071f39bb0d.webp",
     "kaldenavn": null,
     "coords": [
       55.85744681,
@@ -11365,6 +12273,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.85744681,
@@ -11390,6 +12300,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.22223999,
@@ -11415,6 +12327,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -11440,6 +12354,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/51.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/51-36995e319a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/51-36995e319a.webp",
     "kaldenavn": null,
     "coords": [
       57.16282327,
@@ -11465,6 +12381,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/502.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/502-9cc090bac4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/502-9cc090bac4.webp",
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -11490,6 +12408,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1035.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1035-2e57efeaf8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1035-2e57efeaf8.webp",
     "kaldenavn": null,
     "coords": [
       55.73800813,
@@ -11515,6 +12435,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1402.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1402-aa8cd1af1c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1402-aa8cd1af1c.webp",
     "kaldenavn": null,
     "coords": [
       55.27213799,
@@ -11540,6 +12462,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.55973335,
@@ -11565,6 +12489,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.55973335,
@@ -11590,6 +12516,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.6741838,
@@ -11615,6 +12543,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1712.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1712-f5348bc645.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1712-f5348bc645.webp",
     "kaldenavn": null,
     "coords": [
       55.6741838,
@@ -11640,6 +12570,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.02375436,
@@ -11665,6 +12597,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.36237671,
@@ -11690,6 +12624,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.27645397,
@@ -11715,6 +12651,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.73668449,
@@ -11740,6 +12678,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.3806496,
@@ -11765,6 +12705,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/511.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/511-25b4eb415f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/511-25b4eb415f.webp",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -11790,6 +12732,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/805.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/805-6fff195481.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/805-6fff195481.webp",
     "kaldenavn": null,
     "coords": [
       55.37115323,
@@ -11815,6 +12759,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/513.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/513-e6b477f82a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/513-e6b477f82a.webp",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -11840,6 +12786,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -11865,6 +12813,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/515.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/515-9c20c9d5b4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/515-9c20c9d5b4.webp",
     "kaldenavn": null,
     "coords": [
       56.43069147,
@@ -11890,6 +12840,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1041.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1041-c374765c8e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1041-c374765c8e.webp",
     "kaldenavn": null,
     "coords": [
       55.54103195,
@@ -11915,6 +12867,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/806.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/806-01b42e45f2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/806-01b42e45f2.webp",
     "kaldenavn": null,
     "coords": [
       55.75986358,
@@ -11940,6 +12894,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.09538719,
@@ -11965,6 +12921,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/516.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/516-d69c1f9b7c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/516-d69c1f9b7c.webp",
     "kaldenavn": null,
     "coords": [
       56.25949156,
@@ -11990,6 +12948,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1043.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1043-76c7e43cc9.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1043-76c7e43cc9.webp",
     "kaldenavn": null,
     "coords": [
       56.22745639,
@@ -12015,6 +12975,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.15361133,
@@ -12040,6 +13002,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.85744681,
@@ -12065,6 +13029,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.64503648,
@@ -12090,6 +13056,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/803.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/803-7d68673078.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/803-7d68673078.webp",
     "kaldenavn": null,
     "coords": [
       54.91730187,
@@ -12115,6 +13083,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.3800683,
@@ -12140,6 +13110,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.54580784,
@@ -12165,6 +13137,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/306.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/306-af078bc17e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/306-af078bc17e.webp",
     "kaldenavn": null,
     "coords": [
       56.54580784,
@@ -12190,6 +13164,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/53.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/53-3e3bfc7997.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/53-3e3bfc7997.webp",
     "kaldenavn": null,
     "coords": [
       56.91678716,
@@ -12215,6 +13191,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/54.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/54-e5af6e7f47.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/54-e5af6e7f47.webp",
     "kaldenavn": null,
     "coords": [
       56.9991663,
@@ -12240,6 +13218,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.90483893,
@@ -12265,6 +13245,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -12290,6 +13272,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/55.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/55-f8f43b0b4a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/55-f8f43b0b4a.webp",
     "kaldenavn": null,
     "coords": [
       56.94881207,
@@ -12315,6 +13299,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1045.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1045-d10db4336d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1045-d10db4336d.webp",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -12340,6 +13326,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -12365,6 +13353,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/94.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/94-81bcc898c0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/94-81bcc898c0.webp",
     "kaldenavn": null,
     "coords": [
       57.38233116,
@@ -12390,6 +13380,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.92457284,
@@ -12415,6 +13407,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2065.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2065-258bd875f3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2065-258bd875f3.webp",
     "kaldenavn": null,
     "coords": [
       55.92457284,
@@ -12440,6 +13434,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/56.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/56-c85c010ba5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/56-c85c010ba5.webp",
     "kaldenavn": null,
     "coords": [
       57.52270103,
@@ -12465,6 +13461,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -12490,6 +13488,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/519.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/519-51d3c597c5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/519-51d3c597c5.webp",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -12515,6 +13515,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.4813413,
@@ -12540,6 +13542,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1351.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1351-18e894aac2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1351-18e894aac2.webp",
     "kaldenavn": null,
     "coords": [
       55.51887316,
@@ -12565,6 +13569,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.51887316,
@@ -12590,6 +13596,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1050.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1050-da9d143a1e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1050-da9d143a1e.webp",
     "kaldenavn": null,
     "coords": [
       55.8837888,
@@ -12615,6 +13623,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1051.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1051-73575c348f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1051-73575c348f.webp",
     "kaldenavn": null,
     "coords": [
       55.43053197,
@@ -12640,6 +13650,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/499.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/499-d6fde71a1c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/499-d6fde71a1c.webp",
     "kaldenavn": null,
     "coords": [
       55.65719788,
@@ -12665,6 +13677,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/623.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/623-2106a61796.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/623-2106a61796.webp",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -12690,6 +13704,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/808.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/808-99bfcf2840.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/808-99bfcf2840.webp",
     "kaldenavn": null,
     "coords": [
       55.24177268,
@@ -12715,6 +13731,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/521.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/521-3a0a619e07.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/521-3a0a619e07.webp",
     "kaldenavn": null,
     "coords": [
       56.33866468,
@@ -12740,6 +13758,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/57.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/57-8430a8e7f2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/57-8430a8e7f2.webp",
     "kaldenavn": null,
     "coords": [
       56.77688954,
@@ -12765,6 +13785,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1052.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1052-2f0bc3a268.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1052-2f0bc3a268.webp",
     "kaldenavn": null,
     "coords": [
       55.73825064,
@@ -12790,6 +13812,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1934.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1934-cb3c3ac244.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1934-cb3c3ac244.webp",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -12815,6 +13839,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/59.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/59-e1b139ad1d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/59-e1b139ad1d.webp",
     "kaldenavn": null,
     "coords": [
       56.96384115,
@@ -12840,6 +13866,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2600.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2600-4d20bc697d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2600-4d20bc697d.webp",
     "kaldenavn": null,
     "coords": [
       54.75748092,
@@ -12865,6 +13893,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.75748092,
@@ -12890,6 +13920,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/523.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/523-010d0df5db.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/523-010d0df5db.webp",
     "kaldenavn": null,
     "coords": [
       56.26356721,
@@ -12915,6 +13947,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.43069147,
@@ -12940,6 +13974,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/810.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/810-3defa616c3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/810-3defa616c3.webp",
     "kaldenavn": null,
     "coords": [
       55.2436827,
@@ -12965,6 +14001,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -12990,6 +14028,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/238.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/238-b28e9d56b3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/238-b28e9d56b3.webp",
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -13015,6 +14055,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.06515415,
@@ -13040,6 +14082,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.12742277,
@@ -13065,6 +14109,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1558.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1558-27533d9bc5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1558-27533d9bc5.webp",
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -13090,6 +14136,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.99089664,
@@ -13115,6 +14163,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.00570708,
@@ -13140,6 +14190,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/240.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/240-8d5505157f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/240-8d5505157f.webp",
     "kaldenavn": null,
     "coords": [
       57.44347291,
@@ -13165,6 +14217,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/241.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/241-a302e0ffaf.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/241-a302e0ffaf.webp",
     "kaldenavn": null,
     "coords": [
       56.62870473,
@@ -13190,6 +14244,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.43288826,
@@ -13215,6 +14271,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1054.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1054-7615b2e871.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1054-7615b2e871.webp",
     "kaldenavn": null,
     "coords": [
       55.77912974,
@@ -13240,6 +14298,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/527.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/527-13825e8161.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/527-13825e8161.webp",
     "kaldenavn": null,
     "coords": [
       56.14059283,
@@ -13265,6 +14325,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/721.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/721-ba9dc9df2c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/721-ba9dc9df2c.webp",
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -13290,6 +14352,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.40887345,
@@ -13315,6 +14379,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/528.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/528-6c61e28a97.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/528-6c61e28a97.webp",
     "kaldenavn": null,
     "coords": [
       56.17162148,
@@ -13340,6 +14406,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1673.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1673-97bdd1fb0e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1673-97bdd1fb0e.webp",
     "kaldenavn": null,
     "coords": [
       55.2284316,
@@ -13365,6 +14433,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1056.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1056-c710e682bd.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1056-c710e682bd.webp",
     "kaldenavn": null,
     "coords": [
       55.32031014,
@@ -13390,6 +14460,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.32031014,
@@ -13415,6 +14487,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/529.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/529-9eade7c00a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/529-9eade7c00a.webp",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -13440,6 +14514,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/61.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/61-13f6e44187.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/61-13f6e44187.webp",
     "kaldenavn": null,
     "coords": [
       56.80003403,
@@ -13465,6 +14541,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1058.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1058-dcce5cdb9d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1058-dcce5cdb9d.webp",
     "kaldenavn": null,
     "coords": [
       55.54041131,
@@ -13490,6 +14568,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/62.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/62-5699c33f02.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/62-5699c33f02.webp",
     "kaldenavn": null,
     "coords": [
       56.74794316,
@@ -13515,6 +14595,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.6517573,
@@ -13540,6 +14622,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.45527126,
@@ -13565,6 +14649,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.36051392,
@@ -13590,6 +14676,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/532.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/532-7d2a3a0c3d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/532-7d2a3a0c3d.webp",
     "kaldenavn": null,
     "coords": [
       55.76508387,
@@ -13615,6 +14703,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.20098497,
@@ -13640,6 +14730,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/812.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/812-90df7be5ed.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/812-90df7be5ed.webp",
     "kaldenavn": null,
     "coords": [
       55.69122218,
@@ -13665,6 +14757,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1561.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1561-cbecea6e92.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1561-cbecea6e92.webp",
     "kaldenavn": null,
     "coords": [
       55.65941452,
@@ -13690,6 +14784,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1935.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1935-7dac5dd714.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1935-7dac5dd714.webp",
     "kaldenavn": null,
     "coords": [
       55.76046689,
@@ -13715,6 +14811,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1562.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1562-5a94befb95.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1562-5a94befb95.webp",
     "kaldenavn": null,
     "coords": [
       55.73442051,
@@ -13740,6 +14838,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1062.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1062-5697fd673a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1062-5697fd673a.webp",
     "kaldenavn": null,
     "coords": [
       55.33554618,
@@ -13765,6 +14865,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.07437317,
@@ -13790,6 +14892,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1063.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1063-52271f5d2d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1063-52271f5d2d.webp",
     "kaldenavn": null,
     "coords": [
       56.01099572,
@@ -13815,6 +14919,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1065.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1065-1ca7431c9a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1065-1ca7431c9a.webp",
     "kaldenavn": null,
     "coords": [
       56.03943161,
@@ -13840,6 +14946,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/534.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/534-9b9b3173b5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/534-9b9b3173b5.webp",
     "kaldenavn": null,
     "coords": [
       56.48050883,
@@ -13865,6 +14973,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.71982269,
@@ -13890,6 +15000,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.08052418,
@@ -13915,6 +15027,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1066.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1066-95e11cd95a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1066-95e11cd95a.webp",
     "kaldenavn": null,
     "coords": [
       55.41715543,
@@ -13940,6 +15054,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1068.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1068-efe13fba6a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1068-efe13fba6a.webp",
     "kaldenavn": null,
     "coords": [
       55.74057031,
@@ -13965,6 +15081,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.32910688,
@@ -13990,6 +15108,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1070.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1070-8d4fa91316.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1070-8d4fa91316.webp",
     "kaldenavn": null,
     "coords": [
       55.19504272,
@@ -14015,6 +15135,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.18215286,
@@ -14040,6 +15162,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/245.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/245-4aa763d12c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/245-4aa763d12c.webp",
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -14065,6 +15189,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -14090,6 +15216,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/247.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/247-d6ef270518.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/247-d6ef270518.webp",
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -14115,6 +15243,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1407.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1407-5428972c1c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1407-5428972c1c.webp",
     "kaldenavn": null,
     "coords": [
       55.2661035,
@@ -14140,6 +15270,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/535.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/535-6a9886a736.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/535-6a9886a736.webp",
     "kaldenavn": null,
     "coords": [
       56.17800104,
@@ -14165,6 +15297,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/250.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/250-cd481efb85.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/250-cd481efb85.webp",
     "kaldenavn": null,
     "coords": [
       56.6088695,
@@ -14190,6 +15324,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1071.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1071-020c8d12cf.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1071-020c8d12cf.webp",
     "kaldenavn": null,
     "coords": [
       55.6869516,
@@ -14215,6 +15351,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1410.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1410-0d936b8add.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1410-0d936b8add.webp",
     "kaldenavn": null,
     "coords": [
       55.17539817,
@@ -14240,6 +15378,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.15035869,
@@ -14265,6 +15405,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3723.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3723-5a94befb95.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3723-5a94befb95.webp",
     "kaldenavn": null,
     "coords": [
       55.73442051,
@@ -14290,6 +15432,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/251.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/251-5127330561.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/251-5127330561.webp",
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -14315,6 +15459,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1073.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1073-672b8e788a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1073-672b8e788a.webp",
     "kaldenavn": null,
     "coords": [
       55.92123871,
@@ -14340,6 +15486,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1075.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1075-e90626428e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1075-e90626428e.webp",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -14365,6 +15513,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1937.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1937-e744e51652.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1937-e744e51652.webp",
     "kaldenavn": null,
     "coords": [
       56.74794316,
@@ -14390,6 +15540,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/64.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/64-a202f7e9a3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/64-a202f7e9a3.webp",
     "kaldenavn": null,
     "coords": [
       57.94281241,
@@ -14415,6 +15567,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.15051496,
@@ -14440,6 +15594,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/65.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/65-3c03e73857.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/65-3c03e73857.webp",
     "kaldenavn": null,
     "coords": [
       57.17870119,
@@ -14465,6 +15621,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.61622153,
@@ -14490,6 +15648,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.2209888,
@@ -14515,6 +15675,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.43288826,
@@ -14540,6 +15702,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/925.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/925-be3b184256.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/925-be3b184256.webp",
     "kaldenavn": null,
     "coords": [
       55.55262453,
@@ -14565,6 +15729,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/815.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/815-f7ddefb20e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/815-f7ddefb20e.webp",
     "kaldenavn": null,
     "coords": [
       55.07437317,
@@ -14590,6 +15756,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.12742277,
@@ -14615,6 +15783,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1077.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1077-e0a2619f8f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1077-e0a2619f8f.webp",
     "kaldenavn": null,
     "coords": [
       55.74057031,
@@ -14640,6 +15810,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/67.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/67-19c04807f3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/67-19c04807f3.webp",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -14665,6 +15837,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/68.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/68-bec0305305.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/68-bec0305305.webp",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -14690,6 +15864,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -14715,6 +15891,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/69.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/69-8cdbc0cca8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/69-8cdbc0cca8.webp",
     "kaldenavn": null,
     "coords": [
       56.6528756,
@@ -14740,6 +15918,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.6528756,
@@ -14765,6 +15945,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/254.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/254-2dc6e20e8c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/254-2dc6e20e8c.webp",
     "kaldenavn": null,
     "coords": [
       56.2699576,
@@ -14790,6 +15972,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/537.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/537-7bf7c81b9b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/537-7bf7c81b9b.webp",
     "kaldenavn": null,
     "coords": [
       56.25949156,
@@ -14815,6 +15999,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.73825064,
@@ -14840,6 +16026,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.73825064,
@@ -14865,6 +16053,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1079.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1079-e0b57b6bfa.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1079-e0b57b6bfa.webp",
     "kaldenavn": null,
     "coords": [
       55.73825064,
@@ -14890,6 +16080,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.8687306,
@@ -14915,6 +16107,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.70172856,
@@ -14940,6 +16134,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1411.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1411-d4088a2c73.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1411-d4088a2c73.webp",
     "kaldenavn": null,
     "coords": [
       55.34929575,
@@ -14965,6 +16161,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.06940698,
@@ -14990,6 +16188,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.25979308,
@@ -15015,6 +16215,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1080.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1080-189187718d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1080-189187718d.webp",
     "kaldenavn": null,
     "coords": [
       55.25979308,
@@ -15040,6 +16242,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/400.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/400-a15a9cc119.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/400-a15a9cc119.webp",
     "kaldenavn": null,
     "coords": [
       56.20098497,
@@ -15065,6 +16269,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/255.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/255-11a5eaae1b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/255-11a5eaae1b.webp",
     "kaldenavn": null,
     "coords": [
       56.34794414,
@@ -15090,6 +16296,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.54580784,
@@ -15115,6 +16323,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/817.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/817-4095190897.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/817-4095190897.webp",
     "kaldenavn": null,
     "coords": [
       55.51123399,
@@ -15140,6 +16350,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1082.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1082-c9b46c212f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1082-c9b46c212f.webp",
     "kaldenavn": null,
     "coords": [
       55.81684549,
@@ -15165,6 +16377,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2360.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2360-d598ddb55e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2360-d598ddb55e.webp",
     "kaldenavn": null,
     "coords": [
       55.81684549,
@@ -15190,6 +16404,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/70.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/70-580189a2ea.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/70-580189a2ea.webp",
     "kaldenavn": null,
     "coords": [
       57.05355839,
@@ -15215,6 +16431,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.24177268,
@@ -15240,6 +16458,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1634.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1634-82b7c2b851.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1634-82b7c2b851.webp",
     "kaldenavn": null,
     "coords": [
       54.69990623,
@@ -15265,6 +16485,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1083.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1083-2d95e5a209.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1083-2d95e5a209.webp",
     "kaldenavn": null,
     "coords": [
       56.10118532,
@@ -15290,6 +16512,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/540.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/540-de48060ebf.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/540-de48060ebf.webp",
     "kaldenavn": null,
     "coords": [
       56.48050883,
@@ -15315,6 +16539,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1412.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1412-3938d67451.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1412-3938d67451.webp",
     "kaldenavn": null,
     "coords": [
       55.11203154,
@@ -15340,6 +16566,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.65607154,
@@ -15365,6 +16593,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.94281241,
@@ -15390,6 +16620,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/541.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/541-ca357bdf2c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/541-ca357bdf2c.webp",
     "kaldenavn": null,
     "coords": [
       56.33260256,
@@ -15415,6 +16647,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/72.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/72-2fdcb22a9b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/72-2fdcb22a9b.webp",
     "kaldenavn": null,
     "coords": [
       56.80003403,
@@ -15440,6 +16674,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/542.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/542-47e797ba2d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/542-47e797ba2d.webp",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -15465,6 +16701,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -15490,6 +16728,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/546.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/546-974e87eb88.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/546-974e87eb88.webp",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -15515,6 +16755,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/545.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/545-b474851242.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/545-b474851242.webp",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -15540,6 +16782,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/547.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/547-9790bc756a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/547-9790bc756a.webp",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -15565,6 +16809,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -15590,6 +16836,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.96838447,
@@ -15615,6 +16863,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.48934885,
@@ -15640,6 +16890,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.96384115,
@@ -15665,6 +16917,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1928.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1928-d2fb6e1374.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1928-d2fb6e1374.webp",
     "kaldenavn": null,
     "coords": [
       55.92457284,
@@ -15690,6 +16944,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/548.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/548-80547943c7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/548-80547943c7.webp",
     "kaldenavn": null,
     "coords": [
       55.92457284,
@@ -15715,6 +16971,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/550.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/550-4e153972df.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/550-4e153972df.webp",
     "kaldenavn": null,
     "coords": [
       56.3806496,
@@ -15740,6 +16998,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/415.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/415-cd28f3833e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/415-cd28f3833e.webp",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -15765,6 +17025,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.60367953,
@@ -15790,6 +17052,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/551.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/551-37c2c061de.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/551-37c2c061de.webp",
     "kaldenavn": null,
     "coords": [
       55.95626604,
@@ -15815,6 +17079,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/552.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/552-cb8cc6502c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/552-cb8cc6502c.webp",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -15840,6 +17106,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/258.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/258-e6c59820c0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/258-e6c59820c0.webp",
     "kaldenavn": null,
     "coords": [
       56.15361133,
@@ -15865,6 +17133,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.07437317,
@@ -15890,6 +17160,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.81821541,
@@ -15915,6 +17187,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1085.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1085-a34f3649bb.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1085-a34f3649bb.webp",
     "kaldenavn": null,
     "coords": [
       55.9604599,
@@ -15940,6 +17214,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -15965,6 +17241,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/75.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/75-d38d8b5741.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/75-d38d8b5741.webp",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -15990,6 +17268,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.46065157,
@@ -16015,6 +17295,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1086.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1086-21c4abba19.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1086-21c4abba19.webp",
     "kaldenavn": null,
     "coords": [
       56.26445585,
@@ -16040,6 +17322,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1087.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1087-c951566646.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1087-c951566646.webp",
     "kaldenavn": null,
     "coords": [
       55.54103195,
@@ -16065,6 +17349,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/76.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/76-a28b0c0d1c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/76-a28b0c0d1c.webp",
     "kaldenavn": null,
     "coords": [
       57.16282327,
@@ -16090,6 +17376,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/260.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/260-2980dcaad0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/260-2980dcaad0.webp",
     "kaldenavn": null,
     "coords": [
       56.72425361,
@@ -16115,6 +17403,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1563.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1563-e11586488c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1563-e11586488c.webp",
     "kaldenavn": null,
     "coords": [
       55.70964347,
@@ -16140,6 +17430,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1088.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1088-3774d6ac4f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1088-3774d6ac4f.webp",
     "kaldenavn": null,
     "coords": [
       55.58583604,
@@ -16165,6 +17457,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1089.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1089-08c925e3f9.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1089-08c925e3f9.webp",
     "kaldenavn": null,
     "coords": [
       55.61730235,
@@ -16190,6 +17484,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.31137673,
@@ -16215,6 +17511,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1564.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1564-2f60244701.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1564-2f60244701.webp",
     "kaldenavn": null,
     "coords": [
       55.58934868,
@@ -16240,6 +17538,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.58934868,
@@ -16265,6 +17565,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.02388208,
@@ -16290,6 +17592,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.90779403,
@@ -16315,6 +17619,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1416.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1416-7d7352cc24.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1416-7d7352cc24.webp",
     "kaldenavn": null,
     "coords": [
       55.34939755,
@@ -16340,6 +17646,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1095.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1095-00c10540cb.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1095-00c10540cb.webp",
     "kaldenavn": null,
     "coords": [
       55.73800813,
@@ -16365,6 +17673,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.02899493,
@@ -16390,6 +17700,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.6579409,
@@ -16415,6 +17727,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/737.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/737-ef04659ba3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/737-ef04659ba3.webp",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -16440,6 +17754,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.97473424,
@@ -16465,6 +17781,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/827.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/827-c042d1f566.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/827-c042d1f566.webp",
     "kaldenavn": null,
     "coords": [
       54.97473424,
@@ -16490,6 +17808,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/264.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/264-cd56c7018b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/264-cd56c7018b.webp",
     "kaldenavn": null,
     "coords": [
       56.59677993,
@@ -16515,6 +17835,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.31137673,
@@ -16540,6 +17862,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.50308551,
@@ -16565,6 +17889,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1097.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1097-2417d411f0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1097-2417d411f0.webp",
     "kaldenavn": null,
     "coords": [
       55.50308551,
@@ -16590,6 +17916,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.2843629,
@@ -16615,6 +17943,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.2843629,
@@ -16640,6 +17970,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.42912946,
@@ -16665,6 +17997,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/557.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/557-518b49521a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/557-518b49521a.webp",
     "kaldenavn": null,
     "coords": [
       56.09369625,
@@ -16690,6 +18024,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1098.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1098-df575ce12f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1098-df575ce12f.webp",
     "kaldenavn": null,
     "coords": [
       55.88693173,
@@ -16715,6 +18051,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/828.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/828-9dffdd1e8b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/828-9dffdd1e8b.webp",
     "kaldenavn": null,
     "coords": [
       54.87308589,
@@ -16740,6 +18078,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1099.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1099-389b09c714.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1099-389b09c714.webp",
     "kaldenavn": null,
     "coords": [
       55.76162863,
@@ -16765,6 +18105,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/705.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/705-b43e73f125.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/705-b43e73f125.webp",
     "kaldenavn": null,
     "coords": [
       56.33866468,
@@ -16790,6 +18132,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.88126308,
@@ -16815,6 +18159,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.18924968,
@@ -16840,6 +18186,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1418.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1418-1feefdc765.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1418-1feefdc765.webp",
     "kaldenavn": null,
     "coords": [
       55.18924968,
@@ -16865,6 +18213,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1419.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1419-cba5a3c81a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1419-cba5a3c81a.webp",
     "kaldenavn": null,
     "coords": [
       55.48691259,
@@ -16890,6 +18240,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3798.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3798-4d1a3b9f7e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3798-4d1a3b9f7e.webp",
     "kaldenavn": null,
     "coords": [
       55.25079677,
@@ -16915,6 +18267,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.34794414,
@@ -16940,6 +18294,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1782.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1782-27a5bfd9bd.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1782-27a5bfd9bd.webp",
     "kaldenavn": null,
     "coords": [
       56.15788265,
@@ -16965,6 +18321,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.9928841,
@@ -16990,6 +18348,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.34794414,
@@ -17015,6 +18375,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.76264148,
@@ -17040,6 +18402,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/108.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/108-a916155d2d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/108-a916155d2d.webp",
     "kaldenavn": null,
     "coords": [
       56.89861349,
@@ -17065,6 +18429,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/986.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/986-9f0bd7437e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/986-9f0bd7437e.webp",
     "kaldenavn": null,
     "coords": [
       55.73800813,
@@ -17090,6 +18456,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/967.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/967-f51b263f5e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/967-f51b263f5e.webp",
     "kaldenavn": null,
     "coords": [
       55.44838852,
@@ -17115,6 +18483,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/100.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/100-d52e900328.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/100-d52e900328.webp",
     "kaldenavn": null,
     "coords": [
       57.11542161,
@@ -17140,6 +18510,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1606.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1606-2907c2f895.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1606-2907c2f895.webp",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -17165,6 +18537,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.26356721,
@@ -17190,6 +18564,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.05425152,
@@ -17215,6 +18591,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/586.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/586-8385b9a3c7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/586-8385b9a3c7.webp",
     "kaldenavn": null,
     "coords": [
       56.09903701,
@@ -17240,6 +18618,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/590.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/590-cc4ca06fa7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/590-cc4ca06fa7.webp",
     "kaldenavn": null,
     "coords": [
       56.38481233,
@@ -17265,6 +18645,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/591.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/591-079b5267ea.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/591-079b5267ea.webp",
     "kaldenavn": null,
     "coords": [
       56.15222183,
@@ -17290,6 +18672,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/300.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/300-e7e9ef1823.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/300-e7e9ef1823.webp",
     "kaldenavn": null,
     "coords": [
       56.90798948,
@@ -17315,6 +18699,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/301.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/301-4fc41f6ca1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/301-4fc41f6ca1.webp",
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -17340,6 +18726,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/965.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/965-22d29b0730.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/965-22d29b0730.webp",
     "kaldenavn": null,
     "coords": [
       55.84270608,
@@ -17365,6 +18753,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/134.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/134-cff7c7f070.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/134-cff7c7f070.webp",
     "kaldenavn": null,
     "coords": [
       57.2843629,
@@ -17390,6 +18780,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1256.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1256-df0b9b1aa8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1256-df0b9b1aa8.webp",
     "kaldenavn": null,
     "coords": [
       55.10685595,
@@ -17415,6 +18807,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/360.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/360-aeb0f3a8f8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/360-aeb0f3a8f8.webp",
     "kaldenavn": null,
     "coords": [
       56.49762699,
@@ -17440,6 +18834,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/605.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/605-7863cb3085.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/605-7863cb3085.webp",
     "kaldenavn": null,
     "coords": [
       56.38481233,
@@ -17465,6 +18861,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.74794316,
@@ -17490,6 +18888,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/266.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/266-caa231be7a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/266-caa231be7a.webp",
     "kaldenavn": null,
     "coords": [
       56.09377094,
@@ -17515,6 +18915,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.38233116,
@@ -17540,6 +18942,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/81.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/81-cd3d0b7192.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/81-cd3d0b7192.webp",
     "kaldenavn": null,
     "coords": [
       57.38233116,
@@ -17565,6 +18969,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -17590,6 +18996,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.71256101,
@@ -17615,6 +19023,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1226.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1226-41e1c9b308.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1226-41e1c9b308.webp",
     "kaldenavn": null,
     "coords": [
       55.93559156,
@@ -17640,6 +19050,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -17665,6 +19077,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/268.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/268-43080cb62e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/268-43080cb62e.webp",
     "kaldenavn": null,
     "coords": [
       56.09377094,
@@ -17690,6 +19104,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3649.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3649-0cb14799a4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3649-0cb14799a4.webp",
     "kaldenavn": null,
     "coords": [
       56.09377094,
@@ -17715,6 +19131,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1104.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1104-841e1e3e7c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1104-841e1e3e7c.webp",
     "kaldenavn": null,
     "coords": [
       55.68182922,
@@ -17740,6 +19158,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.88126308,
@@ -17765,6 +19185,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/426.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/426-089351ea99.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/426-089351ea99.webp",
     "kaldenavn": null,
     "coords": [
       56.12635244,
@@ -17790,6 +19212,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/829.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/829-9402439ad1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/829-9402439ad1.webp",
     "kaldenavn": null,
     "coords": [
       55.63374455,
@@ -17815,6 +19239,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.63374455,
@@ -17840,6 +19266,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.95248429,
@@ -17865,6 +19293,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/561.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/561-5c41e4df06.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/561-5c41e4df06.webp",
     "kaldenavn": null,
     "coords": [
       55.76853547,
@@ -17890,6 +19320,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/832.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/832-ef25ad362d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/832-ef25ad362d.webp",
     "kaldenavn": null,
     "coords": [
       55.38472069,
@@ -17915,6 +19347,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/833.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/833-15fcb67c9e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/833-15fcb67c9e.webp",
     "kaldenavn": null,
     "coords": [
       55.49118916,
@@ -17940,6 +19374,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1105.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1105-071659c7df.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1105-071659c7df.webp",
     "kaldenavn": null,
     "coords": [
       55.66048124,
@@ -17965,6 +19401,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/834.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/834-5c8d1c9399.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/834-5c8d1c9399.webp",
     "kaldenavn": null,
     "coords": [
       55.37115323,
@@ -17990,6 +19428,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.29699349,
@@ -18015,6 +19455,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.20322545,
@@ -18040,6 +19482,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/84.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/84-93a1021025.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/84-93a1021025.webp",
     "kaldenavn": null,
     "coords": [
       57.20322545,
@@ -18065,6 +19509,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.45935717,
@@ -18090,6 +19536,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.6883311,
@@ -18115,6 +19563,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/563.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/563-e47bd8ff73.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/563-e47bd8ff73.webp",
     "kaldenavn": null,
     "coords": [
       55.76046689,
@@ -18140,6 +19590,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1107.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1107-d0a301c847.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1107-d0a301c847.webp",
     "kaldenavn": null,
     "coords": [
       55.61622153,
@@ -18165,6 +19617,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1108.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1108-b9061bf3e6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1108-b9061bf3e6.webp",
     "kaldenavn": null,
     "coords": [
       55.75603087,
@@ -18190,6 +19644,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1109.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1109-6b48be06b0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1109-6b48be06b0.webp",
     "kaldenavn": null,
     "coords": [
       55.52537395,
@@ -18215,6 +19671,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1565.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1565-b412a00173.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1565-b412a00173.webp",
     "kaldenavn": null,
     "coords": [
       55.75145806,
@@ -18240,6 +19698,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1110.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1110-4851c9224e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1110-4851c9224e.webp",
     "kaldenavn": null,
     "coords": [
       55.86932225,
@@ -18265,6 +19725,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1557.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1557-04e875d5e6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1557-04e875d5e6.webp",
     "kaldenavn": null,
     "coords": [
       55.68095745,
@@ -18290,6 +19752,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1111.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1111-6daf8adf2f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1111-6daf8adf2f.webp",
     "kaldenavn": null,
     "coords": [
       55.70601705,
@@ -18315,6 +19779,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1113.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1113-d25f439573.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1113-d25f439573.webp",
     "kaldenavn": null,
     "coords": [
       55.29633252,
@@ -18340,6 +19806,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1115.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1115-082858dfdb.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1115-082858dfdb.webp",
     "kaldenavn": null,
     "coords": [
       55.5692769,
@@ -18365,6 +19833,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1117.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1117-2b7a8d5035.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1117-2b7a8d5035.webp",
     "kaldenavn": null,
     "coords": [
       55.15521424,
@@ -18390,6 +19860,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.94883412,
@@ -18415,6 +19887,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1955.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1955-714e55eeb9.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1955-714e55eeb9.webp",
     "kaldenavn": null,
     "coords": [
       56.32799021,
@@ -18440,6 +19914,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1566.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1566-73d9386e6e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1566-73d9386e6e.webp",
     "kaldenavn": null,
     "coords": [
       55.63352245,
@@ -18465,6 +19941,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3843.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3843-7a2d580ab6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3843-7a2d580ab6.webp",
     "kaldenavn": null,
     "coords": [
       56.20167527,
@@ -18490,6 +19968,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1422.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1422-e9ffafc3fe.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1422-e9ffafc3fe.webp",
     "kaldenavn": null,
     "coords": [
       55.48934885,
@@ -18515,6 +19995,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.54103195,
@@ -18540,6 +20022,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/186.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/186-a753c52d8d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/186-a753c52d8d.webp",
     "kaldenavn": null,
     "coords": [
       57.05425152,
@@ -18565,6 +20049,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1127.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1127-4eee00fb74.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1127-4eee00fb74.webp",
     "kaldenavn": null,
     "coords": [
       55.92123871,
@@ -18590,6 +20076,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.37369367,
@@ -18615,6 +20103,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1424.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1424-814104f62e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1424-814104f62e.webp",
     "kaldenavn": null,
     "coords": [
       55.49807432,
@@ -18640,6 +20130,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.49807432,
@@ -18665,6 +20157,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1198.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1198-b2d29e54bf.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1198-b2d29e54bf.webp",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -18690,6 +20184,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1425.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1425-55cf458dd2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1425-55cf458dd2.webp",
     "kaldenavn": null,
     "coords": [
       55.39401435,
@@ -18715,6 +20211,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1569.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1569-cbcc9cbd85.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1569-cbcc9cbd85.webp",
     "kaldenavn": null,
     "coords": [
       55.71256101,
@@ -18740,6 +20238,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/272.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/272-d6d0ee2e86.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/272-d6d0ee2e86.webp",
     "kaldenavn": null,
     "coords": [
       55.94883412,
@@ -18765,6 +20265,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.403021,
@@ -18790,6 +20292,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -18815,6 +20319,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1121.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1121-54283add39.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1121-54283add39.webp",
     "kaldenavn": null,
     "coords": [
       55.51887316,
@@ -18840,6 +20346,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1122.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1122-8173a8576e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1122-8173a8576e.webp",
     "kaldenavn": null,
     "coords": [
       55.70417096,
@@ -18865,6 +20373,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1427.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1427-970b8f1c2b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1427-970b8f1c2b.webp",
     "kaldenavn": null,
     "coords": [
       55.12556284,
@@ -18890,6 +20400,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -18915,6 +20427,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.46317549,
@@ -18940,6 +20454,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/274.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/274-de2ea82a17.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/274-de2ea82a17.webp",
     "kaldenavn": null,
     "coords": [
       56.2882506,
@@ -18965,6 +20481,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1567.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1567-a8423fb15e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1567-a8423fb15e.webp",
     "kaldenavn": "KB",
     "coords": [
       55.67945641,
@@ -18990,6 +20508,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.17800104,
@@ -19015,6 +20535,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/345.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/345-fa6c40de0f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/345-fa6c40de0f.webp",
     "kaldenavn": null,
     "coords": [
       56.6528756,
@@ -19040,6 +20562,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1674.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1674-00e8ac454b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1674-00e8ac454b.webp",
     "kaldenavn": null,
     "coords": [
       55.19264146,
@@ -19065,6 +20589,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/276.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/276-3aff39542c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/276-3aff39542c.webp",
     "kaldenavn": null,
     "coords": [
       56.54580784,
@@ -19090,6 +20616,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1428.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1428-9fd8597608.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1428-9fd8597608.webp",
     "kaldenavn": null,
     "coords": [
       55.6129967,
@@ -19115,6 +20643,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/277.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/277-3454e6a5e2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/277-3454e6a5e2.webp",
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -19140,6 +20670,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/85.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/85-92f7b2da44.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/85-92f7b2da44.webp",
     "kaldenavn": null,
     "coords": [
       57.17870119,
@@ -19165,6 +20697,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.06237954,
@@ -19190,6 +20724,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/565.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/565-4c131aaa22.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/565-4c131aaa22.webp",
     "kaldenavn": null,
     "coords": [
       55.92463273,
@@ -19215,6 +20751,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.65941452,
@@ -19240,6 +20778,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.64503648,
@@ -19265,6 +20805,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1568.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1568-b5db17a3e3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1568-b5db17a3e3.webp",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -19290,6 +20832,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1675.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1675-33d8c88ae2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1675-33d8c88ae2.webp",
     "kaldenavn": null,
     "coords": [
       54.98495945,
@@ -19315,6 +20859,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1837.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1837-0866fcc3c1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1837-0866fcc3c1.webp",
     "kaldenavn": null,
     "coords": [
       55.91992432,
@@ -19340,6 +20886,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/279.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/279-7e11055307.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/279-7e11055307.webp",
     "kaldenavn": null,
     "coords": [
       57.2597249,
@@ -19365,6 +20913,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/566.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/566-4f8c9ce762.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/566-4f8c9ce762.webp",
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -19390,6 +20940,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/567.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/567-9eef922684.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/567-9eef922684.webp",
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -19415,6 +20967,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1938.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1938-d27e5c755c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1938-d27e5c755c.webp",
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -19440,6 +20994,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/569.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/569-be4df09196.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/569-be4df09196.webp",
     "kaldenavn": null,
     "coords": [
       56.34682936,
@@ -19465,6 +21021,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/570.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/570-94f9f2d687.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/570-94f9f2d687.webp",
     "kaldenavn": null,
     "coords": [
       56.10123046,
@@ -19490,6 +21048,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.32799021,
@@ -19515,6 +21075,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.89578273,
@@ -19540,6 +21102,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1429.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1429-fcf63ac9c1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1429-fcf63ac9c1.webp",
     "kaldenavn": null,
     "coords": [
       55.11203154,
@@ -19565,6 +21129,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/571.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/571-16cc68a79b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/571-16cc68a79b.webp",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -19590,6 +21156,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/572.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/572-5e07f29f5d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/572-5e07f29f5d.webp",
     "kaldenavn": null,
     "coords": [
       56.25949156,
@@ -19615,6 +21183,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -19640,6 +21210,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1431.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1431-2317161b79.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1431-2317161b79.webp",
     "kaldenavn": null,
     "coords": [
       55.49807432,
@@ -19665,6 +21237,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1123.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1123-9916e622b0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1123-9916e622b0.webp",
     "kaldenavn": null,
     "coords": [
       55.77912974,
@@ -19690,6 +21264,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1989.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1989-d2e44db232.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1989-d2e44db232.webp",
     "kaldenavn": null,
     "coords": [
       55.81385497,
@@ -19715,6 +21291,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1432.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1432-a25e323138.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1432-a25e323138.webp",
     "kaldenavn": null,
     "coords": [
       55.2209888,
@@ -19740,6 +21318,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/573.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/573-fa4beb8225.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/573-fa4beb8225.webp",
     "kaldenavn": null,
     "coords": [
       56.42912946,
@@ -19765,6 +21345,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.75986358,
@@ -19790,6 +21372,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.79347704,
@@ -19815,6 +21399,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3650.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3650-b55b56a094.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3650-b55b56a094.webp",
     "kaldenavn": null,
     "coords": [
       55.6940569,
@@ -19840,6 +21426,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1430.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1430-978a6f2a60.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1430-978a6f2a60.webp",
     "kaldenavn": null,
     "coords": [
       55.41754658,
@@ -19865,6 +21453,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1130.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1130-850f9b8f3a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1130-850f9b8f3a.webp",
     "kaldenavn": null,
     "coords": [
       55.71737311,
@@ -19890,6 +21480,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.49118916,
@@ -19915,6 +21507,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/880.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/880-3dd7eabfcb.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/880-3dd7eabfcb.webp",
     "kaldenavn": null,
     "coords": [
       55.31137673,
@@ -19940,6 +21534,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/280.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/280-c968e79a1d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/280-c968e79a1d.webp",
     "kaldenavn": null,
     "coords": [
       56.69297871,
@@ -19965,6 +21561,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -19990,6 +21588,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/184.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/184-e6a9c7074b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/184-e6a9c7074b.webp",
     "kaldenavn": null,
     "coords": [
       57.52270103,
@@ -20015,6 +21615,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.99928886,
@@ -20040,6 +21642,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.65607154,
@@ -20065,6 +21669,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1132.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1132-994c1f93a9.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1132-994c1f93a9.webp",
     "kaldenavn": null,
     "coords": [
       55.43053197,
@@ -20090,6 +21696,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1437.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1437-cb08660e74.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1437-cb08660e74.webp",
     "kaldenavn": null,
     "coords": [
       55.18424637,
@@ -20115,6 +21723,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.91730187,
@@ -20140,6 +21750,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.58244324,
@@ -20165,6 +21777,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.05171431,
@@ -20190,6 +21804,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.67945641,
@@ -20215,6 +21831,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.73668449,
@@ -20240,6 +21858,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1133.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1133-a3d2ae099b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1133-a3d2ae099b.webp",
     "kaldenavn": null,
     "coords": [
       55.45527126,
@@ -20265,6 +21885,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1961.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1961-adac3d7a59.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1961-adac3d7a59.webp",
     "kaldenavn": null,
     "coords": [
       55.45527126,
@@ -20290,6 +21912,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1194.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1194-99ef018966.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1194-99ef018966.webp",
     "kaldenavn": null,
     "coords": [
       55.45527126,
@@ -20315,6 +21939,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.45527126,
@@ -20340,6 +21966,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -20365,6 +21993,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3230.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3230-f0f404cb1e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3230-f0f404cb1e.webp",
     "kaldenavn": null,
     "coords": [
       54.97060588,
@@ -20390,6 +22020,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1438.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1438-84ae04fdcc.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1438-84ae04fdcc.webp",
     "kaldenavn": null,
     "coords": [
       55.36672658,
@@ -20415,6 +22047,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/73.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/73-f78ae2d2a6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/73-f78ae2d2a6.webp",
     "kaldenavn": null,
     "coords": [
       57.09538719,
@@ -20440,6 +22074,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.38540272,
@@ -20465,6 +22101,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/575.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/575-9898f995d9.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/575-9898f995d9.webp",
     "kaldenavn": null,
     "coords": [
       56.3806496,
@@ -20490,6 +22128,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1135.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1135-daa942d558.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1135-daa942d558.webp",
     "kaldenavn": null,
     "coords": [
       55.72556424,
@@ -20515,6 +22155,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1136.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1136-6d2ba3515b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1136-6d2ba3515b.webp",
     "kaldenavn": null,
     "coords": [
       55.58934868,
@@ -20540,6 +22182,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1137.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1137-a9b56e5275.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1137-a9b56e5275.webp",
     "kaldenavn": null,
     "coords": [
       55.59456942,
@@ -20565,6 +22209,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1138.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1138-f0675d0d49.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1138-f0675d0d49.webp",
     "kaldenavn": null,
     "coords": [
       55.45527126,
@@ -20590,6 +22236,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.05110041,
@@ -20615,6 +22263,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/578.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/578-eec457ebfc.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/578-eec457ebfc.webp",
     "kaldenavn": null,
     "coords": [
       56.24319222,
@@ -20640,6 +22290,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/284.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/284-d18127a12b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/284-d18127a12b.webp",
     "kaldenavn": null,
     "coords": [
       56.54580784,
@@ -20665,6 +22317,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/89.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/89-3978a9cc9f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/89-3978a9cc9f.webp",
     "kaldenavn": null,
     "coords": [
       57.4674892,
@@ -20690,6 +22344,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.2882506,
@@ -20715,6 +22371,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/409.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/409-9c27fe96cd.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/409-9c27fe96cd.webp",
     "kaldenavn": null,
     "coords": [
       56.54580784,
@@ -20740,6 +22398,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/285.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/285-1041a35944.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/285-1041a35944.webp",
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -20765,6 +22425,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/286.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/286-46319de7d5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/286-46319de7d5.webp",
     "kaldenavn": null,
     "coords": [
       56.52775554,
@@ -20790,6 +22452,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/580.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/580-3def122606.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/580-3def122606.webp",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -20815,6 +22479,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.41777362,
@@ -20840,6 +22506,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1142.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1142-341e8fa036.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1142-341e8fa036.webp",
     "kaldenavn": null,
     "coords": [
       55.74057031,
@@ -20865,6 +22533,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.20167527,
@@ -20890,6 +22560,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1640.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1640-dd81e9fcf4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1640-dd81e9fcf4.webp",
     "kaldenavn": null,
     "coords": [
       54.7930621,
@@ -20915,6 +22587,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.68763915,
@@ -20940,6 +22614,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/91.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/91-1924aa02dd.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/91-1924aa02dd.webp",
     "kaldenavn": null,
     "coords": [
       56.93195612,
@@ -20965,6 +22641,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1933.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1933-3339ef2f9f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1933-3339ef2f9f.webp",
     "kaldenavn": null,
     "coords": [
       56.54580784,
@@ -20990,6 +22668,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.88518842,
@@ -21015,6 +22695,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.72556424,
@@ -21040,6 +22722,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1442.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1442-2befb0a31f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1442-2befb0a31f.webp",
     "kaldenavn": null,
     "coords": [
       55.44966319,
@@ -21065,6 +22749,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/582.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/582-11365d02bf.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/582-11365d02bf.webp",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -21090,6 +22776,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.10685595,
@@ -21115,6 +22803,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.7873441,
@@ -21140,6 +22830,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/183.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/183-77c6166ac1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/183-77c6166ac1.webp",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -21165,6 +22857,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/583.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/583-ac367993aa.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/583-ac367993aa.webp",
     "kaldenavn": null,
     "coords": [
       55.4763505,
@@ -21190,6 +22884,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.4763505,
@@ -21215,6 +22911,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.02899493,
@@ -21240,6 +22938,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1145.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1145-3cd4190795.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1145-3cd4190795.webp",
     "kaldenavn": null,
     "coords": [
       55.78572204,
@@ -21265,6 +22965,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.78572204,
@@ -21290,6 +22992,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1146.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1146-b06032d6e7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1146-b06032d6e7.webp",
     "kaldenavn": null,
     "coords": [
       55.78572204,
@@ -21315,6 +23019,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1148.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1148-141be86474.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1148-141be86474.webp",
     "kaldenavn": null,
     "coords": [
       55.40880423,
@@ -21340,6 +23046,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1149.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1149-6ff4d01342.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1149-6ff4d01342.webp",
     "kaldenavn": null,
     "coords": [
       55.8397364,
@@ -21365,6 +23073,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1931.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1931-95ae8c1426.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1931-95ae8c1426.webp",
     "kaldenavn": null,
     "coords": [
       56.62765212,
@@ -21390,6 +23100,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.2843629,
@@ -21415,6 +23127,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/847.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/847-b39520fa59.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/847-b39520fa59.webp",
     "kaldenavn": null,
     "coords": [
       54.87308589,
@@ -21440,6 +23154,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/587.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/587-143eebfb5c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/587-143eebfb5c.webp",
     "kaldenavn": null,
     "coords": [
       56.24438884,
@@ -21465,6 +23181,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.4784284,
@@ -21490,6 +23208,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.66357137,
@@ -21515,6 +23235,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/291.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/291-1f00a10a2a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/291-1f00a10a2a.webp",
     "kaldenavn": null,
     "coords": [
       56.51759246,
@@ -21540,6 +23262,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/93.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/93-acee03c3c0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/93-acee03c3c0.webp",
     "kaldenavn": null,
     "coords": [
       56.95819912,
@@ -21565,6 +23289,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.06237954,
@@ -21590,6 +23316,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.06237954,
@@ -21615,6 +23343,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/850.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/850-a8afed248f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/850-a8afed248f.webp",
     "kaldenavn": null,
     "coords": [
       55.02899493,
@@ -21640,6 +23370,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/588.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/588-ea31813a33.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/588-ea31813a33.webp",
     "kaldenavn": null,
     "coords": [
       55.81385497,
@@ -21665,6 +23397,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.50308551,
@@ -21690,6 +23424,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.49762699,
@@ -21715,6 +23451,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/574.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/574-719e17b010.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/574-719e17b010.webp",
     "kaldenavn": null,
     "coords": [
       56.14838747,
@@ -21740,6 +23478,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/398.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/398-61e8912ce4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/398-61e8912ce4.webp",
     "kaldenavn": null,
     "coords": [
       56.36051392,
@@ -21765,6 +23505,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.63765951,
@@ -21790,6 +23532,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/723.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/723-212e07e5a0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/723-212e07e5a0.webp",
     "kaldenavn": null,
     "coords": [
       56.63765951,
@@ -21815,6 +23559,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1641.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1641-d09dee9cc2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1641-d09dee9cc2.webp",
     "kaldenavn": null,
     "coords": [
       54.76659931,
@@ -21840,6 +23586,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/600.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/600-c36d9abff4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/600-c36d9abff4.webp",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -21865,6 +23613,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.396433,
@@ -21890,6 +23640,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1446.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1446-3305087578.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1446-3305087578.webp",
     "kaldenavn": null,
     "coords": [
       54.85672022,
@@ -21915,6 +23667,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/293.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/293-05763c1e37.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/293-05763c1e37.webp",
     "kaldenavn": null,
     "coords": [
       56.34794414,
@@ -21940,6 +23694,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.74794316,
@@ -21965,6 +23721,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/294.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/294-c36992418e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/294-c36992418e.webp",
     "kaldenavn": null,
     "coords": [
       56.34794414,
@@ -21990,6 +23748,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1151.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1151-f9d567e943.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1151-f9d567e943.webp",
     "kaldenavn": null,
     "coords": [
       55.99124483,
@@ -22015,6 +23775,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2164.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2164-9f343c053e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2164-9f343c053e.webp",
     "kaldenavn": null,
     "coords": [
       56.50265825,
@@ -22040,6 +23802,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1152.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1152-e6ca286275.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1152-e6ca286275.webp",
     "kaldenavn": null,
     "coords": [
       55.04277496,
@@ -22065,6 +23829,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1447.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1447-eedf1699a0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1447-eedf1699a0.webp",
     "kaldenavn": null,
     "coords": [
       55.48934885,
@@ -22090,6 +23856,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/855.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/855-7c833af3d2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/855-7c833af3d2.webp",
     "kaldenavn": null,
     "coords": [
       54.98937381,
@@ -22115,6 +23883,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.02375436,
@@ -22140,6 +23910,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.59677993,
@@ -22165,6 +23937,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.31864081,
@@ -22190,6 +23964,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1154.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1154-98a53514d7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1154-98a53514d7.webp",
     "kaldenavn": null,
     "coords": [
       55.73668449,
@@ -22215,6 +23991,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.24177268,
@@ -22240,6 +24018,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1448.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1448-c080099827.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1448-c080099827.webp",
     "kaldenavn": null,
     "coords": [
       55.43415758,
@@ -22265,6 +24045,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.20322545,
@@ -22290,6 +24072,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1155.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1155-2e55a6b940.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1155-2e55a6b940.webp",
     "kaldenavn": null,
     "coords": [
       55.54103195,
@@ -22315,6 +24099,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.65607154,
@@ -22340,6 +24126,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/96.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/96-b6561d21fb.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/96-b6561d21fb.webp",
     "kaldenavn": null,
     "coords": [
       56.91678716,
@@ -22365,6 +24153,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1449.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1449-088e6a73f8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1449-088e6a73f8.webp",
     "kaldenavn": null,
     "coords": [
       55.46833207,
@@ -22390,6 +24180,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1852.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1852-2465808262.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1852-2465808262.webp",
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -22415,6 +24207,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.95248429,
@@ -22440,6 +24234,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.6088695,
@@ -22465,6 +24261,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1158.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1158-b452f0653d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1158-b452f0653d.webp",
     "kaldenavn": null,
     "coords": [
       54.9362949,
@@ -22490,6 +24288,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/297.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/297-fc7a4617d4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/297-fc7a4617d4.webp",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -22515,6 +24315,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/592.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/592-048e697347.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/592-048e697347.webp",
     "kaldenavn": null,
     "coords": [
       56.35508218,
@@ -22540,6 +24342,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1276.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1276-5a3e64790f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1276-5a3e64790f.webp",
     "kaldenavn": null,
     "coords": [
       55.73800813,
@@ -22565,6 +24369,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1159.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1159-53cf41e88c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1159-53cf41e88c.webp",
     "kaldenavn": null,
     "coords": [
       55.62211279,
@@ -22590,6 +24396,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/397.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/397-6d815bd3cd.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/397-6d815bd3cd.webp",
     "kaldenavn": null,
     "coords": [
       56.34794414,
@@ -22615,6 +24423,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1160.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1160-cf418288c2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1160-cf418288c2.webp",
     "kaldenavn": null,
     "coords": [
       55.75323652,
@@ -22640,6 +24450,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.01099572,
@@ -22665,6 +24477,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/298.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/298-8718fc0715.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/298-8718fc0715.webp",
     "kaldenavn": null,
     "coords": [
       56.34794414,
@@ -22690,6 +24504,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/593.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/593-06e5b0a55a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/593-06e5b0a55a.webp",
     "kaldenavn": null,
     "coords": [
       56.20167527,
@@ -22715,6 +24531,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1162.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1162-f0b69b0b47.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1162-f0b69b0b47.webp",
     "kaldenavn": null,
     "coords": [
       55.73668449,
@@ -22740,6 +24558,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3819.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3819-2b4fc042fe.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3819-2b4fc042fe.webp",
     "kaldenavn": null,
     "coords": [
       55.58934868,
@@ -22765,6 +24585,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1676.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1676-ed4a3139ea.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1676-ed4a3139ea.webp",
     "kaldenavn": null,
     "coords": [
       54.87126103,
@@ -22790,6 +24612,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3416.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3416-2871bb9f34.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3416-2871bb9f34.webp",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -22815,6 +24639,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/97.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/97-72b8f40f26.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/97-72b8f40f26.webp",
     "kaldenavn": null,
     "coords": [
       56.94881207,
@@ -22840,6 +24666,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.33866468,
@@ -22865,6 +24693,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/595.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/595-687c943496.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/595-687c943496.webp",
     "kaldenavn": null,
     "coords": [
       55.96052136,
@@ -22890,6 +24720,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.56662852,
@@ -22915,6 +24747,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1163.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1163-e322ff9d57.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1163-e322ff9d57.webp",
     "kaldenavn": null,
     "coords": [
       55.92959715,
@@ -22940,6 +24774,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/854.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/854-20c1884259.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/854-20c1884259.webp",
     "kaldenavn": null,
     "coords": [
       55.06940698,
@@ -22965,6 +24801,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.06940698,
@@ -22990,6 +24828,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.50265825,
@@ -23015,6 +24855,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/856.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/856-323944ee62.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/856-323944ee62.webp",
     "kaldenavn": null,
     "coords": [
       55.65607154,
@@ -23040,6 +24882,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1644.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1644-2d1441054f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1644-2d1441054f.webp",
     "kaldenavn": null,
     "coords": [
       54.93527293,
@@ -23065,6 +24909,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.01099572,
@@ -23090,6 +24936,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.8517685,
@@ -23115,6 +24963,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/302.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/302-868c4486c8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/302-868c4486c8.webp",
     "kaldenavn": null,
     "coords": [
       56.8517685,
@@ -23140,6 +24990,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/303.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/303-4679d7f483.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/303-4679d7f483.webp",
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -23165,6 +25017,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/857.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/857-edad42eccb.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/857-edad42eccb.webp",
     "kaldenavn": null,
     "coords": [
       54.98937381,
@@ -23190,6 +25044,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/597.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/597-b2be28f02f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/597-b2be28f02f.webp",
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -23215,6 +25071,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/305.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/305-8554eeabec.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/305-8554eeabec.webp",
     "kaldenavn": null,
     "coords": [
       56.34794414,
@@ -23240,6 +25098,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.89578273,
@@ -23265,6 +25125,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1452.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1452-0a3884e4aa.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1452-0a3884e4aa.webp",
     "kaldenavn": null,
     "coords": [
       55.2906707,
@@ -23290,6 +25152,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/861.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/861-52000d8136.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/861-52000d8136.webp",
     "kaldenavn": null,
     "coords": [
       55.7873441,
@@ -23315,6 +25179,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.54580784,
@@ -23340,6 +25206,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.2906707,
@@ -23365,6 +25233,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.08052418,
@@ -23390,6 +25260,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1454.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1454-617ce44357.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1454-617ce44357.webp",
     "kaldenavn": null,
     "coords": [
       55.41549178,
@@ -23415,6 +25287,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/411.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/411-d8406c7bd3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/411-d8406c7bd3.webp",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -23440,6 +25314,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/858.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/858-24fc2abe5c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/858-24fc2abe5c.webp",
     "kaldenavn": null,
     "coords": [
       55.2436827,
@@ -23465,6 +25341,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.75748092,
@@ -23490,6 +25368,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1456.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1456-a023674165.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1456-a023674165.webp",
     "kaldenavn": null,
     "coords": [
       55.35301317,
@@ -23515,6 +25395,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1677.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1677-fb693ef62a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1677-fb693ef62a.webp",
     "kaldenavn": null,
     "coords": [
       54.98495945,
@@ -23540,6 +25422,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3404.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3404-502998bfdf.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3404-502998bfdf.webp",
     "kaldenavn": null,
     "coords": [
       54.7930621,
@@ -23565,6 +25449,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.7930621,
@@ -23590,6 +25476,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1167.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1167-b7f2bf0cb3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1167-b7f2bf0cb3.webp",
     "kaldenavn": null,
     "coords": [
       55.9928841,
@@ -23615,6 +25503,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.02464842,
@@ -23640,6 +25530,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.62941506,
@@ -23665,6 +25557,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/860.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/860-755b348e44.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/860-755b348e44.webp",
     "kaldenavn": null,
     "coords": [
       55.65607154,
@@ -23690,6 +25584,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3726.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3726-a47b49d833.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3726-a47b49d833.webp",
     "kaldenavn": null,
     "coords": [
       55.44966319,
@@ -23715,6 +25611,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1457.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1457-a47b49d833.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1457-a47b49d833.webp",
     "kaldenavn": null,
     "coords": [
       55.44966319,
@@ -23740,6 +25638,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3727.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3727-3ead1475c0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3727-3ead1475c0.webp",
     "kaldenavn": null,
     "coords": [
       55.19504272,
@@ -23765,6 +25665,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1170.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1170-c302ea28f6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1170-c302ea28f6.webp",
     "kaldenavn": null,
     "coords": [
       55.19504272,
@@ -23790,6 +25692,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1171.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1171-5a619d3dc8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1171-5a619d3dc8.webp",
     "kaldenavn": null,
     "coords": [
       55.19504272,
@@ -23815,6 +25719,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.65941452,
@@ -23840,6 +25746,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.97086354,
@@ -23865,6 +25773,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/596.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/596-fd785ccec3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/596-fd785ccec3.webp",
     "kaldenavn": null,
     "coords": [
       56.49705855,
@@ -23890,6 +25800,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/99.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/99-8541416a23.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/99-8541416a23.webp",
     "kaldenavn": null,
     "coords": [
       56.74794316,
@@ -23915,6 +25827,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2930.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2930-6ee434cce5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2930-6ee434cce5.webp",
     "kaldenavn": null,
     "coords": [
       56.55632319,
@@ -23940,6 +25854,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1650.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1650-bbb8915738.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1650-bbb8915738.webp",
     "kaldenavn": null,
     "coords": [
       54.93527293,
@@ -23965,6 +25881,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.96381394,
@@ -23990,6 +25908,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.41549178,
@@ -24015,6 +25935,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2089.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2089-b555399f82.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2089-b555399f82.webp",
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -24040,6 +25962,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1987.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1987-658fcce14e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1987-658fcce14e.webp",
     "kaldenavn": null,
     "coords": [
       55.6940569,
@@ -24065,6 +25989,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/90.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/90-9c7df52fa6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/90-9c7df52fa6.webp",
     "kaldenavn": null,
     "coords": [
       57.08119416,
@@ -24090,6 +26016,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/193.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/193-9fd7043d38.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/193-9fd7043d38.webp",
     "kaldenavn": null,
     "coords": [
       56.93195612,
@@ -24115,6 +26043,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2064.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2064-3909c521bd.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2064-3909c521bd.webp",
     "kaldenavn": null,
     "coords": [
       56.18215286,
@@ -24140,6 +26070,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3706.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3706-66ec14378a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3706-66ec14378a.webp",
     "kaldenavn": null,
     "coords": [
       55.39401435,
@@ -24165,6 +26097,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3938.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3938-6a5e642fce.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3938-6a5e642fce.webp",
     "kaldenavn": null,
     "coords": [
       55.403021,
@@ -24190,6 +26124,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.19504272,
@@ -24215,6 +26151,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/401.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/401-f41d5488bd.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/401-f41d5488bd.webp",
     "kaldenavn": null,
     "coords": [
       56.62419195,
@@ -24240,6 +26178,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/602.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/602-b6b14de2b7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/602-b6b14de2b7.webp",
     "kaldenavn": null,
     "coords": [
       55.92457284,
@@ -24265,6 +26205,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1458.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1458-2a3a589fc2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1458-2a3a589fc2.webp",
     "kaldenavn": null,
     "coords": [
       55.403021,
@@ -24290,6 +26232,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.85310811,
@@ -24315,6 +26259,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.31137673,
@@ -24340,6 +26286,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.48050883,
@@ -24365,6 +26313,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.9362949,
@@ -24390,6 +26340,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.77688954,
@@ -24415,6 +26367,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -24440,6 +26394,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.85672022,
@@ -24465,6 +26421,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.6528756,
@@ -24490,6 +26448,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.73668449,
@@ -24515,6 +26475,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.6129967,
@@ -24540,6 +26502,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1177.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1177-0df7d37e2f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1177-0df7d37e2f.webp",
     "kaldenavn": null,
     "coords": [
       55.85479562,
@@ -24565,6 +26529,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1178.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1178-5ad8cad445.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1178-5ad8cad445.webp",
     "kaldenavn": null,
     "coords": [
       55.68182922,
@@ -24590,6 +26556,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.59456942,
@@ -24615,6 +26583,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1179.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1179-a9b56e5275.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1179-a9b56e5275.webp",
     "kaldenavn": null,
     "coords": [
       55.59456942,
@@ -24640,6 +26610,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1467.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1467-c5c3c3dd40.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1467-c5c3c3dd40.webp",
     "kaldenavn": null,
     "coords": [
       55.56662852,
@@ -24665,6 +26637,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1468.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1468-46d470b4cb.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1468-46d470b4cb.webp",
     "kaldenavn": null,
     "coords": [
       55.11784585,
@@ -24690,6 +26664,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/865.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/865-c5b580a212.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/865-c5b580a212.webp",
     "kaldenavn": null,
     "coords": [
       55.70803366,
@@ -24715,6 +26691,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -24740,6 +26718,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/866.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/866-34099d1bd2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/866-34099d1bd2.webp",
     "kaldenavn": null,
     "coords": [
       55.2436827,
@@ -24765,6 +26745,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/309.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/309-7ec935fd74.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/309-7ec935fd74.webp",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -24790,6 +26772,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.02464842,
@@ -24815,6 +26799,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1760.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1760-a45b089b33.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1760-a45b089b33.webp",
     "kaldenavn": null,
     "coords": [
       55.67264298,
@@ -24840,6 +26826,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.6920138,
@@ -24865,6 +26853,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.05662783,
@@ -24890,6 +26880,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.76046689,
@@ -24915,6 +26907,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1574.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1574-70e39c16d6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1574-70e39c16d6.webp",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -24940,6 +26934,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1680.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1680-2244ba24a2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1680-2244ba24a2.webp",
     "kaldenavn": null,
     "coords": [
       54.87126103,
@@ -24965,6 +26961,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/188.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/188-2c9b44e66d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/188-2c9b44e66d.webp",
     "kaldenavn": null,
     "coords": [
       57.37190853,
@@ -24990,6 +26988,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/609.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/609-892964f87b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/609-892964f87b.webp",
     "kaldenavn": null,
     "coords": [
       56.12635244,
@@ -25015,6 +27015,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1185.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1185-e5a05bd498.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1185-e5a05bd498.webp",
     "kaldenavn": null,
     "coords": [
       55.12208613,
@@ -25040,6 +27042,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/106.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/106-a8013c6d6a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/106-a8013c6d6a.webp",
     "kaldenavn": null,
     "coords": [
       57.28432949,
@@ -25065,6 +27069,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.55632319,
@@ -25090,6 +27096,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.8143415,
@@ -25115,6 +27123,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1186.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1186-ef48e199e4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1186-ef48e199e4.webp",
     "kaldenavn": null,
     "coords": [
       55.70601705,
@@ -25140,6 +27150,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1187.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1187-07c6fb28ed.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1187-07c6fb28ed.webp",
     "kaldenavn": null,
     "coords": [
       56.01099572,
@@ -25165,6 +27177,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/310.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/310-4a9cbd3091.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/310-4a9cbd3091.webp",
     "kaldenavn": null,
     "coords": [
       56.54580784,
@@ -25190,6 +27204,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.46401254,
@@ -25215,6 +27231,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.48050883,
@@ -25240,6 +27258,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.48050883,
@@ -25265,6 +27285,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/610.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/610-bebd8e48cd.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/610-bebd8e48cd.webp",
     "kaldenavn": null,
     "coords": [
       56.48050883,
@@ -25290,6 +27312,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/611.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/611-e131cea01c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/611-e131cea01c.webp",
     "kaldenavn": null,
     "coords": [
       56.48050883,
@@ -25315,6 +27339,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/613.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/613-3e0d6302cc.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/613-3e0d6302cc.webp",
     "kaldenavn": null,
     "coords": [
       55.92457284,
@@ -25340,6 +27366,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2059.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2059-4c7765115e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2059-4c7765115e.webp",
     "kaldenavn": null,
     "coords": [
       56.89861349,
@@ -25365,6 +27393,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.87835123,
@@ -25390,6 +27420,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/311.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/311-a0748d97c6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/311-a0748d97c6.webp",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -25415,6 +27447,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.01708464,
@@ -25440,6 +27474,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.84944104,
@@ -25465,6 +27501,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1188.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1188-e52a5133e5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1188-e52a5133e5.webp",
     "kaldenavn": null,
     "coords": [
       55.58934868,
@@ -25490,6 +27528,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.66357137,
@@ -25515,6 +27555,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.17738587,
@@ -25540,6 +27582,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/312.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/312-52ad8e9ac8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/312-52ad8e9ac8.webp",
     "kaldenavn": null,
     "coords": [
       56.52775554,
@@ -25565,6 +27609,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/618.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/618-6eb30cc864.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/618-6eb30cc864.webp",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -25590,6 +27636,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/869.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/869-bb59142afd.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/869-bb59142afd.webp",
     "kaldenavn": null,
     "coords": [
       55.31137673,
@@ -25615,6 +27663,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.02388208,
@@ -25640,6 +27690,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.65941452,
@@ -25665,6 +27717,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/313.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/313-946fbd0636.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/313-946fbd0636.webp",
     "kaldenavn": null,
     "coords": [
       56.20098497,
@@ -25690,6 +27744,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1472.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1472-19f9297610.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1472-19f9297610.webp",
     "kaldenavn": null,
     "coords": [
       55.2209888,
@@ -25715,6 +27771,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.2209888,
@@ -25740,6 +27798,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/315.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/315-7d2443e304.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/315-7d2443e304.webp",
     "kaldenavn": null,
     "coords": [
       56.20098497,
@@ -25765,6 +27825,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1192.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1192-cbe8cb1d93.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1192-cbe8cb1d93.webp",
     "kaldenavn": null,
     "coords": [
       55.43053197,
@@ -25790,6 +27852,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1191.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1191-8095bddde4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1191-8095bddde4.webp",
     "kaldenavn": null,
     "coords": [
       55.43053197,
@@ -25815,6 +27879,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.91730187,
@@ -25840,6 +27906,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1475.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1475-dcf2d64df9.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1475-dcf2d64df9.webp",
     "kaldenavn": null,
     "coords": [
       54.79716403,
@@ -25865,6 +27933,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/110.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/110-7163ce29d1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/110-7163ce29d1.webp",
     "kaldenavn": null,
     "coords": [
       57.01911272,
@@ -25890,6 +27960,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.2685839,
@@ -25915,6 +27987,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1477.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1477-0d42fe66a2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1477-0d42fe66a2.webp",
     "kaldenavn": null,
     "coords": [
       55.31045491,
@@ -25940,6 +28014,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/727.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/727-d104fa79b2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/727-d104fa79b2.webp",
     "kaldenavn": null,
     "coords": [
       56.42912946,
@@ -25965,6 +28041,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/41.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/41-f7c90eeaee.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/41-f7c90eeaee.webp",
     "kaldenavn": null,
     "coords": [
       56.6528756,
@@ -25990,6 +28068,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1196.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1196-f358c2ee78.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1196-f358c2ee78.webp",
     "kaldenavn": null,
     "coords": [
       55.58934868,
@@ -26015,6 +28095,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1197.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1197-69fdc4d093.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1197-69fdc4d093.webp",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -26040,6 +28122,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3696.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3696-d2f1c9cf0f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3696-d2f1c9cf0f.webp",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -26065,6 +28149,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/316.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/316-cbc241624a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/316-cbc241624a.webp",
     "kaldenavn": null,
     "coords": [
       56.72437033,
@@ -26090,6 +28176,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.71726169,
@@ -26115,6 +28203,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1478.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1478-fec71f145b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1478-fec71f145b.webp",
     "kaldenavn": null,
     "coords": [
       54.88518842,
@@ -26140,6 +28230,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.55253436,
@@ -26165,6 +28257,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/620.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/620-aad9610411.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/620-aad9610411.webp",
     "kaldenavn": null,
     "coords": [
       56.02388208,
@@ -26190,6 +28284,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.47769058,
@@ -26215,6 +28311,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1479.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1479-45e2a5cfc1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1479-45e2a5cfc1.webp",
     "kaldenavn": null,
     "coords": [
       55.23725238,
@@ -26240,6 +28338,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.53635729,
@@ -26265,6 +28365,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/870.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/870-3c3bb177c4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/870-3c3bb177c4.webp",
     "kaldenavn": null,
     "coords": [
       55.38472069,
@@ -26290,6 +28392,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.49762699,
@@ -26315,6 +28419,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.18928869,
@@ -26340,6 +28446,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.403021,
@@ -26365,6 +28473,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1201.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1201-13bce6d9e9.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1201-13bce6d9e9.webp",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -26390,6 +28500,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/394.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/394-846b588aa3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/394-846b588aa3.webp",
     "kaldenavn": null,
     "coords": [
       56.46317549,
@@ -26415,6 +28527,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/871.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/871-5f6be7abf3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/871-5f6be7abf3.webp",
     "kaldenavn": null,
     "coords": [
       55.07437317,
@@ -26440,6 +28554,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/319.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/319-649405ada6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/319-649405ada6.webp",
     "kaldenavn": null,
     "coords": [
       56.35360504,
@@ -26465,6 +28581,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1203.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1203-87568507ba.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1203-87568507ba.webp",
     "kaldenavn": null,
     "coords": [
       55.20085779,
@@ -26490,6 +28608,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.46317549,
@@ -26515,6 +28635,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.30328793,
@@ -26540,6 +28662,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.98495945,
@@ -26565,6 +28689,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1682.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1682-9a618aa562.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1682-9a618aa562.webp",
     "kaldenavn": null,
     "coords": [
       54.98495945,
@@ -26590,6 +28716,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.19504272,
@@ -26615,6 +28743,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1205.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1205-aea6f312a2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1205-aea6f312a2.webp",
     "kaldenavn": null,
     "coords": [
       55.23758668,
@@ -26640,6 +28770,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1206.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1206-40bc182515.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1206-40bc182515.webp",
     "kaldenavn": null,
     "coords": [
       55.86605512,
@@ -26665,6 +28797,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1207.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1207-9c97e95dbe.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1207-9c97e95dbe.webp",
     "kaldenavn": null,
     "coords": [
       55.70601705,
@@ -26690,6 +28824,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.6528756,
@@ -26715,6 +28851,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1208.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1208-8ef70c7424.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1208-8ef70c7424.webp",
     "kaldenavn": null,
     "coords": [
       56.01043371,
@@ -26740,6 +28878,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2709.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2709-ba80dca84a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2709-ba80dca84a.webp",
     "kaldenavn": null,
     "coords": [
       55.42123207,
@@ -26765,6 +28905,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1488.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1488-0cbb0998b6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1488-0cbb0998b6.webp",
     "kaldenavn": null,
     "coords": [
       55.34939755,
@@ -26790,6 +28932,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/625.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/625-5a60a6d5b6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/625-5a60a6d5b6.webp",
     "kaldenavn": null,
     "coords": [
       56.21127538,
@@ -26815,6 +28959,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.26356721,
@@ -26840,6 +28986,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.72437033,
@@ -26865,6 +29013,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/214.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/214-bc9210a39e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/214-bc9210a39e.webp",
     "kaldenavn": null,
     "coords": [
       56.72437033,
@@ -26890,6 +29040,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/114.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/114-59ba17044f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/114-59ba17044f.webp",
     "kaldenavn": null,
     "coords": [
       57.26602114,
@@ -26915,6 +29067,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.91180366,
@@ -26940,6 +29094,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.91180366,
@@ -26965,6 +29121,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.75748092,
@@ -26990,6 +29148,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1481.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1481-2aa2edb3a1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1481-2aa2edb3a1.webp",
     "kaldenavn": null,
     "coords": [
       55.35251254,
@@ -27015,6 +29175,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1209.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1209-7a40fa0305.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1209-7a40fa0305.webp",
     "kaldenavn": null,
     "coords": [
       55.25079677,
@@ -27040,6 +29202,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/627.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/627-96b311f2ab.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/627-96b311f2ab.webp",
     "kaldenavn": null,
     "coords": [
       55.92457284,
@@ -27065,6 +29229,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3844.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3844-ac4244218d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3844-ac4244218d.webp",
     "kaldenavn": null,
     "coords": [
       55.58934868,
@@ -27090,6 +29256,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1892.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1892-763884679e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1892-763884679e.webp",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -27115,6 +29283,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1211.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1211-34f48b018d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1211-34f48b018d.webp",
     "kaldenavn": null,
     "coords": [
       55.19504272,
@@ -27140,6 +29310,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.85259869,
@@ -27165,6 +29337,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.94233943,
@@ -27190,6 +29364,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.94233943,
@@ -27215,6 +29391,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/923.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/923-7263cb9b86.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/923-7263cb9b86.webp",
     "kaldenavn": null,
     "coords": [
       55.38472069,
@@ -27240,6 +29418,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.2906707,
@@ -27265,6 +29445,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/890.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/890-887c4b8159.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/890-887c4b8159.webp",
     "kaldenavn": null,
     "coords": [
       55.85051521,
@@ -27290,6 +29472,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -27315,6 +29499,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.94881207,
@@ -27340,6 +29526,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/628.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/628-8c9d5ed582.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/628-8c9d5ed582.webp",
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -27365,6 +29553,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.92069678,
@@ -27390,6 +29580,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/629.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/629-b642f80864.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/629-b642f80864.webp",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -27415,6 +29607,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1213.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1213-b09232e741.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1213-b09232e741.webp",
     "kaldenavn": null,
     "coords": [
       55.6579409,
@@ -27440,6 +29634,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.46317549,
@@ -27465,6 +29661,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1497.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1497-052fcfdde0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1497-052fcfdde0.webp",
     "kaldenavn": null,
     "coords": [
       55.01443666,
@@ -27490,6 +29688,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/366.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/366-3d5a9b59cc.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/366-3d5a9b59cc.webp",
     "kaldenavn": null,
     "coords": [
       56.3042395,
@@ -27515,6 +29715,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.36245892,
@@ -27540,6 +29742,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/658.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/658-b4ea4cb5cb.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/658-b4ea4cb5cb.webp",
     "kaldenavn": null,
     "coords": [
       56.42912946,
@@ -27565,6 +29769,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1216.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1216-efb66d152e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1216-efb66d152e.webp",
     "kaldenavn": null,
     "coords": [
       55.73825064,
@@ -27590,6 +29796,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.65607154,
@@ -27615,6 +29823,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.85479562,
@@ -27640,6 +29850,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/377.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/377-db4707dfe7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/377-db4707dfe7.webp",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -27665,6 +29877,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -27690,6 +29904,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/630.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/630-84f0ee6c80.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/630-84f0ee6c80.webp",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -27715,6 +29931,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -27740,6 +29958,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.2882506,
@@ -27765,6 +29985,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/632.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/632-410aa15973.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/632-410aa15973.webp",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -27790,6 +30012,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3400.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3400-c1e2a088ae.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3400-c1e2a088ae.webp",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -27815,6 +30039,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/633.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/633-fd8f38ffe2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/633-fd8f38ffe2.webp",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -27840,6 +30066,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/116.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/116-d28a4f1319.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/116-d28a4f1319.webp",
     "kaldenavn": null,
     "coords": [
       57.4674892,
@@ -27865,6 +30093,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/322.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/322-6fd4869180.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/322-6fd4869180.webp",
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -27890,6 +30120,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1992.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1992-2109b39fc0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1992-2109b39fc0.webp",
     "kaldenavn": null,
     "coords": [
       55.06237954,
@@ -27915,6 +30147,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.15051496,
@@ -27940,6 +30174,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.43053197,
@@ -27965,6 +30201,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.4068472,
@@ -27990,6 +30228,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/323.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/323-5360e11c0b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/323-5360e11c0b.webp",
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -28015,6 +30255,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.2882506,
@@ -28040,6 +30282,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/117.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/117-4c12210760.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/117-4c12210760.webp",
     "kaldenavn": null,
     "coords": [
       57.85540126,
@@ -28065,6 +30309,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1482.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1482-658909bc59.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1482-658909bc59.webp",
     "kaldenavn": null,
     "coords": [
       55.39228422,
@@ -28090,6 +30336,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/118.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/118-ef2a7bdfc6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/118-ef2a7bdfc6.webp",
     "kaldenavn": null,
     "coords": [
       57.00928951,
@@ -28115,6 +30363,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.39228422,
@@ -28140,6 +30390,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/119.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/119-9621e8c314.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/119-9621e8c314.webp",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -28165,6 +30417,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.59071095,
@@ -28190,6 +30444,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/326.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/326-f48b639519.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/326-f48b639519.webp",
     "kaldenavn": null,
     "coords": [
       56.59071095,
@@ -28215,6 +30471,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.51969426,
@@ -28240,6 +30498,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2020.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2020-be1c47206b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2020-be1c47206b.webp",
     "kaldenavn": null,
     "coords": [
       55.4763505,
@@ -28265,6 +30525,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.4763505,
@@ -28290,6 +30552,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1485.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1485-6fb339fe11.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1485-6fb339fe11.webp",
     "kaldenavn": null,
     "coords": [
       55.56662852,
@@ -28315,6 +30579,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/874.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/874-4265da723a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/874-4265da723a.webp",
     "kaldenavn": null,
     "coords": [
       54.8713804,
@@ -28340,6 +30606,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.77688954,
@@ -28365,6 +30633,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1219.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1219-3a814f486d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1219-3a814f486d.webp",
     "kaldenavn": null,
     "coords": [
       55.50779016,
@@ -28390,6 +30660,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.18215286,
@@ -28415,6 +30687,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1220.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1220-aafa9c606f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1220-aafa9c606f.webp",
     "kaldenavn": null,
     "coords": [
       55.75873813,
@@ -28440,6 +30714,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.4784284,
@@ -28465,6 +30741,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/637.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/637-25b2f14f28.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/637-25b2f14f28.webp",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -28490,6 +30768,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/121.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/121-2254ca8b33.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/121-2254ca8b33.webp",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -28515,6 +30795,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/328.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/328-82f584b5d8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/328-82f584b5d8.webp",
     "kaldenavn": null,
     "coords": [
       56.46317549,
@@ -28540,6 +30822,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3732.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3732-f18daaf81c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3732-f18daaf81c.webp",
     "kaldenavn": null,
     "coords": [
       56.46317549,
@@ -28565,6 +30849,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/329.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/329-f50d92e002.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/329-f50d92e002.webp",
     "kaldenavn": null,
     "coords": [
       55.99089664,
@@ -28590,6 +30876,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.99089664,
@@ -28615,6 +30903,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.26356721,
@@ -28640,6 +30930,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/875.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/875-8d25dc172a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/875-8d25dc172a.webp",
     "kaldenavn": null,
     "coords": [
       55.38472069,
@@ -28665,6 +30957,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.18719668,
@@ -28690,6 +30984,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.43053197,
@@ -28715,6 +31011,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1487.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1487-bd3bbfd0db.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1487-bd3bbfd0db.webp",
     "kaldenavn": null,
     "coords": [
       55.6129967,
@@ -28740,6 +31038,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2165.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2165-b4a0626e38.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2165-b4a0626e38.webp",
     "kaldenavn": null,
     "coords": [
       55.72123589,
@@ -28765,6 +31065,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.72123589,
@@ -28790,6 +31092,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.71528471,
@@ -28815,6 +31119,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/122.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/122-7b4f1fb94a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/122-7b4f1fb94a.webp",
     "kaldenavn": null,
     "coords": [
       57.10716869,
@@ -28840,6 +31146,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1579.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1579-8ed1750d72.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1579-8ed1750d72.webp",
     "kaldenavn": null,
     "coords": [
       55.79609961,
@@ -28865,6 +31173,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.2597249,
@@ -28890,6 +31200,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/641.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/641-f191644fc6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/641-f191644fc6.webp",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -28915,6 +31227,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1225.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1225-220626d2fc.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1225-220626d2fc.webp",
     "kaldenavn": null,
     "coords": [
       55.17717085,
@@ -28940,6 +31254,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.17738587,
@@ -28965,6 +31281,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.17738587,
@@ -28990,6 +31308,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/642.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/642-80a5b15f54.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/642-80a5b15f54.webp",
     "kaldenavn": null,
     "coords": [
       56.26151082,
@@ -29015,6 +31335,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/124.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/124-e2c700d764.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/124-e2c700d764.webp",
     "kaldenavn": null,
     "coords": [
       56.84944104,
@@ -29040,6 +31362,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1489.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1489-f914f3b15c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1489-f914f3b15c.webp",
     "kaldenavn": null,
     "coords": [
       55.06735111,
@@ -29065,6 +31389,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1229.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1229-1993b333e6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1229-1993b333e6.webp",
     "kaldenavn": null,
     "coords": [
       55.40887345,
@@ -29090,6 +31416,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1232.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1232-9cd90e8cd1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1232-9cd90e8cd1.webp",
     "kaldenavn": null,
     "coords": [
       55.40880423,
@@ -29115,6 +31443,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1233.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1233-2a723f9ddc.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1233-2a723f9ddc.webp",
     "kaldenavn": null,
     "coords": [
       55.80077298,
@@ -29140,6 +31470,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1234.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1234-7621977792.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1234-7621977792.webp",
     "kaldenavn": null,
     "coords": [
       55.85027208,
@@ -29165,6 +31497,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.57103757,
@@ -29190,6 +31524,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/655.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/655-07ec3c3f83.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/655-07ec3c3f83.webp",
     "kaldenavn": null,
     "coords": [
       56.50265825,
@@ -29215,6 +31551,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.2597249,
@@ -29240,6 +31578,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/331.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/331-9ff7125ec7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/331-9ff7125ec7.webp",
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -29265,6 +31605,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1235.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1235-6a77a20abb.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1235-6a77a20abb.webp",
     "kaldenavn": null,
     "coords": [
       56.00467892,
@@ -29290,6 +31632,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/644.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/644-294b30c2d4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/644-294b30c2d4.webp",
     "kaldenavn": null,
     "coords": [
       56.03661436,
@@ -29315,6 +31659,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/645.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/645-3737e106cc.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/645-3737e106cc.webp",
     "kaldenavn": null,
     "coords": [
       55.81385497,
@@ -29340,6 +31686,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1238.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1238-705180e2eb.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1238-705180e2eb.webp",
     "kaldenavn": null,
     "coords": [
       55.5150734,
@@ -29365,6 +31713,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.32447339,
@@ -29390,6 +31740,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/879.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/879-984adb40e3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/879-984adb40e3.webp",
     "kaldenavn": null,
     "coords": [
       55.32447339,
@@ -29415,6 +31767,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/646.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/646-2133bf311e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/646-2133bf311e.webp",
     "kaldenavn": null,
     "coords": [
       56.17906349,
@@ -29440,6 +31794,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.40880423,
@@ -29465,6 +31821,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/881.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/881-a2da2566d4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/881-a2da2566d4.webp",
     "kaldenavn": null,
     "coords": [
       55.55332885,
@@ -29490,6 +31848,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/332.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/332-7686be391c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/332-7686be391c.webp",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -29515,6 +31875,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/647.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/647-237989234d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/647-237989234d.webp",
     "kaldenavn": null,
     "coords": [
       56.54082727,
@@ -29540,6 +31902,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.76046689,
@@ -29565,6 +31929,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.15361133,
@@ -29590,6 +31956,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/333.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/333-7b5dba60fe.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/333-7b5dba60fe.webp",
     "kaldenavn": null,
     "coords": [
       56.15361133,
@@ -29615,6 +31983,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3954.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3954-d47a50c965.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3954-d47a50c965.webp",
     "kaldenavn": null,
     "coords": [
       55.88126308,
@@ -29640,6 +32010,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1996.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1996-e32d778f6a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1996-e32d778f6a.webp",
     "kaldenavn": null,
     "coords": [
       57.16282327,
@@ -29665,6 +32037,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/201.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/201-f967e643c2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/201-f967e643c2.webp",
     "kaldenavn": null,
     "coords": [
       56.62419195,
@@ -29690,6 +32064,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.76046689,
@@ -29715,6 +32091,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/648.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/648-e21870ef94.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/648-e21870ef94.webp",
     "kaldenavn": null,
     "coords": [
       56.27022295,
@@ -29740,6 +32118,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.27022295,
@@ -29765,6 +32145,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/126.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/126-f458402b37.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/126-f458402b37.webp",
     "kaldenavn": null,
     "coords": [
       57.00928951,
@@ -29790,6 +32172,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.75986358,
@@ -29815,6 +32199,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/883.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/883-b338250184.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/883-b338250184.webp",
     "kaldenavn": null,
     "coords": [
       55.24177268,
@@ -29840,6 +32226,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.99089664,
@@ -29865,6 +32253,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/649.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/649-2f7001fbca.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/649-2f7001fbca.webp",
     "kaldenavn": null,
     "coords": [
       56.12635244,
@@ -29890,6 +32280,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1242.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1242-1957828388.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1242-1957828388.webp",
     "kaldenavn": null,
     "coords": [
       55.55246779,
@@ -29915,6 +32307,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1243.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1243-395e5c3ecb.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1243-395e5c3ecb.webp",
     "kaldenavn": null,
     "coords": [
       55.80077298,
@@ -29940,6 +32334,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/650.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/650-de43f6fe26.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/650-de43f6fe26.webp",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -29965,6 +32361,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1491.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1491-274f4483e1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1491-274f4483e1.webp",
     "kaldenavn": null,
     "coords": [
       55.12556284,
@@ -29990,6 +32388,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/884.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/884-91a4a446c1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/884-91a4a446c1.webp",
     "kaldenavn": null,
     "coords": [
       55.35487274,
@@ -30015,6 +32415,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1694.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1694-a457956b0b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1694-a457956b0b.webp",
     "kaldenavn": null,
     "coords": [
       57.2843629,
@@ -30040,6 +32442,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/652.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/652-e5b7c16ce6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/652-e5b7c16ce6.webp",
     "kaldenavn": null,
     "coords": [
       56.02388208,
@@ -30065,6 +32469,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1246.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1246-13ea7f9be3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1246-13ea7f9be3.webp",
     "kaldenavn": null,
     "coords": [
       55.40887345,
@@ -30090,6 +32496,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/653.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/653-a1465d0173.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/653-a1465d0173.webp",
     "kaldenavn": null,
     "coords": [
       56.17800104,
@@ -30115,6 +32523,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/338.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/338-46cf941d3b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/338-46cf941d3b.webp",
     "kaldenavn": null,
     "coords": [
       56.48444375,
@@ -30140,6 +32550,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.84533107,
@@ -30165,6 +32577,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1247.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1247-67787c70d1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1247-67787c70d1.webp",
     "kaldenavn": null,
     "coords": [
       55.33554618,
@@ -30190,6 +32604,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1248.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1248-5fd203d609.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1248-5fd203d609.webp",
     "kaldenavn": null,
     "coords": [
       55.93559156,
@@ -30215,6 +32631,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.54054576,
@@ -30240,6 +32658,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/127.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/127-cee9eca53b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/127-cee9eca53b.webp",
     "kaldenavn": null,
     "coords": [
       56.91678716,
@@ -30265,6 +32685,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.77310507,
@@ -30290,6 +32712,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/128.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/128-83175c45cb.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/128-83175c45cb.webp",
     "kaldenavn": null,
     "coords": [
       57.51074154,
@@ -30315,6 +32739,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.89016003,
@@ -30340,6 +32766,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.48934885,
@@ -30365,6 +32793,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1494.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1494-d884c92bf8.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1494-d884c92bf8.webp",
     "kaldenavn": null,
     "coords": [
       55.48934885,
@@ -30390,6 +32820,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/339.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/339-18de567a60.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/339-18de567a60.webp",
     "kaldenavn": null,
     "coords": [
       56.52775554,
@@ -30415,6 +32847,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1658.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1658-bf220ac024.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1658-bf220ac024.webp",
     "kaldenavn": null,
     "coords": [
       54.71290684,
@@ -30440,6 +32874,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1598.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1598-e0240a5abe.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1598-e0240a5abe.webp",
     "kaldenavn": null,
     "coords": [
       55.67082135,
@@ -30465,6 +32901,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -30490,6 +32928,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2756.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2756-e5bbf8a385.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2756-e5bbf8a385.webp",
     "kaldenavn": null,
     "coords": [
       55.18306206,
@@ -30515,6 +32955,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/130.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/130-062fb45f34.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/130-062fb45f34.webp",
     "kaldenavn": null,
     "coords": [
       56.89267972,
@@ -30540,6 +32982,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1496.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1496-94fbd89888.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1496-94fbd89888.webp",
     "kaldenavn": null,
     "coords": [
       55.38540272,
@@ -30565,6 +33009,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/131.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/131-c815a89e65.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/131-c815a89e65.webp",
     "kaldenavn": null,
     "coords": [
       57.16265215,
@@ -30590,6 +33036,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1583.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1583-d3668dc051.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1583-d3668dc051.webp",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -30615,6 +33063,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.8517685,
@@ -30640,6 +33090,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.2597249,
@@ -30665,6 +33117,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.02899493,
@@ -30690,6 +33144,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/343.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/343-bc996f271a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/343-bc996f271a.webp",
     "kaldenavn": null,
     "coords": [
       56.22960774,
@@ -30715,6 +33171,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1252.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1252-e9de58ab91.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1252-e9de58ab91.webp",
     "kaldenavn": null,
     "coords": [
       55.32910688,
@@ -30740,6 +33198,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1683.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1683-53ff7bb7d5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1683-53ff7bb7d5.webp",
     "kaldenavn": null,
     "coords": [
       55.30340399,
@@ -30765,6 +33225,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.17740891,
@@ -30790,6 +33252,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.01443666,
@@ -30815,6 +33279,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/885.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/885-e97b92851e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/885-e97b92851e.webp",
     "kaldenavn": null,
     "coords": [
       55.06940698,
@@ -30840,6 +33306,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/132.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/132-b067ba96f6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/132-b067ba96f6.webp",
     "kaldenavn": null,
     "coords": [
       56.9647583,
@@ -30865,6 +33333,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1257.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1257-40e3f948ad.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1257-40e3f948ad.webp",
     "kaldenavn": null,
     "coords": [
       55.71737311,
@@ -30890,6 +33360,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1258.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1258-010dae2241.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1258-010dae2241.webp",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -30915,6 +33387,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.12208613,
@@ -30940,6 +33414,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/346.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/346-8abf5f2842.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/346-8abf5f2842.webp",
     "kaldenavn": null,
     "coords": [
       56.68763915,
@@ -30965,6 +33441,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/233.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/233-de06abda7d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/233-de06abda7d.webp",
     "kaldenavn": null,
     "coords": [
       56.72425361,
@@ -30990,6 +33468,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.46065157,
@@ -31015,6 +33495,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3351.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3351-4a29cbb3ef.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3351-4a29cbb3ef.webp",
     "kaldenavn": null,
     "coords": [
       55.75986358,
@@ -31040,6 +33522,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3350.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3350-569dfec890.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3350-569dfec890.webp",
     "kaldenavn": null,
     "coords": [
       55.61664144,
@@ -31065,6 +33549,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1660.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1660-681d024359.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1660-681d024359.webp",
     "kaldenavn": null,
     "coords": [
       54.7930621,
@@ -31090,6 +33576,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.2843629,
@@ -31115,6 +33603,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.38830546,
@@ -31140,6 +33630,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.99089664,
@@ -31165,6 +33657,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/886.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/886-577bfce06a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/886-577bfce06a.webp",
     "kaldenavn": null,
     "coords": [
       55.55262453,
@@ -31190,6 +33684,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1498.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1498-f878dc297b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1498-f878dc297b.webp",
     "kaldenavn": null,
     "coords": [
       55.48691259,
@@ -31215,6 +33711,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/656.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/656-5c12608611.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/656-5c12608611.webp",
     "kaldenavn": null,
     "coords": [
       56.25949156,
@@ -31240,6 +33738,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2070.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2070-9a5203ef40.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2070-9a5203ef40.webp",
     "kaldenavn": null,
     "coords": [
       55.44966319,
@@ -31265,6 +33765,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1662.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1662-87740a3ecf.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1662-87740a3ecf.webp",
     "kaldenavn": null,
     "coords": [
       54.79935911,
@@ -31290,6 +33792,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.2209888,
@@ -31315,6 +33819,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/887.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/887-b6b24043de.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/887-b6b24043de.webp",
     "kaldenavn": null,
     "coords": [
       54.9528525,
@@ -31340,6 +33846,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/888.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/888-60bab0d420.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/888-60bab0d420.webp",
     "kaldenavn": null,
     "coords": [
       54.9528525,
@@ -31365,6 +33873,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1580.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1580-cc765fd8f0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1580-cc765fd8f0.webp",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -31390,6 +33900,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.02899493,
@@ -31415,6 +33927,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.24177268,
@@ -31440,6 +33954,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/891.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/891-e9db29347f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/891-e9db29347f.webp",
     "kaldenavn": null,
     "coords": [
       55.55262453,
@@ -31465,6 +33981,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1502.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1502-d0aa01a252.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1502-d0aa01a252.webp",
     "kaldenavn": null,
     "coords": [
       55.48691259,
@@ -31490,6 +34008,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/135.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/135-dcecae7d00.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/135-dcecae7d00.webp",
     "kaldenavn": null,
     "coords": [
       56.84292865,
@@ -31515,6 +34035,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/182.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/182-b4fbef38fa.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/182-b4fbef38fa.webp",
     "kaldenavn": null,
     "coords": [
       56.89267972,
@@ -31540,6 +34062,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.32031014,
@@ -31565,6 +34089,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -31590,6 +34116,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1266.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1266-c08bbe0019.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1266-c08bbe0019.webp",
     "kaldenavn": null,
     "coords": [
       55.65437818,
@@ -31615,6 +34143,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.41551889,
@@ -31640,6 +34170,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.35487274,
@@ -31665,6 +34197,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/350.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/350-bb1cf2e2f3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/350-bb1cf2e2f3.webp",
     "kaldenavn": null,
     "coords": [
       55.89016003,
@@ -31690,6 +34224,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/893.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/893-45aef90f74.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/893-45aef90f74.webp",
     "kaldenavn": null,
     "coords": [
       55.55332885,
@@ -31715,6 +34251,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1503.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1503-72cff11c85.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1503-72cff11c85.webp",
     "kaldenavn": null,
     "coords": [
       55.41754658,
@@ -31740,6 +34278,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/661.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/661-40415c3e13.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/661-40415c3e13.webp",
     "kaldenavn": null,
     "coords": [
       55.57103757,
@@ -31765,6 +34305,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -31790,6 +34332,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -31815,6 +34359,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.15051496,
@@ -31840,6 +34386,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.36051392,
@@ -31865,6 +34413,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3850.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3850-eefe27c6a1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3850-eefe27c6a1.webp",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -31890,6 +34440,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1684.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1684-490c2e8421.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1684-490c2e8421.webp",
     "kaldenavn": null,
     "coords": [
       55.36353136,
@@ -31915,6 +34467,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/137.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/137-c1868a6327.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/137-c1868a6327.webp",
     "kaldenavn": null,
     "coords": [
       56.81450196,
@@ -31940,6 +34494,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.32031014,
@@ -31965,6 +34521,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/663.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/663-7eb8690710.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/663-7eb8690710.webp",
     "kaldenavn": null,
     "coords": [
       56.08668443,
@@ -31990,6 +34548,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.28432949,
@@ -32015,6 +34575,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/351.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/351-36b89cc59b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/351-36b89cc59b.webp",
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -32040,6 +34602,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3747.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3747-36b89cc59b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3747-36b89cc59b.webp",
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -32065,6 +34629,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.2882506,
@@ -32090,6 +34656,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.3103006,
@@ -32115,6 +34683,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/353.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/353-7b523da8f1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/353-7b523da8f1.webp",
     "kaldenavn": null,
     "coords": [
       56.3103006,
@@ -32140,6 +34710,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/140.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/140-66d5b31f00.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/140-66d5b31f00.webp",
     "kaldenavn": null,
     "coords": [
       57.12742277,
@@ -32165,6 +34737,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1505.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1505-40a67c012a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1505-40a67c012a.webp",
     "kaldenavn": null,
     "coords": [
       55.01443666,
@@ -32190,6 +34764,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.86776362,
@@ -32215,6 +34791,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/355.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/355-8a190d176d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/355-8a190d176d.webp",
     "kaldenavn": null,
     "coords": [
       56.62765212,
@@ -32240,6 +34818,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -32265,6 +34845,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/665.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/665-ce3c22d088.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/665-ce3c22d088.webp",
     "kaldenavn": null,
     "coords": [
       55.85744681,
@@ -32290,6 +34872,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.02560338,
@@ -32315,6 +34899,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/356.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/356-57241cf629.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/356-57241cf629.webp",
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -32340,6 +34926,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.18956069,
@@ -32365,6 +34953,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/755.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/755-3721c143f3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/755-3721c143f3.webp",
     "kaldenavn": null,
     "coords": [
       54.90310802,
@@ -32390,6 +34980,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1663.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1663-a534c675e7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1663-a534c675e7.webp",
     "kaldenavn": null,
     "coords": [
       54.7930621,
@@ -32415,6 +35007,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1945.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1945-894f3bd527.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1945-894f3bd527.webp",
     "kaldenavn": null,
     "coords": [
       56.14931257,
@@ -32440,6 +35034,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/667.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/667-2900d7256a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/667-2900d7256a.webp",
     "kaldenavn": null,
     "coords": [
       56.14931257,
@@ -32465,6 +35061,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.71896752,
@@ -32490,6 +35088,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1271.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1271-deddeadc2d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1271-deddeadc2d.webp",
     "kaldenavn": null,
     "coords": [
       56.12775807,
@@ -32515,6 +35115,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.49762699,
@@ -32540,6 +35142,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/895.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/895-502470058c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/895-502470058c.webp",
     "kaldenavn": null,
     "coords": [
       55.46029975,
@@ -32565,6 +35169,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/359.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/359-92800677a7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/359-92800677a7.webp",
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -32590,6 +35196,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.29464717,
@@ -32615,6 +35223,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/896.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/896-b56e417d97.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/896-b56e417d97.webp",
     "kaldenavn": null,
     "coords": [
       55.18306206,
@@ -32640,6 +35250,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1958.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1958-bd0ad9de3e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1958-bd0ad9de3e.webp",
     "kaldenavn": null,
     "coords": [
       55.25979308,
@@ -32665,6 +35277,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1507.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1507-0750f60cc2.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1507-0750f60cc2.webp",
     "kaldenavn": null,
     "coords": [
       55.3195544,
@@ -32690,6 +35304,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/143.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/143-6e9d9ca786.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/143-6e9d9ca786.webp",
     "kaldenavn": null,
     "coords": [
       57.94281241,
@@ -32715,6 +35331,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1858.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1858-1597b87b2b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1858-1597b87b2b.webp",
     "kaldenavn": null,
     "coords": [
       56.15051496,
@@ -32740,6 +35358,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1274.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1274-2976a3b548.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1274-2976a3b548.webp",
     "kaldenavn": null,
     "coords": [
       55.58776321,
@@ -32765,6 +35385,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1508.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1508-c88718073d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1508-c88718073d.webp",
     "kaldenavn": null,
     "coords": [
       54.88518842,
@@ -32790,6 +35412,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/144.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/144-b471e73377.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/144-b471e73377.webp",
     "kaldenavn": null,
     "coords": [
       57.10716869,
@@ -32815,6 +35439,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/178.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/178-a597f4d936.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/178-a597f4d936.webp",
     "kaldenavn": null,
     "coords": [
       57.12742277,
@@ -32840,6 +35466,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.57103757,
@@ -32865,6 +35493,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.08052418,
@@ -32890,6 +35520,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/672.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/672-e6adc122b5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/672-e6adc122b5.webp",
     "kaldenavn": null,
     "coords": [
       56.36287517,
@@ -32915,6 +35547,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.34034984,
@@ -32940,6 +35574,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.28432949,
@@ -32965,6 +35601,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/671.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/671-15a4904a40.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/671-15a4904a40.webp",
     "kaldenavn": null,
     "coords": [
       56.18928869,
@@ -32990,6 +35628,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.18928869,
@@ -33015,6 +35655,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.09377094,
@@ -33040,6 +35682,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1280.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1280-7cf59935ca.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1280-7cf59935ca.webp",
     "kaldenavn": null,
     "coords": [
       55.59602755,
@@ -33065,6 +35709,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1282.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1282-340c08835b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1282-340c08835b.webp",
     "kaldenavn": null,
     "coords": [
       55.73825064,
@@ -33090,6 +35736,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1283.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1283-244ba8fb1a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1283-244ba8fb1a.webp",
     "kaldenavn": null,
     "coords": [
       55.73825064,
@@ -33115,6 +35763,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1510.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1510-5dfeee872a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1510-5dfeee872a.webp",
     "kaldenavn": null,
     "coords": [
       55.01443666,
@@ -33140,6 +35790,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/363.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/363-6688005aab.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/363-6688005aab.webp",
     "kaldenavn": null,
     "coords": [
       56.34794414,
@@ -33165,6 +35817,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/146.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/146-8dc3c00d9e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/146-8dc3c00d9e.webp",
     "kaldenavn": null,
     "coords": [
       57.20308117,
@@ -33190,6 +35844,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1284.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1284-90bff5165f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1284-90bff5165f.webp",
     "kaldenavn": null,
     "coords": [
       55.61818163,
@@ -33215,6 +35871,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.61818163,
@@ -33240,6 +35898,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.70601705,
@@ -33265,6 +35925,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1285.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1285-2681ad0cb5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1285-2681ad0cb5.webp",
     "kaldenavn": null,
     "coords": [
       55.70601705,
@@ -33290,6 +35952,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/897.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/897-db5d3fed03.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/897-db5d3fed03.webp",
     "kaldenavn": null,
     "coords": [
       54.95248429,
@@ -33315,6 +35979,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/675.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/675-79f3e0ad48.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/675-79f3e0ad48.webp",
     "kaldenavn": null,
     "coords": [
       55.87483844,
@@ -33340,6 +36006,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1286.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1286-9b1463f0e5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1286-9b1463f0e5.webp",
     "kaldenavn": null,
     "coords": [
       55.79609961,
@@ -33365,6 +36033,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1766.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1766-06fd2e09e0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1766-06fd2e09e0.webp",
     "kaldenavn": null,
     "coords": [
       55.63352245,
@@ -33390,6 +36060,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/136.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/136-07e1fd4156.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/136-07e1fd4156.webp",
     "kaldenavn": null,
     "coords": [
       57.37825187,
@@ -33415,6 +36087,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1512.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1512-dddde49620.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1512-dddde49620.webp",
     "kaldenavn": null,
     "coords": [
       55.23864739,
@@ -33440,6 +36114,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1513.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1513-9d61fe8472.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1513-9d61fe8472.webp",
     "kaldenavn": null,
     "coords": [
       55.01443666,
@@ -33465,6 +36141,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1783.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1783-bce16fce1b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1783-bce16fce1b.webp",
     "kaldenavn": null,
     "coords": [
       55.6579409,
@@ -33490,6 +36168,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1514.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1514-d2143bf8be.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1514-d2143bf8be.webp",
     "kaldenavn": null,
     "coords": [
       55.38883518,
@@ -33515,6 +36195,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3892.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3892-e8e24a9ca3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3892-e8e24a9ca3.webp",
     "kaldenavn": null,
     "coords": [
       55.61730235,
@@ -33540,6 +36222,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -33565,6 +36249,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.30328793,
@@ -33590,6 +36276,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -33615,6 +36303,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/364.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/364-f24286de74.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/364-f24286de74.webp",
     "kaldenavn": null,
     "coords": [
       55.93341595,
@@ -33640,6 +36330,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/365.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/365-fa31250d97.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/365-fa31250d97.webp",
     "kaldenavn": null,
     "coords": [
       56.59071095,
@@ -33665,6 +36357,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.8358153,
@@ -33690,6 +36384,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/147.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/147-2416e292fc.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/147-2416e292fc.webp",
     "kaldenavn": null,
     "coords": [
       56.96384115,
@@ -33715,6 +36411,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.3800683,
@@ -33740,6 +36438,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.2843629,
@@ -33765,6 +36465,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1290.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1290-bae712b1f5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1290-bae712b1f5.webp",
     "kaldenavn": null,
     "coords": [
       55.61818163,
@@ -33790,6 +36492,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.09903701,
@@ -33815,6 +36519,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.2436827,
@@ -33840,6 +36546,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.7930621,
@@ -33865,6 +36573,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3840.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3840-e73cec965e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3840-e73cec965e.webp",
     "kaldenavn": null,
     "coords": [
       55.34939755,
@@ -33890,6 +36600,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.63352245,
@@ -33915,6 +36627,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1291.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1291-6d2698e698.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1291-6d2698e698.webp",
     "kaldenavn": null,
     "coords": [
       55.85027208,
@@ -33940,6 +36654,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/150.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/150-b8f4ed0589.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/150-b8f4ed0589.webp",
     "kaldenavn": null,
     "coords": [
       57.11542161,
@@ -33965,6 +36681,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1587.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1587-882863c2a9.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1587-882863c2a9.webp",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -33990,6 +36708,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1292.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1292-bbbc226e29.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1292-bbbc226e29.webp",
     "kaldenavn": null,
     "coords": [
       55.63922355,
@@ -34015,6 +36735,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.19504272,
@@ -34040,6 +36762,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/190.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/190-e66e085a7d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/190-e66e085a7d.webp",
     "kaldenavn": null,
     "coords": [
       56.6528756,
@@ -34065,6 +36789,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/677.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/677-34276f9704.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/677-34276f9704.webp",
     "kaldenavn": null,
     "coords": [
       55.41366579,
@@ -34090,6 +36816,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.49762699,
@@ -34115,6 +36843,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.71507833,
@@ -34140,6 +36870,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1588.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1588-eabbd4392d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1588-eabbd4392d.webp",
     "kaldenavn": null,
     "coords": [
       55.6883311,
@@ -34165,6 +36897,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.00467892,
@@ -34190,6 +36924,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/899.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/899-f88913bf89.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/899-f88913bf89.webp",
     "kaldenavn": null,
     "coords": [
       55.65607154,
@@ -34215,6 +36951,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/918.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/918-ce8dff2f88.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/918-ce8dff2f88.webp",
     "kaldenavn": null,
     "coords": [
       55.02899493,
@@ -34240,6 +36978,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/666.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/666-b751574203.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/666-b751574203.webp",
     "kaldenavn": null,
     "coords": [
       56.15788265,
@@ -34265,6 +37005,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/151.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/151-85a3936bcd.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/151-85a3936bcd.webp",
     "kaldenavn": null,
     "coords": [
       56.77688954,
@@ -34290,6 +37032,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.3042395,
@@ -34315,6 +37059,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.2436827,
@@ -34340,6 +37086,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1518.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1518-a14dcec10e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1518-a14dcec10e.webp",
     "kaldenavn": null,
     "coords": [
       55.46255574,
@@ -34365,6 +37113,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.94881207,
@@ -34390,6 +37140,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1298.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1298-53bb510e36.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1298-53bb510e36.webp",
     "kaldenavn": null,
     "coords": [
       56.09457775,
@@ -34415,6 +37167,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.4784284,
@@ -34440,6 +37194,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/902.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/902-3db30fad3b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/902-3db30fad3b.webp",
     "kaldenavn": null,
     "coords": [
       55.4784284,
@@ -34465,6 +37221,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/154.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/154-b15b930162.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/154-b15b930162.webp",
     "kaldenavn": null,
     "coords": [
       57.05171431,
@@ -34490,6 +37248,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/431.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/431-7a611d5d5f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/431-7a611d5d5f.webp",
     "kaldenavn": null,
     "coords": [
       56.18719668,
@@ -34515,6 +37275,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/681.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/681-d8f26a9b73.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/681-d8f26a9b73.webp",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -34540,6 +37302,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -34565,6 +37329,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/685.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/685-6dcb4545c1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/685-6dcb4545c1.webp",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -34590,6 +37356,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.7220274,
@@ -34615,6 +37383,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1941.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1941-f7f47da0aa.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1941-f7f47da0aa.webp",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -34640,6 +37410,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/686.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/686-257522a661.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/686-257522a661.webp",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -34665,6 +37437,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.72499013,
@@ -34690,6 +37464,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/369.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/369-b3a51b5486.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/369-b3a51b5486.webp",
     "kaldenavn": null,
     "coords": [
       56.49762699,
@@ -34715,6 +37491,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.46065157,
@@ -34740,6 +37518,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1301.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1301-b034e3cc5e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1301-b034e3cc5e.webp",
     "kaldenavn": null,
     "coords": [
       55.75497247,
@@ -34765,6 +37545,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.3800683,
@@ -34790,6 +37572,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/371.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/371-0e59676172.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/371-0e59676172.webp",
     "kaldenavn": null,
     "coords": [
       56.20098497,
@@ -34815,6 +37599,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.35236537,
@@ -34840,6 +37626,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1303.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1303-81c7d01a8a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1303-81c7d01a8a.webp",
     "kaldenavn": null,
     "coords": [
       55.36414208,
@@ -34865,6 +37653,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3733.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3733-c9f6accef6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3733-c9f6accef6.webp",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -34890,6 +37680,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.28432949,
@@ -34915,6 +37707,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1519.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1519-6c5461c9d4.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1519-6c5461c9d4.webp",
     "kaldenavn": null,
     "coords": [
       55.3195544,
@@ -34940,6 +37734,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1994.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1994-bfb5830b03.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1994-bfb5830b03.webp",
     "kaldenavn": null,
     "coords": [
       55.96885636,
@@ -34965,6 +37761,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/155.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/155-35a2acd97f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/155-35a2acd97f.webp",
     "kaldenavn": null,
     "coords": [
       57.12732919,
@@ -34990,6 +37788,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/156.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/156-5e196d9671.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/156-5e196d9671.webp",
     "kaldenavn": null,
     "coords": [
       57.09538719,
@@ -35015,6 +37815,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/181.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/181-dc7e548a20.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/181-dc7e548a20.webp",
     "kaldenavn": null,
     "coords": [
       57.28432949,
@@ -35040,6 +37842,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.77310507,
@@ -35065,6 +37869,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.55332885,
@@ -35090,6 +37896,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.863378,
@@ -35115,6 +37923,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.68208169,
@@ -35140,6 +37950,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.85744681,
@@ -35165,6 +37977,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.02202911,
@@ -35190,6 +38004,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.18887848,
@@ -35215,6 +38031,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.43053197,
@@ -35240,6 +38058,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3947.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3947-c7473c5ade.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3947-c7473c5ade.webp",
     "kaldenavn": null,
     "coords": [
       55.51887316,
@@ -35265,6 +38085,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.00889353,
@@ -35290,6 +38112,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.43053197,
@@ -35315,6 +38139,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -35340,6 +38166,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -35365,6 +38193,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/376.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/376-a9971c086b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/376-a9971c086b.webp",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -35390,6 +38220,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1702.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1702-0f8422526c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1702-0f8422526c.webp",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -35415,6 +38247,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/378.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/378-fb3ff42060.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/378-fb3ff42060.webp",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -35440,6 +38274,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/691.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/691-e9e250466b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/691-e9e250466b.webp",
     "kaldenavn": null,
     "coords": [
       56.12635244,
@@ -35465,6 +38301,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/379.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/379-9d3af26949.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/379-9d3af26949.webp",
     "kaldenavn": null,
     "coords": [
       56.08052418,
@@ -35490,6 +38328,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/270.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/270-29c1d70a9c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/270-29c1d70a9c.webp",
     "kaldenavn": null,
     "coords": [
       56.76132134,
@@ -35515,6 +38355,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1591.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1591-cea72c90be.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1591-cea72c90be.webp",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -35540,6 +38382,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1685.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1685-a2d07d6409.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1685-a2d07d6409.webp",
     "kaldenavn": null,
     "coords": [
       54.98495945,
@@ -35565,6 +38409,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/380.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/380-877976ffb6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/380-877976ffb6.webp",
     "kaldenavn": null,
     "coords": [
       56.18215286,
@@ -35590,6 +38436,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.18215286,
@@ -35615,6 +38463,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.24177268,
@@ -35640,6 +38490,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/159.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/159-b2b3ce9748.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/159-b2b3ce9748.webp",
     "kaldenavn": null,
     "coords": [
       56.95819912,
@@ -35665,6 +38517,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/382.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/382-46006bd053.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/382-46006bd053.webp",
     "kaldenavn": null,
     "coords": [
       56.2882506,
@@ -35690,6 +38544,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/383.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/383-9d0dfbcfec.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/383-9d0dfbcfec.webp",
     "kaldenavn": null,
     "coords": [
       56.47769058,
@@ -35715,6 +38571,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/692.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/692-e9de5f83b3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/692-e9de5f83b3.webp",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -35740,6 +38598,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/384.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/384-757a55d44d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/384-757a55d44d.webp",
     "kaldenavn": null,
     "coords": [
       56.25194401,
@@ -35765,6 +38625,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1523.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1523-f15122060f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1523-f15122060f.webp",
     "kaldenavn": null,
     "coords": [
       55.35301317,
@@ -35790,6 +38652,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1310.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1310-d0f687941b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1310-d0f687941b.webp",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -35815,6 +38679,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1311.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1311-a9cf231cad.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1311-a9cf231cad.webp",
     "kaldenavn": null,
     "coords": [
       55.66270448,
@@ -35840,6 +38706,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/693.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/693-68e17ebcda.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/693-68e17ebcda.webp",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -35865,6 +38733,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/694.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/694-acefbb9095.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/694-acefbb9095.webp",
     "kaldenavn": null,
     "coords": [
       56.02388208,
@@ -35890,6 +38760,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1313.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1313-aaccc2d12a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1313-aaccc2d12a.webp",
     "kaldenavn": null,
     "coords": [
       55.78962271,
@@ -35915,6 +38787,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/695.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/695-850208719a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/695-850208719a.webp",
     "kaldenavn": null,
     "coords": [
       56.29464717,
@@ -35940,6 +38814,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.77688954,
@@ -35965,6 +38841,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/908.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/908-a699e3076f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/908-a699e3076f.webp",
     "kaldenavn": null,
     "coords": [
       55.07311357,
@@ -35990,6 +38868,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1524.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1524-1d0a7eee02.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1524-1d0a7eee02.webp",
     "kaldenavn": null,
     "coords": [
       55.39228422,
@@ -36015,6 +38895,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.38233116,
@@ -36040,6 +38922,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.77688954,
@@ -36065,6 +38949,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1946.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1946-19ba7920fc.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1946-19ba7920fc.webp",
     "kaldenavn": null,
     "coords": [
       56.49705855,
@@ -36090,6 +38976,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/696.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/696-9fd0db4954.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/696-9fd0db4954.webp",
     "kaldenavn": null,
     "coords": [
       56.49705855,
@@ -36115,6 +39003,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/162.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/162-3e4538c6a7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/162-3e4538c6a7.webp",
     "kaldenavn": null,
     "coords": [
       57.09538719,
@@ -36140,6 +39030,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.02388208,
@@ -36165,6 +39057,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/163.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/163-7c82b3df60.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/163-7c82b3df60.webp",
     "kaldenavn": null,
     "coords": [
       57.2843629,
@@ -36190,6 +39084,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/910.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/910-be0a695bce.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/910-be0a695bce.webp",
     "kaldenavn": null,
     "coords": [
       55.2436827,
@@ -36215,6 +39111,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2013.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2013-6ad13d5702.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2013-6ad13d5702.webp",
     "kaldenavn": null,
     "coords": [
       55.2436827,
@@ -36240,6 +39138,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/699.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/699-8bf6c8efec.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/699-8bf6c8efec.webp",
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -36265,6 +39165,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1315.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1315-187be9308d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1315-187be9308d.webp",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -36290,6 +39192,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/911.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/911-51234a5ce3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/911-51234a5ce3.webp",
     "kaldenavn": null,
     "coords": [
       55.63499139,
@@ -36315,6 +39219,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1314.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1314-c4d9a06c93.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1314-c4d9a06c93.webp",
     "kaldenavn": null,
     "coords": [
       55.02464842,
@@ -36340,6 +39246,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/386.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/386-a9cc40ea8d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/386-a9cc40ea8d.webp",
     "kaldenavn": null,
     "coords": [
       56.08052418,
@@ -36365,6 +39273,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/700.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/700-cad113b2b0.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/700-cad113b2b0.webp",
     "kaldenavn": null,
     "coords": [
       56.41476356,
@@ -36390,6 +39300,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.2597249,
@@ -36415,6 +39327,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.46317549,
@@ -36440,6 +39354,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.69215915,
@@ -36465,6 +39381,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.37190853,
@@ -36490,6 +39408,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/165.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/165-6c8f574305.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/165-6c8f574305.webp",
     "kaldenavn": null,
     "coords": [
       57.37190853,
@@ -36515,6 +39435,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1667.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1667-4b8173417c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1667-4b8173417c.webp",
     "kaldenavn": null,
     "coords": [
       54.66359732,
@@ -36540,6 +39462,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1317.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1317-5a160a8e53.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1317-5a160a8e53.webp",
     "kaldenavn": null,
     "coords": [
       55.77912974,
@@ -36565,6 +39489,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/703.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/703-c22a88c487.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/703-c22a88c487.webp",
     "kaldenavn": null,
     "coords": [
       56.41476356,
@@ -36590,6 +39516,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/149.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/149-05038dd606.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/149-05038dd606.webp",
     "kaldenavn": null,
     "coords": [
       56.93195612,
@@ -36615,6 +39543,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.02388208,
@@ -36640,6 +39570,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/711.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/711-f35bed81d1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/711-f35bed81d1.webp",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -36665,6 +39597,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.41366579,
@@ -36690,6 +39624,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1596.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1596-946abedabf.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1596-946abedabf.webp",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -36715,6 +39651,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.10716869,
@@ -36740,6 +39678,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.79347704,
@@ -36765,6 +39705,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/914.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/914-8069b77302.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/914-8069b77302.webp",
     "kaldenavn": null,
     "coords": [
       55.79347704,
@@ -36790,6 +39732,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/706.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/706-fec8c89d7c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/706-fec8c89d7c.webp",
     "kaldenavn": null,
     "coords": [
       55.87483844,
@@ -36815,6 +39759,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1321.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1321-d99097da01.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1321-d99097da01.webp",
     "kaldenavn": null,
     "coords": [
       55.91156813,
@@ -36840,6 +39786,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.81385497,
@@ -36865,6 +39813,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/389.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/389-6c2cc25784.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/389-6c2cc25784.webp",
     "kaldenavn": null,
     "coords": [
       56.20098497,
@@ -36890,6 +39840,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1322.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1322-1d207fb2c5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1322-1d207fb2c5.webp",
     "kaldenavn": null,
     "coords": [
       55.78991195,
@@ -36915,6 +39867,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.12742277,
@@ -36940,6 +39894,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3357.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3357-db05a22891.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3357-db05a22891.webp",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -36965,6 +39921,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.21518023,
@@ -36990,6 +39948,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.02464842,
@@ -37015,6 +39975,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1326.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1326-6a7fa6f43b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1326-6a7fa6f43b.webp",
     "kaldenavn": null,
     "coords": [
       55.22423719,
@@ -37040,6 +40002,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.40887345,
@@ -37065,6 +40029,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/391.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/391-389d876ecd.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/391-389d876ecd.webp",
     "kaldenavn": null,
     "coords": [
       56.59677993,
@@ -37090,6 +40056,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/708.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/708-5547235e82.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/708-5547235e82.webp",
     "kaldenavn": null,
     "coords": [
       56.53413791,
@@ -37115,6 +40083,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.24177268,
@@ -37140,6 +40110,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/709.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/709-6810f104eb.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/709-6810f104eb.webp",
     "kaldenavn": null,
     "coords": [
       55.96885636,
@@ -37165,6 +40137,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/171.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/171-c30f31a7ef.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/171-c30f31a7ef.webp",
     "kaldenavn": null,
     "coords": [
       57.28432949,
@@ -37190,6 +40164,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.89267972,
@@ -37215,6 +40191,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.06237954,
@@ -37240,6 +40218,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/916.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/916-e6c1fb816f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/916-e6c1fb816f.webp",
     "kaldenavn": null,
     "coords": [
       55.38472069,
@@ -37265,6 +40245,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/712.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/712-e53701510c.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/712-e53701510c.webp",
     "kaldenavn": null,
     "coords": [
       55.86467774,
@@ -37290,6 +40272,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.61664144,
@@ -37315,6 +40299,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/174.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/174-89cb7fb28a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/174-89cb7fb28a.webp",
     "kaldenavn": null,
     "coords": [
       57.05425152,
@@ -37340,6 +40326,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1668.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1668-672a411a33.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1668-672a411a33.webp",
     "kaldenavn": null,
     "coords": [
       54.68554952,
@@ -37365,6 +40353,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/921.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/921-b7677edc8a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/921-b7677edc8a.webp",
     "kaldenavn": null,
     "coords": [
       55.31137673,
@@ -37390,6 +40380,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1595.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1595-4a57eb69d6.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1595-4a57eb69d6.webp",
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -37415,6 +40407,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.18887848,
@@ -37440,6 +40434,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.51191781,
@@ -37465,6 +40461,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1687.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1687-080996346e.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1687-080996346e.webp",
     "kaldenavn": null,
     "coords": [
       55.1396331,
@@ -37490,6 +40488,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/176.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/176-e2563564bd.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/176-e2563564bd.webp",
     "kaldenavn": null,
     "coords": [
       57.34034984,
@@ -37515,6 +40515,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1328.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1328-0ffc4bd146.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1328-0ffc4bd146.webp",
     "kaldenavn": null,
     "coords": [
       54.9362949,
@@ -37540,6 +40542,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       54.81506841,
@@ -37565,6 +40569,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2-97e39088e1.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2-97e39088e1.webp",
     "kaldenavn": null,
     "coords": [
       57.05425152,
@@ -37590,6 +40596,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3698.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3698-ddc7b0e85a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3698-ddc7b0e85a.webp",
     "kaldenavn": null,
     "coords": [
       57.05425152,
@@ -37615,6 +40623,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/744.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/744-ad1da54cad.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/744-ad1da54cad.webp",
     "kaldenavn": null,
     "coords": [
       55.02899493,
@@ -37640,6 +40650,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1-5a65e81d14.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1-5a65e81d14.webp",
     "kaldenavn": null,
     "coords": [
       57.16282327,
@@ -37665,6 +40677,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/419.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/419-e1408e0a16.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/419-e1408e0a16.webp",
     "kaldenavn": null,
     "coords": [
       56.15196052,
@@ -37690,6 +40704,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.35508218,
@@ -37715,6 +40731,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.89016003,
@@ -37740,6 +40758,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.61664144,
@@ -37765,6 +40785,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.75754187,
@@ -37790,6 +40812,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1688.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1688-11327d0a8d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1688-11327d0a8d.webp",
     "kaldenavn": null,
     "coords": [
       54.6920138,
@@ -37815,6 +40839,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/4.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/4-d78e542e0d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/4-d78e542e0d.webp",
     "kaldenavn": null,
     "coords": [
       57.05171431,
@@ -37840,6 +40866,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.08119416,
@@ -37865,6 +40893,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3139.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3139-f75e0bb2da.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3139-f75e0bb2da.webp",
     "kaldenavn": null,
     "coords": [
       56.89267972,
@@ -37890,6 +40920,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/6.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/6-33e13b788d.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/6-33e13b788d.webp",
     "kaldenavn": null,
     "coords": [
       57.05171431,
@@ -37915,6 +40947,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.05425152,
@@ -37940,6 +40974,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3417.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3417-e64655b103.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3417-e64655b103.webp",
     "kaldenavn": null,
     "coords": [
       57.05171431,
@@ -37965,6 +41001,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/5.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/5-361d1242a7.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/5-361d1242a7.webp",
     "kaldenavn": null,
     "coords": [
       57.05171431,
@@ -37990,6 +41028,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.05425152,
@@ -38015,6 +41055,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       57.60572774,
@@ -38040,6 +41082,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.87483844,
@@ -38065,6 +41109,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/230.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/230-f2968123c5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/230-f2968123c5.webp",
     "kaldenavn": null,
     "coords": [
       56.69297871,
@@ -38090,6 +41136,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1329.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1329-46acef9c8f.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1329-46acef9c8f.webp",
     "kaldenavn": null,
     "coords": [
       55.92123871,
@@ -38115,6 +41163,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       56.46401254,
@@ -38140,6 +41190,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1330.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1330-5c4f72e695.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1330-5c4f72e695.webp",
     "kaldenavn": null,
     "coords": [
       55.70601705,
@@ -38165,6 +41217,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/428.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/428-ded1754ae9.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/428-ded1754ae9.webp",
     "kaldenavn": null,
     "coords": [
       56.15051496,
@@ -38190,6 +41244,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3818.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3818-2a940d15bf.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3818-2a940d15bf.webp",
     "kaldenavn": null,
     "coords": [
       56.12635244,
@@ -38215,6 +41271,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/733.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/733-c447b11cde.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/733-c447b11cde.webp",
     "kaldenavn": null,
     "coords": [
       56.26151082,
@@ -38240,6 +41298,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/2093.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/2093-69c8d3d679.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/2093-69c8d3d679.webp",
     "kaldenavn": null,
     "coords": [
       56.02388208,
@@ -38265,6 +41325,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/425.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/425-fb65b1c9c5.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/425-fb65b1c9c5.webp",
     "kaldenavn": null,
     "coords": [
       56.20167527,
@@ -38290,6 +41352,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/3729.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/3729-806e92cb6b.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/3729-806e92cb6b.webp",
     "kaldenavn": null,
     "coords": [
       56.20167527,
@@ -38315,6 +41379,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/429.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/429-e4eb06332a.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/429-e4eb06332a.webp",
     "kaldenavn": null,
     "coords": [
       56.17162148,
@@ -38340,6 +41406,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.57689258,
@@ -38365,6 +41433,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/9.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/9-a425410079.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/9-a425410079.webp",
     "kaldenavn": null,
     "coords": [
       56.80003403,
@@ -38390,6 +41460,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1689.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1689-3db16765ea.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1689-3db16765ea.webp",
     "kaldenavn": null,
     "coords": [
       54.98495945,
@@ -38415,6 +41487,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1528.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1528-9df2bae664.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1528-9df2bae664.webp",
     "kaldenavn": null,
     "coords": [
       55.2906707,
@@ -38440,6 +41514,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/1354.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/1354-9983a9ae37.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/1354-9983a9ae37.webp",
     "kaldenavn": null,
     "coords": [
       55.37369367,
@@ -38465,6 +41541,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": "assets/logos/432.png",
+    "logoUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/full/432-66f496b7a3.png",
+    "logoThumbUrl": "https://kcujtswmucgpgavgoglc.supabase.co/storage/v1/object/public/club-logos/thumb/432-66f496b7a3.webp",
     "kaldenavn": null,
     "coords": [
       56.43069147,
@@ -38490,6 +41568,8 @@ export const clubs = [
     "kitAwayShorts": null,
     "kitAwaySocks": null,
     "logo": null,
+    "logoUrl": null,
+    "logoThumbUrl": null,
     "kaldenavn": null,
     "coords": [
       55.42123207,
@@ -38500,7 +41580,7 @@ export const clubs = [
 
 export function getClub(name) {
   return clubs.find(c => c.name === name)
-    || { name, city: '', postal: '', region: '', dbuId: null, primaryColor: null, secondaryColor: null, kitStyle: null, logo: null };
+    || { name, city: '', postal: '', region: '', dbuId: null, primaryColor: null, secondaryColor: null, kitStyle: null, logo: null, logoUrl: null, logoThumbUrl: null };
 }
 
 export function clubInitials(name) {
