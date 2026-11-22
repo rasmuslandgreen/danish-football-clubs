@@ -50,7 +50,8 @@
     "logos:prep": "node scripts/logos/prepLogo.js",
     "logos:pipeline": "npm run logos:queue && npm run logos:collect && npm run logos:judge && npm run logos:prep",
     "logos:status": "node scripts/logos/placement.js status",
-    "logos:export": "node scripts/logos/exportFromFigma.js && npm run logos"
+    "logos:export": "node scripts/logos/exportFromFigma.js && npm run logos",
+    "warm-cdn": "node scripts/warmCdn.js"
   },
   "dependencies": {
     "google-play-scraper": "^10.1.3"

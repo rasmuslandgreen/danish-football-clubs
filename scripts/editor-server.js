@@ -1891,6 +1891,13 @@ const server = http.createServer((req, res) => {
         cwd:   ROOT,
       },
       {
+        // Cache every file on jsDelivr before the apps switch version, so the
+        // first visitors don't hit cold URLs (and fail if the tag is too large).
+        label: 'Varm CDN op (alle logoer)',
+        cmd:   'node scripts/warmCdn.js',
+        cwd:   ROOT,
+      },
+      {
         label: 'Opdater CDN-version i opstillingen',
         cmd:   `node -e "const fs=require('fs'),v=require('${PKG_PATH}').version,f='${COMBOBOX_PATH}';let c=fs.readFileSync(f,'utf8');const m=c.match(/const _CLUBS_CDN\\s*=\\s*'(https:[^']+)'/);if(m)c=c.replace(/const _CLUBS_CDN_PREV\\s*=\\s*'https:[^']+'/, \\"const _CLUBS_CDN_PREV = '\\"+m[1]+\\"'\\");c=c.replace(/danish-football-clubs@v[\\d.]+/,'danish-football-clubs@v'+v);fs.writeFileSync(f,c);console.log('CDN bumped to v'+v)"`,
         cwd:   ROOT,

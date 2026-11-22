@@ -21,7 +21,12 @@ you review them in Figma, and a script exports the approved frames.
 | 6 | Ask Claude: *"place the next 30 logos in Figma"* | Uses `node scripts/logos/placement.js next 30`, fills the frames via the Figma MCP, and marks them `needs-review` |
 | 7 | Review in Figma | Adjust as you like. Tell Claude which ones are wrong, or *"approve all"* (runs `placement.js approve all`) |
 | 8 | `npm run logos:export` | Exports approved frames from Figma (REST API) → `assets/logos/{dbuId}.png` at 500×500, compressed, then runs `npm run logos` |
-| 9 | Release via the Klub Editor "Udgiv" button, or the steps below | |
+| 9 | Release via the Klub Editor "Udgiv" button, or the steps below | Udgiv also runs `npm run warm-cdn` before bumping the apps |
+
+**jsDelivr limit:** jsDelivr refuses to serve a GitHub tag bigger than 50 MB, and it fails intermittently,
+so random logos go missing. Keep large working folders such as `assets/logos-raw/` and
+`assets/logo-candidates/` out of git; both are in `.gitignore`. `npm run warm-cdn` fails loudly
+if the CDN won't serve something.
 
 Steps 1–5 together: `npm run logos:pipeline`. All scripts accept `ONLY_IDS=1,2,3`. `logos:collect` and `logos:judge` also accept `LIMIT=N`.
 Check progress with `npm run logos:status`.
