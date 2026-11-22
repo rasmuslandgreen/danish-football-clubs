@@ -217,7 +217,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/651.png",
     "kaldenavn": null,
     "coords": [
       56.44956016,
@@ -292,7 +292,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/747.png",
     "kaldenavn": null,
     "coords": [
       55.60852142,
@@ -317,7 +317,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/748.png",
     "kaldenavn": null,
     "coords": [
       55.12832485,
@@ -567,7 +567,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/949.png",
     "kaldenavn": null,
     "coords": [
       55.6869516,
@@ -592,7 +592,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/227.png",
     "kaldenavn": null,
     "coords": [
       56.32799021,
@@ -692,7 +692,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1356.png",
     "kaldenavn": null,
     "coords": [
       55.24506199,
@@ -792,7 +792,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/436.png",
     "kaldenavn": null,
     "coords": [
       56.49705855,
@@ -867,7 +867,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/750.png",
     "kaldenavn": null,
     "coords": [
       55.65607154,
@@ -892,7 +892,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/951.png",
     "kaldenavn": null,
     "coords": [
       55.40880423,
@@ -1092,7 +1092,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/955.png",
     "kaldenavn": null,
     "coords": [
       56.01099572,
@@ -1192,7 +1192,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/14.png",
     "kaldenavn": null,
     "coords": [
       56.76264148,
@@ -1242,7 +1242,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/199.png",
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -1267,7 +1267,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3389.png",
     "kaldenavn": null,
     "coords": [
       56.12635244,
@@ -1292,7 +1292,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3423.png",
     "kaldenavn": null,
     "coords": [
       55.18306206,
@@ -1367,7 +1367,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/423.png",
     "kaldenavn": null,
     "coords": [
       56.15051496,
@@ -1392,7 +1392,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/754.png",
     "kaldenavn": null,
     "coords": [
       55.4784284,
@@ -1417,7 +1417,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/956.png",
     "kaldenavn": null,
     "coords": [
       55.81190532,
@@ -1442,7 +1442,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1358.png",
     "kaldenavn": null,
     "coords": [
       55.29165859,
@@ -1517,7 +1517,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/16.png",
     "kaldenavn": null,
     "coords": [
       57.13326579,
@@ -1542,7 +1542,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/200.png",
     "kaldenavn": null,
     "coords": [
       56.2699576,
@@ -1567,7 +1567,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/443.png",
     "kaldenavn": null,
     "coords": [
       56.42921057,
@@ -1642,7 +1642,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/959.png",
     "kaldenavn": null,
     "coords": [
       55.58934868,
@@ -1692,7 +1692,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1364.png",
     "kaldenavn": null,
     "coords": [
       55.42123207,
@@ -1717,7 +1717,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1637.png",
     "kaldenavn": null,
     "coords": [
       54.70210497,
@@ -1842,7 +1842,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1366.png",
     "kaldenavn": null,
     "coords": [
       55.34929575,
@@ -2017,7 +2017,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1202.png",
     "kaldenavn": null,
     "coords": [
       55.68182922,
@@ -2042,7 +2042,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1312.png",
     "kaldenavn": null,
     "coords": [
       55.78962271,
@@ -2067,7 +2067,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1654.png",
     "kaldenavn": null,
     "coords": [
       54.8143415,
@@ -2092,7 +2092,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1365.png",
     "kaldenavn": null,
     "coords": [
       55.37859541,
@@ -2117,7 +2117,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3.png",
     "kaldenavn": null,
     "coords": [
       56.9991663,
@@ -2142,7 +2142,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/961.png",
     "kaldenavn": null,
     "coords": [
       55.76191781,
@@ -2167,7 +2167,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/20.png",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -2217,7 +2217,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3921.png",
     "kaldenavn": null,
     "coords": [
       55.73668449,
@@ -2442,7 +2442,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/963.png",
     "kaldenavn": null,
     "coords": [
       55.43053197,
@@ -2467,7 +2467,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/758.png",
     "kaldenavn": null,
     "coords": [
       55.19588025,
@@ -2492,7 +2492,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1144.png",
     "kaldenavn": null,
     "coords": [
       55.73668449,
@@ -2517,7 +2517,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1924.png",
     "kaldenavn": null,
     "coords": [
       55.76234096,
@@ -2617,7 +2617,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/23.png",
     "kaldenavn": null,
     "coords": [
       57.57139797,
@@ -2642,7 +2642,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/24.png",
     "kaldenavn": null,
     "coords": [
       57.16282327,
@@ -2667,7 +2667,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1361.png",
     "kaldenavn": null,
     "coords": [
       55.36672658,
@@ -2717,7 +2717,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1542.png",
     "kaldenavn": null,
     "coords": [
       55.71256101,
@@ -2742,7 +2742,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/26.png",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -2792,7 +2792,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/451.png",
     "kaldenavn": null,
     "coords": [
       56.48050883,
@@ -2842,7 +2842,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/657.png",
     "kaldenavn": null,
     "coords": [
       55.44548525,
@@ -2917,7 +2917,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1237.png",
     "kaldenavn": null,
     "coords": [
       55.5150734,
@@ -2967,7 +2967,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3742.png",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -2992,7 +2992,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1024.png",
     "kaldenavn": null,
     "coords": [
       55.58934868,
@@ -3017,7 +3017,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1470.png",
     "kaldenavn": null,
     "coords": [
       55.403021,
@@ -3042,7 +3042,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1493.png",
     "kaldenavn": null,
     "coords": [
       55.01443666,
@@ -3217,7 +3217,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/968.png",
     "kaldenavn": null,
     "coords": [
       56.22745639,
@@ -3317,7 +3317,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/970.png",
     "kaldenavn": null,
     "coords": [
       55.3061459,
@@ -3392,7 +3392,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1363.png",
     "kaldenavn": null,
     "coords": [
       55.403021,
@@ -3417,7 +3417,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1533.png",
     "kaldenavn": null,
     "coords": [
       55.73442051,
@@ -3467,7 +3467,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1536.png",
     "kaldenavn": null,
     "coords": [
       55.71256101,
@@ -3542,7 +3542,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/739.png",
     "kaldenavn": null,
     "coords": [
       56.17162148,
@@ -3567,7 +3567,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1603.png",
     "kaldenavn": null,
     "coords": [
       55.6940569,
@@ -3717,7 +3717,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1559.png",
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -3742,7 +3742,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1560.png",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -3817,7 +3817,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1572.png",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -3842,7 +3842,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1573.png",
     "kaldenavn": null,
     "coords": [
       55.65941452,
@@ -3942,7 +3942,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1584.png",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -4017,7 +4017,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/863.png",
     "kaldenavn": null,
     "coords": [
       55.63843566,
@@ -4042,7 +4042,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1592.png",
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -4067,7 +4067,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1593.png",
     "kaldenavn": null,
     "coords": [
       55.67945641,
@@ -4092,7 +4092,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1594.png",
     "kaldenavn": null,
     "coords": [
       55.6940569,
@@ -4142,7 +4142,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/206.png",
     "kaldenavn": null,
     "coords": [
       56.15035869,
@@ -4192,7 +4192,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/207.png",
     "kaldenavn": null,
     "coords": [
       55.85259869,
@@ -4267,7 +4267,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/971.png",
     "kaldenavn": null,
     "coords": [
       56.00467892,
@@ -4292,7 +4292,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/209.png",
     "kaldenavn": null,
     "coords": [
       56.59071095,
@@ -4342,7 +4342,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/763.png",
     "kaldenavn": null,
     "coords": [
       54.8687306,
@@ -4417,7 +4417,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/456.png",
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -4442,7 +4442,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/764.png",
     "kaldenavn": null,
     "coords": [
       55.46065157,
@@ -4542,7 +4542,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/210.png",
     "kaldenavn": null,
     "coords": [
       55.93341595,
@@ -4642,7 +4642,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/766.png",
     "kaldenavn": null,
     "coords": [
       55.07311357,
@@ -4717,7 +4717,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1370.png",
     "kaldenavn": null,
     "coords": [
       55.49127877,
@@ -4742,7 +4742,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/768.png",
     "kaldenavn": null,
     "coords": [
       54.8713804,
@@ -4792,7 +4792,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/30.png",
     "kaldenavn": null,
     "coords": [
       57.10716869,
@@ -4817,7 +4817,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/212.png",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -4842,7 +4842,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1372.png",
     "kaldenavn": null,
     "coords": [
       55.3195544,
@@ -4867,7 +4867,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/460.png",
     "kaldenavn": null,
     "coords": [
       56.02488921,
@@ -4892,7 +4892,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/461.png",
     "kaldenavn": null,
     "coords": [
       55.96052136,
@@ -4942,7 +4942,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/979.png",
     "kaldenavn": null,
     "coords": [
       55.92123871,
@@ -5042,7 +5042,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/31.png",
     "kaldenavn": null,
     "coords": [
       57.28432949,
@@ -5117,7 +5117,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/770.png",
     "kaldenavn": null,
     "coords": [
       55.49880374,
@@ -5142,7 +5142,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1943.png",
     "kaldenavn": null,
     "coords": [
       56.02388208,
@@ -5192,7 +5192,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2154.png",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -5267,7 +5267,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/34.png",
     "kaldenavn": null,
     "coords": [
       56.8298458,
@@ -5317,7 +5317,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1939.png",
     "kaldenavn": null,
     "coords": [
       56.54689645,
@@ -5367,7 +5367,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1376.png",
     "kaldenavn": null,
     "coords": [
       55.50180178,
@@ -5442,7 +5442,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1602.png",
     "kaldenavn": null,
     "coords": [
       55.67945641,
@@ -5517,7 +5517,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3694.png",
     "kaldenavn": null,
     "coords": [
       55.66357137,
@@ -5542,7 +5542,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1545.png",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -5567,7 +5567,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/424.png",
     "kaldenavn": null,
     "coords": [
       56.20167527,
@@ -5592,7 +5592,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/775.png",
     "kaldenavn": null,
     "coords": [
       55.35487274,
@@ -5617,7 +5617,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1544.png",
     "kaldenavn": null,
     "coords": [
       55.67360101,
@@ -5667,7 +5667,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3125.png",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -5767,7 +5767,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/989.png",
     "kaldenavn": null,
     "coords": [
       55.32031014,
@@ -5792,7 +5792,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1377.png",
     "kaldenavn": null,
     "coords": [
       55.51715531,
@@ -5817,7 +5817,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/990.png",
     "kaldenavn": null,
     "coords": [
       55.86932225,
@@ -5892,7 +5892,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3837.png",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -5992,7 +5992,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/520.png",
     "kaldenavn": null,
     "coords": [
       56.02388208,
@@ -6017,7 +6017,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1940.png",
     "kaldenavn": null,
     "coords": [
       55.99089664,
@@ -6142,7 +6142,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1949.png",
     "kaldenavn": null,
     "coords": [
       55.4068472,
@@ -6217,7 +6217,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1903.png",
     "kaldenavn": null,
     "coords": null
   },
@@ -6414,7 +6414,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/37.png",
     "kaldenavn": null,
     "coords": [
       56.6528756,
@@ -6464,7 +6464,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1548.png",
     "kaldenavn": null,
     "coords": [
       55.5081121,
@@ -6589,7 +6589,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/779.png",
     "kaldenavn": null,
     "coords": [
       54.9528525,
@@ -6614,7 +6614,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/40.png",
     "kaldenavn": null,
     "coords": [
       57.28497909,
@@ -6664,7 +6664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1627.png",
     "kaldenavn": null,
     "coords": [
       54.62941506,
@@ -6689,7 +6689,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1383.png",
     "kaldenavn": null,
     "coords": [
       55.13177189,
@@ -6764,7 +6764,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3759.png",
     "kaldenavn": null,
     "coords": [
       56.09369625,
@@ -6789,7 +6789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1384.png",
     "kaldenavn": null,
     "coords": [
       55.06342876,
@@ -6814,7 +6814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/470.png",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -6839,7 +6839,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/780.png",
     "kaldenavn": null,
     "coords": [
       55.06940698,
@@ -6914,7 +6914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/472.png",
     "kaldenavn": null,
     "coords": [
       55.61664144,
@@ -6939,7 +6939,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1002.png",
     "kaldenavn": null,
     "coords": [
       55.6741838,
@@ -6964,7 +6964,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1001.png",
     "kaldenavn": null,
     "coords": [
       55.50779016,
@@ -6989,7 +6989,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1386.png",
     "kaldenavn": null,
     "coords": [
       55.36518649,
@@ -7014,7 +7014,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/217.png",
     "kaldenavn": null,
     "coords": [
       56.47769058,
@@ -7064,7 +7064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1947.png",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -7139,7 +7139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/218.png",
     "kaldenavn": null,
     "coords": [
       56.21005036,
@@ -7214,7 +7214,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/784.png",
     "kaldenavn": null,
     "coords": [
       55.02899493,
@@ -7239,7 +7239,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1628.png",
     "kaldenavn": null,
     "coords": [
       54.63787516,
@@ -7264,7 +7264,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/475.png",
     "kaldenavn": null,
     "coords": [
       55.57103757,
@@ -7314,7 +7314,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/785.png",
     "kaldenavn": null,
     "coords": [
       55.45935717,
@@ -7339,7 +7339,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3337.png",
     "kaldenavn": null,
     "coords": [
       55.49118916,
@@ -7389,7 +7389,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1629.png",
     "kaldenavn": null,
     "coords": [
       54.86008913,
@@ -7414,7 +7414,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1005.png",
     "kaldenavn": null,
     "coords": [
       55.99425687,
@@ -7489,7 +7489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1316.png",
     "kaldenavn": null,
     "coords": [
       55.76191781,
@@ -7514,7 +7514,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3367.png",
     "kaldenavn": null,
     "coords": [
       55.39401435,
@@ -7539,7 +7539,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3937.png",
     "kaldenavn": null,
     "coords": [
       57.08119416,
@@ -7714,7 +7714,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/44.png",
     "kaldenavn": null,
     "coords": [
       56.77310507,
@@ -7789,7 +7789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1009.png",
     "kaldenavn": null,
     "coords": [
       55.2685839,
@@ -7814,7 +7814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1007.png",
     "kaldenavn": null,
     "coords": [
       55.19490482,
@@ -7914,7 +7914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1893.png",
     "kaldenavn": null,
     "coords": [
       55.34929575,
@@ -7964,7 +7964,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3951.png",
     "kaldenavn": null,
     "coords": [
       56.12635244,
@@ -7989,7 +7989,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1388.png",
     "kaldenavn": null,
     "coords": [
       55.37859541,
@@ -8014,7 +8014,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1607.png",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -8064,7 +8064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/185.png",
     "kaldenavn": null,
     "coords": [
       57.08119416,
@@ -8164,7 +8164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3826.png",
     "kaldenavn": null,
     "coords": [
       55.92959715,
@@ -8264,7 +8264,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1389.png",
     "kaldenavn": null,
     "coords": [
       55.403021,
@@ -8339,7 +8339,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/543.png",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -8389,7 +8389,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1878.png",
     "kaldenavn": null,
     "coords": [
       55.58776321,
@@ -8439,7 +8439,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/453.png",
     "kaldenavn": null,
     "coords": [
       56.15051496,
@@ -8489,7 +8489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3173.png",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -8514,7 +8514,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1436.png",
     "kaldenavn": null,
     "coords": [
       55.01443666,
@@ -8564,7 +8564,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3422.png",
     "kaldenavn": null,
     "coords": [
       55.59456942,
@@ -8639,7 +8639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3851.png",
     "kaldenavn": null,
     "coords": [
       54.75748092,
@@ -8714,7 +8714,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1611.png",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -8739,7 +8739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1390.png",
     "kaldenavn": null,
     "coords": [
       55.35251254,
@@ -8764,7 +8764,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3169.png",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -8814,7 +8814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3731.png",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -8839,7 +8839,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/487.png",
     "kaldenavn": null,
     "coords": [
       56.20167527,
@@ -8889,7 +8889,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/482.png",
     "kaldenavn": null,
     "coords": [
       56.48050883,
@@ -9064,7 +9064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3750.png",
     "kaldenavn": null,
     "coords": [
       54.95248429,
@@ -9139,7 +9139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1318.png",
     "kaldenavn": null,
     "coords": [
       55.6579409,
@@ -9164,7 +9164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2043.png",
     "kaldenavn": null,
     "coords": [
       56.20167527,
@@ -9189,7 +9189,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/809.png",
     "kaldenavn": null,
     "coords": [
       55.24177268,
@@ -9214,7 +9214,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/222.png",
     "kaldenavn": null,
     "coords": [
       56.32444075,
@@ -9239,7 +9239,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/913.png",
     "kaldenavn": null,
     "coords": [
       55.02899493,
@@ -9364,7 +9364,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/792.png",
     "kaldenavn": null,
     "coords": [
       55.75986358,
@@ -9414,7 +9414,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1394.png",
     "kaldenavn": null,
     "coords": [
       55.45477943,
@@ -9489,7 +9489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/224.png",
     "kaldenavn": null,
     "coords": [
       56.69297871,
@@ -9514,7 +9514,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/45.png",
     "kaldenavn": null,
     "coords": [
       57.12742277,
@@ -9539,7 +9539,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1395.png",
     "kaldenavn": null,
     "coords": [
       55.42123207,
@@ -9589,7 +9589,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/491.png",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -9614,7 +9614,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2082.png",
     "kaldenavn": null,
     "coords": [
       55.84646728,
@@ -9639,7 +9639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1750.png",
     "kaldenavn": null,
     "coords": [
       55.19504272,
@@ -9664,7 +9664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1516.png",
     "kaldenavn": null,
     "coords": [
       55.403021,
@@ -9814,7 +9814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1019.png",
     "kaldenavn": null,
     "coords": [
       55.66357137,
@@ -9839,7 +9839,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3839.png",
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -9864,7 +9864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1576.png",
     "kaldenavn": null,
     "coords": [
       55.6883311,
@@ -9889,7 +9889,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1240.png",
     "kaldenavn": null,
     "coords": [
       55.40880423,
@@ -9914,7 +9914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/794.png",
     "kaldenavn": null,
     "coords": [
       55.27645397,
@@ -10064,7 +10064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3162.png",
     "kaldenavn": null,
     "coords": [
       55.01443666,
@@ -10114,7 +10114,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/226.png",
     "kaldenavn": null,
     "coords": [
       56.49762699,
@@ -10139,7 +10139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1609.png",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -10239,7 +10239,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/496.png",
     "kaldenavn": null,
     "coords": [
       55.57103757,
@@ -10339,7 +10339,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1022.png",
     "kaldenavn": null,
     "coords": [
       55.85479562,
@@ -10364,7 +10364,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1749.png",
     "kaldenavn": null,
     "coords": [
       55.97774198,
@@ -10464,7 +10464,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3831.png",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -10589,7 +10589,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1025.png",
     "kaldenavn": null,
     "coords": [
       55.31864081,
@@ -10639,7 +10639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/497.png",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -10664,7 +10664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/232.png",
     "kaldenavn": null,
     "coords": [
       56.72437033,
@@ -10739,7 +10739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1026.png",
     "kaldenavn": null,
     "coords": [
       55.79702076,
@@ -10789,7 +10789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/797.png",
     "kaldenavn": null,
     "coords": [
       55.43560842,
@@ -10839,7 +10839,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1028.png",
     "kaldenavn": null,
     "coords": [
       55.85310811,
@@ -10864,7 +10864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/480.png",
     "kaldenavn": null,
     "coords": [
       56.27196318,
@@ -10889,7 +10889,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1029.png",
     "kaldenavn": null,
     "coords": [
       55.92123871,
@@ -10914,7 +10914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/501.png",
     "kaldenavn": null,
     "coords": [
       56.17800104,
@@ -11014,7 +11014,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/504.png",
     "kaldenavn": null,
     "coords": [
       55.93439431,
@@ -11039,7 +11039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1400.png",
     "kaldenavn": null,
     "coords": [
       55.39954114,
@@ -11089,7 +11089,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1555.png",
     "kaldenavn": null,
     "coords": [
       55.75145806,
@@ -11139,7 +11139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/800.png",
     "kaldenavn": null,
     "coords": [
       55.53607493,
@@ -11164,7 +11164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1032.png",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -11189,7 +11189,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/526.png",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -11264,7 +11264,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2035.png",
     "kaldenavn": null,
     "coords": [
       55.71256101,
@@ -11439,7 +11439,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/51.png",
     "kaldenavn": null,
     "coords": [
       57.16282327,
@@ -11464,7 +11464,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/502.png",
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -11614,7 +11614,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1712.png",
     "kaldenavn": null,
     "coords": [
       55.6741838,
@@ -11764,7 +11764,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/511.png",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -11789,7 +11789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/805.png",
     "kaldenavn": null,
     "coords": [
       55.37115323,
@@ -11814,7 +11814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/513.png",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -11864,7 +11864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/515.png",
     "kaldenavn": null,
     "coords": [
       56.43069147,
@@ -11889,7 +11889,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1041.png",
     "kaldenavn": null,
     "coords": [
       55.54103195,
@@ -11964,7 +11964,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/516.png",
     "kaldenavn": null,
     "coords": [
       56.25949156,
@@ -12089,7 +12089,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/803.png",
     "kaldenavn": null,
     "coords": [
       54.91730187,
@@ -12164,7 +12164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/306.png",
     "kaldenavn": null,
     "coords": [
       56.54580784,
@@ -12189,7 +12189,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/53.png",
     "kaldenavn": null,
     "coords": [
       56.91678716,
@@ -12214,7 +12214,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/54.png",
     "kaldenavn": null,
     "coords": [
       56.9991663,
@@ -12289,7 +12289,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/55.png",
     "kaldenavn": null,
     "coords": [
       56.94881207,
@@ -12314,7 +12314,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1045.png",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -12364,7 +12364,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/94.png",
     "kaldenavn": null,
     "coords": [
       57.38233116,
@@ -12414,7 +12414,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2065.png",
     "kaldenavn": null,
     "coords": [
       55.92457284,
@@ -12439,7 +12439,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/56.png",
     "kaldenavn": null,
     "coords": [
       57.52270103,
@@ -12489,7 +12489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/519.png",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -12589,7 +12589,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1050.png",
     "kaldenavn": null,
     "coords": [
       55.8837888,
@@ -12614,7 +12614,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1051.png",
     "kaldenavn": null,
     "coords": [
       55.43053197,
@@ -12639,7 +12639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/499.png",
     "kaldenavn": null,
     "coords": [
       55.65719788,
@@ -12664,7 +12664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/623.png",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -12764,7 +12764,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1052.png",
     "kaldenavn": null,
     "coords": [
       55.73825064,
@@ -12789,7 +12789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1934.png",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -12814,7 +12814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/59.png",
     "kaldenavn": null,
     "coords": [
       56.96384115,
@@ -12839,7 +12839,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2600.png",
     "kaldenavn": null,
     "coords": [
       54.75748092,
@@ -12939,7 +12939,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/810.png",
     "kaldenavn": null,
     "coords": [
       55.2436827,
@@ -12989,7 +12989,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/238.png",
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -13139,7 +13139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/240.png",
     "kaldenavn": null,
     "coords": [
       57.44347291,
@@ -13164,7 +13164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/241.png",
     "kaldenavn": null,
     "coords": [
       56.62870473,
@@ -13314,7 +13314,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/528.png",
     "kaldenavn": null,
     "coords": [
       56.17162148,
@@ -13339,7 +13339,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1673.png",
     "kaldenavn": null,
     "coords": [
       55.2284316,
@@ -13364,7 +13364,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1056.png",
     "kaldenavn": null,
     "coords": [
       55.32031014,
@@ -13439,7 +13439,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/61.png",
     "kaldenavn": null,
     "coords": [
       56.80003403,
@@ -13464,7 +13464,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1058.png",
     "kaldenavn": null,
     "coords": [
       55.54041131,
@@ -13489,7 +13489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/62.png",
     "kaldenavn": null,
     "coords": [
       56.74794316,
@@ -13589,7 +13589,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/532.png",
     "kaldenavn": null,
     "coords": [
       55.76508387,
@@ -13639,7 +13639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/812.png",
     "kaldenavn": null,
     "coords": [
       55.69122218,
@@ -13689,7 +13689,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1935.png",
     "kaldenavn": null,
     "coords": [
       55.76046689,
@@ -13739,7 +13739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1062.png",
     "kaldenavn": null,
     "coords": [
       55.33554618,
@@ -13789,7 +13789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1063.png",
     "kaldenavn": null,
     "coords": [
       56.01099572,
@@ -13814,7 +13814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1065.png",
     "kaldenavn": null,
     "coords": [
       56.03943161,
@@ -13914,7 +13914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1066.png",
     "kaldenavn": null,
     "coords": [
       55.41715543,
@@ -14039,7 +14039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/245.png",
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -14114,7 +14114,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1407.png",
     "kaldenavn": null,
     "coords": [
       55.2661035,
@@ -14139,7 +14139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/535.png",
     "kaldenavn": null,
     "coords": [
       56.17800104,
@@ -14189,7 +14189,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1071.png",
     "kaldenavn": null,
     "coords": [
       55.6869516,
@@ -14289,7 +14289,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/251.png",
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -14364,7 +14364,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1937.png",
     "kaldenavn": null,
     "coords": [
       56.74794316,
@@ -14389,7 +14389,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/64.png",
     "kaldenavn": null,
     "coords": [
       57.94281241,
@@ -14439,7 +14439,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/65.png",
     "kaldenavn": null,
     "coords": [
       57.17870119,
@@ -14539,7 +14539,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/925.png",
     "kaldenavn": null,
     "coords": [
       55.55262453,
@@ -14614,7 +14614,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1077.png",
     "kaldenavn": null,
     "coords": [
       55.74057031,
@@ -14639,7 +14639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/67.png",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -14664,7 +14664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/68.png",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -14714,7 +14714,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/69.png",
     "kaldenavn": null,
     "coords": [
       56.6528756,
@@ -14764,7 +14764,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/254.png",
     "kaldenavn": null,
     "coords": [
       56.2699576,
@@ -14789,7 +14789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/537.png",
     "kaldenavn": null,
     "coords": [
       56.25949156,
@@ -14864,7 +14864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1079.png",
     "kaldenavn": null,
     "coords": [
       55.73825064,
@@ -14939,7 +14939,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1411.png",
     "kaldenavn": null,
     "coords": [
       55.34929575,
@@ -15014,7 +15014,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1080.png",
     "kaldenavn": null,
     "coords": [
       55.25979308,
@@ -15039,7 +15039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/400.png",
     "kaldenavn": null,
     "coords": [
       56.20098497,
@@ -15064,7 +15064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/255.png",
     "kaldenavn": null,
     "coords": [
       56.34794414,
@@ -15114,7 +15114,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/817.png",
     "kaldenavn": null,
     "coords": [
       55.51123399,
@@ -15139,7 +15139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1082.png",
     "kaldenavn": null,
     "coords": [
       55.81684549,
@@ -15164,7 +15164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2360.png",
     "kaldenavn": null,
     "coords": [
       55.81684549,
@@ -15189,7 +15189,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/70.png",
     "kaldenavn": null,
     "coords": [
       57.05355839,
@@ -15239,7 +15239,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1634.png",
     "kaldenavn": null,
     "coords": [
       54.69990623,
@@ -15264,7 +15264,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1083.png",
     "kaldenavn": null,
     "coords": [
       56.10118532,
@@ -15289,7 +15289,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/540.png",
     "kaldenavn": null,
     "coords": [
       56.48050883,
@@ -15414,7 +15414,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/72.png",
     "kaldenavn": null,
     "coords": [
       56.80003403,
@@ -15439,7 +15439,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/542.png",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -15489,7 +15489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/546.png",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -15514,7 +15514,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/545.png",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -15664,7 +15664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1928.png",
     "kaldenavn": null,
     "coords": [
       55.92457284,
@@ -15689,7 +15689,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/548.png",
     "kaldenavn": null,
     "coords": [
       55.92457284,
@@ -15714,7 +15714,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/550.png",
     "kaldenavn": null,
     "coords": [
       56.3806496,
@@ -15739,7 +15739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/415.png",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -15789,7 +15789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/551.png",
     "kaldenavn": null,
     "coords": [
       55.95626604,
@@ -15814,7 +15814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/552.png",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -15839,7 +15839,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/258.png",
     "kaldenavn": null,
     "coords": [
       56.15361133,
@@ -15914,7 +15914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1085.png",
     "kaldenavn": null,
     "coords": [
       55.9604599,
@@ -15964,7 +15964,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/75.png",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -16039,7 +16039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1087.png",
     "kaldenavn": null,
     "coords": [
       55.54103195,
@@ -16064,7 +16064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/76.png",
     "kaldenavn": null,
     "coords": [
       57.16282327,
@@ -16089,7 +16089,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/260.png",
     "kaldenavn": null,
     "coords": [
       56.72425361,
@@ -16114,7 +16114,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1563.png",
     "kaldenavn": null,
     "coords": [
       55.70964347,
@@ -16139,7 +16139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1088.png",
     "kaldenavn": null,
     "coords": [
       55.58583604,
@@ -16164,7 +16164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1089.png",
     "kaldenavn": null,
     "coords": [
       55.61730235,
@@ -16214,7 +16214,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1564.png",
     "kaldenavn": null,
     "coords": [
       55.58934868,
@@ -16314,7 +16314,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1416.png",
     "kaldenavn": null,
     "coords": [
       55.34939755,
@@ -16339,7 +16339,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1095.png",
     "kaldenavn": null,
     "coords": [
       55.73800813,
@@ -16414,7 +16414,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/737.png",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -16464,7 +16464,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/827.png",
     "kaldenavn": null,
     "coords": [
       54.97473424,
@@ -16489,7 +16489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/264.png",
     "kaldenavn": null,
     "coords": [
       56.59677993,
@@ -16564,7 +16564,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1097.png",
     "kaldenavn": null,
     "coords": [
       55.50308551,
@@ -16664,7 +16664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/557.png",
     "kaldenavn": null,
     "coords": [
       56.09369625,
@@ -16689,7 +16689,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1098.png",
     "kaldenavn": null,
     "coords": [
       55.88693173,
@@ -16714,7 +16714,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/828.png",
     "kaldenavn": null,
     "coords": [
       54.87308589,
@@ -16739,7 +16739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1099.png",
     "kaldenavn": null,
     "coords": [
       55.76162863,
@@ -16764,7 +16764,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/705.png",
     "kaldenavn": null,
     "coords": [
       56.33866468,
@@ -16839,7 +16839,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1418.png",
     "kaldenavn": null,
     "coords": [
       55.18924968,
@@ -16889,7 +16889,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3798.png",
     "kaldenavn": null,
     "coords": [
       55.25079677,
@@ -16939,7 +16939,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1782.png",
     "kaldenavn": null,
     "coords": [
       56.15788265,
@@ -17039,7 +17039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/108.png",
     "kaldenavn": null,
     "coords": [
       56.89861349,
@@ -17089,7 +17089,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/967.png",
     "kaldenavn": null,
     "coords": [
       55.44838852,
@@ -17114,7 +17114,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/100.png",
     "kaldenavn": null,
     "coords": [
       57.11542161,
@@ -17139,7 +17139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1606.png",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -17239,7 +17239,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/590.png",
     "kaldenavn": null,
     "coords": [
       56.38481233,
@@ -17264,7 +17264,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/591.png",
     "kaldenavn": null,
     "coords": [
       56.15222183,
@@ -17289,7 +17289,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/300.png",
     "kaldenavn": null,
     "coords": [
       56.90798948,
@@ -17314,7 +17314,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/301.png",
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -17339,7 +17339,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/965.png",
     "kaldenavn": null,
     "coords": [
       55.84270608,
@@ -17364,7 +17364,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/134.png",
     "kaldenavn": null,
     "coords": [
       57.2843629,
@@ -17389,7 +17389,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1256.png",
     "kaldenavn": null,
     "coords": [
       55.10685595,
@@ -17414,7 +17414,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/360.png",
     "kaldenavn": null,
     "coords": [
       56.49762699,
@@ -17439,7 +17439,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/605.png",
     "kaldenavn": null,
     "coords": [
       56.38481233,
@@ -17489,7 +17489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/266.png",
     "kaldenavn": null,
     "coords": [
       56.09377094,
@@ -17539,7 +17539,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/81.png",
     "kaldenavn": null,
     "coords": [
       57.38233116,
@@ -17614,7 +17614,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1226.png",
     "kaldenavn": null,
     "coords": [
       55.93559156,
@@ -17664,7 +17664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/268.png",
     "kaldenavn": null,
     "coords": [
       56.09377094,
@@ -17689,7 +17689,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3649.png",
     "kaldenavn": null,
     "coords": [
       56.09377094,
@@ -17714,7 +17714,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1104.png",
     "kaldenavn": null,
     "coords": [
       55.68182922,
@@ -17764,7 +17764,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/426.png",
     "kaldenavn": null,
     "coords": [
       56.12635244,
@@ -17789,7 +17789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/829.png",
     "kaldenavn": null,
     "coords": [
       55.63374455,
@@ -17864,7 +17864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/561.png",
     "kaldenavn": null,
     "coords": [
       55.76853547,
@@ -17889,7 +17889,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/832.png",
     "kaldenavn": null,
     "coords": [
       55.38472069,
@@ -17914,7 +17914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/833.png",
     "kaldenavn": null,
     "coords": [
       55.49118916,
@@ -17939,7 +17939,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1105.png",
     "kaldenavn": null,
     "coords": [
       55.66048124,
@@ -17964,7 +17964,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/834.png",
     "kaldenavn": null,
     "coords": [
       55.37115323,
@@ -18114,7 +18114,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/563.png",
     "kaldenavn": null,
     "coords": [
       55.76046689,
@@ -18164,7 +18164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1108.png",
     "kaldenavn": null,
     "coords": [
       55.75603087,
@@ -18189,7 +18189,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1109.png",
     "kaldenavn": null,
     "coords": [
       55.52537395,
@@ -18239,7 +18239,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1110.png",
     "kaldenavn": null,
     "coords": [
       55.86932225,
@@ -18264,7 +18264,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1557.png",
     "kaldenavn": null,
     "coords": [
       55.68095745,
@@ -18314,7 +18314,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1113.png",
     "kaldenavn": null,
     "coords": [
       55.29633252,
@@ -18339,7 +18339,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1115.png",
     "kaldenavn": null,
     "coords": [
       55.5692769,
@@ -18364,7 +18364,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1117.png",
     "kaldenavn": null,
     "coords": [
       55.15521424,
@@ -18464,7 +18464,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3843.png",
     "kaldenavn": null,
     "coords": [
       56.20167527,
@@ -18564,7 +18564,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1127.png",
     "kaldenavn": null,
     "coords": [
       55.92123871,
@@ -18664,7 +18664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1198.png",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -18739,7 +18739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/272.png",
     "kaldenavn": null,
     "coords": [
       55.94883412,
@@ -18814,7 +18814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1121.png",
     "kaldenavn": null,
     "coords": [
       55.51887316,
@@ -18839,7 +18839,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1122.png",
     "kaldenavn": null,
     "coords": [
       55.70417096,
@@ -18864,7 +18864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1427.png",
     "kaldenavn": null,
     "coords": [
       55.12556284,
@@ -18939,7 +18939,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/274.png",
     "kaldenavn": null,
     "coords": [
       56.2882506,
@@ -19014,7 +19014,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/345.png",
     "kaldenavn": null,
     "coords": [
       56.6528756,
@@ -19039,7 +19039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1674.png",
     "kaldenavn": null,
     "coords": [
       55.19264146,
@@ -19064,7 +19064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/276.png",
     "kaldenavn": null,
     "coords": [
       56.54580784,
@@ -19089,7 +19089,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1428.png",
     "kaldenavn": null,
     "coords": [
       55.6129967,
@@ -19114,7 +19114,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/277.png",
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -19139,7 +19139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/85.png",
     "kaldenavn": null,
     "coords": [
       57.17870119,
@@ -19189,7 +19189,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/565.png",
     "kaldenavn": null,
     "coords": [
       55.92463273,
@@ -19264,7 +19264,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1568.png",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -19289,7 +19289,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1675.png",
     "kaldenavn": null,
     "coords": [
       54.98495945,
@@ -19314,7 +19314,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1837.png",
     "kaldenavn": null,
     "coords": [
       55.91992432,
@@ -19339,7 +19339,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/279.png",
     "kaldenavn": null,
     "coords": [
       57.2597249,
@@ -19414,7 +19414,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1938.png",
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -19439,7 +19439,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/569.png",
     "kaldenavn": null,
     "coords": [
       56.34682936,
@@ -19539,7 +19539,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1429.png",
     "kaldenavn": null,
     "coords": [
       55.11203154,
@@ -19564,7 +19564,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/571.png",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -19639,7 +19639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1431.png",
     "kaldenavn": null,
     "coords": [
       55.49807432,
@@ -19664,7 +19664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1123.png",
     "kaldenavn": null,
     "coords": [
       55.77912974,
@@ -19689,7 +19689,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1989.png",
     "kaldenavn": null,
     "coords": [
       55.81385497,
@@ -19714,7 +19714,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1432.png",
     "kaldenavn": null,
     "coords": [
       55.2209888,
@@ -19739,7 +19739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/573.png",
     "kaldenavn": null,
     "coords": [
       56.42912946,
@@ -19814,7 +19814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3650.png",
     "kaldenavn": null,
     "coords": [
       55.6940569,
@@ -19864,7 +19864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1130.png",
     "kaldenavn": null,
     "coords": [
       55.71737311,
@@ -19914,7 +19914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/880.png",
     "kaldenavn": null,
     "coords": [
       55.31137673,
@@ -19939,7 +19939,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/280.png",
     "kaldenavn": null,
     "coords": [
       56.69297871,
@@ -19989,7 +19989,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/184.png",
     "kaldenavn": null,
     "coords": [
       57.52270103,
@@ -20064,7 +20064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1132.png",
     "kaldenavn": null,
     "coords": [
       55.43053197,
@@ -20239,7 +20239,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1133.png",
     "kaldenavn": null,
     "coords": [
       55.45527126,
@@ -20264,7 +20264,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1961.png",
     "kaldenavn": null,
     "coords": [
       55.45527126,
@@ -20364,7 +20364,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3230.png",
     "kaldenavn": null,
     "coords": [
       54.97060588,
@@ -20389,7 +20389,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1438.png",
     "kaldenavn": null,
     "coords": [
       55.36672658,
@@ -20414,7 +20414,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/73.png",
     "kaldenavn": null,
     "coords": [
       57.09538719,
@@ -20464,7 +20464,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/575.png",
     "kaldenavn": null,
     "coords": [
       56.3806496,
@@ -20514,7 +20514,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1136.png",
     "kaldenavn": null,
     "coords": [
       55.58934868,
@@ -20539,7 +20539,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1137.png",
     "kaldenavn": null,
     "coords": [
       55.59456942,
@@ -20564,7 +20564,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1138.png",
     "kaldenavn": null,
     "coords": [
       55.45527126,
@@ -20614,7 +20614,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/578.png",
     "kaldenavn": null,
     "coords": [
       56.24319222,
@@ -20639,7 +20639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/284.png",
     "kaldenavn": null,
     "coords": [
       56.54580784,
@@ -20664,7 +20664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/89.png",
     "kaldenavn": null,
     "coords": [
       57.4674892,
@@ -20714,7 +20714,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/409.png",
     "kaldenavn": null,
     "coords": [
       56.54580784,
@@ -20739,7 +20739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/285.png",
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -20764,7 +20764,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/286.png",
     "kaldenavn": null,
     "coords": [
       56.52775554,
@@ -20789,7 +20789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/580.png",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -20839,7 +20839,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1142.png",
     "kaldenavn": null,
     "coords": [
       55.74057031,
@@ -20939,7 +20939,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/91.png",
     "kaldenavn": null,
     "coords": [
       56.93195612,
@@ -20964,7 +20964,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1933.png",
     "kaldenavn": null,
     "coords": [
       56.54580784,
@@ -21064,7 +21064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/582.png",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -21139,7 +21139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/183.png",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -21239,7 +21239,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1145.png",
     "kaldenavn": null,
     "coords": [
       55.78572204,
@@ -21289,7 +21289,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1146.png",
     "kaldenavn": null,
     "coords": [
       55.78572204,
@@ -21314,7 +21314,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1148.png",
     "kaldenavn": null,
     "coords": [
       55.40880423,
@@ -21339,7 +21339,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1149.png",
     "kaldenavn": null,
     "coords": [
       55.8397364,
@@ -21364,7 +21364,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1931.png",
     "kaldenavn": null,
     "coords": [
       56.62765212,
@@ -21514,7 +21514,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/291.png",
     "kaldenavn": null,
     "coords": [
       56.51759246,
@@ -21539,7 +21539,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/93.png",
     "kaldenavn": null,
     "coords": [
       56.95819912,
@@ -21614,7 +21614,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/850.png",
     "kaldenavn": null,
     "coords": [
       55.02899493,
@@ -21714,7 +21714,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/574.png",
     "kaldenavn": null,
     "coords": [
       56.14838747,
@@ -21789,7 +21789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/723.png",
     "kaldenavn": null,
     "coords": [
       56.63765951,
@@ -21839,7 +21839,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/600.png",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -21914,7 +21914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/293.png",
     "kaldenavn": null,
     "coords": [
       56.34794414,
@@ -21964,7 +21964,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/294.png",
     "kaldenavn": null,
     "coords": [
       56.34794414,
@@ -21989,7 +21989,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1151.png",
     "kaldenavn": null,
     "coords": [
       55.99124483,
@@ -22014,7 +22014,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2164.png",
     "kaldenavn": null,
     "coords": [
       56.50265825,
@@ -22039,7 +22039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1152.png",
     "kaldenavn": null,
     "coords": [
       55.04277496,
@@ -22089,7 +22089,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/855.png",
     "kaldenavn": null,
     "coords": [
       54.98937381,
@@ -22189,7 +22189,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1154.png",
     "kaldenavn": null,
     "coords": [
       55.73668449,
@@ -22239,7 +22239,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1448.png",
     "kaldenavn": null,
     "coords": [
       55.43415758,
@@ -22289,7 +22289,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1155.png",
     "kaldenavn": null,
     "coords": [
       55.54103195,
@@ -22339,7 +22339,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/96.png",
     "kaldenavn": null,
     "coords": [
       56.91678716,
@@ -22389,7 +22389,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1852.png",
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -22489,7 +22489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/297.png",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -22514,7 +22514,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/592.png",
     "kaldenavn": null,
     "coords": [
       56.35508218,
@@ -22589,7 +22589,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/397.png",
     "kaldenavn": null,
     "coords": [
       56.34794414,
@@ -22614,7 +22614,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1160.png",
     "kaldenavn": null,
     "coords": [
       55.75323652,
@@ -22664,7 +22664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/298.png",
     "kaldenavn": null,
     "coords": [
       56.34794414,
@@ -22714,7 +22714,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1162.png",
     "kaldenavn": null,
     "coords": [
       55.73668449,
@@ -22739,7 +22739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3819.png",
     "kaldenavn": null,
     "coords": [
       55.58934868,
@@ -22764,7 +22764,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1676.png",
     "kaldenavn": null,
     "coords": [
       54.87126103,
@@ -22789,7 +22789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3416.png",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -22864,7 +22864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/595.png",
     "kaldenavn": null,
     "coords": [
       55.96052136,
@@ -22914,7 +22914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1163.png",
     "kaldenavn": null,
     "coords": [
       55.92959715,
@@ -22939,7 +22939,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/854.png",
     "kaldenavn": null,
     "coords": [
       55.06940698,
@@ -23014,7 +23014,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/856.png",
     "kaldenavn": null,
     "coords": [
       55.65607154,
@@ -23039,7 +23039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1644.png",
     "kaldenavn": null,
     "coords": [
       54.93527293,
@@ -23114,7 +23114,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/302.png",
     "kaldenavn": null,
     "coords": [
       56.8517685,
@@ -23139,7 +23139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/303.png",
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -23164,7 +23164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/857.png",
     "kaldenavn": null,
     "coords": [
       54.98937381,
@@ -23189,7 +23189,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/597.png",
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -23214,7 +23214,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/305.png",
     "kaldenavn": null,
     "coords": [
       56.34794414,
@@ -23289,7 +23289,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/861.png",
     "kaldenavn": null,
     "coords": [
       55.7873441,
@@ -23414,7 +23414,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/411.png",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -23439,7 +23439,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/858.png",
     "kaldenavn": null,
     "coords": [
       55.2436827,
@@ -23514,7 +23514,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1677.png",
     "kaldenavn": null,
     "coords": [
       54.98495945,
@@ -23539,7 +23539,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3404.png",
     "kaldenavn": null,
     "coords": [
       54.7930621,
@@ -23664,7 +23664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/860.png",
     "kaldenavn": null,
     "coords": [
       55.65607154,
@@ -23689,7 +23689,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3726.png",
     "kaldenavn": null,
     "coords": [
       55.44966319,
@@ -23714,7 +23714,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1457.png",
     "kaldenavn": null,
     "coords": [
       55.44966319,
@@ -23739,7 +23739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3727.png",
     "kaldenavn": null,
     "coords": [
       55.19504272,
@@ -23764,7 +23764,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1170.png",
     "kaldenavn": null,
     "coords": [
       55.19504272,
@@ -23789,7 +23789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1171.png",
     "kaldenavn": null,
     "coords": [
       55.19504272,
@@ -23864,7 +23864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/596.png",
     "kaldenavn": null,
     "coords": [
       56.49705855,
@@ -23889,7 +23889,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/99.png",
     "kaldenavn": null,
     "coords": [
       56.74794316,
@@ -23914,7 +23914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2930.png",
     "kaldenavn": null,
     "coords": [
       56.55632319,
@@ -23939,7 +23939,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1650.png",
     "kaldenavn": null,
     "coords": [
       54.93527293,
@@ -24014,7 +24014,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2089.png",
     "kaldenavn": null,
     "coords": [
       55.7109795,
@@ -24064,7 +24064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/90.png",
     "kaldenavn": null,
     "coords": [
       57.08119416,
@@ -24089,7 +24089,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/193.png",
     "kaldenavn": null,
     "coords": [
       56.93195612,
@@ -24114,7 +24114,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2064.png",
     "kaldenavn": null,
     "coords": [
       56.18215286,
@@ -24164,7 +24164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3938.png",
     "kaldenavn": null,
     "coords": [
       55.403021,
@@ -24214,7 +24214,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/401.png",
     "kaldenavn": null,
     "coords": [
       56.62419195,
@@ -24239,7 +24239,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/602.png",
     "kaldenavn": null,
     "coords": [
       55.92457284,
@@ -24539,7 +24539,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1177.png",
     "kaldenavn": null,
     "coords": [
       55.85479562,
@@ -24614,7 +24614,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1179.png",
     "kaldenavn": null,
     "coords": [
       55.59456942,
@@ -24639,7 +24639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1467.png",
     "kaldenavn": null,
     "coords": [
       55.56662852,
@@ -24664,7 +24664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1468.png",
     "kaldenavn": null,
     "coords": [
       55.11784585,
@@ -24689,7 +24689,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/865.png",
     "kaldenavn": null,
     "coords": [
       55.70803366,
@@ -24739,7 +24739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/866.png",
     "kaldenavn": null,
     "coords": [
       55.2436827,
@@ -24764,7 +24764,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/309.png",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -24814,7 +24814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1760.png",
     "kaldenavn": null,
     "coords": [
       55.67264298,
@@ -24914,7 +24914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1574.png",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -24939,7 +24939,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1680.png",
     "kaldenavn": null,
     "coords": [
       54.87126103,
@@ -24989,7 +24989,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/609.png",
     "kaldenavn": null,
     "coords": [
       56.12635244,
@@ -25039,7 +25039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/106.png",
     "kaldenavn": null,
     "coords": [
       57.28432949,
@@ -25114,7 +25114,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1186.png",
     "kaldenavn": null,
     "coords": [
       55.70601705,
@@ -25164,7 +25164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/310.png",
     "kaldenavn": null,
     "coords": [
       56.54580784,
@@ -25264,7 +25264,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/610.png",
     "kaldenavn": null,
     "coords": [
       56.48050883,
@@ -25289,7 +25289,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/611.png",
     "kaldenavn": null,
     "coords": [
       56.48050883,
@@ -25314,7 +25314,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/613.png",
     "kaldenavn": null,
     "coords": [
       55.92457284,
@@ -25339,7 +25339,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2059.png",
     "kaldenavn": null,
     "coords": [
       56.89861349,
@@ -25389,7 +25389,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/311.png",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -25539,7 +25539,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/312.png",
     "kaldenavn": null,
     "coords": [
       56.52775554,
@@ -25564,7 +25564,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/618.png",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -25664,7 +25664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/313.png",
     "kaldenavn": null,
     "coords": [
       56.20098497,
@@ -25739,7 +25739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/315.png",
     "kaldenavn": null,
     "coords": [
       56.20098497,
@@ -25764,7 +25764,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1192.png",
     "kaldenavn": null,
     "coords": [
       55.43053197,
@@ -25839,7 +25839,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1475.png",
     "kaldenavn": null,
     "coords": [
       54.79716403,
@@ -25864,7 +25864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/110.png",
     "kaldenavn": null,
     "coords": [
       57.01911272,
@@ -25914,7 +25914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1477.png",
     "kaldenavn": null,
     "coords": [
       55.31045491,
@@ -25964,7 +25964,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/41.png",
     "kaldenavn": null,
     "coords": [
       56.6528756,
@@ -26039,7 +26039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3696.png",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -26064,7 +26064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/316.png",
     "kaldenavn": null,
     "coords": [
       56.72437033,
@@ -26164,7 +26164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/620.png",
     "kaldenavn": null,
     "coords": [
       56.02388208,
@@ -26214,7 +26214,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1479.png",
     "kaldenavn": null,
     "coords": [
       55.23725238,
@@ -26264,7 +26264,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/870.png",
     "kaldenavn": null,
     "coords": [
       55.38472069,
@@ -26364,7 +26364,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1201.png",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -26389,7 +26389,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/394.png",
     "kaldenavn": null,
     "coords": [
       56.46317549,
@@ -26439,7 +26439,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/319.png",
     "kaldenavn": null,
     "coords": [
       56.35360504,
@@ -26464,7 +26464,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1203.png",
     "kaldenavn": null,
     "coords": [
       55.20085779,
@@ -26564,7 +26564,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1682.png",
     "kaldenavn": null,
     "coords": [
       54.98495945,
@@ -26614,7 +26614,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1205.png",
     "kaldenavn": null,
     "coords": [
       55.23758668,
@@ -26639,7 +26639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1206.png",
     "kaldenavn": null,
     "coords": [
       55.86605512,
@@ -26664,7 +26664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1207.png",
     "kaldenavn": null,
     "coords": [
       55.70601705,
@@ -26714,7 +26714,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1208.png",
     "kaldenavn": null,
     "coords": [
       56.01043371,
@@ -26739,7 +26739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2709.png",
     "kaldenavn": null,
     "coords": [
       55.42123207,
@@ -26764,7 +26764,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1488.png",
     "kaldenavn": null,
     "coords": [
       55.34939755,
@@ -26789,7 +26789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/625.png",
     "kaldenavn": null,
     "coords": [
       56.21127538,
@@ -26864,7 +26864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/214.png",
     "kaldenavn": null,
     "coords": [
       56.72437033,
@@ -26889,7 +26889,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/114.png",
     "kaldenavn": null,
     "coords": [
       57.26602114,
@@ -26989,7 +26989,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1481.png",
     "kaldenavn": null,
     "coords": [
       55.35251254,
@@ -27014,7 +27014,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1209.png",
     "kaldenavn": null,
     "coords": [
       55.25079677,
@@ -27039,7 +27039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/627.png",
     "kaldenavn": null,
     "coords": [
       55.92457284,
@@ -27064,7 +27064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3844.png",
     "kaldenavn": null,
     "coords": [
       55.58934868,
@@ -27089,7 +27089,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1892.png",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -27114,7 +27114,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1211.png",
     "kaldenavn": null,
     "coords": [
       55.19504272,
@@ -27214,7 +27214,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/923.png",
     "kaldenavn": null,
     "coords": [
       55.38472069,
@@ -27264,7 +27264,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/890.png",
     "kaldenavn": null,
     "coords": [
       55.85051521,
@@ -27339,7 +27339,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/628.png",
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -27389,7 +27389,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/629.png",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -27414,7 +27414,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1213.png",
     "kaldenavn": null,
     "coords": [
       55.6579409,
@@ -27489,7 +27489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/366.png",
     "kaldenavn": null,
     "coords": [
       56.3042395,
@@ -27539,7 +27539,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/658.png",
     "kaldenavn": null,
     "coords": [
       56.42912946,
@@ -27564,7 +27564,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1216.png",
     "kaldenavn": null,
     "coords": [
       55.73825064,
@@ -27689,7 +27689,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/630.png",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -27789,7 +27789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3400.png",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -27814,7 +27814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/633.png",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -27839,7 +27839,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/116.png",
     "kaldenavn": null,
     "coords": [
       57.4674892,
@@ -27864,7 +27864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/322.png",
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -27889,7 +27889,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1992.png",
     "kaldenavn": null,
     "coords": [
       55.06237954,
@@ -27989,7 +27989,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/323.png",
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -28029,7 +28029,7 @@ export const clubs = [
     "dbuId": 117,
     "primaryColor": "#0055a4",
     "secondaryColor": "#ffffff",
-    "kitStyle": null,
+    "kitStyle": "plain",
     "email": "skagenik@skagennet.dk",
     "website": "http://www.skagenik.dk/",
     "phone": "2617 4614",
@@ -28064,7 +28064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1482.png",
     "kaldenavn": null,
     "coords": [
       55.39228422,
@@ -28089,7 +28089,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/118.png",
     "kaldenavn": null,
     "coords": [
       57.00928951,
@@ -28139,7 +28139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/119.png",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -28189,7 +28189,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/326.png",
     "kaldenavn": null,
     "coords": [
       56.59071095,
@@ -28239,7 +28239,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2020.png",
     "kaldenavn": null,
     "coords": [
       55.4763505,
@@ -28314,7 +28314,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/874.png",
     "kaldenavn": null,
     "coords": [
       54.8713804,
@@ -28364,7 +28364,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1219.png",
     "kaldenavn": null,
     "coords": [
       55.50779016,
@@ -28414,7 +28414,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1220.png",
     "kaldenavn": null,
     "coords": [
       55.75873813,
@@ -28464,7 +28464,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/637.png",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -28489,7 +28489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/121.png",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -28564,7 +28564,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/329.png",
     "kaldenavn": null,
     "coords": [
       55.99089664,
@@ -28639,7 +28639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/875.png",
     "kaldenavn": null,
     "coords": [
       55.38472069,
@@ -28739,7 +28739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2165.png",
     "kaldenavn": null,
     "coords": [
       55.72123589,
@@ -28814,7 +28814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/122.png",
     "kaldenavn": null,
     "coords": [
       57.10716869,
@@ -28839,7 +28839,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1579.png",
     "kaldenavn": null,
     "coords": [
       55.79609961,
@@ -28889,7 +28889,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/641.png",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -28914,7 +28914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1225.png",
     "kaldenavn": null,
     "coords": [
       55.17717085,
@@ -29014,7 +29014,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/124.png",
     "kaldenavn": null,
     "coords": [
       56.84944104,
@@ -29039,7 +29039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1489.png",
     "kaldenavn": null,
     "coords": [
       55.06735111,
@@ -29064,7 +29064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1229.png",
     "kaldenavn": null,
     "coords": [
       55.40887345,
@@ -29114,7 +29114,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1233.png",
     "kaldenavn": null,
     "coords": [
       55.80077298,
@@ -29139,7 +29139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1234.png",
     "kaldenavn": null,
     "coords": [
       55.85027208,
@@ -29189,7 +29189,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/655.png",
     "kaldenavn": null,
     "coords": [
       56.50265825,
@@ -29239,7 +29239,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/331.png",
     "kaldenavn": null,
     "coords": [
       56.11911505,
@@ -29289,7 +29289,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/644.png",
     "kaldenavn": null,
     "coords": [
       56.03661436,
@@ -29314,7 +29314,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/645.png",
     "kaldenavn": null,
     "coords": [
       55.81385497,
@@ -29389,7 +29389,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/879.png",
     "kaldenavn": null,
     "coords": [
       55.32447339,
@@ -29414,7 +29414,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/646.png",
     "kaldenavn": null,
     "coords": [
       56.17906349,
@@ -29464,7 +29464,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/881.png",
     "kaldenavn": null,
     "coords": [
       55.55332885,
@@ -29489,7 +29489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/332.png",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -29514,7 +29514,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/647.png",
     "kaldenavn": null,
     "coords": [
       56.54082727,
@@ -29589,7 +29589,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/333.png",
     "kaldenavn": null,
     "coords": [
       56.15361133,
@@ -29614,7 +29614,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3954.png",
     "kaldenavn": null,
     "coords": [
       55.88126308,
@@ -29639,7 +29639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1996.png",
     "kaldenavn": null,
     "coords": [
       57.16282327,
@@ -29664,7 +29664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/201.png",
     "kaldenavn": null,
     "coords": [
       56.62419195,
@@ -29714,7 +29714,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/648.png",
     "kaldenavn": null,
     "coords": [
       56.27022295,
@@ -29764,7 +29764,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/126.png",
     "kaldenavn": null,
     "coords": [
       57.00928951,
@@ -29814,7 +29814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/883.png",
     "kaldenavn": null,
     "coords": [
       55.24177268,
@@ -29864,7 +29864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/649.png",
     "kaldenavn": null,
     "coords": [
       56.12635244,
@@ -29889,7 +29889,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1242.png",
     "kaldenavn": null,
     "coords": [
       55.55246779,
@@ -29914,7 +29914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1243.png",
     "kaldenavn": null,
     "coords": [
       55.80077298,
@@ -29939,7 +29939,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/650.png",
     "kaldenavn": null,
     "coords": [
       55.86597915,
@@ -29964,7 +29964,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1491.png",
     "kaldenavn": null,
     "coords": [
       55.12556284,
@@ -29989,7 +29989,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/884.png",
     "kaldenavn": null,
     "coords": [
       55.35487274,
@@ -30014,7 +30014,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1694.png",
     "kaldenavn": null,
     "coords": [
       57.2843629,
@@ -30039,7 +30039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/652.png",
     "kaldenavn": null,
     "coords": [
       56.02388208,
@@ -30064,7 +30064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1246.png",
     "kaldenavn": null,
     "coords": [
       55.40887345,
@@ -30089,7 +30089,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/653.png",
     "kaldenavn": null,
     "coords": [
       56.17800104,
@@ -30114,7 +30114,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/338.png",
     "kaldenavn": null,
     "coords": [
       56.48444375,
@@ -30164,7 +30164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1247.png",
     "kaldenavn": null,
     "coords": [
       55.33554618,
@@ -30189,7 +30189,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1248.png",
     "kaldenavn": null,
     "coords": [
       55.93559156,
@@ -30289,7 +30289,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/128.png",
     "kaldenavn": null,
     "coords": [
       57.51074154,
@@ -30389,7 +30389,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/339.png",
     "kaldenavn": null,
     "coords": [
       56.52775554,
@@ -30439,7 +30439,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1598.png",
     "kaldenavn": null,
     "coords": [
       55.67082135,
@@ -30489,7 +30489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2756.png",
     "kaldenavn": null,
     "coords": [
       55.18306206,
@@ -30514,7 +30514,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/130.png",
     "kaldenavn": null,
     "coords": [
       56.89267972,
@@ -30739,7 +30739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1683.png",
     "kaldenavn": null,
     "coords": [
       55.30340399,
@@ -30814,7 +30814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/885.png",
     "kaldenavn": null,
     "coords": [
       55.06940698,
@@ -30864,7 +30864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1257.png",
     "kaldenavn": null,
     "coords": [
       55.71737311,
@@ -30889,7 +30889,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1258.png",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -30939,7 +30939,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/346.png",
     "kaldenavn": null,
     "coords": [
       56.68763915,
@@ -30964,7 +30964,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/233.png",
     "kaldenavn": null,
     "coords": [
       56.72425361,
@@ -31014,7 +31014,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3351.png",
     "kaldenavn": null,
     "coords": [
       55.75986358,
@@ -31039,7 +31039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3350.png",
     "kaldenavn": null,
     "coords": [
       55.61664144,
@@ -31064,7 +31064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1660.png",
     "kaldenavn": null,
     "coords": [
       54.7930621,
@@ -31164,7 +31164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/886.png",
     "kaldenavn": null,
     "coords": [
       55.55262453,
@@ -31189,7 +31189,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1498.png",
     "kaldenavn": null,
     "coords": [
       55.48691259,
@@ -31214,7 +31214,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/656.png",
     "kaldenavn": null,
     "coords": [
       56.25949156,
@@ -31264,7 +31264,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1662.png",
     "kaldenavn": null,
     "coords": [
       54.79935911,
@@ -31314,7 +31314,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/887.png",
     "kaldenavn": null,
     "coords": [
       54.9528525,
@@ -31339,7 +31339,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/888.png",
     "kaldenavn": null,
     "coords": [
       54.9528525,
@@ -31364,7 +31364,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1580.png",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -31439,7 +31439,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/891.png",
     "kaldenavn": null,
     "coords": [
       55.55262453,
@@ -31489,7 +31489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/135.png",
     "kaldenavn": null,
     "coords": [
       56.84292865,
@@ -31514,7 +31514,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/182.png",
     "kaldenavn": null,
     "coords": [
       56.89267972,
@@ -31664,7 +31664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/350.png",
     "kaldenavn": null,
     "coords": [
       55.89016003,
@@ -31689,7 +31689,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/893.png",
     "kaldenavn": null,
     "coords": [
       55.55332885,
@@ -31739,7 +31739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/661.png",
     "kaldenavn": null,
     "coords": [
       55.57103757,
@@ -31889,7 +31889,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1684.png",
     "kaldenavn": null,
     "coords": [
       55.36353136,
@@ -31914,7 +31914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/137.png",
     "kaldenavn": null,
     "coords": [
       56.81450196,
@@ -31964,7 +31964,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/663.png",
     "kaldenavn": null,
     "coords": [
       56.08668443,
@@ -32014,7 +32014,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/351.png",
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -32039,7 +32039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3747.png",
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -32114,7 +32114,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/353.png",
     "kaldenavn": null,
     "coords": [
       56.3103006,
@@ -32139,7 +32139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/140.png",
     "kaldenavn": null,
     "coords": [
       57.12742277,
@@ -32164,7 +32164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1505.png",
     "kaldenavn": null,
     "coords": [
       55.01443666,
@@ -32214,7 +32214,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/355.png",
     "kaldenavn": null,
     "coords": [
       56.62765212,
@@ -32264,7 +32264,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/665.png",
     "kaldenavn": null,
     "coords": [
       55.85744681,
@@ -32314,7 +32314,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/356.png",
     "kaldenavn": null,
     "coords": [
       57.32370377,
@@ -32364,7 +32364,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/755.png",
     "kaldenavn": null,
     "coords": [
       54.90310802,
@@ -32389,7 +32389,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1663.png",
     "kaldenavn": null,
     "coords": [
       54.7930621,
@@ -32414,7 +32414,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1945.png",
     "kaldenavn": null,
     "coords": [
       56.14931257,
@@ -32439,7 +32439,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/667.png",
     "kaldenavn": null,
     "coords": [
       56.14931257,
@@ -32489,7 +32489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1271.png",
     "kaldenavn": null,
     "coords": [
       56.12775807,
@@ -32539,7 +32539,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/895.png",
     "kaldenavn": null,
     "coords": [
       55.46029975,
@@ -32614,7 +32614,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/896.png",
     "kaldenavn": null,
     "coords": [
       55.18306206,
@@ -32639,7 +32639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1958.png",
     "kaldenavn": null,
     "coords": [
       55.25979308,
@@ -32689,7 +32689,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/143.png",
     "kaldenavn": null,
     "coords": [
       57.94281241,
@@ -32714,7 +32714,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1858.png",
     "kaldenavn": null,
     "coords": [
       56.15051496,
@@ -32739,7 +32739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1274.png",
     "kaldenavn": null,
     "coords": [
       55.58776321,
@@ -32764,7 +32764,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1508.png",
     "kaldenavn": null,
     "coords": [
       54.88518842,
@@ -32789,7 +32789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/144.png",
     "kaldenavn": null,
     "coords": [
       57.10716869,
@@ -32814,7 +32814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/178.png",
     "kaldenavn": null,
     "coords": [
       57.12742277,
@@ -32889,7 +32889,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/672.png",
     "kaldenavn": null,
     "coords": [
       56.36287517,
@@ -33039,7 +33039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1280.png",
     "kaldenavn": null,
     "coords": [
       55.59602755,
@@ -33064,7 +33064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1282.png",
     "kaldenavn": null,
     "coords": [
       55.73825064,
@@ -33089,7 +33089,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1283.png",
     "kaldenavn": null,
     "coords": [
       55.73825064,
@@ -33114,7 +33114,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1510.png",
     "kaldenavn": null,
     "coords": [
       55.01443666,
@@ -33139,7 +33139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/363.png",
     "kaldenavn": null,
     "coords": [
       56.34794414,
@@ -33164,7 +33164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/146.png",
     "kaldenavn": null,
     "coords": [
       57.20308117,
@@ -33264,7 +33264,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1285.png",
     "kaldenavn": null,
     "coords": [
       55.70601705,
@@ -33289,7 +33289,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/897.png",
     "kaldenavn": null,
     "coords": [
       54.95248429,
@@ -33314,7 +33314,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/675.png",
     "kaldenavn": null,
     "coords": [
       55.87483844,
@@ -33339,7 +33339,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1286.png",
     "kaldenavn": null,
     "coords": [
       55.79609961,
@@ -33389,7 +33389,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/136.png",
     "kaldenavn": null,
     "coords": [
       57.37825187,
@@ -33414,7 +33414,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1512.png",
     "kaldenavn": null,
     "coords": [
       55.23864739,
@@ -33514,7 +33514,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3892.png",
     "kaldenavn": null,
     "coords": [
       55.61730235,
@@ -33639,7 +33639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/365.png",
     "kaldenavn": null,
     "coords": [
       56.59071095,
@@ -33689,7 +33689,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/147.png",
     "kaldenavn": null,
     "coords": [
       56.96384115,
@@ -33764,7 +33764,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1290.png",
     "kaldenavn": null,
     "coords": [
       55.61818163,
@@ -33864,7 +33864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3840.png",
     "kaldenavn": null,
     "coords": [
       55.34939755,
@@ -33914,7 +33914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1291.png",
     "kaldenavn": null,
     "coords": [
       55.85027208,
@@ -33939,7 +33939,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/150.png",
     "kaldenavn": null,
     "coords": [
       57.11542161,
@@ -33964,7 +33964,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1587.png",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -34039,7 +34039,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/190.png",
     "kaldenavn": null,
     "coords": [
       56.6528756,
@@ -34064,7 +34064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/677.png",
     "kaldenavn": null,
     "coords": [
       55.41366579,
@@ -34189,7 +34189,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/899.png",
     "kaldenavn": null,
     "coords": [
       55.65607154,
@@ -34214,7 +34214,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/918.png",
     "kaldenavn": null,
     "coords": [
       55.02899493,
@@ -34239,7 +34239,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/666.png",
     "kaldenavn": null,
     "coords": [
       56.15788265,
@@ -34264,7 +34264,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/151.png",
     "kaldenavn": null,
     "coords": [
       56.77688954,
@@ -34339,7 +34339,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1518.png",
     "kaldenavn": null,
     "coords": [
       55.46255574,
@@ -34389,7 +34389,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1298.png",
     "kaldenavn": null,
     "coords": [
       56.09457775,
@@ -34439,7 +34439,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/902.png",
     "kaldenavn": null,
     "coords": [
       55.4784284,
@@ -34464,7 +34464,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/154.png",
     "kaldenavn": null,
     "coords": [
       57.05171431,
@@ -34564,7 +34564,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/685.png",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -34614,7 +34614,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1941.png",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -34689,7 +34689,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/369.png",
     "kaldenavn": null,
     "coords": [
       56.49762699,
@@ -34739,7 +34739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1301.png",
     "kaldenavn": null,
     "coords": [
       55.75497247,
@@ -34789,7 +34789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/371.png",
     "kaldenavn": null,
     "coords": [
       56.20098497,
@@ -34864,7 +34864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3733.png",
     "kaldenavn": null,
     "coords": [
       57.70230652,
@@ -34914,7 +34914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1519.png",
     "kaldenavn": null,
     "coords": [
       55.3195544,
@@ -34939,7 +34939,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1994.png",
     "kaldenavn": null,
     "coords": [
       55.96885636,
@@ -34964,7 +34964,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/155.png",
     "kaldenavn": null,
     "coords": [
       57.12732919,
@@ -34989,7 +34989,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/156.png",
     "kaldenavn": null,
     "coords": [
       57.09538719,
@@ -35014,7 +35014,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/181.png",
     "kaldenavn": null,
     "coords": [
       57.28432949,
@@ -35239,7 +35239,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3947.png",
     "kaldenavn": null,
     "coords": [
       55.51887316,
@@ -35389,7 +35389,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1702.png",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -35414,7 +35414,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/378.png",
     "kaldenavn": null,
     "coords": [
       56.41681148,
@@ -35464,7 +35464,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/379.png",
     "kaldenavn": null,
     "coords": [
       56.08052418,
@@ -35489,7 +35489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/270.png",
     "kaldenavn": null,
     "coords": [
       56.76132134,
@@ -35514,7 +35514,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1591.png",
     "kaldenavn": null,
     "coords": [
       55.64077611,
@@ -35539,7 +35539,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1685.png",
     "kaldenavn": null,
     "coords": [
       54.98495945,
@@ -35564,7 +35564,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/380.png",
     "kaldenavn": null,
     "coords": [
       56.18215286,
@@ -35639,7 +35639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/159.png",
     "kaldenavn": null,
     "coords": [
       56.95819912,
@@ -35664,7 +35664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/382.png",
     "kaldenavn": null,
     "coords": [
       56.2882506,
@@ -35689,7 +35689,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/383.png",
     "kaldenavn": null,
     "coords": [
       56.47769058,
@@ -35714,7 +35714,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/692.png",
     "kaldenavn": null,
     "coords": [
       55.69052913,
@@ -35739,7 +35739,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/384.png",
     "kaldenavn": null,
     "coords": [
       56.25194401,
@@ -35789,7 +35789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1310.png",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -35839,7 +35839,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/693.png",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -35889,7 +35889,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1313.png",
     "kaldenavn": null,
     "coords": [
       55.78962271,
@@ -35914,7 +35914,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/695.png",
     "kaldenavn": null,
     "coords": [
       56.29464717,
@@ -35964,7 +35964,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/908.png",
     "kaldenavn": null,
     "coords": [
       55.07311357,
@@ -35989,7 +35989,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1524.png",
     "kaldenavn": null,
     "coords": [
       55.39228422,
@@ -36064,7 +36064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1946.png",
     "kaldenavn": null,
     "coords": [
       56.49705855,
@@ -36089,7 +36089,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/696.png",
     "kaldenavn": null,
     "coords": [
       56.49705855,
@@ -36114,7 +36114,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/162.png",
     "kaldenavn": null,
     "coords": [
       57.09538719,
@@ -36164,7 +36164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/163.png",
     "kaldenavn": null,
     "coords": [
       57.2843629,
@@ -36189,7 +36189,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/910.png",
     "kaldenavn": null,
     "coords": [
       55.2436827,
@@ -36214,7 +36214,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2013.png",
     "kaldenavn": null,
     "coords": [
       55.2436827,
@@ -36239,7 +36239,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/699.png",
     "kaldenavn": null,
     "coords": [
       55.50221297,
@@ -36264,7 +36264,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1315.png",
     "kaldenavn": null,
     "coords": [
       55.65647451,
@@ -36314,7 +36314,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1314.png",
     "kaldenavn": null,
     "coords": [
       55.02464842,
@@ -36489,7 +36489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/165.png",
     "kaldenavn": null,
     "coords": [
       57.37190853,
@@ -36514,7 +36514,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1667.png",
     "kaldenavn": null,
     "coords": [
       54.66359732,
@@ -36539,7 +36539,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1317.png",
     "kaldenavn": null,
     "coords": [
       55.77912974,
@@ -36564,7 +36564,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/703.png",
     "kaldenavn": null,
     "coords": [
       56.41476356,
@@ -36589,7 +36589,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/149.png",
     "kaldenavn": null,
     "coords": [
       56.93195612,
@@ -36639,7 +36639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/711.png",
     "kaldenavn": null,
     "coords": [
       56.17147071,
@@ -36689,7 +36689,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1596.png",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -36764,7 +36764,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/914.png",
     "kaldenavn": null,
     "coords": [
       55.79347704,
@@ -36789,7 +36789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/706.png",
     "kaldenavn": null,
     "coords": [
       55.87483844,
@@ -36814,7 +36814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1321.png",
     "kaldenavn": null,
     "coords": [
       55.91156813,
@@ -36864,7 +36864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/389.png",
     "kaldenavn": null,
     "coords": [
       56.20098497,
@@ -36889,7 +36889,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1322.png",
     "kaldenavn": null,
     "coords": [
       55.78991195,
@@ -36939,7 +36939,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3357.png",
     "kaldenavn": null,
     "coords": [
       55.67362511,
@@ -37014,7 +37014,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1326.png",
     "kaldenavn": null,
     "coords": [
       55.22423719,
@@ -37064,7 +37064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/391.png",
     "kaldenavn": null,
     "coords": [
       56.59677993,
@@ -37089,7 +37089,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/708.png",
     "kaldenavn": null,
     "coords": [
       56.53413791,
@@ -37139,7 +37139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/709.png",
     "kaldenavn": null,
     "coords": [
       55.96885636,
@@ -37164,7 +37164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/171.png",
     "kaldenavn": null,
     "coords": [
       57.28432949,
@@ -37239,7 +37239,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/916.png",
     "kaldenavn": null,
     "coords": [
       55.38472069,
@@ -37264,7 +37264,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/712.png",
     "kaldenavn": null,
     "coords": [
       55.86467774,
@@ -37339,7 +37339,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1668.png",
     "kaldenavn": null,
     "coords": [
       54.68554952,
@@ -37364,7 +37364,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/921.png",
     "kaldenavn": null,
     "coords": [
       55.31137673,
@@ -37464,7 +37464,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1687.png",
     "kaldenavn": null,
     "coords": [
       55.1396331,
@@ -37489,7 +37489,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/176.png",
     "kaldenavn": null,
     "coords": [
       57.34034984,
@@ -37614,7 +37614,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/744.png",
     "kaldenavn": null,
     "coords": [
       55.02899493,
@@ -37639,7 +37639,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1.png",
     "kaldenavn": null,
     "coords": [
       57.16282327,
@@ -37664,7 +37664,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/419.png",
     "kaldenavn": null,
     "coords": [
       56.15196052,
@@ -37789,7 +37789,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1688.png",
     "kaldenavn": null,
     "coords": [
       54.6920138,
@@ -37814,7 +37814,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/4.png",
     "kaldenavn": null,
     "coords": [
       57.05171431,
@@ -37864,7 +37864,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3139.png",
     "kaldenavn": null,
     "coords": [
       56.89267972,
@@ -37939,7 +37939,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3417.png",
     "kaldenavn": null,
     "coords": [
       57.05171431,
@@ -38064,7 +38064,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/230.png",
     "kaldenavn": null,
     "coords": [
       56.69297871,
@@ -38089,7 +38089,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1329.png",
     "kaldenavn": null,
     "coords": [
       55.92123871,
@@ -38139,7 +38139,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1330.png",
     "kaldenavn": null,
     "coords": [
       55.70601705,
@@ -38164,7 +38164,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/428.png",
     "kaldenavn": null,
     "coords": [
       56.15051496,
@@ -38189,7 +38189,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3818.png",
     "kaldenavn": null,
     "coords": [
       56.12635244,
@@ -38214,7 +38214,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/733.png",
     "kaldenavn": null,
     "coords": [
       56.26151082,
@@ -38239,7 +38239,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/2093.png",
     "kaldenavn": null,
     "coords": [
       56.02388208,
@@ -38289,7 +38289,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/3729.png",
     "kaldenavn": null,
     "coords": [
       56.20167527,
@@ -38314,7 +38314,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/429.png",
     "kaldenavn": null,
     "coords": [
       56.17162148,
@@ -38389,7 +38389,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/1689.png",
     "kaldenavn": null,
     "coords": [
       54.98495945,
@@ -38464,7 +38464,7 @@ export const clubs = [
     "kitAwayJersey": null,
     "kitAwayShorts": null,
     "kitAwaySocks": null,
-    "logo": null,
+    "logo": "assets/logos/432.png",
     "kaldenavn": null,
     "coords": [
       56.43069147,
@@ -38510,9 +38510,15 @@ export function clubInitials(name) {
 }
 
 export function clubAbbreviation(name) {
+  const abbr = rawAbbreviation(name).replace(/[^A-ZÆØÅ0-9.]/gi, '').replace(/^\.+|\.+$/g, '');
+  return abbr || (name.match(/[A-ZÆØÅ0-9]/i)?.[0] ?? '?').toUpperCase();
+}
+
+function rawAbbreviation(name) {
   // Strip parenthetical content and normalize dots in suffixes (G.F. → GF)
   let n = name.trim()
     .replace(/\s*\(.*?\)\s*/g, ' ')  // remove (...)
+    .replace(/\s*\(.*$/, '')            // remove an unclosed "(…" (user-typed names)
     .replace(/\.(?=[A-ZÆØÅ])/g, '')     // remove dots in abbreviations like G.F. → GF
     .replace(/\.+$/, '')                // strip trailing dots
     .trim();
@@ -38553,23 +38559,58 @@ export function clubAbbreviation(name) {
   return words.filter(w => /[a-zæøå]/i.test(w)).slice(0, 3).map(w => w[0].toUpperCase()).join('');
 }
 
-export function clubBadgeSvg(name) {
+function isHex(c) {
+  return typeof c === 'string' && /^#([0-9a-f]{3}|[0-9a-f]{6})$/i.test(c);
+}
+
+function luminance(hex) {
+  let h = hex.slice(1);
+  if (h.length === 3) h = h.split('').map(x => x + x).join('');
+  const [r, g, b] = [0, 2, 4].map(i => {
+    const v = parseInt(h.slice(i, i + 2), 16) / 255;
+    return v <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4;
+  });
+  return 0.2126 * r + 0.7152 * g + 0.0722 * b;
+}
+
+function contrast(a, b) {
+  const [l1, l2] = [luminance(a), luminance(b)].sort((x, y) => y - x);
+  return (l1 + 0.05) / (l2 + 0.05);
+}
+
+/**
+ * Fallback badge: a circle with the club abbreviation.
+ * Pass { primaryColor, secondaryColor } (or a club object) for a club-colored
+ * monogram; without colors it renders the neutral grey badge.
+ */
+export function clubBadgeSvg(name, colors = {}) {
   const abbr = clubAbbreviation(name);
   // Scale font down for longer abbreviations so they fit the circle
   const size = abbr.length <= 2 ? 42
              : abbr.length === 3 ? 36
              : abbr.length === 4 ? 29
              : 23;
+
+  let fill = '#ebebeb', text = '#6b7280', ring = '';
+  if (isHex(colors.primaryColor)) {
+    fill = colors.primaryColor;
+    const light = luminance(fill) > 0.85;
+    const best = luminance(fill) > 0.35 ? '#1f2937' : '#ffffff';
+    text = isHex(colors.secondaryColor) && contrast(fill, colors.secondaryColor) >= 3 ? colors.secondaryColor : best;
+    // White/very light primaries need an edge so the circle doesn't disappear
+    if (light) ring = ` stroke="${isHex(colors.secondaryColor) ? colors.secondaryColor : '#d1d5db'}" stroke-width="4"`;
+  }
+
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <circle cx="50" cy="50" r="50" fill="#ebebeb"/>
+  <circle cx="50" cy="50" r="${ring ? 48 : 50}" fill="${fill}"${ring}/>
   <text x="50" y="50" dy="0.36em" text-anchor="middle"
     font-family="system-ui,-apple-system,sans-serif"
-    font-size="${size}" font-weight="600" fill="#6b7280">${abbr}</text>
+    font-size="${size}" font-weight="600" fill="${text}">${abbr}</text>
 </svg>`;
 }
 
-export function clubBadgeUrl(name) {
-  return 'data:image/svg+xml,' + encodeURIComponent(clubBadgeSvg(name));
+export function clubBadgeUrl(name, colors = {}) {
+  return 'data:image/svg+xml,' + encodeURIComponent(clubBadgeSvg(name, colors));
 }
 
 export function getULevel(birthYear) {
