@@ -1742,7 +1742,7 @@
     "primaryColor": "#ffffff",
     "secondaryColor": "#000000",
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/3721.png",
     "email": "b1908-amager@hotmail.com",
     "website": null,
     "phone": "3255 1908",
@@ -1756,7 +1756,9 @@
     "coords": [
       55.67362511,
       12.6554181
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3721-972001a91d.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3721-972001a91d.webp"
   },
   {
     "name": "B 1909",
@@ -4627,7 +4629,7 @@
     "primaryColor": "#001f5b",
     "secondaryColor": "#001f5b",
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/3744.png",
     "email": "kontakt@bd-fodbold.dk",
     "website": "http://www.brabrandfodbold.dk/",
     "phone": "2089 1254",
@@ -4641,7 +4643,9 @@
     "coords": [
       56.15788265,
       10.06788413
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3744-a339be21d8.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3744-a339be21d8.webp"
   },
   {
     "name": "Bramdrupdam GIF",
@@ -5234,10 +5238,10 @@
     "primaryColor": "#FFD200",
     "secondaryColor": "#012C92",
     "kitStyle": "plain",
-    "logo": null,
+    "logo": "assets/logos/3700.png",
     "abbreviation": "BIF",
     "email": "faktura@brondby.com",
-    "website": null,
+    "website": "https://brondby.com/",
     "phone": "4363 0810",
     "kitHomeJersey": null,
     "kitHomeShorts": null,
@@ -5250,7 +5254,9 @@
       55.64503648,
       12.40439537
     ],
-    "kitLocked": true
+    "kitLocked": true,
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3700-b60b4e90f2.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3700-b60b4e90f2.webp"
   },
   {
     "name": "Brøndby Strand IK",
@@ -5342,7 +5348,7 @@
     "primaryColor": null,
     "secondaryColor": null,
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/3712.png",
     "email": "kmadsen@post6.tele.dk",
     "website": null,
     "phone": "3826 2524",
@@ -5356,7 +5362,9 @@
     "coords": [
       55.70964347,
       12.48463422
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3712-123d0bcf41.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3712-123d0bcf41.webp"
   },
   {
     "name": "Brønshøj Boldklub",
@@ -8533,9 +8541,9 @@
     "primaryColor": "#cc0000",
     "secondaryColor": null,
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/3713.png",
     "email": "sp@fcfredericia.dk",
-    "website": null,
+    "website": "https://fcfredericia.dk/",
     "phone": "7592 7766",
     "kitHomeJersey": null,
     "kitHomeShorts": null,
@@ -8547,7 +8555,9 @@
     "coords": [
       55.57103757,
       9.66918005
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3713-cafd24c9f1.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3713-cafd24c9f1.webp"
   },
   {
     "name": "FC Faaborg",
@@ -8664,7 +8674,7 @@
     "primaryColor": null,
     "secondaryColor": "#ffffff",
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/3745.png",
     "email": "mail@fchelsingor.dk",
     "website": null,
     "phone": "6018 9855",
@@ -8678,7 +8688,9 @@
     "coords": [
       56.03943161,
       12.61245096
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3745-6416705e6c.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3745-6416705e6c.webp"
   },
   {
     "name": "FC Hjallese",
@@ -8982,7 +8994,7 @@
     "primaryColor": "#ffffff",
     "secondaryColor": "#0056d6",
     "kitStyle": "plain",
-    "logo": null,
+    "logo": "assets/logos/3710.png",
     "abbreviation": "FCK",
     "email": "invoice@fck.dk",
     "website": null,
@@ -8997,7 +9009,9 @@
     "coords": [
       55.7109795,
       12.57364633
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3710-613b1a8cff.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3710-613b1a8cff.webp"
   },
   {
     "name": "FC Lejre",
@@ -9060,10 +9074,10 @@
     "primaryColor": "#000000",
     "secondaryColor": "#b51a00",
     "kitStyle": "plain",
-    "logo": null,
+    "logo": "assets/logos/3705.png",
     "abbreviation": "FCM",
     "email": "faktura@fcm.dk",
-    "website": null,
+    "website": "https://www.fcm.dk/",
     "phone": "9627 1040",
     "kitHomeJersey": null,
     "kitHomeShorts": null,
@@ -9075,7 +9089,9 @@
     "coords": [
       56.11911505,
       8.98775376
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3705-07f39ce84f.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3705-07f39ce84f.webp"
   },
   {
     "name": "FC Nakskov",
@@ -9138,9 +9154,9 @@
     "primaryColor": "#cc0000",
     "secondaryColor": null,
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/3702.png",
     "email": "ag@fcn.dk",
-    "website": null,
+    "website": "https://fcn.dk/",
     "phone": "4434 2500",
     "kitHomeJersey": null,
     "kitHomeShorts": null,
@@ -9152,7 +9168,9 @@
     "coords": [
       55.81981968,
       12.35067108
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3702-e50265d4c0.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3702-e50265d4c0.webp"
   },
   {
     "name": "FC Nyhavn",
@@ -14237,9 +14255,9 @@
     "primaryColor": null,
     "secondaryColor": null,
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/3714.png",
     "email": "faktura@hbkoge.dk",
-    "website": null,
+    "website": "https://hbkoge.dk/",
     "phone": "5627 6021",
     "kitHomeJersey": null,
     "kitHomeShorts": null,
@@ -14251,7 +14269,9 @@
     "coords": [
       55.45527126,
       12.22015308
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3714-9d0ff441e0.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3714-9d0ff441e0.webp"
   },
   {
     "name": "Hedemølle Efterskole",
@@ -15501,7 +15521,7 @@
     "primaryColor": "#f5d000",
     "secondaryColor": null,
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/3704.png",
     "email": "faktura@hikfodbold.dk",
     "website": null,
     "phone": "9852 1194",
@@ -15515,7 +15535,9 @@
     "coords": [
       56.6528756,
       9.77366901
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3704-8cdbc0cca8.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3704-8cdbc0cca8.webp"
   },
   {
     "name": "Hodsager UF",
@@ -15580,9 +15602,9 @@
     "primaryColor": "#0055a4",
     "secondaryColor": "#ffffff",
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/3724.png",
     "email": "janusblond1@hotmail.com",
-    "website": "http://www.nvfc.dk/",
+    "website": "https://www.hbi.dk/",
     "phone": null,
     "kitHomeJersey": null,
     "kitHomeShorts": null,
@@ -15594,7 +15616,9 @@
     "coords": [
       55.73825064,
       11.69985606
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3724-e0b57b6bfa.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3724-e0b57b6bfa.webp"
   },
   {
     "name": "Holbæk 10. klassecenter",
@@ -17077,7 +17101,7 @@
     "primaryColor": "#cc0000",
     "secondaryColor": null,
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/3716.png",
     "email": "faktura@hvidovrefodbold.dk",
     "website": null,
     "phone": "3678 1772",
@@ -17091,7 +17115,9 @@
     "coords": [
       55.58934868,
       12.46097002
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3716-2f60244701.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3716-2f60244701.webp"
   },
   {
     "name": "Hylke Fodboldklub",
@@ -22366,7 +22392,7 @@
     "primaryColor": "#0055a4",
     "secondaryColor": null,
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/3717.png",
     "email": "lyngby-boldklub@invoicedrop.com",
     "website": null,
     "phone": "4588 4060",
@@ -22380,7 +22406,9 @@
     "coords": [
       55.78572204,
       12.52083673
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3717-b06032d6e7.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3717-b06032d6e7.webp"
   },
   {
     "name": "Lyngby Boldklub 1921",
@@ -24788,7 +24816,7 @@
     "primaryColor": null,
     "secondaryColor": "#0055a4",
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/3746.png",
     "email": "bp@nykobingfc.dk",
     "website": "http://www.nykobingfc.dk/",
     "phone": "5482 1994",
@@ -24802,7 +24830,9 @@
     "coords": [
       54.7930621,
       11.90198993
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3746-502998bfdf.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3746-502998bfdf.webp"
   },
   {
     "name": "Nykøbing IF",
@@ -26518,9 +26548,9 @@
     "primaryColor": "#6ab4f5",
     "secondaryColor": null,
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/3707.png",
     "email": "faktura@randersfc.dk",
-    "website": null,
+    "website": "https://randersfc.dk/",
     "phone": "8641 5122",
     "kitHomeJersey": null,
     "kitHomeShorts": null,
@@ -26532,7 +26562,9 @@
     "coords": [
       56.48050883,
       9.88044731
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3707-022310b5ab.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3707-022310b5ab.webp"
   },
   {
     "name": "Randers Fodbolddommerklub",
@@ -29085,7 +29117,7 @@
     "primaryColor": "#cc0000",
     "secondaryColor": null,
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/3708.png",
     "email": "bogholderi@silkeborgif.com",
     "website": null,
     "phone": "8680 4477",
@@ -29099,7 +29131,9 @@
     "coords": [
       56.17147071,
       9.4900253
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3708-69bd74009b.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3708-69bd74009b.webp"
   },
   {
     "name": "Silkeborg B",
@@ -33034,9 +33068,9 @@
     "primaryColor": "#6ab4f5",
     "secondaryColor": null,
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/3703.png",
     "email": "SJAS-1593874@e-faktura.ey.dk",
-    "website": null,
+    "website": "https://soenderjyskefodbold.dk/",
     "phone": "7452 5299",
     "kitHomeJersey": null,
     "kitHomeShorts": null,
@@ -33048,7 +33082,9 @@
     "coords": [
       55.24177268,
       9.61886938
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3703-53afd51b32.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3703-53afd51b32.webp"
   },
   {
     "name": "Sønderris SK",
@@ -36320,7 +36356,7 @@
     "primaryColor": "#cc0000",
     "secondaryColor": null,
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/3718.png",
     "email": "bk@vejle-boldklub.dk",
     "website": null,
     "phone": "7572 7500",
@@ -36334,7 +36370,9 @@
     "coords": [
       55.69052913,
       9.5066267
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3718-c2f3926ec3.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3718-c2f3926ec3.webp"
   },
   {
     "name": "Vejle FC",
@@ -37123,7 +37161,7 @@
     "primaryColor": "#008000",
     "secondaryColor": null,
     "kitStyle": null,
-    "logo": null,
+    "logo": "assets/logos/3719.png",
     "email": "Larsk@vff.dk",
     "website": null,
     "phone": "8660 1066",
@@ -37137,7 +37175,9 @@
     "coords": [
       56.41681148,
       9.36897659
-    ]
+    ],
+    "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3719-183ea9817b.png",
+    "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3719-183ea9817b.webp"
   },
   {
     "name": "Viborg B67",
