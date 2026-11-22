@@ -1,3 +1,7 @@
 node_modules/
 .DS_Store
 .env
+assets/logo-candidates/
+logoCandidates.json
+logoQueue.json
+logoJudgeBatch.json

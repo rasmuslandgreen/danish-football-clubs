@@ -65,35 +65,11 @@ limitation of name-based deduplication. In practice it has not been an issue.
 
 ## Logos
 
-All clubs currently have `logo: null`. DBU does not expose logos through their
-public pages, so they have to be added manually.
+Logos live in `assets/logos/{dbuId}.png` and are linked into `clubs.json` by `npm run logos`
+(`scripts/mergeLogos.js`). Because they are keyed by `dbuId` and re-linked from the files,
+**they survive a re-scrape**: run `npm run logos` after `npm run scrape`.
 
-### How to add a logo
-
-1. Save the image to `assets/logos/` — name it after the club's `dbuId`:
-   ```
-   assets/logos/1567.png   ← Kjøbenhavns Boldklub (dbuId 1567)
-   ```
-2. Edit `clubs.json` and set the `logo` field for that club:
-   ```json
-   { "name": "Kjøbenhavns Boldklub", "dbuId": 1567, "logo": "assets/logos/1567.png", ... }
-   ```
-3. Run `npm run build` to update `index.js`.
-
-### Surviving a re-scrape
-
-Because `npm run scrape` overwrites `clubs.json` completely, any logos you have
-set will be lost unless you re-apply them afterwards.
-
-**Recommended workflow when logos are in use:**
-
-1. Keep a separate `logos.json` file that maps `dbuId → logo path`
-2. After each scrape, run a small merge script that reads `clubs.json` +
-   `logos.json` and writes the combined result back to `clubs.json` before
-   building
-
-A `scripts/mergeLogs.js` script for this does not exist yet — it is a natural
-next step once logos are being actively used.
+To find, choose and export new logos, see "Logo pipeline" in [WORKFLOW.md](WORKFLOW.md).
 
 ---
 

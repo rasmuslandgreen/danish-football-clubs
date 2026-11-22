@@ -55,9 +55,15 @@ export function clubInitials(name) {
 }
 
 export function clubAbbreviation(name) {
+  const abbr = rawAbbreviation(name).replace(/[^A-ZÆØÅ0-9.]/gi, '').replace(/^\\.+|\\.+$/g, '');
+  return abbr || (name.match(/[A-ZÆØÅ0-9]/i)?.[0] ?? '?').toUpperCase();
+}
+
+function rawAbbreviation(name) {
   // Strip parenthetical content and normalize dots in suffixes (G.F. → GF)
   let n = name.trim()
     .replace(/\\s*\\(.*?\\)\\s*/g, ' ')  // remove (...)
+    .replace(/\\s*\\(.*$/, '')            // remove an unclosed "(…" (user-typed names)
     .replace(/\\.(?=[A-ZÆØÅ])/g, '')     // remove dots in abbreviations like G.F. → GF
     .replace(/\\.+$/, '')                // strip trailing dots
     .trim();
@@ -98,23 +104,58 @@ export function clubAbbreviation(name) {
   return words.filter(w => /[a-zæøå]/i.test(w)).slice(0, 3).map(w => w[0].toUpperCase()).join('');
 }
 
-export function clubBadgeSvg(name) {
+function isHex(c) {
+  return typeof c === 'string' && /^#([0-9a-f]{3}|[0-9a-f]{6})$/i.test(c);
+}
+
+function luminance(hex) {
+  let h = hex.slice(1);
+  if (h.length === 3) h = h.split('').map(x => x + x).join('');
+  const [r, g, b] = [0, 2, 4].map(i => {
+    const v = parseInt(h.slice(i, i + 2), 16) / 255;
+    return v <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4;
+  });
+  return 0.2126 * r + 0.7152 * g + 0.0722 * b;
+}
+
+function contrast(a, b) {
+  const [l1, l2] = [luminance(a), luminance(b)].sort((x, y) => y - x);
+  return (l1 + 0.05) / (l2 + 0.05);
+}
+
+/**
+ * Fallback badge: a circle with the club abbreviation.
+ * Pass { primaryColor, secondaryColor } (or a club object) for a club-colored
+ * monogram; without colors it renders the neutral grey badge.
+ */
+export function clubBadgeSvg(name, colors = {}) {
   const abbr = clubAbbreviation(name);
   // Scale font down for longer abbreviations so they fit the circle
   const size = abbr.length <= 2 ? 42
              : abbr.length === 3 ? 36
              : abbr.length === 4 ? 29
              : 23;
+
+  let fill = '#ebebeb', text = '#6b7280', ring = '';
+  if (isHex(colors.primaryColor)) {
+    fill = colors.primaryColor;
+    const light = luminance(fill) > 0.85;
+    const best = luminance(fill) > 0.35 ? '#1f2937' : '#ffffff';
+    text = isHex(colors.secondaryColor) && contrast(fill, colors.secondaryColor) >= 3 ? colors.secondaryColor : best;
+    // White/very light primaries need an edge so the circle doesn't disappear
+    if (light) ring = \` stroke="\${isHex(colors.secondaryColor) ? colors.secondaryColor : '#d1d5db'}" stroke-width="4"\`;
+  }
+
   return \`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <circle cx="50" cy="50" r="50" fill="#ebebeb"/>
+  <circle cx="50" cy="50" r="\${ring ? 48 : 50}" fill="\${fill}"\${ring}/>
   <text x="50" y="50" dy="0.36em" text-anchor="middle"
     font-family="system-ui,-apple-system,sans-serif"
-    font-size="\${size}" font-weight="600" fill="#6b7280">\${abbr}</text>
+    font-size="\${size}" font-weight="600" fill="\${text}">\${abbr}</text>
 </svg>\`;
 }
 
-export function clubBadgeUrl(name) {
-  return 'data:image/svg+xml,' + encodeURIComponent(clubBadgeSvg(name));
+export function clubBadgeUrl(name, colors = {}) {
+  return 'data:image/svg+xml,' + encodeURIComponent(clubBadgeSvg(name, colors));
 }
 
 export function getULevel(birthYear) {

@@ -25,7 +25,9 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "@supabase/supabase-js": "^2.106.0"
+    "@anthropic-ai/sdk": "^1.12.0",
+    "@supabase/supabase-js": "^2.106.0",
+    "sharp": "^0.35.5"
   },
   "scripts": {
     "scrape": "node scripts/scrapeClubs.js",
@@ -40,7 +42,15 @@
     "build-all": "npm run build && npm run build-teams && npm run build-bydel",
     "editor": "node scripts/editor-server.js",
     "sync-kits": "node scripts/syncKitContributions.js && node scripts/buildIndex.js",
-    "release": "git push origin main && git push origin v$npm_package_version"
+    "release": "git push origin main && git push origin v$npm_package_version",
+    "logos:queue": "node scripts/logos/priority.js",
+    "logos:harvest": "node scripts/logos/harvestDbuLogos.js",
+    "logos:collect": "node scripts/logos/collectCandidates.js",
+    "logos:judge": "node scripts/logos/judgeCandidates.js",
+    "logos:prep": "node scripts/logos/prepLogo.js",
+    "logos:pipeline": "npm run logos:queue && npm run logos:collect && npm run logos:judge && npm run logos:prep",
+    "logos:status": "node scripts/logos/placement.js status",
+    "logos:export": "node scripts/logos/exportFromFigma.js && npm run logos"
   },
   "dependencies": {
     "google-play-scraper": "^10.1.3"

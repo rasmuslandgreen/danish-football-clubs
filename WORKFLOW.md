@@ -5,7 +5,34 @@ Both result in a new release that consuming apps (Opstillingen) pull in by updat
 
 ---
 
-## Adding a new logo
+## Logo pipeline (automated)
+
+The Figma logo file stays the master copy: one 500×500 frame per club, named by `dbuId`.
+Scripts find and pick the crests. Claude places them in Figma through the Figma MCP,
+you review them in Figma, and a script exports the approved frames.
+
+| Step | Command | What it does |
+|---|---|---|
+| 1 | `npm run logos:queue` | `logoQueue.json`: clubs without a logo, clubs registered in Opstillingen first |
+| 2 | `npm run logos:harvest` | `dbuLogoIndex.json`: official DBU crests, harvested from the match widgets on ~400 DBU klubcms sites (run once per season) |
+| 3 | `npm run logos:collect` | Downloads every candidate image (DBU crest, website header/JSON-LD/icons, Wikidata, `logos-raw/`) to `assets/logo-candidates/{dbuId}/` |
+| 4 | `npm run logos:judge` | Claude (vision) picks the real crest per club and rates its confidence → `logoJudgements.json`. For big runs use `BATCH=1` (half price, async) |
+| 5 | `npm run logos:prep` | Trims and rasterizes the chosen image, and upscales small ones → `prepared.png` |
+| 6 | Ask Claude: *"place the next 30 logos in Figma"* | Uses `node scripts/logos/placement.js next 30`, fills the frames via the Figma MCP, and marks them `needs-review` |
+| 7 | Review in Figma | Adjust as you like. Tell Claude which ones are wrong, or *"approve all"* (runs `placement.js approve all`) |
+| 8 | `npm run logos:export` | Exports approved frames from Figma (REST API) → `assets/logos/{dbuId}.png` at 500×500, compressed, then runs `npm run logos` |
+| 9 | Release via the Klub Editor "Udgiv" button, or the steps below | |
+
+Steps 1–5 together: `npm run logos:pipeline`. All scripts accept `ONLY_IDS=1,2,3`. `logos:collect` and `logos:judge` also accept `LIMIT=N`.
+Check progress with `npm run logos:status`.
+
+`.env` needs `ANTHROPIC_API_KEY`, `FIGMA_TOKEN` (scope **File content: Read-only**), `FIGMA_FILE_KEY`,
+and the Supabase keys. Clubs with no crest anywhere fall back to `clubBadgeUrl(name, { primaryColor, secondaryColor })`,
+a monogram in the club's colors.
+
+---
+
+## Adding a new logo by hand
 
 1. Find the club's `dbuId` — it's in `clubs.json` next to the club name.
 2. Save the logo as a PNG (or JPG/SVG/WebP), named `{dbuId}.png` — e.g. `3700.png` for Brøndby IF.
