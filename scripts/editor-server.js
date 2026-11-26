@@ -1905,48 +1905,26 @@ const server = http.createServer((req, res) => {
         cwd:   ROOT,
       },
       {
+        // Commits and pushes only the CDN file, so other local edits stay out of it.
         label: 'Opdater CDN-version i opstillingen',
-        cmd:   `node -e "const fs=require('fs'),v=require('${PKG_PATH}').version,f='${COMBOBOX_PATH}';let c=fs.readFileSync(f,'utf8');const m=c.match(/const _CLUBS_CDN\\s*=\\s*'(https:[^']+)'/);if(m)c=c.replace(/const _CLUBS_CDN_PREV\\s*=\\s*'https:[^']+'/, \\"const _CLUBS_CDN_PREV = '\\"+m[1]+\\"'\\");c=c.replace(/danish-football-clubs@v[\\d.]+/,'danish-football-clubs@v'+v);fs.writeFileSync(f,c);console.log('CDN bumped to v'+v)"`,
+        cmd:   `node scripts/bumpConsumer.js "${OPSTILLINGEN_PATH}" src/utils/klub-combobox.js`,
         cwd:   ROOT,
-      },
-      {
-        label: 'Commit og push opstillingen',
-        cmd:   `VERSION=$(node -e "process.stdout.write(require('${PKG_PATH}').version)") && git add src/utils/klub-combobox.js && git commit -m "Bump danish-football-clubs to v$VERSION" && git push origin main`,
-        cwd:   OPSTILLINGEN_PATH,
       },
     ];
 
-    // Add findenklub consumer steps once its CDN config file is set above.
-    if (FINDENKLUB_APP_PATH && fs.existsSync(FINDENKLUB_APP_PATH)) {
-      steps.push(
-        {
-          label: 'Opdater CDN-version i findenklub',
-          cmd:   `node -e "const fs=require('fs'),v=require('${PKG_PATH}').version,f='${FINDENKLUB_APP_PATH}';let c=fs.readFileSync(f,'utf8');const m=c.match(/const _CLUBS_CDN\\s*=\\s*'(https:[^']+)'/);if(m)c=c.replace(/const _CLUBS_CDN_PREV\\s*=\\s*'https:[^']+'/, \\"const _CLUBS_CDN_PREV = '\\"+m[1]+\\"'\\");c=c.replace(/danish-football-clubs@v[\\d.]+/,'danish-football-clubs@v'+v);fs.writeFileSync(f,c);console.log('CDN bumped to v'+v)"`,
-          cwd:   ROOT,
-        },
-        {
-          label: 'Commit og push findenklub',
-          cmd:   `VERSION=$(node -e "process.stdout.write(require('${PKG_PATH}').version)") && git add -u && git commit -m "Bump danish-football-clubs to v$VERSION" && git push origin main`,
-          cwd:   FINDENKLUB_PATH,
-        }
-      );
-    }
+    if (fs.existsSync(FINDENKLUB_APP_PATH)) steps.push({
+      label: 'Opdater CDN-version i findenklub',
+      cmd:   `node scripts/bumpConsumer.js "${FINDENKLUB_PATH}" "${path.relative(FINDENKLUB_PATH, FINDENKLUB_APP_PATH)}"`,
+      cwd:   ROOT,
+    });
 
-    // Add dashboard consumer steps once its CDN config file is set above.
-    if (DASHBOARD_APP_PATH && fs.existsSync(DASHBOARD_APP_PATH)) {
-      steps.push(
-        {
-          label: 'Opdater CDN-version i dashboard',
-          cmd:   `node -e "const fs=require('fs'),v=require('${PKG_PATH}').version,f='${DASHBOARD_APP_PATH}';let c=fs.readFileSync(f,'utf8');c=c.replace(/danish-football-clubs@v[\\d.]+/,'danish-football-clubs@v'+v);fs.writeFileSync(f,c);console.log('CDN bumped to v'+v)"`,
-          cwd:   ROOT,
-        },
-        {
-          label: 'Commit og push dashboard',
-          cmd:   `VERSION=$(node -e "process.stdout.write(require('${PKG_PATH}').version)") && git add -u && git commit -m "Bump danish-football-clubs to v$VERSION" && git push origin main`,
-          cwd:   DASHBOARD_PATH,
-        }
-      );
-    }
+    // The dashboard bump runs in a temporary checkout of GitHub's main, so the
+    // local copy (which may be behind or hold unsaved work) is never touched.
+    if (fs.existsSync(DASHBOARD_APP_PATH)) steps.push({
+      label: 'Opdater CDN-version i dashboard',
+      cmd:   `node scripts/bumpConsumer.js "${DASHBOARD_PATH}" "${path.relative(DASHBOARD_PATH, DASHBOARD_APP_PATH)}" --worktree`,
+      cwd:   ROOT,
+    });
 
     sseRun(res, steps, () => { releaseInProgress = false; });
     return;
