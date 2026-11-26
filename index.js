@@ -108,7 +108,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3711-cae084b3d0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3711-cae084b3d0.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "AB",
     "aliases": [],
     "coords": [
       55.73800813,
@@ -195,7 +195,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3715-43e5cfd25b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3715-43e5cfd25b.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "AC Horsens",
     "aliases": [],
     "coords": [
       55.86597915,
@@ -311,7 +311,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2101-1e77c42539.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2101-1e77c42539.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Agedrup-Bullerup BK",
     "aliases": [],
     "coords": [
       55.43442698,
@@ -369,7 +369,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/748-6fbef9892b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/748-6fbef9892b.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Agerskov UF",
     "aliases": [],
     "coords": [
       55.12832485,
@@ -427,7 +427,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3699-b0b4ba23ad.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3699-b0b4ba23ad.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "AGF",
     "aliases": [],
     "coords": [
       56.15051496,
@@ -456,7 +456,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/421-091be43c8f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/421-091be43c8f.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "AGF",
     "aliases": [],
     "coords": [
       56.12635244,
@@ -572,7 +572,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1251-bb18a92099.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1251-bb18a92099.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "AIK 65 Strøby",
     "aliases": [],
     "coords": [
       55.42088958,
@@ -630,7 +630,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/948-7c936f94e1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/948-7c936f94e1.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Albertslund BS",
     "aliases": [],
     "coords": [
       55.6869516,
@@ -775,7 +775,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1141-72001a9d12.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1141-72001a9d12.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Allerød FK",
     "aliases": [],
     "coords": [
       55.86605512,
@@ -891,7 +891,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1671-d47e6cd893.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1671-d47e6cd893.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "ASG",
     "aliases": [],
     "coords": [
       55.36353136,
@@ -1094,7 +1094,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1538-9b03879162.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1538-9b03879162.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Amager FF",
     "aliases": [],
     "coords": [
       55.63352245,
@@ -1500,7 +1500,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3423-032dc0719a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3423-032dc0719a.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Arrild IF",
     "aliases": [],
     "coords": [
       55.18306206,
@@ -1587,7 +1587,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/423-0eacf45265.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/423-0eacf45265.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "ASA",
     "aliases": [],
     "coords": [
       56.15051496,
@@ -1877,7 +1877,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3720-bd042415f7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3720-bd042415f7.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Avarta",
     "aliases": [],
     "coords": [
       55.68182922,
@@ -1935,7 +1935,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3721-972001a91d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3721-972001a91d.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "B 1908",
     "aliases": [],
     "coords": [
       55.67362511,
@@ -2196,7 +2196,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/416-89cfa03b66.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/416-89cfa03b66.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "B 83",
     "aliases": [],
     "coords": [
       56.46317549,
@@ -2225,7 +2225,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3722-af201372f8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3722-af201372f8.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "B.93",
     "aliases": [],
     "coords": [
       55.7109795,
@@ -2283,7 +2283,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1069-6a454dda20.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1069-6a454dda20.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "B.1973",
     "aliases": [],
     "coords": [
       55.74057031,
@@ -2312,7 +2312,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1227-40390be896.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1227-40390be896.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "B.73 Slagelse",
     "aliases": [],
     "coords": [
       55.40887345,
@@ -2341,7 +2341,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1202-9c4755d3e1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1202-9c4755d3e1.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "B.77",
     "aliases": [],
     "coords": [
       55.68182922,
@@ -2370,7 +2370,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1312-4d4f20c3f6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1312-4d4f20c3f6.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "B.82",
     "aliases": [],
     "coords": [
       55.78962271,
@@ -2457,7 +2457,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3-450e62da42.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3-450e62da42.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "B52/Aalborg",
     "aliases": [],
     "coords": [
       56.9991663,
@@ -2573,7 +2573,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3921-896c396521.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3921-896c396521.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Ballerup BK",
     "aliases": [],
     "coords": [
       55.73668449,
@@ -2602,7 +2602,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2131-3894631732.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2131-3894631732.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "BSF",
     "aliases": [],
     "coords": [
       55.73668449,
@@ -2747,7 +2747,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/939-4bb9c95cd0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/939-4bb9c95cd0.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Beder FK",
     "aliases": [],
     "coords": [
       56.06302044,
@@ -3124,7 +3124,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1624-44fe21c717.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1624-44fe21c717.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Birket BK",
     "aliases": [],
     "coords": [
       55.05662783,
@@ -3153,7 +3153,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1542-43fa78b6b5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1542-43fa78b6b5.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Bispebjerg BK",
     "aliases": [],
     "coords": [
       55.71256101,
@@ -3385,7 +3385,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1237-c97f405c51.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1237-c97f405c51.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "BK 96",
     "aliases": [],
     "coords": [
       55.5150734,
@@ -3414,7 +3414,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/958-62e9c7f180.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/958-62e9c7f180.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Avarta",
     "aliases": [],
     "coords": [
       55.68182922,
@@ -3443,7 +3443,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3742-1b69d19895.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3742-1b69d19895.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Frem",
     "aliases": [],
     "coords": [
       55.64077611,
@@ -3530,7 +3530,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1493-3af10027ed.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1493-3af10027ed.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Stjernen",
     "aliases": [],
     "coords": [
       55.01443666,
@@ -3559,7 +3559,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1304-0e7e1c51ae.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1304-0e7e1c51ae.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "BK Vest",
     "aliases": [],
     "coords": [
       55.68182922,
@@ -3878,7 +3878,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1362-821f5084a1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1362-821f5084a1.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Bogense G&IF",
     "aliases": [],
     "coords": [
       55.6129967,
@@ -3965,7 +3965,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1533-97ee16fcc9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1533-97ee16fcc9.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "B 1903",
     "aliases": [],
     "coords": [
       55.73442051,
@@ -3994,7 +3994,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1534-72aeeab549.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1534-72aeeab549.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "B 1908",
     "aliases": [],
     "coords": [
       55.67362511,
@@ -4023,7 +4023,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1536-be3b5c9562.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1536-be3b5c9562.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "B.1960",
     "aliases": [],
     "coords": [
       55.71256101,
@@ -4052,7 +4052,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1532-516facda12.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1532-516facda12.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "B.93",
     "aliases": [],
     "coords": [
       55.7109795,
@@ -4081,7 +4081,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1540-6983e545c3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1540-6983e545c3.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Amalie",
     "aliases": [],
     "coords": [
       55.67362511,
@@ -4139,7 +4139,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1603-b18d57e359.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1603-b18d57e359.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Døvania",
     "aliases": [],
     "coords": [
       55.6940569,
@@ -4168,7 +4168,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3161-ee8c3e85b5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3161-ee8c3e85b5.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Enghaven",
     "aliases": [],
     "coords": [
       55.35251254,
@@ -4197,7 +4197,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1599-6906778c03.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1599-6906778c03.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Fix",
     "aliases": [],
     "coords": [
       55.70964347,
@@ -4226,7 +4226,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1552-bb549b755c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1552-bb549b755c.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Frem",
     "aliases": [],
     "coords": [
       55.64077611,
@@ -4255,7 +4255,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1553-66d093d09c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1553-66d093d09c.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Fremad Amager",
     "aliases": [],
     "coords": [
       55.67362511,
@@ -4284,7 +4284,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1554-bfd8bfe4b9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1554-bfd8bfe4b9.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Fremad Valby",
     "aliases": [],
     "coords": [
       55.64077611,
@@ -4313,7 +4313,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1559-a28612c47d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1559-a28612c47d.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Heimdal",
     "aliases": [],
     "coords": [
       55.7109795,
@@ -4342,7 +4342,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1560-e98df522df.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1560-e98df522df.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Hekla",
     "aliases": [],
     "coords": [
       55.67362511,
@@ -4371,7 +4371,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/278-6a35cace94.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/278-6a35cace94.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "BK Klitten",
     "aliases": [],
     "coords": [
       55.93212987,
@@ -4429,7 +4429,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1572-d07649aae6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1572-d07649aae6.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Olympia 1921",
     "aliases": [],
     "coords": [
       55.67362511,
@@ -4458,7 +4458,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1573-3c755af522.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1573-3c755af522.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Pioneren",
     "aliases": [],
     "coords": [
       55.65941452,
@@ -4487,7 +4487,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1578-8dd4a4c0dd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1578-8dd4a4c0dd.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "BK Rødovre",
     "aliases": [],
     "coords": [
       55.68182922,
@@ -4516,7 +4516,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1581-1706d6f584.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1581-1706d6f584.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Skjold",
     "aliases": [],
     "coords": [
       55.7109795,
@@ -4545,7 +4545,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1582-5b00d8673c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1582-5b00d8673c.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Stefan",
     "aliases": [],
     "coords": [
       55.71256101,
@@ -4574,7 +4574,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1584-ca53e066fc.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1584-ca53e066fc.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Sundby KFUM",
     "aliases": [],
     "coords": [
       55.67362511,
@@ -4603,7 +4603,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1586-d9b07f0504.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1586-d9b07f0504.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Union",
     "aliases": [],
     "coords": [
       55.71256101,
@@ -4632,7 +4632,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1590-d7730db268.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1590-d7730db268.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Vestia",
     "aliases": [],
     "coords": [
       55.64077611,
@@ -4661,7 +4661,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/863-b166a07ebd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/863-b166a07ebd.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "BV Oksbøl",
     "aliases": [],
     "coords": [
       55.63843566,
@@ -4690,7 +4690,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1592-31091666aa.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1592-31091666aa.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Viktoria",
     "aliases": [],
     "coords": [
       55.7109795,
@@ -4719,7 +4719,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1593-32b039fba7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1593-32b039fba7.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "VLI",
     "aliases": [],
     "coords": [
       55.67945641,
@@ -4748,7 +4748,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1594-6912190b12.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1594-6912190b12.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Volvox",
     "aliases": [],
     "coords": [
       55.6940569,
@@ -4980,7 +4980,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/209-03fa0a62fe.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/209-03fa0a62fe.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Borup IF",
     "aliases": [],
     "coords": [
       56.59071095,
@@ -5009,7 +5009,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/972-66020582f3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/972-66020582f3.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Borup IF",
     "aliases": [],
     "coords": [
       55.49411646,
@@ -5096,7 +5096,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3744-a339be21d8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3744-a339be21d8.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Brabrand IF",
     "aliases": [],
     "coords": [
       56.15788265,
@@ -5763,7 +5763,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3700-b60b4e90f2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3700-b60b4e90f2.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Brøndby IF",
     "aliases": [],
     "coords": [
       55.64503648,
@@ -5879,7 +5879,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3712-123d0bcf41.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3712-123d0bcf41.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Brønshøj BK",
     "aliases": [],
     "coords": [
       55.70964347,
@@ -5908,7 +5908,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1543-56ece7c7d1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1543-56ece7c7d1.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Brønshøj BK",
     "aliases": [],
     "coords": [
       55.70964347,
@@ -6401,7 +6401,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3694-d8d997f502.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3694-d8d997f502.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "CFK",
     "aliases": [],
     "coords": [
       55.66357137,
@@ -6430,7 +6430,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1545-31a6ea3914.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1545-31a6ea3914.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "CSC",
     "aliases": [],
     "coords": [
       55.67362511,
@@ -6517,7 +6517,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1544-a9af0c8867.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1544-a9af0c8867.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "CIK",
     "aliases": [],
     "coords": [
       55.67360101,
@@ -6633,7 +6633,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2099-16cc2404d3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2099-16cc2404d3.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "DAI",
     "aliases": [],
     "coords": [
       55.7109795,
@@ -6691,7 +6691,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/989-2eb3f4f6a2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/989-2eb3f4f6a2.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Dalby GI",
     "aliases": [],
     "coords": [
       55.32031014,
@@ -6778,7 +6778,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/35-8a298204ee.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/35-8a298204ee.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Dall/Ferslev IF",
     "aliases": [],
     "coords": [
       56.9647583,
@@ -6952,7 +6952,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/520-043102e88a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/520-043102e88a.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "De 7 Dale IF",
     "aliases": [],
     "coords": [
       56.02388208,
@@ -7326,7 +7326,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/459-64ab8b1d06.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/459-64ab8b1d06.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "DGL 2000",
     "aliases": [],
     "coords": [
       56.20167527,
@@ -7500,7 +7500,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1548-02a62e82f0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1548-02a62e82f0.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Dragør BK",
     "aliases": [],
     "coords": [
       55.5081121,
@@ -7732,7 +7732,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1627-c51afb1a67.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1627-c51afb1a67.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "DMI",
     "aliases": [],
     "coords": [
       54.62941506,
@@ -7964,7 +7964,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/781-ca75f0d84e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/781-ca75f0d84e.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Egernsund IF",
     "aliases": [],
     "coords": [
       54.8713804,
@@ -8080,7 +8080,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1001-ba4cb84119.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1001-ba4cb84119.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Ejby IF",
     "aliases": [],
     "coords": [
       55.50779016,
@@ -8399,7 +8399,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1628-2476583877.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1628-2476583877.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Errindlev GIF",
     "aliases": [],
     "coords": [
       54.63787516,
@@ -8457,7 +8457,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3701-190aa955a8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3701-190aa955a8.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Esbjerg fB",
     "aliases": [],
     "coords": [
       55.45935717,
@@ -8689,7 +8689,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1316-1fe6695ee2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1316-1fe6695ee2.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "FC Gladsaxe",
     "aliases": [],
     "coords": [
       55.76191781,
@@ -8718,7 +8718,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3367-2709a89086.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3367-2709a89086.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "FC Lange Bolde",
     "aliases": [],
     "coords": [
       55.39401435,
@@ -8747,7 +8747,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3937-166dd16f5d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3937-166dd16f5d.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "FC Vesterbro",
     "aliases": [],
     "coords": [
       57.08119416,
@@ -9414,7 +9414,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3713-cafd24c9f1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3713-cafd24c9f1.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "FC Fredericia",
     "aliases": [],
     "coords": [
       55.57103757,
@@ -9559,7 +9559,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3745-6416705e6c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3745-6416705e6c.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "FC Helsingør",
     "aliases": [],
     "coords": [
       56.03943161,
@@ -9907,7 +9907,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3710-613b1a8cff.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3710-613b1a8cff.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "FCK",
     "aliases": [],
     "coords": [
       55.7109795,
@@ -9965,7 +9965,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/111-84fc8c5dfc.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/111-84fc8c5dfc.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "FC Ljiljan",
     "aliases": [],
     "coords": [
       57.05171431,
@@ -9994,7 +9994,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3705-07f39ce84f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3705-07f39ce84f.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "FC Midtjylland",
     "aliases": [],
     "coords": [
       56.11911505,
@@ -10081,7 +10081,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3702-e50265d4c0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3702-e50265d4c0.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "FC Nordsjælland",
     "aliases": [],
     "coords": [
       55.81981968,
@@ -10168,7 +10168,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3169-01068226e9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3169-01068226e9.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Olympiakos København",
     "aliases": [],
     "coords": [
       55.64077611,
@@ -10226,7 +10226,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3731-8933ef34b1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3731-8933ef34b1.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "FC Roskilde",
     "aliases": [],
     "coords": [
       55.65647451,
@@ -10516,7 +10516,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3750-955be1f0b6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3750-955be1f0b6.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "FC Sydvest 05",
     "aliases": [],
     "coords": [
       54.95248429,
@@ -10806,7 +10806,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1015-2fbde713a7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1015-2fbde713a7.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "FIF Hillerød",
     "aliases": [],
     "coords": [
       55.92123871,
@@ -11096,7 +11096,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/490-c711055d3d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/490-c711055d3d.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "IF Fjorden",
     "aliases": [],
     "coords": [
       56.6517573,
@@ -11357,7 +11357,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/228-a2348724bc.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/228-a2348724bc.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "FLUIF-Mors",
     "aliases": [],
     "coords": [
       56.90798948,
@@ -11386,7 +11386,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1019-d5b5da1c88.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1019-d5b5da1c88.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Fløng-Hedehusene",
     "aliases": [],
     "coords": [
       55.66357137,
@@ -11444,7 +11444,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1576-2294b8b8bd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1576-2294b8b8bd.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Prespa",
     "aliases": [],
     "coords": [
       55.6883311,
@@ -11473,7 +11473,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1240-6a23773dfd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1240-6a23773dfd.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Sorø Freja",
     "aliases": [],
     "coords": [
       55.40880423,
@@ -11531,7 +11531,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/441-9c509322dd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/441-9c509322dd.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "FC Vietnam",
     "aliases": [],
     "coords": [
       56.18928869,
@@ -11647,7 +11647,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3738-166725f387.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3738-166725f387.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Fortuna Hjørring",
     "aliases": [],
     "coords": [
       57.70230652,
@@ -11763,7 +11763,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1609-9463f24402.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1609-9463f24402.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Frederiksholm Sydhavnen",
     "aliases": [],
     "coords": [
       55.64077611,
@@ -11792,7 +11792,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1397-dfbe3dac04.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1397-dfbe3dac04.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Fraugde G&IF",
     "aliases": [],
     "coords": [
       55.34929575,
@@ -12024,7 +12024,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1749-f86ec77516.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1749-f86ec77516.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Frederiksværk FK",
     "aliases": [],
     "coords": [
       55.97774198,
@@ -12053,7 +12053,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3252-2fe791b88d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3252-2fe791b88d.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Freja's Old Boys",
     "aliases": [],
     "coords": [
       56.48050883,
@@ -12111,7 +12111,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3743-66d093d09c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3743-66d093d09c.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Fremad Amager",
     "aliases": [],
     "coords": [
       55.67362511,
@@ -12256,7 +12256,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/427-0411676580.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/427-0411676580.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Fuglebakken KFUM",
     "aliases": [],
     "coords": [
       56.17162148,
@@ -12401,7 +12401,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3419-9e3f1543b9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3419-9e3f1543b9.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "FC Fjordbold",
     "aliases": [],
     "coords": [
       55.86932225,
@@ -12807,7 +12807,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1400-3ad0fdbd0b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1400-3ad0fdbd0b.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Gelsted GIF",
     "aliases": [],
     "coords": [
       55.39954114,
@@ -12865,7 +12865,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1555-7ae2d1a04b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1555-7ae2d1a04b.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Gentofte FK",
     "aliases": [],
     "coords": [
       55.75145806,
@@ -12894,7 +12894,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1556-78975c604c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1556-78975c604c.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "GVI",
     "aliases": [],
     "coords": [
       55.75145806,
@@ -13010,7 +13010,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/804-d7496c7d79.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/804-d7496c7d79.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "GIF Gram",
     "aliases": [],
     "coords": [
       55.27645397,
@@ -13474,7 +13474,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1712-f5348bc645.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1712-f5348bc645.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Glostrup FK",
     "aliases": [],
     "coords": [
       55.6741838,
@@ -14750,7 +14750,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/521-3a0a619e07.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/521-3a0a619e07.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Hadsten SK",
     "aliases": [],
     "coords": [
       56.33866468,
@@ -14982,7 +14982,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/734-3c6969cdfd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/734-3c6969cdfd.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Hammelev IF",
     "aliases": [],
     "coords": [
       56.43069147,
@@ -15156,7 +15156,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1558-27533d9bc5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1558-27533d9bc5.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "HB",
     "aliases": [],
     "coords": [
       55.7109795,
@@ -15388,7 +15388,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/721-ba9dc9df2c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/721-ba9dc9df2c.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Harte GIF",
     "aliases": [],
     "coords": [
       55.50221297,
@@ -15562,7 +15562,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/529-9eade7c00a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/529-9eade7c00a.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Hatting-Torsted",
     "aliases": [],
     "coords": [
       55.86597915,
@@ -15707,7 +15707,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3714-9d0ff441e0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3714-9d0ff441e0.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "HB Køge",
     "aliases": [],
     "coords": [
       55.45527126,
@@ -15910,7 +15910,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1562-5a94befb95.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1562-5a94befb95.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "HIK",
     "aliases": [],
     "coords": [
       55.73442051,
@@ -16026,7 +16026,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1065-1ca7431c9a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1065-1ca7431c9a.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Helsingør IF",
     "aliases": [],
     "coords": [
       56.03943161,
@@ -16113,7 +16113,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2004-753f4dc854.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2004-753f4dc854.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Herborg UF",
     "aliases": [],
     "coords": [
       56.08052418,
@@ -16548,7 +16548,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3723-5a94befb95.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3723-5a94befb95.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "HIK",
     "aliases": [],
     "coords": [
       55.73442051,
@@ -16954,7 +16954,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1077-e0a2619f8f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1077-e0a2619f8f.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Hjorten",
     "aliases": [],
     "coords": [
       55.74057031,
@@ -17099,7 +17099,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3704-8cdbc0cca8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3704-8cdbc0cca8.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Hobro IK",
     "aliases": [],
     "coords": [
       56.6528756,
@@ -17186,7 +17186,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3724-e0b57b6bfa.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3724-e0b57b6bfa.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Holbæk B&I",
     "aliases": [],
     "coords": [
       55.73825064,
@@ -17563,7 +17563,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1082-c9b46c212f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1082-c9b46c212f.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Holte Star",
     "aliases": [],
     "coords": [
       55.81684549,
@@ -17766,7 +17766,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1412-3938d67451.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1412-3938d67451.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Horne FS",
     "aliases": [],
     "coords": [
       55.11203154,
@@ -18259,7 +18259,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/415-cd28f3833e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/415-cd28f3833e.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Houlkær FK",
     "aliases": [],
     "coords": [
       56.41681148,
@@ -18694,7 +18694,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1563-e11586488c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1563-e11586488c.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Husum BK",
     "aliases": [],
     "coords": [
       55.70964347,
@@ -18810,7 +18810,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1564-2f60244701.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1564-2f60244701.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Hvidovre IF",
     "aliases": [],
     "coords": [
       55.58934868,
@@ -18839,7 +18839,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3716-2f60244701.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3716-2f60244701.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Hvidovre IF",
     "aliases": [],
     "coords": [
       55.58934868,
@@ -18868,7 +18868,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/447-06204eb394.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/447-06204eb394.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Hylke FK",
     "aliases": [],
     "coords": [
       56.02388208,
@@ -19187,7 +19187,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2544-e6096a88ba.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2544-e6096a88ba.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Høng Efterskole",
     "aliases": [],
     "coords": [
       55.50308551,
@@ -19651,7 +19651,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1782-27a5bfd9bd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1782-27a5bfd9bd.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "IVF Århus",
     "aliases": [],
     "coords": [
       56.15788265,
@@ -19680,7 +19680,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3948-d77780bc79.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3948-d77780bc79.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Klintsøgaard",
     "aliases": [],
     "coords": [
       55.9928841,
@@ -19767,7 +19767,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/108-a916155d2d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/108-a916155d2d.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "IK Vest",
     "aliases": [],
     "coords": [
       56.89861349,
@@ -19825,7 +19825,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/967-f51b263f5e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/967-f51b263f5e.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "IF Frem Bjæverskov",
     "aliases": [],
     "coords": [
       55.44838852,
@@ -19854,7 +19854,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/100-d52e900328.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/100-d52e900328.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Fremad Nørhalne",
     "aliases": [],
     "coords": [
       57.11542161,
@@ -19941,7 +19941,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/175-1fa5118838.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/175-1fa5118838.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "IF Haabet",
     "aliases": [],
     "coords": [
       57.05425152,
@@ -20115,7 +20115,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/965-22d29b0730.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/965-22d29b0730.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Skjold Birkerød",
     "aliases": [],
     "coords": [
       55.84270608,
@@ -20144,7 +20144,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/134-cff7c7f070.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/134-cff7c7f070.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Skjold Sæby",
     "aliases": [],
     "coords": [
       57.2843629,
@@ -20289,7 +20289,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/266-caa231be7a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/266-caa231be7a.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Ikast FS",
     "aliases": [],
     "coords": [
       56.09377094,
@@ -20492,7 +20492,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/268-43080cb62e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/268-43080cb62e.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Isenvad BIF",
     "aliases": [],
     "coords": [
       56.09377094,
@@ -20608,7 +20608,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/426-089351ea99.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/426-089351ea99.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "JAI",
     "aliases": [],
     "coords": [
       56.12635244,
@@ -21130,7 +21130,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1565-b412a00173.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1565-b412a00173.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Jægersborg BK",
     "aliases": [],
     "coords": [
       55.75145806,
@@ -21188,7 +21188,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1557-04e875d5e6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1557-04e875d5e6.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "JIF Hakoah",
     "aliases": [],
     "coords": [
       55.68095745,
@@ -21391,7 +21391,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1566-73d9386e6e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1566-73d9386e6e.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Kastrup BK",
     "aliases": [],
     "coords": [
       55.63352245,
@@ -21420,7 +21420,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3843-7a2d580ab6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3843-7a2d580ab6.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Katrinebjerg AF",
     "aliases": [],
     "coords": [
       56.20167527,
@@ -21478,7 +21478,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1116-106cf46ac5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1116-106cf46ac5.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "KB 92",
     "aliases": [],
     "coords": [
       55.54103195,
@@ -21652,7 +21652,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1198-b2d29e54bf.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1198-b2d29e54bf.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "KFUM Roskilde",
     "aliases": [],
     "coords": [
       55.65647451,
@@ -21681,7 +21681,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1425-55cf458dd2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1425-55cf458dd2.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "KFUM Odense",
     "aliases": [],
     "coords": [
       55.39401435,
@@ -21710,7 +21710,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1569-cbcc9cbd85.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1569-cbcc9cbd85.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "KFUM",
     "aliases": [],
     "coords": [
       55.71256101,
@@ -22029,7 +22029,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2087-ac67c730d9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2087-ac67c730d9.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Klank Efterskole",
     "aliases": [],
     "coords": [
       56.17800104,
@@ -22348,7 +22348,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1568-b5db17a3e3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1568-b5db17a3e3.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "KFB",
     "aliases": [],
     "coords": [
       55.67362511,
@@ -22986,7 +22986,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3650-b55b56a094.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3650-b55b56a094.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "KSI",
     "aliases": [],
     "coords": [
       55.6940569,
@@ -23682,7 +23682,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/73-f78ae2d2a6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/73-f78ae2d2a6.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Langholt SK",
     "aliases": [],
     "coords": [
       57.09538719,
@@ -23711,7 +23711,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1439-1b54ab22d5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1439-1b54ab22d5.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Langtved SG & IF",
     "aliases": [],
     "coords": [
       55.38540272,
@@ -23769,7 +23769,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1135-daa942d558.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1135-daa942d558.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "LSF",
     "aliases": [],
     "coords": [
       55.72556424,
@@ -24233,7 +24233,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1640-dd81e9fcf4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1640-dd81e9fcf4.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "LUIF",
     "aliases": [],
     "coords": [
       54.7930621,
@@ -24639,7 +24639,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1145-3cd4190795.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1145-3cd4190795.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Lundtofte BK",
     "aliases": [],
     "coords": [
       55.78572204,
@@ -24668,7 +24668,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3717-b06032d6e7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3717-b06032d6e7.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Lyngby",
     "aliases": [],
     "coords": [
       55.78572204,
@@ -24697,7 +24697,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1146-b06032d6e7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1146-b06032d6e7.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Lyngby BK",
     "aliases": [],
     "coords": [
       55.78572204,
@@ -25335,7 +25335,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/600-c36d9abff4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/600-c36d9abff4.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Mariehøj Kammeraterne",
     "aliases": [],
     "coords": [
       56.17147071,
@@ -25364,7 +25364,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1445-3eeb7031ea.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1445-3eeb7031ea.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Marslev G&IF",
     "aliases": [],
     "coords": [
       55.396433,
@@ -25973,7 +25973,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1852-2465808262.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1852-2465808262.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Munkevængets FI",
     "aliases": [],
     "coords": [
       55.50221297,
@@ -26147,7 +26147,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1276-5a3e64790f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1276-5a3e64790f.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Mørkhøj SK",
     "aliases": [],
     "coords": [
       55.73800813,
@@ -26321,7 +26321,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/593-06e5b0a55a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/593-06e5b0a55a.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "NB 93",
     "aliases": [],
     "coords": [
       56.20167527,
@@ -26350,7 +26350,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1162-f0b69b0b47.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1162-f0b69b0b47.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Nerashté",
     "aliases": [],
     "coords": [
       55.73668449,
@@ -26408,7 +26408,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1676-ed4a3139ea.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1676-ed4a3139ea.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Nexø B",
     "aliases": [],
     "coords": [
       54.87126103,
@@ -26437,7 +26437,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3416-2871bb9f34.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3416-2871bb9f34.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Nørremarkens FS",
     "aliases": [],
     "coords": [
       55.69052913,
@@ -26669,7 +26669,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3385-7e5a1c8093.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3385-7e5a1c8093.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Nordbyens BK",
     "aliases": [],
     "coords": [
       56.50265825,
@@ -27220,7 +27220,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1951-50bb5b4f96.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1951-50bb5b4f96.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Ny Kappel BK 07",
     "aliases": [],
     "coords": [
       54.75748092,
@@ -27249,7 +27249,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1456-a023674165.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1456-a023674165.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Nyborg G&IF",
     "aliases": [],
     "coords": [
       55.35301317,
@@ -27336,7 +27336,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3746-502998bfdf.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3746-502998bfdf.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Nykøbing FC",
     "aliases": [],
     "coords": [
       54.7930621,
@@ -27452,7 +27452,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/860-755b348e44.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/860-755b348e44.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Næsbjerg RUI",
     "aliases": [],
     "coords": [
       55.65607154,
@@ -27481,7 +27481,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3726-a47b49d833.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3726-a47b49d833.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Næsby BK",
     "aliases": [],
     "coords": [
       55.44966319,
@@ -27539,7 +27539,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3727-3ead1475c0.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3727-3ead1475c0.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Næstved BK",
     "aliases": [],
     "coords": [
       55.19504272,
@@ -27568,7 +27568,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1170-c302ea28f6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1170-c302ea28f6.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "FC 77",
     "aliases": [],
     "coords": [
       55.19504272,
@@ -27597,7 +27597,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1171-5a619d3dc8.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1171-5a619d3dc8.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Næstved IF",
     "aliases": [],
     "coords": [
       55.19504272,
@@ -27858,7 +27858,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2089-b555399f82.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2089-b555399f82.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Nørrebro BK",
     "aliases": [],
     "coords": [
       55.7109795,
@@ -27916,7 +27916,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/90-9c7df52fa6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/90-9c7df52fa6.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Nørresundby FB",
     "aliases": [],
     "coords": [
       57.08119416,
@@ -28003,7 +28003,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3706-66ec14378a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3706-66ec14378a.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "OB",
     "aliases": [],
     "coords": [
       55.39401435,
@@ -28148,7 +28148,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1458-2a3a589fc2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1458-2a3a589fc2.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "OB",
     "aliases": [],
     "coords": [
       55.403021,
@@ -28467,7 +28467,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1177-0df7d37e2f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1177-0df7d37e2f.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "ORI",
     "aliases": [],
     "coords": [
       55.85479562,
@@ -28583,7 +28583,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1467-c5c3c3dd40.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1467-c5c3c3dd40.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Otterup B&IK",
     "aliases": [],
     "coords": [
       55.56662852,
@@ -28612,7 +28612,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1468-46d470b4cb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1468-46d470b4cb.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Oure FA",
     "aliases": [],
     "coords": [
       55.11784585,
@@ -28699,7 +28699,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/866-34099d1bd2.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/866-34099d1bd2.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Over Jerstal FK",
     "aliases": [],
     "coords": [
       55.2436827,
@@ -28902,7 +28902,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1574-70e39c16d6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1574-70e39c16d6.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "PI",
     "aliases": [],
     "coords": [
       55.64077611,
@@ -29163,7 +29163,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1187-07c6fb28ed.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1187-07c6fb28ed.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Ramløse IF",
     "aliases": [],
     "coords": [
       56.01099572,
@@ -29250,7 +29250,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3707-022310b5ab.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3707-022310b5ab.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Randers FC",
     "aliases": [],
     "coords": [
       56.48050883,
@@ -29337,7 +29337,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/611-e131cea01c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/611-e131cea01c.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Randers KFUM",
     "aliases": [],
     "coords": [
       56.48050883,
@@ -29424,7 +29424,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/614-ef398c9669.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/614-ef398c9669.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Rask Mølle IF",
     "aliases": [],
     "coords": [
       55.87835123,
@@ -29743,7 +29743,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1577-23242c9fb4.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1577-23242c9fb4.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Rikken",
     "aliases": [],
     "coords": [
       55.65941452,
@@ -29975,7 +29975,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1475-dcf2d64df9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1475-dcf2d64df9.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Rise SIF",
     "aliases": [],
     "coords": [
       54.79716403,
@@ -30004,7 +30004,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/110-7163ce29d1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/110-7163ce29d1.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "RKG",
     "aliases": [],
     "coords": [
       57.01911272,
@@ -30120,7 +30120,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/41-f7c90eeaee.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/41-f7c90eeaee.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "IK Rosendal",
     "aliases": [],
     "coords": [
       56.6528756,
@@ -30178,7 +30178,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1197-69fdc4d093.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1197-69fdc4d093.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Roskilde BK",
     "aliases": [],
     "coords": [
       55.65647451,
@@ -30613,7 +30613,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/394-846b588aa3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/394-846b588aa3.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Røde Stjerne",
     "aliases": [],
     "coords": [
       56.46317549,
@@ -30671,7 +30671,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/319-649405ada6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/319-649405ada6.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Rødkærsbro IF",
     "aliases": [],
     "coords": [
       56.35360504,
@@ -30787,7 +30787,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1956-8dc42f9ec1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1956-8dc42f9ec1.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Rønne fB",
     "aliases": [],
     "coords": [
       54.98495945,
@@ -31280,7 +31280,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1655-0fb53cf40a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1655-0fb53cf40a.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Sandby GF",
     "aliases": [],
     "coords": [
       54.75748092,
@@ -32063,7 +32063,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/377-db4707dfe7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/377-db4707dfe7.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "SIK Viborg",
     "aliases": [],
     "coords": [
       56.41681148,
@@ -32092,7 +32092,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3708-69bd74009b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3708-69bd74009b.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Silkeborg IF",
     "aliases": [],
     "coords": [
       56.17147071,
@@ -32614,7 +32614,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1483-fe82121d8f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1483-fe82121d8f.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Skallebølle SK",
     "aliases": [],
     "coords": [
       55.39228422,
@@ -32933,7 +32933,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/327-54e4012059.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/327-54e4012059.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Skibbild-Nøvling IM",
     "aliases": [],
     "coords": [
       56.18215286,
@@ -33107,7 +33107,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3732-f18daaf81c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3732-f18daaf81c.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Skive IK",
     "aliases": [],
     "coords": [
       56.46317549,
@@ -33252,7 +33252,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3246-f7eb923389.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3246-f7eb923389.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Skovbakken",
     "aliases": [],
     "coords": [
       56.18719668,
@@ -33397,7 +33397,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1868-32d45c51dd.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1868-32d45c51dd.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Skovlunde IF",
     "aliases": [],
     "coords": [
       55.71528471,
@@ -33455,7 +33455,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1579-8ed1750d72.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1579-8ed1750d72.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Skovshoved IF",
     "aliases": [],
     "coords": [
       55.79609961,
@@ -33571,7 +33571,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/909-cee1f6ac92.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/909-cee1f6ac92.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Skærbæk B",
     "aliases": [],
     "coords": [
       55.17738587,
@@ -34354,7 +34354,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3954-d47a50c965.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3954-d47a50c965.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Sjælsølund",
     "aliases": [],
     "coords": [
       55.88126308,
@@ -34644,7 +34644,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/649-2f7001fbca.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/649-2f7001fbca.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Stavtrup IF",
     "aliases": [],
     "coords": [
       56.12635244,
@@ -34818,7 +34818,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1694-a457956b0b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1694-a457956b0b.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Stidsholt IF",
     "aliases": [],
     "coords": [
       57.2843629,
@@ -35108,7 +35108,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/129-ddabf4ab6d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/129-ddabf4ab6d.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Strandby IF",
     "aliases": [],
     "coords": [
       56.77310507,
@@ -35137,7 +35137,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/128-83175c45cb.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/128-83175c45cb.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Strandby-Elling-Nielstrup IF",
     "aliases": [],
     "coords": [
       57.51074154,
@@ -35311,7 +35311,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1598-e0240a5abe.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1598-e0240a5abe.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "SSB",
     "aliases": [],
     "coords": [
       55.67082135,
@@ -35398,7 +35398,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/130-062fb45f34.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/130-062fb45f34.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Støvring IF",
     "aliases": [],
     "coords": [
       56.89267972,
@@ -35485,7 +35485,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1583-d3668dc051.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1583-d3668dc051.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Sundby BK",
     "aliases": [],
     "coords": [
       55.67362511,
@@ -35659,7 +35659,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1683-53ff7bb7d5.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1683-53ff7bb7d5.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Svaneke IK",
     "aliases": [],
     "coords": [
       55.30340399,
@@ -36326,7 +36326,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/887-b6b24043de.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/887-b6b24043de.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Sønderborg B",
     "aliases": [],
     "coords": [
       54.9528525,
@@ -36442,7 +36442,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3703-53afd51b32.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3703-53afd51b32.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "SønderjyskE",
     "aliases": [],
     "coords": [
       55.24177268,
@@ -36587,7 +36587,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3941-ce2ddaccb1.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3941-ce2ddaccb1.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "SØS",
     "aliases": [],
     "coords": [
       55.32031014,
@@ -36703,7 +36703,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/892-be18f9ac99.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/892-be18f9ac99.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Taps IF",
     "aliases": [],
     "coords": [
       55.35487274,
@@ -37167,7 +37167,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3747-36b89cc59b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3747-36b89cc59b.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Thisted FC",
     "aliases": [],
     "coords": [
       57.32370377,
@@ -37312,7 +37312,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1505-40a67c012a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1505-40a67c012a.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Thurø BK",
     "aliases": [],
     "coords": [
       55.01443666,
@@ -38066,7 +38066,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/178-a597f4d936.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/178-a597f4d936.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Trekroner IF",
     "aliases": [],
     "coords": [
       57.12742277,
@@ -38240,7 +38240,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/671-15a4904a40.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/671-15a4904a40.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "TST Fodbold",
     "aliases": [],
     "coords": [
       56.18928869,
@@ -38791,7 +38791,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1513-9d61fe8472.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1513-9d61fe8472.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Tåsinge fB",
     "aliases": [],
     "coords": [
       55.01443666,
@@ -38965,7 +38965,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3678-d31ed6c087.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3678-d31ed6c087.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Uggerby IF",
     "aliases": [],
     "coords": [
       57.70230652,
@@ -39284,7 +39284,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3840-e73cec965e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3840-e73cec965e.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "UCL FC",
     "aliases": [],
     "coords": [
       55.34939755,
@@ -39400,7 +39400,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1587-882863c2a9.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1587-882863c2a9.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Valby BK",
     "aliases": [],
     "coords": [
       55.64077611,
@@ -39487,7 +39487,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/190-e66e085a7d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/190-e66e085a7d.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Valsgård IF",
     "aliases": [],
     "coords": [
       56.6528756,
@@ -39603,7 +39603,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1588-eabbd4392d.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1588-eabbd4392d.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Vanløse IF",
     "aliases": [],
     "coords": [
       55.6883311,
@@ -39835,7 +39835,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1518-a14dcec10e.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1518-a14dcec10e.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Veflinge GIF",
     "aliases": [],
     "coords": [
       55.46255574,
@@ -39922,7 +39922,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3781-f666597704.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3781-f666597704.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Vejen 10",
     "aliases": [],
     "coords": [
       55.4784284,
@@ -40009,7 +40009,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/431-7a611d5d5f.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/431-7a611d5d5f.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "VSK Aarhus",
     "aliases": [],
     "coords": [
       56.18719668,
@@ -40067,7 +40067,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3718-c2f3926ec3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3718-c2f3926ec3.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Vejle BK",
     "aliases": [],
     "coords": [
       55.69052913,
@@ -40241,7 +40241,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/369-b3a51b5486.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/369-b3a51b5486.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Vejrumbro B",
     "aliases": [],
     "coords": [
       56.49762699,
@@ -40444,7 +40444,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3733-c9f6accef6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3733-c9f6accef6.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Vendsyssel FF",
     "aliases": [],
     "coords": [
       57.70230652,
@@ -40966,7 +40966,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3719-183ea9817b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3719-183ea9817b.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Viborg FF",
     "aliases": [],
     "coords": [
       56.41681148,
@@ -41169,7 +41169,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/270-29c1d70a9c.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/270-29c1d70a9c.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "VIF Mors",
     "aliases": [],
     "coords": [
       56.76132134,
@@ -41198,7 +41198,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1591-cea72c90be.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1591-cea72c90be.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Vigerslev BK",
     "aliases": [],
     "coords": [
       55.64077611,
@@ -41227,7 +41227,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1685-a2d07d6409.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1685-a2d07d6409.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Viking",
     "aliases": [],
     "coords": [
       54.98495945,
@@ -41749,7 +41749,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1524-1d0a7eee02.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1524-1d0a7eee02.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Vissenbjerg GIF",
     "aliases": [],
     "coords": [
       55.39228422,
@@ -41778,7 +41778,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/2060-e021f1c6af.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/2060-e021f1c6af.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Vittrup Efterskole",
     "aliases": [],
     "coords": [
       57.38233116,
@@ -42097,7 +42097,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/911-51234a5ce3.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/911-51234a5ce3.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Vorbasse B",
     "aliases": [],
     "coords": [
       55.63499139,
@@ -42909,7 +42909,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1324-80aa8d6845.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1324-80aa8d6845.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Ørslev GIF",
     "aliases": [],
     "coords": [
       55.02464842,
@@ -43315,7 +43315,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1668-672a411a33.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1668-672a411a33.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "ØUB",
     "aliases": [],
     "coords": [
       54.68554952,
@@ -43373,7 +43373,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1595-4a57eb69d6.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1595-4a57eb69d6.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Østerbro IF",
     "aliases": [],
     "coords": [
       55.7109795,
@@ -43402,7 +43402,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/191-bbb8930d99.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/191-bbb8930d99.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Østerby SF",
     "aliases": [],
     "coords": [
       57.18887848,
@@ -43431,7 +43431,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1686-8a22106209.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1686-8a22106209.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Østerlars B",
     "aliases": [],
     "coords": [
       55.51191781,
@@ -43549,7 +43549,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1669-4b3a8d4a14.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1669-4b3a8d4a14.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "Østofte GIF",
     "aliases": [],
     "coords": [
       54.81506841,
@@ -43607,7 +43607,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3698-ddc7b0e85a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3698-ddc7b0e85a.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "AaB",
     "aliases": [],
     "coords": [
       57.05425152,
@@ -44013,7 +44013,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3417-e64655b103.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3417-e64655b103.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Aalborg Futsal",
     "aliases": [],
     "coords": [
       57.05171431,
@@ -44042,7 +44042,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/5-361d1242a7.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/5-361d1242a7.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Aalborg KFUM",
     "aliases": [],
     "coords": [
       57.05171431,
@@ -44071,7 +44071,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/8-501cd07696.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/8-501cd07696.webp",
     "logoKind": "monogram",
-    "kaldenavn": null,
+    "kaldenavn": "AaSI",
     "aliases": [],
     "coords": [
       57.05425152,
@@ -44419,7 +44419,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3729-806e92cb6b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3729-806e92cb6b.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Aarhus Fremad",
     "aliases": [],
     "coords": [
       56.20167527,
@@ -44535,7 +44535,7 @@ export const clubs = [
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/1689-3db16765ea.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/1689-3db16765ea.webp",
     "logoKind": "crest",
-    "kaldenavn": null,
+    "kaldenavn": "Aarsballe B",
     "aliases": [],
     "coords": [
       54.98495945,

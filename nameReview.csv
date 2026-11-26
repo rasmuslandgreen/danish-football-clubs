@@ -1,0 +1,310 @@
+﻿confidence,official_name,suggested_name,your_name,basis,dbu_names,reason,dbuId
+55,"Boldklubben anno 2007","BK anno 2007","",rules,"","No DBU or domain evidence; the name is a year rather than a proper name, so the BK prefix is kept to avoid an ambiguous bare 'anno 2007'.",739
+55,"Søllinge Sport og Fritid","Søllinge BK","",domain,"","The website domain sollingeboldklub.dk suggests the football side is known as Søllinge Boldklub, but there are no DBU team names to confirm this.",1501
+55,"Himmerlandscentrets Idrætsefterskole (Haverslev)","Himmerlandscentrets Idrætsefterskole","",rules,"","No DBU team names; it is a boarding school rather than a club, so the official name minus the parenthetical locality is the safest everyday form.",1937
+55,"Vivild Gymnastik- og Idrætsefterskole","Vivild GIE","",domain,"","No DBU names exist, and the domain vgi.dk does not quite match the official initials, so the everyday name is uncertain; this is a Vivild gymnastics and sports boarding school abbreviated from its official name.",1946
+55,"Vojens Gymnastik- & Idrætsefterskole","Vojens Efterskole","",rules,"","This is a boarding school rather than a typical club, and there are no DBU team names, so the short form 'Vojens Efterskole' is a plausible everyday name but uncertain.",2013
+60,"Idrætsforeningen Dannebrog, Astrup","IF Dannebrog Astrup","",rules,"","Dannebrog is a proper name but common across clubs, so the IF prefix and Astrup locality are kept for disambiguation, without DBU evidence.",18
+60,"IK Sylvia Ravnkilde","Sylvia Ravnkilde","",rules,"","Without DBU evidence, dropping the generic IK prefix before the proper name Sylvia Ravnkilde is plausible, though ""IK Sylvia"" is also possible.",109
+60,"Olympia Øster Hurup IF","Olympia Øster Hurup","",rules,"","Olympia is a proper name, but the town part distinguishes the club, so dropping the generic IF suffix gives the everyday form; with no DBU team names to confirm it, confidence is moderate.",173
+60,"Grønbjerg Aktiv Fritid For Alle","Grønbjerg Aktiv","",domain,"","The website domain groenbjerg-aktiv.dk suggests the short form ""Grønbjerg Aktiv"", but no DBU team names confirm it.",234
+60,"Lind/Kollund (KLG)","Lind/Kollund","",rules,"Kibæk Krydsfelt | Alpi Hallerne | Hammerum-Gjellerup Hallen | Houlkær Hallen | Marienlund Kunstgræs","The DBU names seen in fixtures are venue names rather than team names, so the name falls back to the official name without the parenthetical code.",285
+60,"Studsgård Sport & Kultur","Studsgård S&K","",rules,"","No evidence beyond the official name; Studsgård is a place name, so a short form keeping the club-type suffix is plausible but uncertain.",340
+60,"Vorgod-Barde Motion og fritid","Vorgod-Barde","",rules,"","No DBU team names; the generic suffix 'Motion og fritid' has no established abbreviation, so the place-based name Vorgod-Barde is the likely everyday form.",386
+60,"Hou Og Omegns IF","Hou IF","",rules,"Hou Og Omegns IF","Hou and surroundings club; everyday form likely shortened to Hou IF, though DBU uses the full name.",548
+60,"Samsø Idræt & Kultur","Samsø IK","",rules,"","No DBU or domain evidence; town name kept with abbreviated club-type suffix Idræt & Kultur → IK.",626
+60,"SS Skjold","Skjold","",rules,"","Skjold is a proper name, so the generic SS prefix is dropped; the domain skjold-glud.dk loosely supports this, but there are no DBU team names to confirm it.",638
+60,"Mot G & U","Mot G&U","",unchanged,"","The official name is already short, and with no DBU team names to check against, the obvious everyday form is a tidied-up version of it.",851
+60,"Dalby IF / HFK fodbold","Dalby IF / HFK","",dbu,"Dalby IF / HFK fodbold","The DBU name is a combined club name, so I dropped the generic 'fodbold' and kept both club parts.",990
+60,"Skælskør Boldklub og Idrætsforening","Skælskør B&I","",rules,"Skælskør Boldklub og Idrætsforening | Skælskør/Slagelse","Town name needs a suffix and the club is commonly abbreviated B&I (domain sb-i.dk), but DBU only shows the long form.",1225
+60,"Lumby IF 88","Lumby IF","",rules,"","Town-based club keeps the IF suffix, and the founding-year '88' is usually dropped in daily use, though the lif88.dk domain suggests it may also be retained.",1442
+60,"Boldklubben Marienlyst","B. Marienlyst","",domain,"Boldklubben Marienlyst | Team Odense Q | TOQ | Team Odense Q, U-17 | Team Odense Q, U-15","Marienlyst is an Odense area name so a short suffix is kept, and the domain b-marienlyst.dk supports the 'B.' prefix form; DBU uses the full long form.",1444
+60,"Viborg FF Oldboys 2003","Viborg FF Oldboys","",rules,"","Viborg FF is the established short form, and the descriptive year suffix is dropped while the oldboys designation is kept to distinguish this club from Viborg FF itself.",1702
+60,"Rejsby Europæiske Efterskole","Rejsby Efterskole","",domain,"","No DBU team names; the email domain suggests the school is commonly called Rejsby Efterskole.",1776
+60,"Balle Musik- og Idrætsefterskole","Balle Efterskole","",domain,"","No DBU team names; the domain and everyday usage point to 'Balle Efterskole' as the short form of this boarding school.",1923
+60,"Idrætsefterskolen Lægården","Lægården","",rules,"","Generic school-type prefix dropped, leaving the proper name; no DBU or domain evidence for a different everyday form.",1932
+60,"Design- & Idrætsefterskolen Skamling","Skamling Efterskole","",domain,"","No DBU team names; the domain and everyday usage point to the place name Skamling, with 'Efterskole' added to identify it as the school.",1949
+60,"Thyland idrætsefterskole","Thyland Idrætsefterskole","",rules,"","No DBU team names; it's a sports boarding school rather than a club, so the official name is kept with normalized capitalization.",2019
+60,"Bramming Gymnastik- og Idrætsefterskole","Bramming Efterskole","",rules,"","No evidence; it's a boarding school rather than a club, so the short everyday form is likely 'Bramming Efterskole'.",2063
+60,"Institut Sankt Joseph","Sankt Joseph","",domain,"","Email domain sanktjoseph.dk suggests the school club is known as Sankt Joseph, with no DBU team names to confirm it.",2207
+60,"Artium, Brande","Artium","",rules,"","No DBU team names; dropping the town qualifier gives the proper name Artium, likely an institution-based club.",2868
+60,"Den Danske Husflidsefterskole (Dhe)","Den Danske Husflidsefterskole","",unchanged,"","No DBU team names; it is a school rather than a town club, so the official name is kept and the 'DHE' abbreviation is only weakly supported by the email domain.",2885
+60,"Aalborg Fodbolddommerklub","Aalborg FDK","",domain,"","No DBU team names; the domain aalborgfdk.dk suggests the town plus abbreviated club-type form 'Aalborg FDK'.",3139
+60,"Olympic Amager KIF - Afventer","Olympic Amager KIF","",rules,"","Official name minus the administrative ""Afventer"" status suffix; no DBU team names to confirm a shorter everyday form.",3144
+60,"ST Oldboys, Trige","ST Oldboys","",rules,"","Without DBU or domain evidence, the short name is kept and the trailing town qualifier dropped.",3156
+60,"Unge Hjems Efterskole","Unge Hjem","",domain,"","Email domain ungehjem.dk suggests the everyday short form 'Unge Hjem', though no DBU team names are available to confirm it.",3225
+60,"Han Herred Efterskoles Fodboldforening","Han Herred Efterskole","",rules,"","No DBU or domain evidence; the efterskole name is the distinctive part, with the generic club-type suffix dropped conservatively.",3272
+60,"Sydvestjyllands Efterskole Fodbold","Sydvestjyllands Efterskole","",rules,"","No DBU team names or established abbreviation exist, so dropping the generic 'Fodbold' suffix leaves the school's proper name.",3273
+60,"Sydvestjysk Fodbolddommerklub","SFDK","",domain,"","A referee club with no DBU team names; the domain sfdk.dk suggests the abbreviation SFDK is in use.",3351
+60,"Skibelund Gymnastik- og Idrætsefterskole","Skibelund Efterskole","",rules,"","It's a boarding school (efterskole), not a club, so the natural everyday short form is ""Skibelund Efterskole"", though no DBU names confirm this.",3845
+60,"SISU MBK Fodbold","SISU MBK","",rules,"","Dropped the generic 'Fodbold' department suffix and kept the established 'SISU MBK' form, though there is no fixture or domain evidence to confirm it.",3859
+60,"Vestsjællands idrætsefterskole","Vestsjællands Idrætsefterskole","",unchanged,"","An efterskole name with no DBU team evidence; the official name is kept with normalized capitalization.",3947
+65,"Hjortdal Ungdoms & IF","Hjortdal UIF","",rules,"","Town name needs a club-type suffix, and 'Ungdoms & IF' abbreviates to UIF, while the domain 'hui' hints at a possible alternative form.",66
+65,"Grejs-Dalen Idrætsklub","Grejsdalen IK","",rules,"","No DBU team names; the town/area rule gives area plus IK, and the gdik.dk domain supports the IK form, though the exact spelling of Grejs-Dalen is uncertain.",513
+65,"Alslev Sport & Kultur","Alslev SK","",domain,"","No DBU team names; the domain alslevsk.dk suggests the club is commonly called Alslev SK.",750
+65,"IF Svend Gønge","Svend Gønge","",rules,"","Generic IF prefix dropped since the rest is a proper name, though ""IF Svend Gønge"" itself is also plausible and no DBU names confirm it.",1256
+65,"Herrested-Ørbæk Boldklub","Herrested-Ørbæk BK","",rules,"FC Østfyn | Spillet","DBU names are a cooperation team (FC Østfyn) and the domain hoeb.dk hints at an abbreviation, so the town-name rule is applied, giving Herrested-Ørbæk BK.",1407
+65,"Lomborg Gymnastik- og Idrætsefterskole","Lomborg Efterskole","",domain,"","No DBU team names; the domain supports the everyday short form ""Lomborg Efterskole"" for this boarding school.",1933
+65,"Vestbirk Musik- & Sportsefterskole","Vestbirk Efterskole","",domain,"","No DBU team names; the domain suggests the school is commonly called Vestbirk Efterskole.",1994
+65,"Høsterkøb Fodboldklub 2000","Høsterkøb FK 2000","",rules,"","Town-based name, so the club-type suffix is abbreviated to FK; the hf2000.dk domain hints at an 'HF 2000' form but doesn't clearly settle it.",2062
+65,"FodboldHoldet Herning","FH Herning","",domain,"","Domain fhherning.dk suggests the club goes by the abbreviation FH Herning, though no DBU team names confirm it.",3839
+70,"FLUIF-MORS","FLUIF-Mors","",unchanged,"","FLUIF is an established acronym (domain fluif.dk), so the official name is kept with normalized casing.",228
+70,"Skibbild-Nøvling Idræt og Motion","Skibbild-Nøvling IM","",rules,"","Place-name club, so the type suffix 'Idræt og Motion' is kept and shortened to IM; the domain supports the place name but there are no DBU team names to confirm the form.",327
+70,"DGL 2000, Aarhus","DGL 2000","",unchanged,"","No DBU team names available; the official short name DGL 2000 is already everyday, with the town qualifier dropped.",459
+70,"Næstved FC 77","FC 77","",domain,"","The fc77.dk domain suggests the club is commonly called FC 77, but with no DBU team names it could also simply be Næstved FC 77.",1170
+70,"Skovlunde IF Oldboys/Girls","Skovlunde IF","",rules,"SIF/B.73","The official name is a Skovlunde IF oldboys/girls offshoot, and the only DBU name is a joint team (SIF/B.73), so the town plus IF is the everyday form.",1868
+70,"Ny Kappel Boldklub 07","Ny Kappel BK 07","",rules,"","Town-based name keeps abbreviated club-type suffix and year; no DBU evidence to confirm.",1951
+72,"IF Fremad Nørhalne","Fremad Nørhalne","",rules,"VBN | IF Fremad Nørhalne","""Fremad Nørhalne"" is a proper name after dropping the IF prefix, and VBN is a cooperation team that shares no words with the official name.",100
+72,"Rask Mølle & Omegns IF","Rask Mølle IF","",rules,"","Town-based club name; dropping '& Omegns' and keeping the IF suffix gives the everyday form, though there is no DBU evidence to confirm it.",614
+72,"Errindlev G & I","Errindlev GIF","",rules,"Errindlev","DBU uses the bare town name, so per the town rule the G & I suffix is kept as GIF.",1628
+72,"Holbæk (professional)","Holbæk B&I","",domain,"","The domain hbi.dk points to Holbæk Bold- og Idrætsforening, which is commonly written as Holbæk B&I, and a town name alone would be ambiguous.",3724
+75,"Aalborg Studenternes IF","AaSI","",domain,"","Domains aasi.dk and aasisport.dk support the established abbreviation AaSI for Aalborg Studenternes Idrætsforening.",8
+75,"Idrætsklubben Vest af 1971","IK Vest","",domain,"","Domain ik-vest.dk supports the short form IK Vest, keeping the type abbreviation since 'Vest' alone is ambiguous.",108
+75,"Strandby IF Farsø","Strandby IF","",domain,"","Website domain strandbyif.dk supports Strandby IF, with Farsø being a location qualifier rather than part of the everyday name.",129
+75,"IF Haabet, Øster Uttrup","IF Haabet","",rules,"","Haabet is a proper name, so the IF prefix is kept as the short form and the location qualifier is dropped, giving IF Haabet.",175
+75,"Valsgård IF 83","Valsgård IF","",rules,"","The official name is already short, so the founding-year suffix is dropped in everyday use, though the domain vif83.dk suggests ""Valsgård IF 83"" is also plausible.",190
+75,"Østerby Sportsforening","Østerby SF","",rules,"","Town-based name keeps abbreviated club-type suffix (Sportsforening → SF).",191
+75,"B 83, Skive","B 83","",rules,"","Official name is already a short club abbreviation; the town qualifier is dropped.",416
+75,"Football Club Vietnam","FC Vietnam","",rules,"","Shortening 'Football Club' to the common 'FC' prefix gives the everyday name, and the domain fcvn.dk supports it.",441
+75,"Hatting-Torsted Fodbold","Hatting-Torsted","",rules,"Hatting-Torsted Fodbold | Velkommen i HT | Cookie-indstillinger","DBU consistently uses ""Hatting-Torsted Fodbold"", and the generic ""Fodbold"" suffix is commonly dropped since the double place name is distinctive on its own.",529
+75,"Agerskov Sogns UF","Agerskov UF","",rules,"Agerskov S | AUF/SBK","Town name needs its club-type suffix, and ""Agerskov S"" in DBU fixtures looks like a truncation of ""Sogns UF"", so ""Agerskov UF"" (the AUF short form) is the natural everyday name.",748
+75,"Egernsund Kultur- og IF","Egernsund IF","",rules,"","Town-based club name keeps short suffix; 'Kultur- og Idrætsforening' commonly shortened to IF.",781
+75,"Over Jerstal Fodboldklub","Over Jerstal FK","",rules,"","Place name keeps the abbreviated club-type suffix, Fodboldklub → FK, with no other evidence available.",866
+75,"Taps.dk - By- og IF","Taps IF","",rules,"","Official name is Taps By- og Idrætsforening (prefixed by domain), so the town plus the IF suffix gives Taps IF.",892
+75,"Beder Fodboldklub","Beder FK","",rules,"","Town name keeps short club-type suffix, Fodboldklub abbreviated to FK.",939
+75,"IF Skjold Birkerød","Skjold Birkerød","",rules,"IF Skjold Birkerød","Skjold is a proper name, so the generic IF prefix is dropped, keeping Birkerød to distinguish it from other Skjold clubs; DBU fixtures list it as ""IF Skjold Birkerød"".",965
+75,"Holte Star Club","Holte Star","",domain,"","Domain holtestar.dk suggests the everyday name drops the generic 'Club' suffix.",1082
+75,"Nerashté, Ballerup","Nerashté","",rules,"Nerashté, Ballerup","The proper name Nerashté identifies the club on its own, so the appended town ', Ballerup' can be dropped, although DBU fixtures list the full form.",1162
+75,"ORI-Fodbold","ORI","",rules,"","ORI is the club's established short name (Oppe Sundby/ORI Frederikssund), with 'Fodbold' a generic section suffix, supported by the ori-bold.dk domain.",1177
+75,"Ramløse Fodbold IF","Ramløse IF","",rules,"","Town-named club keeps short IF suffix; 'Fodbold' is a generic middle word commonly dropped in everyday use.",1187
+75,"Mørkhøj Sportsklub","Mørkhøj SK","",rules,"Mørkhøj Sportsklub","Mørkhøj is an area name, so the Sportsklub suffix is abbreviated to SK, though DBU uses the full name.",1276
+75,"Fraugde G & IF","Fraugde G&IF","",unchanged,"","Official name is already a short town-plus-abbreviation form; no other evidence suggests a different everyday name.",1397
+75,"Gelsted G & IF","Gelsted GIF","",domain,"Gelsted G & IF","Town-based gymnastics and sports club; 'G & IF' is commonly shortened to GIF, as the ggif domain supports.",1400
+75,"Horne f. Sp.","Horne FS","",domain,"SFF/FC Faaborg | SFF-FC Faaborg","Domain horne-fs.dk supports the abbreviated form 'Horne FS' for 'Horne f. Sp.' (Forening for Sport), and DBU team names are a cooperation team unrelated to the name.",1412
+75,"KFUM.s BK Odense","KFUM Odense","",domain,"KFUM.s BK | KFUM","DBU fixtures mostly use ""KFUM.s BK"", which is ambiguous nationally, so the town from the domain odense-kfum.dk gives the everyday ""KFUM Odense"".",1425
+75,"Marslev G & IF","Marslev G&IF","",rules,"","Town name with short club-type suffix; official name is already short and everyday, though the domain mgif.dk suggests the abbreviation MGIF may also be used.",1445
+75,"Rise S & IF","Rise SIF","",domain,"","Rise is a place name so the suffix is kept, and the domain rise-sif.dk supports the form 'Rise SIF'.",1475
+75,"Skallebølle Sportsklub","Skallebølle SK","",rules,"","Town-based name keeps abbreviated club-type suffix Sportsklub → SK.",1483
+75,"Vissenbjerg G & IF","Vissenbjerg GIF","",rules,"SSV Højfyn | SSV-HØJFYN","DBU names are a cooperation team (SSV Højfyn), so the town rule with the abbreviated GIF suffix applies, supported by the vgif domain.",1524
+75,"Boldklubben Amalie","Amalie","",rules,"","Generic 'Boldklubben' prefix dropped since Amalie is a proper name, not a town.",1540
+75,"Rikken Fodbold Club","Rikken","",rules,"","Rikken is a proper name rather than a town, so the generic 'Fodbold Club' suffix can be dropped.",1577
+75,"Østerlars B.","Østerlars B","",unchanged,"","Official name is already a short town-plus-suffix form with no contrary evidence.",1686
+75,"Glostrup FK - IF 32","Glostrup FK","",rules,"Glostrup","DBU uses the bare town name, so the town rule keeps the FK suffix from the official name and drops the merged IF 32 part.",1712
+75,"Rønne f.B.","Rønne fB","",rules,"","The official name is already short and town-based, so I kept the suffix, normalised the punctuation, and the ronnefb.dk domain supports it.",1956
+75,"Herborg Ungdomsforening","Herborg UF","",rules,"","Town-based name keeps abbreviated club-type suffix; Ungdomsforening is commonly shortened to UF.",2004
+75,"Vittrup Efterskole - Lukket ??","Vittrup Efterskole","",domain,"","Strip the closure note ""- Lukket ??"" and keep the school name, which the domain confirms.",2060
+75,"Agedrup-Bullerup Boldklub","Agedrup-Bullerup BK","",rules,"","Town-based name keeps the abbreviated Boldklub suffix as BK.",2101
+75,"Skovbakken IK OB","Skovbakken","",rules,"","Skovbakken is the everyday name of the Risskov club; the 'IK OB' suffix is a long-form registration detail.",3246
+75,"Freja’s Old Boys","Freja's Old Boys","",unchanged,"","Already a short proper name with no generic prefix to drop and no other evidence.",3252
+75,"F.C. Lange Bolde","FC Lange Bolde","",rules,"","The official name is already a short proper name, so it is kept with the punctuation normalized to the common 'FC' form.",3367
+75,"Nordbyens Boldklub","Nordbyens BK","",rules,"","Area-based name keeps short club-type suffix, Boldklub abbreviated to BK.",3385
+75,"Aalborg Futsal Klub","Aalborg Futsal","",domain,"Aalborg","Town alone is ambiguous, and the domain aalborgfutsal.dk supports 'Aalborg Futsal' as the everyday name for this futsal club.",3417
+75,"Brønshøj (professional)","Brønshøj BK","",rules,"","The official name is just the town, so per the town rule the professional club is commonly called Brønshøj Boldklub, written Brønshøj BK.",3712
+75,"Næsby (professional)","Næsby BK","",domain,"","Domain naesbyboldklub.dk shows the club is Næsby Boldklub, and since Næsby is a place name the BK suffix is kept.",3726
+75,"FC Sydvest 05 Tønder (professional)","FC Sydvest 05","",domain,"","The club is commonly known as FC Sydvest 05, which fits the fcsydvest.dk domain, and the town suffix adds nothing.",3750
+75,"Vejen 10.","Vejen 10","",unchanged,"","The official name is already short and everyday, and there is no DBU evidence that the V10 abbreviation is used on match cards.",3781
+75,"University College Lillebælt Football Club","UCL FC","",domain,"","Email domain uclfc.dk points to the UCL FC abbreviation for this long institutional name.",3840
+75,"Idrætsefterskolen Klintsøgaard","Klintsøgaard","",domain,"","The generic school-type prefix is dropped, leaving the proper name Klintsøgaard, which the email domain klintsoegaard.dk also uses.",3948
+75,"Sportsefterskolen Sjælsølund","Sjælsølund","",domain,"","The domain sjaelsoelund.dk supports the proper name ""Sjælsølund"" without the generic school-type prefix.",3954
+80,"IF Skjold Sæby","Skjold Sæby","",dbu,"IF Skjold Sæby | Skjold Sæby / Voersaa IF","The DBU joint-team name ""Skjold Sæby / Voersaa IF"" shows the club is called ""Skjold Sæby"" day to day, with the proper name Skjold making the IF prefix droppable.",134
+80,"VIF, Mors","VIF Mors","",domain,"","Official name is already short; the domain vifmors.dk supports the everyday form ""VIF Mors"".",270
+80,"Randers KFUM Fodbold","Randers KFUM","",rules,"","Dropping the generic 'Fodbold' suffix gives the everyday name Randers KFUM, which matches the domain evidence.",611
+80,"Hammelev IF (G)","Hammelev IF","",rules,"","The ""(G)"" is only a DBU marker to tell this club apart from other Hammelevs, so the everyday name is the town plus IF.",734
+80,"Dalby GI (H)","Dalby GI","",unchanged,"","The official name is already short and everyday, with the ""(H)"" suffix dropped since it only distinguishes this Dalby near Haslev from other Dalbys.",989
+80,"B. 1973, Herlev","B.1973","",dbu,"B. 1973, Herlev | Spillet","DBU fixtures use ""B. 1973, Herlev"" and the domain b1973.dk supports the short form B.1973, matching the B.93 style.",1069
+80,"Roskilde Boldklub","Roskilde BK","",rules,"Roskilde Boldklub | Roskilde | Roskilde Bk","Town-name club, so the BK suffix is kept; DBU names mostly use the full form, with occasional ""Roskilde Bk"" supporting the abbreviation.",1197
+80,"BK 96, Solrød","BK 96","",dbu,"BK 96, Solrød","The DBU name ""BK 96, Solrød"" is used day to day as ""BK 96"", with the town dropped as a locator.",1237
+80,"AIK 65 Strøby Fodbold","AIK 65 Strøby","",dbu,"AIK 65 Strøby Fodbold","DBU uses ""AIK 65 Strøby Fodbold"" consistently, and dropping the generic ""Fodbold"" suffix gives the everyday form while ""AIK"" alone is too ambiguous.",1251
+80,"Oure Fodbold Akademi","Oure FA","",dbu,"SfB-Oure FA | Fortuna Oure | Oure Fodbold Akademi","DBU fixtures use ""Oure FA"" (in ""SfB-Oure FA""), the established short form of Oure Fodbold Akademi.",1468
+80,"BK Stjernen af 1968","Stjernen","",domain,"BK Stjernen af 1968 | Stjernen BK","Stjernen is a proper name, so the generic BK prefix and founding year are dropped, supported by the bkstjernen.dk domain and the 'Stjernen BK' team name.",1493
+80,"Veflinge G &  IF","Veflinge GIF","",domain,"","Town-based Gymnastik- og Idrætsforening abbreviates to GIF, supported by the vgif.dk domain.",1518
+80,"Birket Boldklub","Birket BK","",rules,"","Birket is a place name, so the club-type suffix is kept and abbreviated to BK.",1624
+80,"Aarsballe B.","Aarsballe B","",unchanged,"","Official name is already the short town-plus-suffix form, supported by the domain aarsballe-boldklub.dk.",1689
+80,"Klank Efterskole (fodbold)","Klank Efterskole","",unchanged,"","Official name minus the '(fodbold)' qualifier is already the everyday name, supported by the email domain.",2087
+80,"DAI - Fodbold","DAI","",domain,"","Dropping the generic ""- Fodbold"" suffix leaves the established abbreviation DAI, which matches both the website and email domains.",2099
+80,"Høng  Efterskole","Høng Efterskole","",unchanged,"","An efterskole has no club-type suffix to abbreviate, so the official name is kept with the double space removed.",2544
+80,"Boldklubben Enghaven","Enghaven","",rules,"","Generic 'Boldklubben' prefix dropped before the proper name Enghaven, supported by the bk-enghaven.dk domain.",3161
+80,"Uggerby Idrætsforening","Uggerby IF","",rules,"","Town-based name, so Idrætsforening is abbreviated to IF per the rules.",3678
+80,"Lyngby (professional)","Lyngby","",rules,"","Professional club Lyngby Boldklub is universally called Lyngby (or Lyngby BK), so the suffix-free form with the qualifier dropped is used.",3717
+80,"Katrinebjergs Atletikforening","Katrinebjerg AF","",domain,"","Area name keeps the abbreviated club-type suffix, and the domain katrinebjergaf.dk supports ""Katrinebjerg AF"".",3843
+80,"SØS - Sydøstsjællands Idrætsefterskole","SØS","",existing,"","The official name already leads with the established abbreviation SØS, which is also reflected in the email domain soes-idraet.dk.",3941
+82,"Fløng-Hedehusene Fodbold","Fløng-Hedehusene","",dbu,"Fløng-Hedehusene Fodbold | Fløng-Hedehusene","DBU fixtures use ""Fløng-Hedehusene Fodbold"" and also ""Fløng-Hedehusene""; the double town name is distinctive enough without the generic ""Fodbold"" suffix.",1019
+82,"Lundtofte Boldklub","Lundtofte BK","",rules,"Lundtofte Boldklub","Lundtofte is a town name, so the Boldklub suffix is kept and abbreviated to BK, as DBU only shows the full form.",1145
+82,"Thurø BK af 1920","Thurø BK","",rules,"","Thurø is a place name, so keep the BK suffix and drop the founding-year tag 'af 1920'.",1505
+82,"Nexø B.","Nexø B","",rules,"Nexø | NB Bornholm","DBU uses ""Nexø"" without suffix, so the town rule keeps the short club-type suffix, giving ""Nexø B""; ""NB Bornholm"" is likely a different team name.",1676
+85,"FC Ljiljan, Aalborg","FC Ljiljan","",domain,"","The town suffix is dropped, leaving the proper club name, which the ljiljan.dk email domain supports.",111
+85,"Borup IF (J)","Borup IF","",domain,"SUB","Domain borupif.dk supports Borup IF; the DBU team name 'SUB' shares no words with the official name and is ignored as a cooperation team, while the '(J)' is a DBU region disambiguator that is dropped.",209
+85,"Boldklubben Klitten","BK Klitten","",dbu,"BK Klitten","DBU fixtures consistently use ""BK Klitten"", and since ""Klitten"" alone is a generic word (""the dune""), the BK prefix is kept.",278
+85,"Vejlby Skovbakken Aarhus","VSK Aarhus","",domain,"VRI/VSK | IF Lyseng | AGF | Sparekassen Danmark Stadion - Hornslet | Aabyhøj IF","Domain vskaarhus.dk and existing abbreviation VSK point to the everyday name VSK Aarhus; DBU names show only the joint team VRI/VSK.",431
+85,"Fjorden IF","IF Fjorden","",dbu,"Spentrup/Ommersyssel IF | Hadsund-Ommersyssel IF | Spentrup-ommersyssel If | IF Fjorden","DBU fixtures and the iffjorden.dk domain both use ""IF Fjorden"", and the cooperation team names were ignored.",490
+85,"De 7 Dale Idrætsforening","De 7 Dale IF","",domain,"","Area name keeps the IF suffix, matching the de7dale-if.dk domain.",520
+85,"tst Fodbold","TST Fodbold","",dbu,"tst Fodbold","DBU fixtures consistently use ""tst Fodbold"", and the club is commonly written as TST Fodbold with the abbreviation capitalised.",671
+85,"Harte G & IF","Harte GIF","",domain,"Harte G & IF","Town name keeps the club-type suffix, and the domain hartegif.dk supports the everyday form 'Harte GIF'.",721
+85,"Albertslund BS 72","Albertslund BS","",dbu,"Albertslund BS | Albertslund BS 72 | BS 72","DBU fixtures most often use ""Albertslund BS"", though ""BS 72"" also appears in the domain.",948
+85,"Borup IF Fodbold","Borup IF","",rules,"Borup IF Fodbold","Town name keeps the IF suffix while the generic 'Fodbold' department word is dropped, consistent with everyday usage.",972
+85,"Ejby IF Fodbold","Ejby IF","",rules,"Ejby IF Fodbold","Ejby is a town name, so the IF suffix stays, and the generic 'Fodbold' department word is dropped.",1001
+85,"FIF, Hillerød","FIF Hillerød","",dbu,"FIF, Hillerød","DBU fixtures and the website domain both use FIF with Hillerød, so the comma is dropped for everyday use.",1015
+85,"Hjorten Fodbold, Herlev","Hjorten","",domain,"Hjorten Fodbold, Herlev | HHT","Hjorten is a proper name, so the generic 'Fodbold, Herlev' suffix drops, as the hjorten.dk domain supports.",1077
+85,"KB 92, Karlslunde","KB 92","",domain,"","The official name already includes the short form KB 92, and the website domain kb92.dk supports it.",1116
+85,"KFUM BK, Roskilde","KFUM Roskilde","",dbu,"KFUM BK, Roskilde | KFUM, Roskilde | Spillet","DBU names consistently use KFUM with Roskilde, and the domain roskilde-kfum.dk confirms the everyday form.",1198
+85,"B. 77, Rødovre","B.77","",domain,"B. 77, Rødovre","Club is known by its established abbreviation B.77 (domain b77fodbold.dk), with the town suffix dropped as everyday usage.",1202
+85,"B. 73, Slagelse","B.73 Slagelse","",dbu,"B. 73, Slagelse","DBU fixtures consistently use ""B. 73, Slagelse"", tidied to the everyday form ""B.73 Slagelse"", which the b73.dk domain supports.",1227
+85,"BK Vest, Rødovre","BK Vest","",domain,"BK Vest, Rødovre","The town qualifier ""Rødovre"" is dropped, as supported by the bk-vest.dk domain; ""Vest"" alone is too ambiguous, so the BK prefix is kept.",1304
+85,"Bogense G & IF","Bogense G&IF","",dbu,"Bogense G & IF","DBU consistently uses ""Bogense G & IF"", a town name with its short club-type suffix, so it is kept with compact spacing.",1362
+85,"Nyborg G & IF","Nyborg G&IF","",dbu,"Nyborg G & IF","DBU fixtures consistently use ""Nyborg G & IF"" and the domain supports the G&IF form, so the town plus short club-type suffix is kept.",1456
+85,"Otterup Bold- og Idrætsklub","Otterup B&IK","",dbu,"Otterup Bold- og Idrætsklub | Otterup B & IK","DBU fixtures use ""Otterup B & IK"", the established short form for this town club, written compactly here as Otterup B&IK.",1467
+85,"Tåsinge f. B.","Tåsinge fB","",dbu,"Tåsinge f. B. | Tåsinge f.B.","DBU fixtures consistently use ""Tåsinge f. B."" (Tåsinge forenede Boldklubber), and the domain taasingefb.dk supports the everyday short form ""Tåsinge fB"".",1513
+85,"Politiets Idrætsforening","PI","",dbu,"PI Fodbold","DBU fixtures and domain use ""PI Fodbold"", showing that the established abbreviation PI is what the club goes by.",1574
+85,"Boldklubben Rødovre","BK Rødovre","",dbu,"Rødovre | Boldklubben Rødovre | Ungdommen | Rødovre Banebooking | UHT","DBU uses ""Rødovre"", a town name, so the BK suffix is kept as in the domain bkrodovre.dk.",1578
+85,"Boldklubben Døvania","Døvania","",domain,"","Generic prefix dropped from a proper name, supported by the dovania.dk domain.",1603
+85,"Døllefjelde Musse IF","DMI","",dbu,"DMI | TGB/DMI","DBU fixtures consistently register the club as ""DMI"", the established abbreviation of Døllefjelde Musse IF.",1627
+85,"Sandby  GF","Sandby GF","",unchanged,"","Official name is already short town-plus-suffix form, supported by the sandby-gf.dk domain (extra space removed).",1655
+85,"Østofte GIF (PASSIV)","Østofte GIF","",unchanged,"","Official name is already the everyday short form once the ""(PASSIV)"" status marker is dropped, and the domain o-g-i-f.dk matches it.",1669
+85,"FIUK, Odense","FIUK","",existing,"","The official name is already the short abbreviation FIUK, and the existing nickname confirms it.",3155
+85,"NFS - Nørremarkens forenede Sportsklubber","Nørremarkens FS","",dbu,"Nørremarkens fS","DBU fixtures consistently use ""Nørremarkens fS"", normalized to Nørremarkens FS, since the area name needs its club-type suffix.",3416
+85,"Brøndby (professional)","Brøndby IF","",existing,"","The existing abbreviation BIF and the town-based name point to Brøndby IF, the everyday name of the professional club.",3700
+85,"Esbjerg (professional)","Esbjerg fB","",domain,"","The efb.dk domain points to Esbjerg forenede Boldklubber, commonly written ""Esbjerg fB"" or ""EfB"".",3701
+85,"FC Nordsjælland (professional)","FC Nordsjælland","",unchanged,"","The official name is already the everyday form, though FCN is also a common abbreviation.",3702
+85,"Silkeborg (professional)","Silkeborg IF","",domain,"","The email domain silkeborgif.com and the town rule both point to Silkeborg IF, the club's well-known everyday name.",3708
+85,"Vejle Boldklub (professional)","Vejle BK","",rules,"","Vejle Boldklub is commonly written as Vejle BK; town name keeps the club-type suffix.",3718
+85,"Viborg (professional)","Viborg FF","",domain,"","Email domain vff.dk matches Viborg Fodsports Forening, commonly known as Viborg FF.",3719
+85,"B 1908 (professional)","B 1908","",unchanged,"","Official name B 1908 is already the short everyday form used for the Amager club.",3721
+85,"Næstved BK (professional)","Næstved BK","",unchanged,"","Official name is already the short town-plus-BK form used everyday.",3727
+88,"B52/Aalborg Fodbold Club","B52/Aalborg","",dbu,"B52/Aalborg","DBU fixtures consistently use ""B52/Aalborg"" for this club.",3
+88,"Dall-Ferslev IF","Dall/Ferslev IF","",dbu,"Dall/Ferslev IF","DBU fixtures consistently use ""Dall/Ferslev IF"", a short town-plus-IF form matching the official name.",35
+88,"Strandby-Elling-Nielstrup IF Fodbold","Strandby-Elling-Nielstrup IF","",dbu,"Strandby-Elling-Nielstrup IF","DBU fixtures consistently use ""Strandby-Elling-Nielstrup IF"", dropping the ""Fodbold"" section suffix.",128
+88,"Røde Stjerne FC, Skive","Røde Stjerne","",dbu,"Røde Stjerne","DBU fixtures list the club as ""Røde Stjerne"", a proper name that needs no suffix.",394
+88,"ASA, Aarhus","ASA","",dbu,"ASA, Aarhus | ASA/Aabyhøj | ASA, Aarhus - Aarhus Fremad","DBU fixtures and domain use ""ASA"", with "", Aarhus"" only as a registry disambiguator.",423
+88,"JAI, Aarhus","JAI","",domain,"JAI, Aarhus","JAI is the established abbreviation used in DBU names and the domain, with the "", Aarhus"" qualifier dropped in everyday use.",426
+88,"NB 93, Aarhus","NB 93","",dbu,"NB 93, Aarhus | NB | NB 93","DBU fixtures and the nb93.dk domain both use ""NB 93"", and the "", Aarhus"" part is only a location qualifier.",593
+88,"Mariehøj Kammeraterne Silkeborg","Mariehøj Kammeraterne","",dbu,"Mariehøj Kammeraterne","DBU fixtures consistently use ""Mariehøj Kammeraterne"" without the town suffix.",600
+88,"BK Avarta","Avarta","",dbu,"BK Avarta | Avarta","Avarta is a proper name, so the BK prefix is dropped, which matches the DBU 'Avarta' entries and the avarta.dk domain.",958
+88,"Helsingør IF Fodbold","Helsingør IF","",domain,"Helsingør IF Fodbold","Dropping the generic 'Fodbold' section suffix gives the everyday town-plus-IF form, supported by the helsingorif.dk domain.",1065
+88,"Lyngby Boldklub 1921","Lyngby BK","",dbu,"Lyngby Boldklub 1921 | Lyngby | Lyngby Bk | Spillet | DTU Lyngby Boldklub 1921","DBU fixtures use ""Lyngby Bk"" and ""Lyngby"", and the town rule keeps the BK suffix.",1146
+88,"Næstved I.F.","Næstved IF","",dbu,"Næstved I.F. | Næstved","DBU uses ""Næstved I.F."", which normalizes to the everyday town-plus-suffix form ""Næstved IF"".",1171
+88,"B. 82, Virum","B.82","",domain,"B. 82, Virum","The club is known as B.82, which the b82.dk domain and the DBU name both support, and Virum is just the location suffix.",1312
+88,"F.C. Gladsaxe","FC Gladsaxe","",dbu,"F.C. Gladsaxe","DBU fixtures use ""F.C. Gladsaxe"", which is commonly written as FC Gladsaxe in everyday use, matching the domain fcgladsaxe.dk.",1316
+88,"Langtved SG  &  IF","Langtved SG & IF","",dbu,"Langtved SG & IF","DBU fixtures use ""Langtved SG & IF"", which is already a short everyday form apart from the extra spacing.",1439
+88,"Boldklubben Olympia 1921","Olympia 1921","",dbu,"Olympia 1921","DBU fixtures use ""Olympia 1921"", matching the proper name once the generic ""Boldklubben"" prefix is dropped.",1572
+88,"Valby Boldklub","Valby BK","",dbu,"Valby","DBU uses ""Valby"", a district name, so the town rule keeps the club-type suffix as ""Valby BK"".",1587
+88,"Listrup U&IF","LUIF","",dbu,"LUIF","DBU fixtures consistently use ""LUIF"", and the luif.dk domain supports it.",1640
+88,"Øster Ulslev BK","ØUB","",dbu,"ØUB","DBU fixtures consistently register the club as ""ØUB"", which the punycode domain øub.dk also supports.",1668
+88,"Allinge-Sandvig G.F.","ASG","",dbu,"ASG","DBU fixtures and the website domain both use ""ASG"", the established abbreviation for Allinge-Sandvig GF.",1671
+88,"Svaneke Idræts Klub","Svaneke IK","",domain,"Svaneke","Town name needs suffix; Idræts Klub abbreviates to IK, supported by svaneke-ik.dk domain.",1683
+88,"Frederiksværk Fodbold Klub","Frederiksværk FK","",dbu,"Frederiksværk Fodbold Klub | Frederiksværk FK","Town-based name keeps the abbreviated Fodboldklub suffix, and ""Frederiksværk FK"" appears in DBU fixtures.",1749
+88,"Idræt og Venskab Foreningen, Århus","IVF Århus","",dbu,"IVF, Århus","DBU fixtures consistently use the abbreviation IVF with Århus as the location.",1782
+88,"Munkevængets Fritids- og IF","Munkevængets FI","",dbu,"Munkevængets FI","DBU fixtures register the club as ""Munkevængets FI"", a short form of the official name.",1852
+88,"FC Olympiakos København","Olympiakos København","",dbu,"Olympiakos København","DBU fixtures consistently register the club as ""Olympiakos København"", dropping the generic FC prefix.",3169
+88,"Charlotteager Fodbold Klub","CFK","",dbu,"CFK","DBU fixtures consistently register the club as the abbreviation ""CFK"".",3694
+88,"AaB (professional)","AaB","",unchanged,"","AaB is the established everyday name; the '(professional)' qualifier is not part of how people say it.",3698
+88,"Avarta (professional)","Avarta","",unchanged,"","Official name Avarta is already the short everyday name; the '(professional)' marker is just a qualifier and the elite domain supports it.",3720
+88,"BK Frem (professional)","Frem","",rules,"","Frem is a proper name, so the BK prefix is dropped, as in the owner's example, and the bkfrem.dk domain supports it.",3742
+88,"Fremad Amager Elite (professional)","Fremad Amager","",domain,"","Fremad Amager is the established everyday name, supported by the website domain; 'Elite' is just the professional entity suffix.",3743
+88,"F.C. Vesterbro","FC Vesterbro","",dbu,"FC Vesterbro, Aalborg","DBU fixtures use ""FC Vesterbro"" (with Aalborg added only for disambiguation), which is the everyday form of F.C. Vesterbro.",3937
+90,"Rosendal IK","IK Rosendal","",dbu,"IK Rosendal","DBU fixtures consistently use ""IK Rosendal"", matching the ikrosendal.dk domain.",41
+90,"Vejrumbro Boldklub","Vejrumbro B","",dbu,"Vejrumbro B","DBU fixtures consistently register the club as ""Vejrumbro B"", which keeps the town plus a short club-type suffix.",369
+90,"SIK Viborg, fodbold","SIK Viborg","",dbu,"SIK Viborg, fodbold | SIK Viborg, fodbold - Mejdal-Halgård Fodbold","DBU names consistently use ""SIK Viborg"" with only a "", fodbold"" department suffix, which is dropped in everyday use.",377
+90,"GIF-Gram","GIF Gram","",dbu,"GIF Gram","DBU fixtures consistently use ""GIF Gram"", matching the official name without the hyphen.",804
+90,"Næsbjerg/Rousthøje UI","Næsbjerg RUI","",dbu,"Næsbjerg RUI","DBU fixtures consistently use ""Næsbjerg RUI"", supported by the nrui.dk domain.",860
+90,"Boldklubben Vestkysten","BV Oksbøl","",dbu,"BV Oksbøl","DBU fixtures and the domain both use ""BV Oksbøl"".",863
+90,"Sønderborg Boldklub","Sønderborg B","",dbu,"Sønderborg B | Sønderborg Boldklub","DBU fixtures overwhelmingly use ""Sønderborg B"", keeping the town plus short club-type suffix.",887
+90,"Skærbæk Boldklub","Skærbæk B","",dbu,"Skærbæk B","DBU fixtures consistently register the club as ""Skærbæk B"", which keeps the town plus short club-type suffix.",909
+90,"Vorbasse Boldklub af 1912","Vorbasse B","",dbu,"Vorbasse B","DBU fixtures register the club as ""Vorbasse B"", which keeps the town plus the short club-type suffix.",911
+90,"Dragør Boldklub","Dragør BK","",dbu,"Dragør | Dragør Bk. | Dragør BK","DBU fixtures use ""Dragør"" and ""Dragør BK"", and since Dragør is a town name the BK suffix is kept.",1548
+90,"Gentofte Fodboldklub","Gentofte FK","",dbu,"Gentofte FK","DBU fixtures use ""Gentofte FK"", matching the town-plus-suffix rule.",1555
+90,"Jødisk Idrætsforening Hakoah","JIF Hakoah","",dbu,"JIF Hakoah","DBU fixtures consistently use ""JIF Hakoah"".",1557
+90,"Kastrup Boldklub","Kastrup BK","",dbu,"Kastrup | Kastrup Bk","DBU uses ""Kastrup"" and ""Kastrup Bk""; town name keeps the BK suffix.",1566
+90,"Fr.holm Sydhavnen","Frederiksholm Sydhavnen","",dbu,"Frederiksholm Sydhavnen | Fr.holm Sydhavnen","DBU fixtures predominantly use the full form ""Frederiksholm Sydhavnen"" rather than the abbreviated official name.",1609
+90,"Stidsholt IF (Efterskole)","Stidsholt IF","",dbu,"Stidsholt IF","DBU fixtures use ""Stidsholt IF"", dropping the ""(Efterskole)"" qualifier.",1694
+90,"FC Midtjylland (professional)","FC Midtjylland","",unchanged,"","The official name is already the everyday name, and FCM is the known abbreviation, but the full name is what appears on match cards.",3705
+90,"FC København (professional)","FCK","",existing,"","FC København is universally called FCK, matching the existing abbreviation and fck.dk domain.",3710
+90,"Aarhus Fremad (professional)","Aarhus Fremad","",unchanged,"","Official name is already the short everyday name used for the club.",3729
+90,"Skive IK (professional)","Skive IK","",unchanged,"","Official name is already the short everyday form, supported by the website domain.",3732
+90,"Brabrand IF (professional)","Brabrand IF","",unchanged,"","Official name is already the short everyday form with town plus IF suffix.",3744
+92,"RKG Fodbold","RKG","",dbu,"RKG","DBU fixtures consistently use ""RKG"", which is the established abbreviation.",110
+92,"Trekroner IF 98","Trekroner IF","",dbu,"Trekroner IF","DBU fixtures consistently use ""Trekroner IF"", dropping the founding-year suffix.",178
+92,"IF Frem Bjæverskov Fodbold","IF Frem Bjæverskov","",dbu,"IF Frem Bjæverskov | IF Frem Bjæverskov - Tuse IF | IF Frem Bjæverskov - Lynge-Broby IF","DBU fixtures consistently use ""IF Frem Bjæverskov"", dropping the generic ""Fodbold"" suffix.",967
+92,"Allerød Fodbold Klub","Allerød FK","",dbu,"Allerød Fodbold Klub | Allerød FK | Spillet","DBU fixtures and the alleroedfk.dk domain both support the town-plus-FK form.",1141
+92,"Bispebjerg Boldklub","Bispebjerg BK","",dbu,"Bispebjerg Bk. | Bispebjerg","DBU fixtures mostly use ""Bispebjerg Bk."", and since Bispebjerg is an area name the club-type suffix BK is kept.",1542
+92,"Jægersborg Boldklub","Jægersborg BK","",dbu,"Jægersborg BK | Jægersborg | Jægersborg Bk. | JB/Aakanden","DBU fixtures predominantly use ""Jægersborg BK"", and the town-name rule keeps the BK suffix.",1565
+92,"Kløvermarkens Forenede Boldklubber","KFB","",dbu,"KFB","DBU fixtures consistently use the established abbreviation KFB.",1568
+92,"Sundby Boldklub","Sundby BK","",dbu,"Sundby Bk. | Sundby","DBU fixtures overwhelmingly use ""Sundby Bk."", and Sundby is an area name so the BK suffix is kept.",1583
+92,"Vigerslev Boldklub","Vigerslev BK","",dbu,"Vigerslev Bk. | Vigerslev","DBU fixtures use ""Vigerslev Bk."", and since Vigerslev is an area name, the BK suffix is kept.",1591
+92,"Studenter Settlementets Boldklub","SSB","",dbu,"SSB","DBU fixtures and the website domain both use the established abbreviation SSB.",1598
+92,"Viking Fodbold","Viking","",dbu,"Viking | Viking Fodbold | Viking/RIK","DBU fixtures overwhelmingly use ""Viking"", a proper name that doesn't need a suffix.",1685
+92,"Nørrebro Boldklub","Nørrebro BK","",dbu,"Nørrebro BK","DBU fixtures consistently use ""Nørrebro BK"", which matches the town-plus-suffix rule.",2089
+92,"Futsal Club Fjordbold","FC Fjordbold","",dbu,"FC Fjordbold","DBU fixtures and the website domain both use ""FC Fjordbold"".",3419
+92,"SønderjyskE (professional)","SønderjyskE","",unchanged,"","SønderjyskE is already the short, everyday name used for the club.",3703
+92,"Hobro IK (professional)","Hobro IK","",unchanged,"","Hobro IK is already the short everyday name used for the club.",3704
+92,"Hvidovre IF (professional)","Hvidovre IF","",unchanged,"","Official name is already the short everyday form used for the club.",3716
+92,"B 93 (professional)","B.93","",domain,"","Established abbreviation B.93 matches the club's domain b93.dk and is the everyday name.",3722
+92,"HIK (professional)","HIK","",unchanged,"","HIK is the established everyday name for Hellerup Idrætsklub, matching the hik.dk domain.",3723
+92,"FC Roskilde (professional)","FC Roskilde","",unchanged,"","The official name is already the short everyday form, and the website and email domains match it.",3731
+92,"Vendsyssel FF (professional)","Vendsyssel FF","",unchanged,"","The official name is already the short everyday form, and the email domain vendsysselff.dk supports it.",3733
+92,"Fortuna Hjørring (professional)","Fortuna Hjørring","",unchanged,"","The official name is already the everyday name and matches the website domain.",3738
+92,"Nykøbing FC (professional)","Nykøbing FC","",unchanged,"","Official name is already the short everyday form, supported by the domain.",3746
+92,"Thisted FC (professional)","Thisted FC","",unchanged,"","Official name is already short and in everyday use, matching the website domain.",3747
+92,"Ballerup Boldklub","Ballerup BK","",dbu,"Ballerup BK","DBU fixtures use ""Ballerup BK"", consistent with the town-plus-suffix rule.",3921
+93,"Langholt Sports Klub","Langholt SK","",dbu,"Langholt SK","DBU fixtures consistently use ""Langholt SK"", which also follows the town-plus-suffix rule.",73
+93,"Ikast FS Fodbold","Ikast FS","",dbu,"Ikast FS | FC Midtjylland | Hammerum IF/Ikast FS | Ikast FS/Hammerum IF | Mikro","DBU fixtures overwhelmingly use ""Ikast FS"", matching the official name minus the generic ""Fodbold"".",266
+93,"Isenvad Borger- og Idrætsforening","Isenvad BIF","",dbu,"Isenvad BIF","DBU fixtures use ""Isenvad BIF"", matching the town-plus-suffix rule.",268
+93,"Rødkærsbroegnens IF","Rødkærsbro IF","",dbu,"Rødkærsbro IF","DBU fixtures consistently use ""Rødkærsbro IF"", the town name plus the IF suffix.",319
+93,"Fuglebakken KFUM Århus","Fuglebakken KFUM","",dbu,"Fuglebakken KFUM | Fuglebakken","DBU fixtures overwhelmingly use ""Fuglebakken KFUM"", matching the website domain.",427
+93,"Hylke Fodboldklub","Hylke FK","",dbu,"Hylke FK","DBU fixtures use ""Hylke FK"", consistent with the town-plus-suffix rule.",447
+93,"Ledøje-Smørum Fodbold","LSF","",dbu,"LSF | Spillet | HHT | UMH","DBU fixtures overwhelmingly use ""LSF"", and the lsf.dk domain confirms this established abbreviation.",1135
+93,"Ørslev GIF (V)","Ørslev GIF","",dbu,"Ørslev GIF","DBU fixtures consistently use ""Ørslev GIF""; the ""(V)"" is only a disambiguation marker for Vordingborg.",1324
+93,"Boldklubben 1903","B 1903","",dbu,"B 1903 | F.C. København","DBU fixtures consistently use ""B 1903"", and the b1903.dk domain supports it.",1533
+93,"Boldklubben 1908","B 1908","",dbu,"B 1908 | B.1908 | Malmø FF","DBU fixtures overwhelmingly use ""B 1908"", consistent with the b1908.dk domain.",1534
+93,"Boldklubben 1960","B.1960","",dbu,"B.1960","DBU fixtures consistently register the club as ""B.1960"", matching the established B.93-style abbreviation.",1536
+93,"Brønshøj Boldklub","Brønshøj BK","",dbu,"Brønshøj BK | Brønshøj/Fix | Brønshøj | UHT","DBU fixtures overwhelmingly use ""Brønshøj BK"", consistent with the town-plus-suffix rule.",1543
+93,"Christiania Sports Club","CSC","",dbu,"CSC","DBU fixtures consistently use the established abbreviation CSC, supported by the cscfodbold.dk domain.",1545
+93,"Handelsstandens Boldklub","HB","",dbu,"HB | HB/ØIF","DBU fixtures consistently register the club as ""HB"", its established abbreviation.",1558
+93,"Boldklubben Heimdal","Heimdal","",dbu,"Heimdal","DBU fixtures use ""Heimdal"", and the generic ""Boldklubben"" prefix drops before a proper name.",1559
+93,"Husum Boldklub","Husum BK","",dbu,"Husum Bk | Husum Bk. | Husum | UHT","DBU fixtures overwhelmingly use ""Husum Bk"", and the town rule keeps the BK suffix.",1563
+93,"KFUMs Boldklub","KFUM","",dbu,"KFUM","DBU fixtures consistently use ""KFUM"", which is also the established name for this club.",1569
+93,"Fodboldklubben Prespa","Prespa","",dbu,"Prespa","DBU fixtures list the club as ""Prespa"", which is a proper name, so the generic ""Fodboldklubben"" prefix is dropped.",1576
+93,"Boldklubben Stefan","Stefan","",dbu,"Stefan","DBU fixtures consistently use ""Stefan"", and dropping the generic prefix from this proper name matches the rules and the bkstefan.dk domain.",1582
+93,"Boldklubben Sundby KFUM","Sundby KFUM","",dbu,"Sundby KFUM","DBU fixtures and the website domain both use ""Sundby KFUM"" without the generic prefix.",1584
+93,"Boldklubben Union","Union","",dbu,"Union","DBU fixtures consistently use ""Union"", a proper name, so the generic Boldklubben prefix is dropped.",1586
+93,"Boldklubben Viktoria","Viktoria","",dbu,"Viktoria","DBU fixtures consistently use ""Viktoria"", and dropping the generic ""Boldklubben"" prefix before a proper name matches the rules.",1592
+93,"Boldklubben VLI","VLI","",dbu,"VLI","DBU fixtures and the website domain both use ""VLI"", the proper name after dropping the ""Boldklubben"" prefix.",1593
+93,"Boldklubben Volvox","Volvox","",dbu,"Volvox","DBU team name and website domain both use ""Volvox"", a proper name, so the generic prefix is dropped.",1594
+93,"Boldklubben Fix","Fix","",dbu,"Fix | Brønshøj/Fix","DBU fixtures overwhelmingly use ""Fix"", a proper name, so the generic ""Boldklubben"" prefix is dropped.",1599
+93,"KSI - KU Studenteridræt","KSI","",dbu,"KSI","DBU fixtures consistently use the established abbreviation KSI.",3650
+93,"AB (professional)","AB","",existing,"","Akademisk Boldklub is universally known as AB, matching the existing abbreviation and email domain.",3711
+95,"Aalborg KFUM Fodbold","Aalborg KFUM","",dbu,"Aalborg KFUM","DBU fixtures consistently use ""Aalborg KFUM"", dropping the generic ""Fodbold"" suffix.",5
+95,"Nørresundby Forenede Boldklubber","Nørresundby FB","",dbu,"Nørresundby FB","DBU fixtures consistently use ""Nørresundby FB"", supported by the website domain.",90
+95,"Støvring IF Fodbold","Støvring IF","",dbu,"Støvring IF","DBU fixtures consistently use ""Støvring IF"", and the town rule keeps the IF suffix.",130
+95,"Houlkær Fodboldklub","Houlkær FK","",dbu,"Houlkær FK","DBU fixtures consistently use ""Houlkær FK"", which also matches the town-plus-suffix rule.",415
+95,"AGF, Aarhus","AGF","",dbu,"AGF, Aarhus | AGF","DBU fixtures commonly use ""AGF"", the universally used abbreviation, supported by the agf.dk domain.",421
+95,"Hadsten Sports Klub","Hadsten SK","",dbu,"Hadsten SK","DBU fixtures consistently use ""Hadsten SK"", matching the town-plus-suffix rule.",521
+95,"Stavtrup IF Fodbold","Stavtrup IF","",dbu,"Stavtrup IF | Stavtrup/Viby","DBU fixtures consistently use ""Stavtrup IF"", and the town-name rule keeps the IF suffix.",649
+95,"Fodboldklubben Sorø Freja","Sorø Freja","",dbu,"Sorø Freja","DBU fixtures consistently use ""Sorø Freja"", and the domains support it.",1240
+95,"Amager Fodbold Forening","Amager FF","",dbu,"Amager FF","DBU fixtures consistently use ""Amager FF"", supported by the amagerff.dk domain.",1538
+95,"Christianshavns Idræts Klub","CIK","",dbu,"CIK","DBU fixtures consistently use the established abbreviation CIK, supported by the cik-fodbold.dk domain.",1544
+95,"Boldklubben Fremad Amager","Fremad Amager","",dbu,"Fremad Amager | AC Amager Academy | Ac | AC Amager | AC Amager U17F","DBU fixtures overwhelmingly use ""Fremad Amager"", matching the domain and the prefix-drop rule.",1553
+95,"Gentofte-Vangede Idrætsforening","GVI","",dbu,"GVI | UHT","DBU fixtures overwhelmingly use the established abbreviation GVI, supported by the gvi-fodbold.dk domain.",1556
+95,"Hellerup Idræts Klub","HIK","",dbu,"HIK | Hellerup Idræts Klub | HHT","DBU fixtures overwhelmingly use ""HIK"", supported by the hik.dk domain.",1562
+95,"Hvidovre Idrætsforening","Hvidovre IF","",dbu,"Hvidovre IF | Hvidovre/Friheden","DBU fixtures overwhelmingly use ""Hvidovre IF"", matching the town-plus-suffix rule.",1564
+95,"Kjøbenhavns Boldklub","KB","",existing,"K.B. | KB | HHT | FC København","Existing nickname KB matches the established abbreviation and DBU fixture names (K.B./KB).",1567
+95,"Boldklubben Pioneren","Pioneren","",dbu,"Pioneren","DBU fixtures and domain both use ""Pioneren"", a proper name without the generic prefix.",1573
+95,"Skovshoved Idrætsforening","Skovshoved IF","",dbu,"Skovshoved IF | SIF/HIK | Skovshoved IF 2 | Skovshoved IF 3","DBU fixtures consistently use ""Skovshoved IF"", matching the town-plus-suffix rule.",1579
+95,"Boldklubben Skjold","Skjold","",dbu,"Skjold | Bk. Skjold","DBU fixtures overwhelmingly use ""Skjold"", and the generic prefix is dropped because Skjold is a proper name.",1581
+95,"Vanløse Idræts Forening","Vanløse IF","",dbu,"Vanløse | Vanløse IF","DBU names show ""Vanløse"" and ""Vanløse IF"", the domain vanloeseif.dk agrees, and the town rule keeps the IF suffix.",1588
+95,"Boldklubben Vestia","Vestia","",dbu,"Vestia","DBU fixtures and the domain consistently use ""Vestia"", a proper name, so the generic prefix is dropped.",1590
+95,"Østerbro Idræts Forening","Østerbro IF","",dbu,"Østerbro IF | Spillet","DBU fixtures overwhelmingly use ""Østerbro IF"", which the domain also supports.",1595
+95,"Ballerup-Skovlunde Fodbold","BSF","",dbu,"BSF | Spillet","DBU fixtures overwhelmingly use ""BSF"", matching the existing abbreviation.",2131
+95,"Arrild Idrætsforening","Arrild IF","",dbu,"Arrild IF","DBU fixtures and the website domain both use ""Arrild IF"".",3423
+95,"AGF (professional)","AGF","",unchanged,"","AGF is already the established everyday name; only the '(professional)' qualifier is dropped.",3699
+95,"OB (professional)","OB","",unchanged,"","OB is already the established everyday name for Odense Boldklub.",3706
+95,"Randers FC (professional)","Randers FC","",unchanged,"","Official name is already the short everyday form, matching the domain.",3707
+95,"FC Fredericia (professional)","FC Fredericia","",unchanged,"","Already the short everyday name, matching the website domain.",3713
+95,"HB Køge (professional)","HB Køge","",unchanged,"","HB Køge is already the established everyday name, matching the domain hbkoge.dk.",3714
+95,"AC Horsens (professional)","AC Horsens","",unchanged,"","Official name is already the short everyday name, supported by the achorsens.dk domain.",3715
+95,"FC Helsingør (professional)","FC Helsingør","",unchanged,"","Official name is already the short everyday form, supported by the email domain.",3745
+97,"Odense Boldklub","OB","",dbu,"OB","DBU fixtures consistently use the established abbreviation OB, supported by the obfodbold.dk domain.",1458
+97,"Boldklubben af 1893","B.93","",dbu,"B.93 | B 93","DBU fixtures overwhelmingly use ""B.93"", which matches the established abbreviation and domain.",1532
+97,"Frederiksberg Boldklub","FB","",dbu,"FB","DBU fixtures consistently use ""FB"", matching the existing nickname and the established abbreviation.",1549
+97,"Boldklubben Frem","Frem","",dbu,"Frem","DBU fixtures consistently use ""Frem"", matching the prefix-drop rule and the bkfrem.dk domain.",1552
+97,"Boldklubben Fremad Valby","Fremad Valby","",dbu,"Fremad Valby","DBU fixtures consistently use ""Fremad Valby"", and the website and email domains match it.",1554
+97,"Boldklubben Hekla","Hekla","",dbu,"Hekla | Amager Pigefodbold | Boldklubben Hekla | Hekla 1 | Hekla 2","DBU fixtures overwhelmingly use ""Hekla"", matching the prefix-drop rule and the bkhekla.dk domain.",1560
