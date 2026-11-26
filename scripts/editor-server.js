@@ -1889,7 +1889,7 @@ const server = http.createServer((req, res) => {
       },
       {
         label: 'Commit og tag ny version',
-        cmd:   'VERSION=$(node -p "require(\'./package.json\').version") && git add package.json index.js bydel.js municipalities.js municipalities.json postal-municipalities.json teams.js && git commit -m "v$VERSION" && git tag "v$VERSION"',
+        cmd:   'VERSION=$(node -p "require(\'./package.json\').version") && git add package.json package-lock.json index.js bydel.js municipalities.js municipalities.json postal-municipalities.json teams.js && git commit -m "v$VERSION" && git tag "v$VERSION"',
         cwd:   ROOT,
       },
       {
