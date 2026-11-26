@@ -1,0 +1,154 @@
+{
+  "39": {
+    "primary": "#2B55A5",
+    "secondary": "#FFFFFF"
+  },
+  "47": {
+    "primary": "#1E9A3C",
+    "secondary": "#C8D932"
+  },
+  "127": {
+    "primary": "#E30613",
+    "secondary": "#FFFFFF"
+  },
+  "250": {
+    "primary": "#F5E31C",
+    "secondary": "#000000"
+  },
+  "359": {
+    "primary": "#1BA1E2",
+    "secondary": "#FFFFFF"
+  },
+  "386": {
+    "primary": "#1F4E6B",
+    "secondary": null
+  },
+  "425": {
+    "primary": "#FDC82F",
+    "secondary": "#000000"
+  },
+  "505": {
+    "primary": "#1A7A2E",
+    "secondary": "#FFFFFF"
+  },
+  "527": {
+    "primary": "#2E4A9E",
+    "secondary": "#D7282F"
+  },
+  "529": {
+    "primary": "#E30613",
+    "secondary": "#FFFFFF"
+  },
+  "1015": {
+    "primary": "#2B5BAA",
+    "secondary": "#C8102E"
+  },
+  "1033": {
+    "primary": "#E30613",
+    "secondary": "#000000"
+  },
+  "1111": {
+    "primary": "#C8102E",
+    "secondary": "#FFFFFF"
+  },
+  "1185": {
+    "primary": "#E3202B",
+    "secondary": "#FFFFFF"
+  },
+  "1235": {
+    "primary": "#2B2BA8",
+    "secondary": "#FFFFFF"
+  },
+  "1276": {
+    "primary": "#E3202B",
+    "secondary": "#1A1A1A"
+  },
+  "1419": {
+    "primary": "#E8392F",
+    "secondary": "#000000"
+  },
+  "1451": {
+    "primary": "#000000",
+    "secondary": "#FFFFFF"
+  },
+  "1523": {
+    "primary": "#F7941D",
+    "secondary": "#FFFFFF"
+  },
+  "1528": {
+    "primary": "#2B2178",
+    "secondary": "#F2E829"
+  },
+  "1556": {
+    "primary": "#D71920",
+    "secondary": "#1F2A44"
+  },
+  "1626": {
+    "primary": "#2E6B3A",
+    "secondary": "#FFFFFF"
+  },
+  "1658": {
+    "primary": "#E30613",
+    "secondary": "#000000"
+  },
+  "2101": {
+    "primary": "#000000",
+    "secondary": "#FFFFFF"
+  },
+  "3698": {
+    "primary": "#E4202B",
+    "secondary": "#FFFFFF"
+  },
+  "3699": {
+    "primary": "#E30613",
+    "secondary": "#FFFFFF"
+  },
+  "3701": {
+    "primary": "#0068B4",
+    "secondary": "#FFFFFF"
+  },
+  "3704": {
+    "primary": "#3A8FD0",
+    "secondary": "#E8303A"
+  },
+  "3706": {
+    "primary": "#1E5AA0",
+    "secondary": "#FFFFFF"
+  },
+  "3708": {
+    "primary": "#1E9BD7",
+    "secondary": "#FFFFFF"
+  },
+  "3712": {
+    "primary": "#FFE600",
+    "secondary": "#1A1A1A"
+  },
+  "3716": {
+    "primary": "#FF0000",
+    "secondary": "#FFFFFF"
+  },
+  "3717": {
+    "primary": "#0D4F9C",
+    "secondary": "#FFFFFF"
+  },
+  "3718": {
+    "primary": "#E2231A",
+    "secondary": "#000000"
+  },
+  "3719": {
+    "primary": "#00775A",
+    "secondary": "#FFFFFF"
+  },
+  "3720": {
+    "primary": "#119B48",
+    "secondary": "#FFFFFF"
+  },
+  "3745": {
+    "primary": "#A7D3F0",
+    "secondary": "#000000"
+  },
+  "3746": {
+    "primary": "#3A9AD9",
+    "secondary": "#1B2A5C"
+  }
+}
