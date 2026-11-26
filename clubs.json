@@ -176,9 +176,9 @@
     "postal": "8700",
     "region": "Ukendt",
     "dbuId": 3715,
-    "primaryColor": "#00ff00",
-    "secondaryColor": "#00ff00",
-    "kitStyle": null,
+    "primaryColor": "#fec700",
+    "secondaryColor": "#000000",
+    "kitStyle": "plain",
     "logo": "assets/logos/3715.png",
     "email": "faktura@achorsens.dk",
     "website": null,
@@ -196,7 +196,9 @@
     ],
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/3715-43e5cfd25b.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/3715-43e5cfd25b.webp",
-    "kaldenavn": "AC Horsens"
+    "kaldenavn": "AC Horsens",
+    "kitLocked": true,
+    "abbreviation": "ACH"
   },
   {
     "name": "AC Iben",
