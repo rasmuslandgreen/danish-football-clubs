@@ -15546,9 +15546,9 @@ export const clubs = [
     "postal": "8700",
     "region": "Jylland",
     "dbuId": 529,
-    "primaryColor": "#E30613",
-    "secondaryColor": "#FFFFFF",
-    "kitStyle": null,
+    "primaryColor": "#FF0909",
+    "secondaryColor": "#000000",
+    "kitStyle": "plain",
     "email": "bcpo@stofanet.dk",
     "website": "http://www.hatting-torsted.dk/",
     "phone": null,
@@ -15563,7 +15563,9 @@ export const clubs = [
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/529-9eade7c00a.webp",
     "logoKind": "crest",
     "kaldenavn": "Hatting-Torsted",
-    "aliases": [],
+    "aliases": [
+      "Hatting-Torsted"
+    ],
     "coords": [
       55.86597915,
       9.89301425

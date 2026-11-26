@@ -14799,9 +14799,9 @@
     "postal": "8700",
     "region": "Jylland",
     "dbuId": 529,
-    "primaryColor": "#E30613",
-    "secondaryColor": "#FFFFFF",
-    "kitStyle": null,
+    "primaryColor": "#FF0909",
+    "secondaryColor": "#000000",
+    "kitStyle": "plain",
     "logo": "assets/logos/529.png",
     "email": "bcpo@stofanet.dk",
     "website": "http://www.hatting-torsted.dk/",
@@ -14819,7 +14819,10 @@
     ],
     "logoUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/full/529-9eade7c00a.png",
     "logoThumbUrl": "https://rasmuslandgreen.github.io/danish-football-clubs/thumb/529-9eade7c00a.webp",
-    "kaldenavn": "Hatting-Torsted"
+    "kaldenavn": "Hatting-Torsted",
+    "aliases": [
+      "Hatting-Torsted"
+    ]
   },
   {
     "name": "Haubro IF",
