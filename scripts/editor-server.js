@@ -540,6 +540,15 @@ const HTML = /* html */`<!DOCTYPE html>
       border-radius: 4px; padding: 1px 5px; flex-shrink: 0;
     }
     .kit-contrib-row--accepted { background: #f0fdf4; border-color: #bbf7d0; }
+    /* A new suggestion for a locked (official) kit — needs a closer look */
+    .kit-contrib-row--attention { background: #fffbeb; border-color: #fcd34d; }
+    .kit-contrib-shirt { width: 30px; height: 30px; flex-shrink: 0; }
+    .kit-contrib-shirt svg { width: 100%; height: 100%; display: block; }
+    .kit-contrib-shirt svg path:last-child { stroke: rgba(0,0,0,0.3); stroke-width: 3; } /* outline, so white kits show */
+    .kit-contrib-shirt--current { width: 22px; height: 22px; opacity: 0.75; }
+    .kit-contrib-compare { display: flex; align-items: center; gap: 4px; flex-shrink: 0; font-size: 11px; color: #9ca3af; }
+    .kit-contrib-pattern { font-size: 11px; color: #6b7280; flex-shrink: 0; min-width: 62px; }
+    .kit-contrib-badge--warn { color: #92400e; background: #fef3c7; border-color: #fcd34d; }
     .kit-contrib-actions { display: flex; gap: 2px; flex-shrink: 0; }
     .kit-icon-btn {
       display: inline-flex; align-items: center; justify-content: center;
@@ -910,7 +919,7 @@ function updateAvatars(name, logo, abbreviation) {
 }
 
 // ── Shirt SVG ─────────────────────────────────────────────────────────────────
-function shirtSVG(p, s, style) {
+function shirtSVG(p, s, style, clipId = 'shirt-clip') {
   const stripeCount = 5;
   let decoration = '';
 
@@ -928,12 +937,12 @@ function shirtSVG(p, s, style) {
 
   return \`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
     <defs>
-      <clipPath id="shirt-clip">
+      <clipPath id="\${clipId}">
         <path d="M15,8 L0,28 L18,34 L18,92 L82,92 L82,34 L100,28 L85,8 L68,18 Q50,26 32,18 Z"/>
       </clipPath>
     </defs>
     <path d="M15,8 L0,28 L18,34 L18,92 L82,92 L82,34 L100,28 L85,8 L68,18 Q50,26 32,18 Z" fill="\${p}"/>
-    <g clip-path="url(#shirt-clip)">\${decoration}</g>
+    <g clip-path="url(#\${clipId})">\${decoration}</g>
     <path d="M32,18 Q50,26 68,18 Q60,32 50,32 Q40,32 32,18 Z" fill="\${s}" opacity="0.8"/>
     <path d="M15,8 L0,28 L18,34 L18,92 L82,92 L82,34 L100,28 L85,8 L68,18 Q50,26 32,18 Z" fill="none" stroke="rgba(0,0,0,0.08)" stroke-width="1"/>
   </svg>\`;
@@ -1233,6 +1242,8 @@ const ICON_THUMBS_UP   = '<svg ' + SVG_ATTRS + '><path d="M7 10v12"/><path d="M1
 const ICON_THUMBS_DOWN = '<svg ' + SVG_ATTRS + '><path d="M17 14V2"/><path d="M9 18.12 10 14H4.17a2 2 0 0 1-1.92-2.56l2.33-8A2 2 0 0 1 6.5 2H20a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-2.76a2 2 0 0 0-1.79 1.11L12 22a3.13 3.13 0 0 1-3-3.88Z"/></svg>';
 const ICON_LOCK        = '<svg ' + SVG_ATTRS + '><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>';
 
+const PATTERN_LABELS = { 'plain': 'Ensfarvet', 'stripes-v': 'Lodrette', 'stripes-h': 'Vandrette' };
+
 async function loadKitContributions() {
   const list = document.getElementById('kit-contrib-list');
   try {
@@ -1241,28 +1252,34 @@ async function loadKitContributions() {
       list.innerHTML = '<p class="kit-contrib-empty">Ingen bidrag endnu.</p>';
       return;
     }
-    list.innerHTML = rows.map(row => {
-      const date  = new Date(row.updated_at).toLocaleDateString('da-DK', { day: 'numeric', month: 'short' });
-      const badge = row.kit_style && row.kit_style !== 'plain'
-        ? \`<span class="kit-contrib-badge">\${row.kit_style}</span>\`
+    list.innerHTML = rows.map((row, i) => {
+      const date    = new Date(row.updated_at).toLocaleDateString('da-DK', { day: 'numeric', month: 'short' });
+      const pending = !row.review;
+      // A new, different suggestion for a locked (official) kit gets a closer look
+      const attention = pending && row.locked && row.differs;
+      const shirt = (k, cls, id) => \`<div class="kit-contrib-shirt\${cls}" title="\${k.primary_color ?? '–'} / \${k.secondary_color ?? '–'} · \${PATTERN_LABELS[k.kit_style ?? 'plain'] ?? k.kit_style}">\${shirtSVG(k.primary_color ?? '#ebebeb', k.secondary_color ?? '#ebebeb', k.kit_style ?? 'plain', id)}</div>\`;
+      // Show the library's current kit next to a pending suggestion that would change it
+      const compare = pending && row.differs && row.current
+        ? \`<div class="kit-contrib-compare">nu \${shirt(row.current, ' kit-contrib-shirt--current', 'kc-cur-' + i)} →</div>\`
         : '';
+      const warn = attention ? '<span class="kit-contrib-badge kit-contrib-badge--warn">Låst kit · nyt forslag</span>' : '';
       const lock = row.locked
         ? \`<button class="kit-icon-btn kit-icon-btn--lock" data-action="unlock" title="Kittet er låst — klik for at låse op" aria-label="Lås kit op">\${ICON_LOCK}</button>\`
         : '';
-      const disabled = row.locked ? 'disabled' : '';
       const upActive = row.review === 'accepted' ? ' is-active' : '';
-      return \`<div class="kit-contrib-row\${row.review === 'accepted' ? ' kit-contrib-row--accepted' : ''}">
-        <div class="kit-contrib-swatches">
-          <div class="kit-contrib-swatch" style="background:\${row.primary_color ?? '#ebebeb'}" title="Primær: \${row.primary_color ?? '–'}"></div>
-          <div class="kit-contrib-swatch" style="background:\${row.secondary_color ?? '#ebebeb'}" title="Sekundær: \${row.secondary_color ?? '–'}"></div>
-        </div>
+      const rowCls = attention ? ' kit-contrib-row--attention' : row.review === 'accepted' ? ' kit-contrib-row--accepted' : '';
+      const upTitle = row.locked ? 'Brug i stedet for det låste kit (forbliver låst)' : 'Relevant — brug som officielt kit og lås det';
+      return \`<div class="kit-contrib-row\${rowCls}">
+        \${compare}
+        \${shirt(row, '', 'kc-' + i)}
+        <span class="kit-contrib-pattern">\${PATTERN_LABELS[row.kit_style ?? 'plain'] ?? row.kit_style}</span>
         <span class="kit-contrib-name">\${row.club_name}</span>
-        \${badge}
+        \${warn}
         <span class="kit-contrib-meta">\${date}</span>
         <div class="kit-contrib-actions">
           \${lock}
-          <button class="kit-icon-btn kit-icon-btn--up\${upActive}" data-action="accepted" \${disabled} title="Relevant — brug i officielle kits" aria-label="Relevant">\${ICON_THUMBS_UP}</button>
-          <button class="kit-icon-btn kit-icon-btn--down" data-action="rejected" \${disabled} title="Ikke relevant — se bort fra bidraget" aria-label="Ikke relevant">\${ICON_THUMBS_DOWN}</button>
+          <button class="kit-icon-btn kit-icon-btn--up\${upActive}" data-action="accepted" title="\${upTitle}" aria-label="Relevant">\${ICON_THUMBS_UP}</button>
+          <button class="kit-icon-btn kit-icon-btn--down" data-action="rejected" title="Ikke relevant — se bort fra bidraget" aria-label="Ikke relevant">\${ICON_THUMBS_DOWN}</button>
         </div>
       </div>\`;
     }).join('');
@@ -1289,7 +1306,7 @@ async function reviewKitContribution(row, status) {
     });
     if (!res.ok) throw new Error(await res.text());
     if (status === 'accepted') await refreshClubs(row.club_name);
-    showToast(status === 'accepted' ? \`Kit brugt for \${row.club_name} ✓\` : \`Bidrag ignoreret for \${row.club_name}\`);
+    showToast(status === 'accepted' ? \`Kit brugt og låst for \${row.club_name} ✓\` : \`Bidrag ignoreret for \${row.club_name}\`);
     loadKitContributions();
   } catch (err) {
     showToast('Fejl: ' + err.message);
@@ -1696,12 +1713,16 @@ const server = http.createServer((req, res) => {
         if (!['accepted', 'rejected'].includes(row.status)) { res.writeHead(400); res.end('Invalid status'); return; }
         const clubs = JSON.parse(fs.readFileSync(CLUBS_PATH, 'utf8'));
         const club  = clubs.find(c => c.name === row.club_name);
-        if (club?.kitLocked) { res.writeHead(409); res.end('Kittet er låst — lås op først'); return; }
+        // Reviewing is a deliberate choice, so it also works on locked kits:
+        // accepting replaces the locked kit, rejecting leaves it as it is.
         if (row.status === 'accepted') {
           if (!club) { res.writeHead(404); res.end('Club not found'); return; }
           if (row.primary_color)   club.primaryColor   = row.primary_color;
           if (row.secondary_color) club.secondaryColor = row.secondary_color;
           if (row.kit_style)       club.kitStyle       = row.kit_style;
+          // An accepted kit is official: lock it so later suggestions stand out
+          // and "Synk bidrag" can't overwrite it.
+          club.kitLocked = true;
           fs.writeFileSync(CLUBS_PATH, JSON.stringify(clubs, null, 2));
         }
         const reviews = readKitReviews();
@@ -1988,11 +2009,21 @@ const server = http.createServer((req, res) => {
           if (seen.has(row.club_name)) return false;
           seen.add(row.club_name);
           return true;
-        }).map(row => ({
-          ...row,
-          review: reviews[kitReviewKey(row)] ?? null,
-          locked: clubs.find(c => c.name === row.club_name)?.kitLocked ?? false,
-        }));
+        }).map(row => {
+          const club = clubs.find(c => c.name === row.club_name);
+          const current = club ? { primary_color: club.primaryColor ?? null, secondary_color: club.secondaryColor ?? null, kit_style: club.kitStyle ?? 'plain' } : null;
+          const U = s => (s ?? '').toUpperCase();
+          return {
+            ...row,
+            review: reviews[kitReviewKey(row)] ?? null,
+            locked: club?.kitLocked ?? false,
+            current,
+            // Whether the suggestion differs from the kit the library has now
+            differs: !!current && (U(row.primary_color) !== U(current.primary_color)
+              || U(row.secondary_color) !== U(current.secondary_color)
+              || (row.kit_style ?? 'plain') !== current.kit_style),
+          };
+        });
         res.writeHead(200, { 'Content-Type': 'application/json' });
         res.end(JSON.stringify(deduped));
       } catch (err) { res.writeHead(500); res.end(err.message); }
